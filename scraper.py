@@ -45,10 +45,14 @@ def scrape():
 
             name = name_el.get_text(strip=True) if name_el else ""
             if price_el:
-                # On sale: use the current/sale price (ins tag), else use regular price
-                sale_el = price_el.select_one("ins .woocommerce-Price-amount, ins bdi")
-                regular_el = price_el.select_one(".woocommerce-Price-amount, bdi")
-                price = (sale_el or regular_el).get_text(strip=True) if (sale_el or regular_el) else price_el.get_text(strip=True)
+                # Strip screen-reader-only spans ("Original price was:", "Current price is:", etc.)
+                for sr in list(price_el.select(".screen-reader-text")):
+                    sr.decompose()
+                # Sale price lives in <ins>, regular price in first .woocommerce-Price-amount
+                sale_el = price_el.select_one("ins .woocommerce-Price-amount")
+                regular_el = price_el.select_one(".woocommerce-Price-amount")
+                target = sale_el or regular_el
+                price = target.get_text(strip=True) if target else price_el.get_text(strip=True)
             else:
                 price = ""
             url_p = link_el["href"] if link_el else ""
