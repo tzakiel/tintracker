@@ -82,7 +82,7 @@
 
 <header>
   <h1>Tin Tracker</h1>
-  <p>Every Saturday at 1 pm ET we capture what's listed at pipestud.com — search the full history below.</p>
+  <p>Tracking tobacco tin prices across the web — search the full catalog below.</p>
 </header>
 
 <main>
@@ -97,8 +97,7 @@
 </main>
 
 <footer>
-  Data collected from <a href="https://www.pipestud.com/products/tobacco-tins/" target="_blank">pipestud.com</a>
-  every Saturday · prices are as listed at time of capture
+  Prices collected every Saturday · as listed at time of capture
 </footer>
 
 <script>
@@ -148,12 +147,13 @@
         <td>${p.url ? `<a href="${p.url}" target="_blank">${p.name}</a>` : p.name}</td>
         <td>${p.price || "—"}</td>
         <td class="date">${fmt(p.last_seen)}</td>
+        <td class="date">${p.source || "—"}</td>
       </tr>
     `).join("");
 
     resultsEl.innerHTML = `
       <table>
-        <thead><tr><th>Product</th><th>Price</th><th>Last Seen</th></tr></thead>
+        <thead><tr><th>Product</th><th>Price</th><th>Last Seen</th><th>Source</th></tr></thead>
         <tbody>${rows}</tbody>
       </table>
     `;
