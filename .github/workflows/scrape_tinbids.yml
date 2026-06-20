@@ -1,13 +1,11 @@
-name: Weekly Scrape
+name: Daily Scrape (Tinbids)
 
 on:
   schedule:
-    # Saturday afternoon ET — a few attempts an hour apart in case Cloudflare
-    # blocks an individual run. The first success updates the data; the guard
-    # in scraper.py keeps a blocked run from wiping anything.
-    - cron: "0 18 * * 6"  # 1pm ET
-    - cron: "0 19 * * 6"  # 2pm ET
-    - cron: "0 20 * * 6"  # 3pm ET
+    # Once per day, with a second attempt an hour later in case the first is
+    # blocked. The guard in scrape_core.py keeps a blocked run from wiping data.
+    - cron: "0 17 * * *"  # 1pm ET
+    - cron: "0 18 * * *"  # 2pm ET
   workflow_dispatch:       # allows manual run from GitHub website
 
 jobs:
@@ -27,13 +25,13 @@ jobs:
         run: pip install cloudscraper beautifulsoup4 lxml requests
 
       - name: Run scraper
-        run: python scraper.py
+        run: python scrape_tinbids.py
 
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/products.json
-          git diff --cached --quiet || git commit -m "Weekly scrape $(date -u '+%Y-%m-%d')"
+          git add docs/products_tinbids.json
+          git diff --cached --quiet || git commit -m "Daily Tinbids scrape $(date -u '+%Y-%m-%d')"
           git pull --rebase --autostash origin main
           git push
