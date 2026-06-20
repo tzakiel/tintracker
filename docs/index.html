@@ -61,6 +61,32 @@
     .dd-item:hover, .dd-item.active { background: #f0e8d8; }
     .dd-item span { font-size: .78rem; color: #8a6a4a; margin-left: .5rem; }
 
+    /* ── source filter chips ── */
+    #source-filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .5rem;
+      margin-bottom: 1.1rem;
+    }
+    .chip {
+      padding: .35rem .85rem;
+      font: inherit;
+      font-size: .82rem;
+      border: 2px solid #b89060;
+      border-radius: 999px;
+      background: #fffdf8;
+      color: #8a6a4a;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: background .12s, color .12s, border-color .12s;
+    }
+    .chip:hover { border-color: #7a4a1a; }
+    .chip.on {
+      background: #7a4a1a;
+      border-color: #7a4a1a;
+      color: #f5e8c8;
+    }
+
     #status { color: #7a4a1a; font-style: italic; margin-bottom: .9rem; min-height: 1.4em; font-size: .9rem; }
     #meta   { color: #8a6a4a; font-size: .78rem; margin-bottom: 1rem; font-style: italic; }
 
@@ -211,6 +237,7 @@
     <input id="q" type="text" placeholder="Search by product name…" autocomplete="off" />
     <div id="dropdown"></div>
   </div>
+  <div id="source-filters"></div>
   <div id="meta"></div>
   <div id="status">Loading catalog…</div>
   <div id="results"></div>
@@ -232,6 +259,7 @@
 <script>
   let ALL_PRODUCTS = [];
   let RECENT_PRODUCTS = [];
+  let ACTIVE_SOURCES = new Set();   // sources currently shown (empty = none)
   let activeIdx = -1;
   let lastListState = null; // remembers what was showing before detail
 
@@ -319,8 +347,45 @@
     });
   }
 
-  function showRecent() {
-    renderTable(RECENT_PRODUCTS, `${RECENT_PRODUCTS.length} tins currently listed across all sources`);
+  function bySource(list) {
+    return list.filter(p => ACTIVE_SOURCES.has(p.source));
+  }
+
+  // Render whatever the current state calls for: search results if there's a
+  // query, otherwise the recent list — always filtered by the active sources.
+  function render() {
+    const q = qEl.value.trim().toLowerCase();
+    const allOn = ACTIVE_SOURCES.size === [...new Set(ALL_PRODUCTS.map(p => p.source))].length;
+
+    if (!q) {
+      const list = bySource(RECENT_PRODUCTS);
+      renderTable(list, `${list.length} tins currently listed${allOn ? " across all sources" : ""}`);
+      return;
+    }
+    const list = bySource(ALL_PRODUCTS).filter(p => p.name.toLowerCase().includes(q));
+    renderTable(list, list.length
+      ? `${list.length} result${list.length === 1 ? "" : "s"} for "${qEl.value.trim()}"`
+      : `No results for "${qEl.value.trim()}".`
+    );
+  }
+
+  function buildSourceFilters() {
+    const sources = [...new Set(ALL_PRODUCTS.map(p => p.source).filter(Boolean))].sort();
+    ACTIVE_SOURCES = new Set(sources);  // all on by default
+    const wrap = document.getElementById("source-filters");
+    wrap.innerHTML = "";
+    sources.forEach(src => {
+      const btn = document.createElement("button");
+      btn.className = "chip on";
+      btn.textContent = src;
+      btn.addEventListener("click", () => {
+        if (ACTIVE_SOURCES.has(src)) ACTIVE_SOURCES.delete(src);
+        else ACTIVE_SOURCES.add(src);
+        btn.classList.toggle("on");
+        render();
+      });
+      wrap.appendChild(btn);
+    });
   }
 
   /* ── dropdown ── */
@@ -346,13 +411,9 @@
 
   qEl.addEventListener("input", () => {
     const q = qEl.value.trim().toLowerCase();
-    if (!q) { closeDropdown(); showRecent(); return; }
-    const matches = ALL_PRODUCTS.filter(p => p.name.toLowerCase().includes(q));
-    openDropdown(matches);
-    renderTable(matches, matches.length
-      ? `${matches.length} result${matches.length === 1 ? "" : "s"} for "${qEl.value.trim()}"`
-      : `No results for "${qEl.value.trim()}".`
-    );
+    if (!q) { closeDropdown(); render(); return; }
+    openDropdown(bySource(ALL_PRODUCTS).filter(p => p.name.toLowerCase().includes(q)));
+    render();
   });
 
   qEl.addEventListener("keydown", e => {
@@ -409,7 +470,8 @@
 
     const newest = scrapeDates.sort().reverse()[0];
     metaEl.textContent = `${ALL_PRODUCTS.length} products across ${scrapeDates.length} source${scrapeDates.length === 1 ? "" : "s"} · last updated ${newest ? fmt(newest) : "never"}`;
-    showRecent();
+    buildSourceFilters();
+    render();
   }
 
   loadData();
