@@ -3,10 +3,17 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 import json
 import os
+import sys
+import time
 
 BASE_URL = "https://www.pipestud.com/products/tobacco-tins/"
 SOURCE = "pipestud.com"
 DATA_FILE = os.path.join(os.path.dirname(__file__), "docs", "products.json")
+
+# Cloudflare blocking is intermittent from datacenter IPs, so retry the whole
+# scrape several times with fresh sessions before giving up.
+MAX_ATTEMPTS = 6
+RETRY_WAIT_SECONDS = 20
 
 
 def load_existing():
@@ -22,8 +29,8 @@ def save(data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def scrape():
-    now = datetime.now(timezone.utc).isoformat()
+def fetch_all_products():
+    """One full attempt: walk every page once. Returns a list (may be empty if blocked)."""
     session = cloudscraper.create_scraper()
     found = []
     page = 1
@@ -36,6 +43,12 @@ def scrape():
 
         items = soup.select("li.product")
         if not items:
+            # Diagnostic: detect a Cloudflare challenge / block page so CI logs are clear
+            body = resp.text.lower()
+            if page == 1 and ("just a moment" in body or "cf-challenge" in body
+                              or "challenge-platform" in body or "enable javascript" in body):
+                print(f"[scraper] blocked: page {page} returned a Cloudflare challenge "
+                      f"(HTTP {resp.status_code}, {len(resp.text)} bytes), 0 products parsed.")
             break
 
         for item in items:
@@ -64,7 +77,38 @@ def scrape():
             break
         page += 1
 
+    return found
+
+
+def scrape():
+    now = datetime.now(timezone.utc).isoformat()
+
+    # Retry the whole scrape — Cloudflare blocking is intermittent, so a fresh
+    # session a few seconds later often gets through.
+    found = []
+    for attempt in range(1, MAX_ATTEMPTS + 1):
+        try:
+            found = fetch_all_products()
+        except Exception as e:
+            print(f"[scraper] attempt {attempt}/{MAX_ATTEMPTS} error: {e}")
+            found = []
+        if found:
+            print(f"[scraper] attempt {attempt}/{MAX_ATTEMPTS} succeeded: {len(found)} products.")
+            break
+        if attempt < MAX_ATTEMPTS:
+            print(f"[scraper] attempt {attempt}/{MAX_ATTEMPTS} found 0 — retrying in {RETRY_WAIT_SECONDS}s…")
+            time.sleep(RETRY_WAIT_SECONDS)
+
     data = load_existing()
+
+    # Guard: a scrape that finds nothing is almost always a block or an outage,
+    # NOT the store going empty. Never let it wipe the last good catalog.
+    if not found:
+        print("[scraper] ERROR: 0 products found — keeping previous data unchanged. "
+              "This usually means the request was blocked. Not committing an empty catalog.",
+              file=sys.stderr)
+        sys.exit(1)
+
     existing = {p["name"]: p for p in data["products"]}
 
     for p in found:
