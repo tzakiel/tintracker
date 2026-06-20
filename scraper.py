@@ -75,6 +75,7 @@ def scrape():
 
     data["products"] = sorted(existing.values(), key=lambda x: x["last_seen"], reverse=True)
     data["last_scraped"] = now
+    data["last_scrape_names"] = [p["name"] for p in found]
     save(data)
     print(f"Scraped {len(found)} products. Total in catalog: {len(data['products'])}")
     return data
