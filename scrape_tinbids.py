@@ -38,7 +38,8 @@ MAX_ATTEMPTS = 4            # whole-scrape retries (used only on a total block)
 RETRY_WAIT_SECONDS = 20
 PAGE_DELAY = 1.2            # politeness between pages — avoids 503 rate-limiting
 PAGE_RETRIES = 4           # per-page retries on transient 503/timeout
-MAX_REVISITS_PER_RUN = 120  # bound runtime; overdue leftovers wait for next run
+MAX_REVISITS_PER_RUN = 300  # bound runtime; comfortably above the ~140/day peak
+                            # of endings, so a day's auctions all harvest same-run
 
 
 def _page_url(n):
@@ -202,7 +203,8 @@ def main():
     # ── Revisit ended listings. A listing only becomes a "Tinbids Auction"
     #    record if it ended WITH bids (sold via bidding). If it ended via
     #    Buy-It-Now / expired (0 bids), we leave it as-is — a BIN item stays BIN.
-    due = [p for p in pending.values() if is_due(p)][:MAX_REVISITS_PER_RUN]
+    due = sorted((p for p in pending.values() if is_due(p)),
+                 key=lambda p: p["date_end"] or "")[:MAX_REVISITS_PER_RUN]
     auction_found = []
     if due and session is None:
         session = cloudscraper.create_scraper()
