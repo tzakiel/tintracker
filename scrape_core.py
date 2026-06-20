@@ -62,7 +62,20 @@ def run(source, fetch_fn, data_file,
               file=sys.stderr)
         sys.exit(1)
 
-    existing = {p["name"]: p for p in data["products"]}
+    merge_products(data, found, now)
+    save(data, data_file)
+    print(f"[{source}] Scraped {len(found)} products. Total in catalog: {len(data['products'])}")
+    return data
+
+
+def merge_products(data, found, now, latest=None):
+    """Merge a list of scraped items into `data`, tracking price history.
+
+    Each item is keyed by name. `latest` controls what the homepage shows as
+    the current snapshot (defaults to everything found this run); pass an
+    explicit list for sources where "currently listed" differs from "found".
+    """
+    existing = {p["name"]: p for p in data.get("products", [])}
 
     for p in found:
         if p["name"] in existing:
@@ -88,8 +101,7 @@ def run(source, fetch_fn, data_file,
 
     data["products"] = sorted(existing.values(), key=lambda x: x["last_seen"], reverse=True)
     data["last_scraped"] = now
-    # Full snapshot of this scrape — homepage reads this directly, no matching needed
-    data["latest_scrape"] = [existing[p["name"]] for p in found]
-    save(data, data_file)
-    print(f"[{source}] Scraped {len(found)} products. Total in catalog: {len(data['products'])}")
+    if latest is None:
+        latest = found
+    data["latest_scrape"] = [existing[p["name"]] for p in latest if p["name"] in existing]
     return data
