@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tin Tracker</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: Georgia, serif;
+      background: #f5f0e8;
+      color: #2c2015;
+      min-height: 100vh;
+    }
+
+    /* ── header ── */
+    header {
+      background: #3b2408;
+      color: #f5e8c8;
+      padding: 1.25rem 1.5rem;
+      text-align: center;
+    }
+    header h1 { font-size: 1.6rem; letter-spacing: .04em; }
+    header p  { margin-top: .35rem; font-size: .85rem; color: #c9a96e; }
+
+    /* ── layout ── */
+    #main-view, #detail-view { max-width: 900px; margin: 2rem auto; padding: 0 1rem; }
+    #detail-view { display: none; }
+
+    /* ── search ── */
+    .search-wrap { position: relative; margin-bottom: 1.5rem; }
+    .search-wrap input {
+      width: 100%;
+      padding: .7rem 1rem;
+      font-size: 1rem;
+      border: 2px solid #b89060;
+      border-radius: 6px;
+      background: #fffdf8;
+      color: #2c2015;
+      outline: none;
+    }
+    .search-wrap input:focus { border-color: #7a4a1a; }
+
+    #dropdown {
+      display: none;
+      position: absolute;
+      top: calc(100% + 4px);
+      left: 0; right: 0;
+      background: #fffdf8;
+      border: 2px solid #b89060;
+      border-radius: 6px;
+      box-shadow: 0 4px 12px rgba(0,0,0,.15);
+      max-height: 260px;
+      overflow-y: auto;
+      z-index: 100;
+    }
+    #dropdown.open { display: block; }
+    .dd-item { padding: .55rem 1rem; cursor: pointer; font-size: .9rem; border-bottom: 1px solid #e8dcc8; }
+    .dd-item:last-child { border-bottom: none; }
+    .dd-item:hover, .dd-item.active { background: #f0e8d8; }
+    .dd-item span { font-size: .78rem; color: #8a6a4a; margin-left: .5rem; }
+
+    /* ── source filter chips ── */
+    #source-filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .5rem;
+      margin-bottom: 1.1rem;
+    }
+    .chip {
+      padding: .35rem .85rem;
+      font: inherit;
+      font-size: .82rem;
+      border: 2px solid #b89060;
+      border-radius: 999px;
+      background: #fffdf8;
+      color: #8a6a4a;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: background .12s, color .12s, border-color .12s;
+    }
+    .chip:hover { border-color: #7a4a1a; }
+    .chip.on {
+      background: #7a4a1a;
+      border-color: #7a4a1a;
+      color: #f5e8c8;
+    }
+
+    #status { color: #7a4a1a; font-style: italic; margin-bottom: .9rem; min-height: 1.4em; font-size: .9rem; }
+    #meta   { color: #8a6a4a; font-size: .78rem; margin-bottom: 1rem; font-style: italic; }
+
+    /* ── desktop table ── */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: #fffdf8;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 2px 8px rgba(0,0,0,.12);
+    }
+    thead { background: #3b2408; color: #f5e8c8; }
+    thead th { padding: .7rem 1rem; text-align: left; font-size: .8rem; letter-spacing: .06em; text-transform: uppercase; }
+    tbody tr { cursor: pointer; }
+    tbody tr:nth-child(even) { background: #f0e8d8; }
+    tbody tr:hover { background: #e8d8c0; }
+    tbody td { padding: .65rem 1rem; font-size: .9rem; vertical-align: middle; }
+    .col-name {
+      max-width: 340px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      color: #7a4a1a;
+    }
+    .col-price { white-space: nowrap; }
+    .col-meta  { font-size: .78rem; color: #8a6a4a; white-space: nowrap; }
+
+    /* ── mobile cards ── */
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.3rem; }
+
+      table, thead, tbody, tr, td { display: block; }
+      thead { display: none; }
+
+      /* the table itself is just a layout container on mobile — only the cards show */
+      table {
+        background: transparent;
+        box-shadow: none;
+        border-radius: 0;
+      }
+
+      tbody tr {
+        background: #fffdf8;
+        border-radius: 8px;
+        margin-bottom: .75rem;
+        padding: .75rem 1rem;
+        box-shadow: 0 1px 5px rgba(0,0,0,.1);
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        gap: .75rem;
+        cursor: pointer;
+      }
+      tbody tr:nth-child(even) { background: #fffdf8; }
+      tbody tr:hover { background: #f0e8d8; }
+
+      .col-name {
+        flex: 1;
+        white-space: normal;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 4;
+        -webkit-box-orient: vertical;
+        text-overflow: ellipsis;
+        max-width: none;
+        font-size: .9rem;
+        color: #7a4a1a;
+      }
+      .col-price {
+        font-size: .9rem;
+        font-weight: bold;
+        flex-shrink: 0;
+        text-align: right;
+      }
+      .col-meta { display: none; }
+    }
+
+    /* ── detail page ── */
+    .back-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: .35rem;
+      background: none;
+      border: none;
+      color: #7a4a1a;
+      font: inherit;
+      font-size: .9rem;
+      cursor: pointer;
+      padding: 0;
+      margin-bottom: 1.5rem;
+    }
+    .back-btn:hover { color: #3b2408; }
+    .back-btn svg { width: 14px; height: 14px; }
+
+    .detail-card {
+      background: #fffdf8;
+      border-radius: 10px;
+      padding: 1.5rem 1.75rem;
+      box-shadow: 0 2px 10px rgba(0,0,0,.12);
+    }
+    .detail-name {
+      font-size: 1.2rem;
+      color: #3b2408;
+      line-height: 1.4;
+      margin-bottom: 1.25rem;
+    }
+    .detail-meta {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: .4rem 1.25rem;
+      font-size: .9rem;
+      margin-bottom: 1.5rem;
+      align-items: baseline;
+    }
+    .detail-meta .lbl { color: #8a6a4a; font-size: .78rem; text-transform: uppercase; letter-spacing: .05em; }
+    .detail-meta .val { color: #2c2015; }
+    .detail-meta a { color: #7a4a1a; }
+    .detail-price { font-size: 1.4rem; font-weight: bold; color: #2c2015; }
+
+    .detail-section-title {
+      font-size: .78rem;
+      text-transform: uppercase;
+      letter-spacing: .07em;
+      color: #8a6a4a;
+      margin: 1.5rem 0 .6rem;
+      border-top: 1px solid #e8dcc8;
+      padding-top: 1rem;
+    }
+    .history-table { box-shadow: none; border-radius: 6px; overflow: hidden; }
+    .history-table thead { background: #5c3510; }
+    .history-table td, .history-table th { padding: .5rem .85rem; font-size: .85rem; }
+
+    /* ── footer ── */
+    footer { text-align: center; padding: 2rem 1rem; color: #8a6a4a; font-size: .78rem; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Tin Tracker</h1>
+  <p>Tracking tobacco tin prices across the web — search the full catalog below.</p>
+</header>
+
+<!-- Main list view -->
+<div id="main-view">
+  <div class="search-wrap">
+    <input id="q" type="text" placeholder="Search by product name…" autocomplete="off" />
+    <div id="dropdown"></div>
+  </div>
+  <div id="source-filters"></div>
+  <div id="meta"></div>
+  <div id="status">Loading catalog…</div>
+  <div id="results"></div>
+</div>
+
+<!-- Detail view -->
+<div id="detail-view">
+  <button class="back-btn" id="back-btn">
+    <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" xmlns="http://www.w3.org/2000/svg">
+      <polyline points="10,3 5,8 10,13"/>
+    </svg>
+    Back
+  </button>
+  <div id="detail-content"></div>
+</div>
+
+<footer>Prices collected automatically. ALPHA release - Expect bugs, inaccuracies.</footer>
+
+<script>
+  let ALL_PRODUCTS = [];
+  let RECENT_PRODUCTS = [];
+  let ACTIVE_SOURCES = new Set();   // sources currently shown (empty = none)
+  let activeIdx = -1;
+  let lastListState = null; // remembers what was showing before detail
+
+  const qEl       = document.getElementById("q");
+  const dropEl    = document.getElementById("dropdown");
+  const statusEl  = document.getElementById("status");
+  const resultsEl = document.getElementById("results");
+  const metaEl    = document.getElementById("meta");
+  const mainView  = document.getElementById("main-view");
+  const detailView= document.getElementById("detail-view");
+  const detailContent = document.getElementById("detail-content");
+
+  document.getElementById("back-btn").addEventListener("click", showMain);
+  window.addEventListener("popstate", () => { if (detailView.style.display !== "none") showMain(false); });
+
+  /* ── formatting ── */
+  function fmt(iso) {
+    if (!iso) return "—";
+    return new Date(iso).toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric" });
+  }
+
+  /* ── detail page ── */
+  function showDetail(p) {
+    history.pushState({ detail: p.name }, "", "");
+
+    const hist = (p.price_history || []).slice().reverse();
+    const histSection = hist.length > 1 ? `
+      <div class="detail-section-title">Price History</div>
+      <table class="history-table">
+        <thead><tr><th>Date</th><th>Price</th></tr></thead>
+        <tbody>${hist.map(h => `<tr><td>${fmt(h.date)}</td><td>${h.price}</td></tr>`).join("")}</tbody>
+      </table>` : "";
+
+    detailContent.innerHTML = `
+      <div class="detail-card">
+        <div class="detail-name">${p.name}</div>
+        <div class="detail-meta">
+          <span class="lbl">Price</span>
+          <span class="val detail-price">${p.price || "—"}</span>
+          <span class="lbl">Last seen</span>
+          <span class="val">${fmt(p.last_seen)}</span>
+          <span class="lbl">Source</span>
+          <span class="val">${p.url
+            ? `<a href="${p.url}" target="_blank" rel="noopener">${p.source || p.url}</a>`
+            : (p.source || "—")}</span>
+        </div>
+        ${histSection}
+      </div>`;
+
+    mainView.style.display = "none";
+    detailView.style.display = "block";
+    window.scrollTo(0, 0);
+  }
+
+  function showMain(pushState = true) {
+    if (pushState) history.back();
+    mainView.style.display = "";
+    detailView.style.display = "none";
+    window.scrollTo(0, 0);
+  }
+
+  /* ── table / cards ── */
+  function renderTable(products, label) {
+    statusEl.textContent = label || "";
+    if (!products.length) {
+      resultsEl.innerHTML = "";
+      return;
+    }
+    const rows = products.map((p, i) => `
+      <tr data-i="${i}" data-ctx="${encodeURIComponent(JSON.stringify(p))}">
+        <td class="col-name">${p.name}</td>
+        <td class="col-price">${p.price || "—"}</td>
+        <td class="col-meta">${fmt(p.last_seen)}</td>
+        <td class="col-meta">${p.source || "—"}</td>
+      </tr>`).join("");
+
+    resultsEl.innerHTML = `
+      <table>
+        <thead><tr><th>Product</th><th>Price</th><th>Last Seen</th><th>Source</th></tr></thead>
+        <tbody>${rows}</tbody>
+      </table>`;
+
+    resultsEl.querySelectorAll("tbody tr").forEach((tr, i) => {
+      tr.addEventListener("click", () => showDetail(products[i]));
+    });
+  }
+
+  function bySource(list) {
+    return list.filter(p => ACTIVE_SOURCES.has(p.source));
+  }
+
+  // Render whatever the current state calls for: search results if there's a
+  // query, otherwise the recent list — always filtered by the active sources.
+  function render() {
+    const q = qEl.value.trim().toLowerCase();
+
+    if (!q) {
+      renderTable(bySource(RECENT_PRODUCTS), "");
+      return;
+    }
+    const list = bySource(ALL_PRODUCTS).filter(p => p.name.toLowerCase().includes(q));
+    renderTable(list, list.length
+      ? `${list.length} result${list.length === 1 ? "" : "s"} for "${qEl.value.trim()}"`
+      : `No results for "${qEl.value.trim()}".`
+    );
+  }
+
+  function buildSourceFilters() {
+    const sources = [...new Set(ALL_PRODUCTS.map(p => p.source).filter(Boolean))].sort();
+    ACTIVE_SOURCES = new Set(sources);  // all on by default
+    const wrap = document.getElementById("source-filters");
+    wrap.innerHTML = "";
+    sources.forEach(src => {
+      const btn = document.createElement("button");
+      btn.className = "chip on";
+      btn.textContent = src;
+      btn.addEventListener("click", () => {
+        if (ACTIVE_SOURCES.has(src)) ACTIVE_SOURCES.delete(src);
+        else ACTIVE_SOURCES.add(src);
+        btn.classList.toggle("on");
+        render();
+      });
+      wrap.appendChild(btn);
+    });
+  }
+
+  /* ── dropdown ── */
+  function openDropdown(matches) {
+    activeIdx = -1;
+    if (!matches.length) { dropEl.className = ""; dropEl.innerHTML = ""; return; }
+    dropEl.innerHTML = matches.slice(0, 20).map((p, i) =>
+      `<div class="dd-item" data-i="${i}">${p.name}<span>${p.price || ""}</span></div>`
+    ).join("");
+    dropEl.className = "open";
+    dropEl.querySelectorAll(".dd-item").forEach((el, i) => {
+      el.addEventListener("mousedown", e => { e.preventDefault(); selectProduct(matches[i]); });
+    });
+  }
+
+  function closeDropdown() { dropEl.className = ""; dropEl.innerHTML = ""; activeIdx = -1; }
+
+  function selectProduct(p) {
+    qEl.value = p.name;
+    closeDropdown();
+    renderTable([p], "");
+  }
+
+  qEl.addEventListener("input", () => {
+    const q = qEl.value.trim().toLowerCase();
+    if (!q) { closeDropdown(); render(); return; }
+    openDropdown(bySource(ALL_PRODUCTS).filter(p => p.name.toLowerCase().includes(q)));
+    render();
+  });
+
+  qEl.addEventListener("keydown", e => {
+    const items = dropEl.querySelectorAll(".dd-item");
+    if (!items.length) return;
+    if (e.key === "ArrowDown") {
+      e.preventDefault();
+      items[activeIdx]?.classList.remove("active");
+      activeIdx = Math.min(activeIdx + 1, items.length - 1);
+      items[activeIdx].classList.add("active");
+      items[activeIdx].scrollIntoView({ block: "nearest" });
+    } else if (e.key === "ArrowUp") {
+      e.preventDefault();
+      items[activeIdx]?.classList.remove("active");
+      activeIdx = Math.max(activeIdx - 1, 0);
+      items[activeIdx].classList.add("active");
+      items[activeIdx].scrollIntoView({ block: "nearest" });
+    } else if (e.key === "Enter" && activeIdx >= 0) {
+      e.preventDefault();
+      items[activeIdx].dispatchEvent(new MouseEvent("mousedown"));
+    } else if (e.key === "Escape") {
+      closeDropdown();
+    }
+  });
+
+  qEl.addEventListener("blur", () => setTimeout(closeDropdown, 150));
+
+  /* ── load ── */
+  // Each source writes its own file; add new sources here.
+  const SOURCE_FILES = ["products.json", "products_tinbids.json", "products_treasuredsmokes.json"];
+
+  async function loadData() {
+    const datasets = await Promise.all(SOURCE_FILES.map(f =>
+      fetch(f).then(r => r.ok ? r.json() : null).catch(() => null)
+    ));
+
+    let products = [], recent = [];
+    for (const data of datasets) {
+      if (!data) continue;
+      products = products.concat(data.products || []);
+      recent = recent.concat(data.latest_scrape || []);
+    }
+
+    const byName = (a, b) => (a.name || "").localeCompare(b.name || "", "en", { sensitivity: "base" });
+    ALL_PRODUCTS = products.sort(byName);
+    RECENT_PRODUCTS = recent.sort(byName);
+
+    if (!ALL_PRODUCTS.length) {
+      statusEl.textContent = "Could not load catalog. Please try refreshing.";
+      return;
+    }
+
+    metaEl.textContent = "Price history for resale tobacco tins.";
+    buildSourceFilters();
+    render();
+  }
+
+  loadData();
+</script>
+
+</body>
+</html>
