@@ -2,9 +2,9 @@ name: Weekly Scrape
 
 on:
   schedule:
-    # TEMPORARY: every ~22 min to prove scheduled scraping works.
-    # REVERT to "17 18/19/20 * * 6" (Saturday only) when done testing.
-    - cron: "*/22 * * * *"
+    # TEMPORARY: once/hour at :08 (off-peak, away from :00 congestion) to prove
+    # scheduled scraping works. REVERT to "17 18/19/20 * * 6" (Saturday) after.
+    - cron: "8 * * * *"
   workflow_dispatch:       # allows manual run from GitHub website
 
 jobs:
