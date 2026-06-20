@@ -1,36 +1,21 @@
+"""Pipestud source — scrapes tobacco tins from pipestud.com (WooCommerce).
+
+Runs weekly. Writes docs/products.json. Shared logic lives in scrape_core.py.
+"""
+import os
+
 import cloudscraper
 from bs4 import BeautifulSoup
-from datetime import datetime, timezone
-import json
-import os
-import sys
-import time
+
+import scrape_core
 
 BASE_URL = "https://www.pipestud.com/products/tobacco-tins/"
 SOURCE = "pipestud.com"
 DATA_FILE = os.path.join(os.path.dirname(__file__), "docs", "products.json")
 
-# Cloudflare blocking is intermittent from datacenter IPs, so retry the whole
-# scrape several times with fresh sessions before giving up.
-MAX_ATTEMPTS = 6
-RETRY_WAIT_SECONDS = 20
 
-
-def load_existing():
-    if os.path.exists(DATA_FILE):
-        with open(DATA_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return {"products": [], "last_scraped": None}
-
-
-def save(data):
-    os.makedirs(os.path.dirname(DATA_FILE), exist_ok=True)
-    with open(DATA_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-
-
-def fetch_all_products():
-    """One full attempt: walk every page once. Returns a list (may be empty if blocked)."""
+def fetch():
+    """One full attempt: walk every page once. Returns a list (empty if blocked)."""
     session = cloudscraper.create_scraper()
     found = []
     page = 1
@@ -43,11 +28,10 @@ def fetch_all_products():
 
         items = soup.select("li.product")
         if not items:
-            # Diagnostic: detect a Cloudflare challenge / block page so CI logs are clear
             body = resp.text.lower()
             if page == 1 and ("just a moment" in body or "cf-challenge" in body
                               or "challenge-platform" in body or "enable javascript" in body):
-                print(f"[scraper] blocked: page {page} returned a Cloudflare challenge "
+                print(f"[pipestud.com] blocked: page {page} returned a Cloudflare challenge "
                       f"(HTTP {resp.status_code}, {len(resp.text)} bytes), 0 products parsed.")
             break
 
@@ -80,69 +64,5 @@ def fetch_all_products():
     return found
 
 
-def scrape():
-    now = datetime.now(timezone.utc).isoformat()
-
-    # Retry the whole scrape — Cloudflare blocking is intermittent, so a fresh
-    # session a few seconds later often gets through.
-    found = []
-    for attempt in range(1, MAX_ATTEMPTS + 1):
-        try:
-            found = fetch_all_products()
-        except Exception as e:
-            print(f"[scraper] attempt {attempt}/{MAX_ATTEMPTS} error: {e}")
-            found = []
-        if found:
-            print(f"[scraper] attempt {attempt}/{MAX_ATTEMPTS} succeeded: {len(found)} products.")
-            break
-        if attempt < MAX_ATTEMPTS:
-            print(f"[scraper] attempt {attempt}/{MAX_ATTEMPTS} found 0 — retrying in {RETRY_WAIT_SECONDS}s…")
-            time.sleep(RETRY_WAIT_SECONDS)
-
-    data = load_existing()
-
-    # Guard: a scrape that finds nothing is almost always a block or an outage,
-    # NOT the store going empty. Never let it wipe the last good catalog.
-    if not found:
-        print("[scraper] ERROR: 0 products found — keeping previous data unchanged. "
-              "This usually means the request was blocked. Not committing an empty catalog.",
-              file=sys.stderr)
-        sys.exit(1)
-
-    existing = {p["name"]: p for p in data["products"]}
-
-    for p in found:
-        if p["name"] in existing:
-            ex = existing[p["name"]]
-            # Initialize history from old data if not present
-            if "price_history" not in ex:
-                ex["price_history"] = [{"price": ex["price"], "date": ex.get("first_seen", now)}]
-            # Record price change
-            if ex["price"] != p["price"]:
-                ex["price_history"].append({"price": p["price"], "date": now})
-            ex["price"] = p["price"]
-            ex["url"] = p["url"]
-            ex["source"] = p["source"]
-            ex["last_seen"] = now
-        else:
-            existing[p["name"]] = {
-                "name": p["name"],
-                "price": p["price"],
-                "url": p["url"],
-                "source": p["source"],
-                "first_seen": now,
-                "last_seen": now,
-                "price_history": [{"price": p["price"], "date": now}],
-            }
-
-    data["products"] = sorted(existing.values(), key=lambda x: x["last_seen"], reverse=True)
-    data["last_scraped"] = now
-    # Full snapshot of this scrape — homepage reads this directly, no matching needed
-    data["latest_scrape"] = [existing[p["name"]] for p in found]
-    save(data)
-    print(f"Scraped {len(found)} products. Total in catalog: {len(data['products'])}")
-    return data
-
-
 if __name__ == "__main__":
-    scrape()
+    scrape_core.run(SOURCE, fetch, DATA_FILE)
