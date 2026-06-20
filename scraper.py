@@ -5,6 +5,7 @@ import json
 import os
 
 BASE_URL = "https://www.pipestud.com/products/tobacco-tins/"
+SOURCE = "pipestud.com"
 DATA_FILE = os.path.join(os.path.dirname(__file__), "docs", "products.json")
 
 
@@ -47,7 +48,7 @@ def scrape():
             url_p = link_el["href"] if link_el else ""
 
             if name:
-                found.append({"name": name, "price": price, "url": url_p})
+                found.append({"name": name, "price": price, "url": url_p, "source": SOURCE})
 
         if not soup.select_one("a.next.page-numbers"):
             break
@@ -60,12 +61,14 @@ def scrape():
         if p["name"] in existing:
             existing[p["name"]]["price"] = p["price"]
             existing[p["name"]]["url"] = p["url"]
+            existing[p["name"]]["source"] = p["source"]
             existing[p["name"]]["last_seen"] = now
         else:
             existing[p["name"]] = {
                 "name": p["name"],
                 "price": p["price"],
                 "url": p["url"],
+                "source": p["source"],
                 "first_seen": now,
                 "last_seen": now,
             }
