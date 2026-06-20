@@ -12,8 +12,11 @@
 
     body {
       font-family: "Work Sans", Helvetica, Arial, sans-serif;
-      background: #f5f0e8;
-      color: #2c2015;
+      /* cozy café "tablecloth" — soft dot grid on warm cream */
+      background-color: #f7f1e5;
+      background-image: radial-gradient(rgba(180,142,96,.13) 1.5px, transparent 1.6px);
+      background-size: 22px 22px;
+      color: #3a2a1c;
       min-height: 100vh;
     }
 
@@ -25,13 +28,20 @@
 
     /* ── header ── */
     header {
-      background: #3b2408;
+      background: #5a3a24;            /* warm espresso, softer than near-black */
       color: #f5e8c8;
-      padding: 1.25rem 1.5rem;
+      padding: 1.4rem 1.5rem 1.6rem;
       text-align: center;
+      border-radius: 0 0 28px 28px;   /* rounded "café sign" */
+      box-shadow: 0 6px 18px rgba(90,58,36,.28);
     }
-    header h1 { font-size: 1.6rem; letter-spacing: .04em; }
-    header p  { margin-top: .35rem; font-size: .85rem; color: #c9a96e; }
+    header h1 { font-size: 1.7rem; letter-spacing: .03em; }
+    header p  { margin-top: .35rem; font-size: .85rem; color: #e6c79c; }
+    header p.coffee { margin-top: .6rem; font-size: .8rem; color: #e6c79c; }
+    header p.coffee a { color: #ffe9c2; text-decoration: underline; text-underline-offset: 2px; }
+    header p.coffee a:hover { color: #fff; }
+    header p.coffee a svg { width: 1.05em; height: 1.05em; vertical-align: -.2em; margin-left: .3em; }
+
 
     /* ── layout ── */
     #main-view, #detail-view { max-width: 1400px; margin: 2rem auto; padding: 0 1.5rem; }
@@ -41,25 +51,27 @@
     .search-wrap { position: relative; margin-bottom: 1.5rem; }
     .search-wrap input {
       width: 100%;
-      padding: .7rem 1rem;
+      padding: .75rem 1.15rem;
       font-size: 1rem;
-      border: 2px solid #b89060;
-      border-radius: 6px;
+      border: 2px solid #d8b483;
+      border-radius: 999px;            /* soft pill */
       background: #fffdf8;
-      color: #2c2015;
+      color: #3a2a1c;
       outline: none;
+      box-shadow: 0 2px 6px rgba(90,58,36,.08);
     }
-    .search-wrap input:focus { border-color: #7a4a1a; }
+    .search-wrap input::placeholder { color: #b89a78; }
+    .search-wrap input:focus { border-color: #cf8a73; box-shadow: 0 0 0 3px rgba(207,138,115,.18); }
 
     #dropdown {
       display: none;
       position: absolute;
-      top: calc(100% + 4px);
+      top: calc(100% + 6px);
       left: 0; right: 0;
       background: #fffdf8;
-      border: 2px solid #b89060;
-      border-radius: 6px;
-      box-shadow: 0 4px 12px rgba(0,0,0,.15);
+      border: 2px solid #d8b483;
+      border-radius: 16px;
+      box-shadow: 0 8px 20px rgba(90,58,36,.18);
       max-height: 260px;
       overflow-y: auto;
       z-index: 100;
@@ -78,22 +90,22 @@
       margin-bottom: 1.1rem;
     }
     .chip {
-      padding: .35rem .85rem;
+      padding: .38rem .9rem;
       font: inherit;
       font-size: .82rem;
-      border: 2px solid #b89060;
+      border: 2px solid #d8b483;
       border-radius: 999px;
       background: #fffdf8;
-      color: #8a6a4a;
+      color: #9b7b5a;
       cursor: pointer;
       white-space: nowrap;
       transition: background .12s, color .12s, border-color .12s;
     }
-    .chip:hover { border-color: #7a4a1a; }
+    .chip:hover { border-color: #cf8a73; color: #b06a50; }
     .chip.on {
-      background: #7a4a1a;
-      border-color: #7a4a1a;
-      color: #f5e8c8;
+      background: #cf8a73;            /* dusty-rose accent when active */
+      border-color: #cf8a73;
+      color: #fff;
     }
 
     #status { color: #7a4a1a; font-style: italic; margin-bottom: .9rem; min-height: 1.4em; font-size: .9rem; }
@@ -104,15 +116,15 @@
       width: 100%;
       border-collapse: collapse;
       background: #fffdf8;
-      border-radius: 8px;
+      border-radius: 16px;
       overflow: hidden;
-      box-shadow: 0 2px 8px rgba(0,0,0,.12);
+      box-shadow: 0 4px 14px rgba(90,58,36,.12);
     }
-    thead { background: #3b2408; color: #f5e8c8; }
-    thead th { padding: .7rem 1rem; text-align: left; font-size: .8rem; letter-spacing: .06em; text-transform: uppercase; }
+    thead { background: #5a3a24; color: #f5e8c8; }
+    thead th { padding: .75rem 1rem; text-align: left; font-size: .8rem; letter-spacing: .06em; text-transform: uppercase; }
     tbody tr { cursor: pointer; }
-    tbody tr:nth-child(even) { background: #f0e8d8; }
-    tbody tr:hover { background: #e8d8c0; }
+    tbody tr:nth-child(even) { background: #f6eedd; }
+    tbody tr:hover { background: #f7e3d8; }   /* warm rose tint on hover */
     tbody td { padding: .65rem 1rem; font-size: .9rem; vertical-align: middle; }
     .col-name {
       max-width: 760px;
@@ -140,10 +152,10 @@
 
       tbody tr {
         background: #fffdf8;
-        border-radius: 8px;
+        border-radius: 16px;
         margin-bottom: .75rem;
-        padding: .75rem 1rem;
-        box-shadow: 0 1px 5px rgba(0,0,0,.1);
+        padding: .85rem 1.1rem;
+        box-shadow: 0 2px 8px rgba(90,58,36,.1);
         display: flex;
         justify-content: space-between;
         align-items: flex-start;
@@ -151,7 +163,7 @@
         cursor: pointer;
       }
       tbody tr:nth-child(even) { background: #fffdf8; }
-      tbody tr:hover { background: #f0e8d8; }
+      tbody tr:hover { background: #f7e3d8; }
 
       .col-name {
         flex: 1;
@@ -188,14 +200,15 @@
       padding: 0;
       margin-bottom: 1.5rem;
     }
-    .back-btn:hover { color: #3b2408; }
+    .back-btn { color: #b06a50; }
+    .back-btn:hover { color: #8a4a32; }
     .back-btn svg { width: 14px; height: 14px; }
 
     .detail-card {
       background: #fffdf8;
-      border-radius: 10px;
-      padding: 1.5rem 1.75rem;
-      box-shadow: 0 2px 10px rgba(0,0,0,.12);
+      border-radius: 18px;
+      padding: 1.6rem 1.85rem;
+      box-shadow: 0 4px 16px rgba(90,58,36,.14);
     }
     .detail-name {
       font-size: 1.2rem;
@@ -230,7 +243,9 @@
     .history-table td, .history-table th { padding: .5rem .85rem; font-size: .85rem; }
 
     /* ── footer ── */
-    footer { text-align: center; padding: 2rem 1rem; color: #8a6a4a; font-size: .78rem; }
+    footer { text-align: center; padding: 2rem 1rem; color: #9b7b5a; font-size: .78rem; }
+    .footer-motif { display: flex; justify-content: center; gap: .8rem; margin-bottom: .6rem; }
+    .footer-motif svg { width: 20px; height: 20px; color: #c9a06f; opacity: .8; }
   </style>
 </head>
 <body>
@@ -238,6 +253,8 @@
 <header>
   <h1>Tin Tracker</h1>
   <p>Tracking tobacco tin prices across the web — search the full catalog below.</p>
+  <p class="coffee">If this made you happy in any way, feel free to
+    <a href="https://buymeacoffee.com/vandal_heart" target="_blank" rel="noopener">buy me a coffee<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 9h11v5a4 4 0 0 1-4 4H9a4 4 0 0 1-4-4z"/><path d="M16 10h2.5a2.2 2.2 0 0 1 0 4.4H16"/><path d="M8 2.6q1 1.2 0 2.6M11 2.6q1 1.2 0 2.6M14 2.6q1 1.2 0 2.6"/><path d="M5 21h12"/></svg></a>.</p>
 </header>
 
 <!-- Main list view -->
@@ -263,7 +280,15 @@
   <div id="detail-content"></div>
 </div>
 
-<footer>Prices collected automatically. ALPHA release - Expect bugs, inaccuracies.</footer>
+<footer>
+  <div class="footer-motif">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M5 19C5 11 11 5 19 5c0 8-6 14-14 14z"/>
+      <path d="M5 19 15 9"/>
+    </svg>
+  </div>
+  Prices collected automatically. ALPHA release — expect bugs &amp; inaccuracies.
+</footer>
 
 <script>
   let ALL_PRODUCTS = [];
