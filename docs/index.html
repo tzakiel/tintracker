@@ -160,7 +160,22 @@
       box-shadow: 0 4px 14px rgba(90,58,36,.12);
     }
     thead { background: #5a3a24; color: #f5e8c8; }
-    thead th { padding: .75rem 1rem; text-align: left; font-size: .8rem; letter-spacing: .06em; text-transform: uppercase; }
+    thead th {
+      padding: .75rem 1rem; text-align: left; font-size: .8rem;
+      letter-spacing: .06em; text-transform: uppercase;
+      cursor: pointer; user-select: none; white-space: nowrap;
+    }
+    thead th:hover { color: #fff; }
+    .sort-ind { font-size: .7rem; opacity: .9; }
+
+    /* sort control shown only on mobile (table headers are hidden there) */
+    #mobile-sort {
+      display: none;
+      font: inherit; font-size: .85rem;
+      padding: .5rem .9rem; margin-bottom: 1rem;
+      border: 2px solid #d8b483; border-radius: 999px;
+      background: #fffdf8; color: #5a3a24; width: 100%;
+    }
     tbody tr { cursor: pointer; }
     tbody tr:nth-child(even) { background: #f6eedd; }
     tbody tr:hover { background: #f7e3d8; }   /* warm rose tint on hover */
@@ -226,7 +241,7 @@
         flex-shrink: 0;
         text-align: right;
       }
-      /* second line: source · last seen */
+      /* second line: size · year · source · last seen */
       .col-meta {
         display: block;
         flex: 0 0 auto;
@@ -234,9 +249,14 @@
         color: #8a6a4a;
         white-space: nowrap;
       }
-      .col-source { order: 3; }
-      .col-date   { order: 4; }
+      .col-size   { order: 3; }
+      .col-year   { order: 4; }
+      .col-source { order: 5; }
+      .col-date   { order: 6; }
+      .col-year::before,
+      .col-source::before,
       .col-date::before { content: "·"; margin-right: .55rem; color: #c4a987; }
+      #mobile-sort { display: block; }
     }
 
     /* ── detail page ── */
@@ -321,6 +341,15 @@
     <button id="view-grouped">Grouped</button>
   </div>
   <div id="source-filters"></div>
+  <select id="mobile-sort" aria-label="Sort by">
+    <option value="name:asc">Sort: Name (A–Z)</option>
+    <option value="name:desc">Sort: Name (Z–A)</option>
+    <option value="size:asc">Sort: Size (small–large)</option>
+    <option value="year:desc">Sort: Year (new–old)</option>
+    <option value="year:asc">Sort: Year (old–new)</option>
+    <option value="price:asc">Sort: Price (low–high)</option>
+    <option value="price:desc">Sort: Price (high–low)</option>
+  </select>
   <div id="meta"></div>
   <div id="status">Loading catalog…</div>
   <div id="results"></div>
@@ -350,10 +379,25 @@
 <script>
   let ALL_PRODUCTS = [];
   let TINS = [];                    // consolidated tins (grouped view)
+  let ENRICH = {};                  // raw name -> { weight, year } from canonical
   let VIEW_MODE = "all";            // "all" | "grouped"
+  let SORT = { key: "name", dir: "asc" };  // default: alphabetical by name
   let ACTIVE_SOURCES = new Set();   // sources currently shown (empty = none)
   let activeIdx = -1;
   let lastListState = null; // remembers what was showing before detail
+
+  // tin weight as grams, for numeric size sorting ("2oz" -> ~56.7, "50g" -> 50)
+  function weightGrams(q) {
+    if (!q) return -1;
+    const m = q.match(/([\d.\-\/]+)\s*(oz|g)/i);
+    if (!m) return -1;
+    let num = 0;
+    m[1].split("-").forEach(part => {
+      if (part.includes("/")) { const [a, b] = part.split("/"); num += (+a) / (+b); }
+      else num += parseFloat(part) || 0;
+    });
+    return /oz/i.test(m[2]) ? num * 28.3495 : num;
+  }
 
   /* ── money helpers ── */
   function parseMoney(s) {
@@ -419,6 +463,10 @@
         <div class="detail-meta">
           <span class="lbl">Price</span>
           <span class="val detail-price">${p.price || "—"}</span>
+          ${ENRICH[p.name] && ENRICH[p.name].weight
+            ? `<span class="lbl">Tin size</span><span class="val">${ENRICH[p.name].weight}</span>` : ""}
+          ${ENRICH[p.name] && ENRICH[p.name].year
+            ? `<span class="lbl">Year</span><span class="val">${ENRICH[p.name].year}</span>` : ""}
           <span class="lbl">Last seen</span>
           <span class="val">${fmtDateTime(p.last_seen)}</span>
           <span class="lbl">Source</span>
@@ -441,57 +489,80 @@
     window.scrollTo(0, 0);
   }
 
-  /* ── table / cards ── */
-  function renderTable(products, label) {
-    statusEl.textContent = label || "";
-    if (!products.length) {
-      resultsEl.innerHTML = "";
-      return;
-    }
-    const rows = products.map((p, i) => `
-      <tr data-i="${i}" data-ctx="${encodeURIComponent(JSON.stringify(p))}">
-        <td class="col-name">${p.name}</td>
-        <td class="col-price">${p.price || "—"}</td>
-        <td class="col-meta col-date">${fmt(p.last_seen)}</td>
-        <td class="col-meta col-source">${p.source || "—"}</td>
-      </tr>`).join("");
-
-    resultsEl.innerHTML = `
-      <table>
-        <thead><tr><th>Product</th><th>Price</th><th>Last Seen</th><th>Source</th></tr></thead>
-        <tbody>${rows}</tbody>
-      </table>`;
-
-    resultsEl.querySelectorAll("tbody tr").forEach((tr, i) => {
-      tr.addEventListener("click", () => showDetail(products[i]));
+  /* ── generic sortable table (drives both views) ── */
+  function sortRows(rows, columns) {
+    const col = columns.find(c => c.key === SORT.key) || columns[0];
+    const dir = SORT.dir === "desc" ? -1 : 1;
+    return rows.slice().sort((a, b) => {
+      let va = col.sortVal(a), vb = col.sortVal(b);
+      if (typeof va === "number" && typeof vb === "number") return (va - vb) * dir;
+      return String(va ?? "").localeCompare(String(vb ?? ""), "en", { sensitivity: "base" }) * dir;
     });
   }
 
-  /* ── grouped (consolidated tins) table ── */
-  function renderTinTable(tins, label) {
+  function renderSortableTable(rows, columns, onRowClick, label) {
     statusEl.textContent = label || "";
-    if (!tins.length) { resultsEl.innerHTML = ""; return; }
-    const rows = tins.map(t => {
-      const n = t.members.length;
-      const badge = n > 1 ? `<span class="tin-badge">${n} listings · ${t.years.join(", ")}</span>` : "";
-      return `
-      <tr>
-        <td class="col-name">${t.display_name}${badge}</td>
-        <td class="col-price">${tinPriceLabel(t)}</td>
-        <td class="col-meta col-date">${fmt(tinLastSeen(t))}</td>
-        <td class="col-meta col-source">${t.source || "—"}</td>
-      </tr>`;
-    }).join("");
+    if (!rows.length) { resultsEl.innerHTML = ""; return; }
+    const sorted = sortRows(rows, columns);
+    const arrow = k => SORT.key === k ? `<span class="sort-ind">${SORT.dir === "asc" ? "▲" : "▼"}</span>` : "";
+    const head = columns.map(c => `<th data-key="${c.key}">${c.label} ${arrow(c.key)}</th>`).join("");
+    const body = sorted.map(r =>
+      `<tr>${columns.map(c => `<td class="${c.cls}">${c.cell(r)}</td>`).join("")}</tr>`
+    ).join("");
+    resultsEl.innerHTML = `<table><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>`;
 
-    resultsEl.innerHTML = `
-      <table>
-        <thead><tr><th>Tin</th><th>Per-Tin Price</th><th>Last Seen</th><th>Source</th></tr></thead>
-        <tbody>${rows}</tbody>
-      </table>`;
-
-    resultsEl.querySelectorAll("tbody tr").forEach((tr, i) => {
-      tr.addEventListener("click", () => showGroupDetail(tins[i]));
+    resultsEl.querySelectorAll("thead th").forEach(th => {
+      th.addEventListener("click", () => {
+        const k = th.dataset.key;
+        if (SORT.key === k) SORT.dir = SORT.dir === "asc" ? "desc" : "asc";
+        else { SORT.key = k; SORT.dir = "asc"; }
+        render();
+      });
     });
+    resultsEl.querySelectorAll("tbody tr").forEach((tr, i) => {
+      tr.addEventListener("click", () => onRowClick(sorted[i]));
+    });
+  }
+
+  // Column definitions. "All listings" pulls size/year from the canonical lookup.
+  function listingColumns() {
+    return [
+      { key: "name",   label: "Product",   cls: "col-name",
+        cell: p => p.name, sortVal: p => (p.name || "").toLowerCase() },
+      { key: "size",   label: "Size",      cls: "col-meta col-size",
+        cell: p => (ENRICH[p.name] && ENRICH[p.name].weight) || "—",
+        sortVal: p => weightGrams(ENRICH[p.name] && ENRICH[p.name].weight) },
+      { key: "year",   label: "Year",      cls: "col-meta col-year",
+        cell: p => (ENRICH[p.name] && ENRICH[p.name].year) || "—",
+        sortVal: p => parseInt(ENRICH[p.name] && ENRICH[p.name].year) || 0 },
+      { key: "price",  label: "Price",     cls: "col-price",
+        cell: p => p.price || "—", sortVal: p => { const n = parseMoney(p.price); return n == null ? -1 : n; } },
+      { key: "date",   label: "Last Seen", cls: "col-meta col-date",
+        cell: p => fmt(p.last_seen), sortVal: p => p.last_seen || "" },
+      { key: "source", label: "Source",    cls: "col-meta col-source",
+        cell: p => p.source || "—", sortVal: p => (p.source || "").toLowerCase() },
+    ];
+  }
+
+  function tinColumns() {
+    return [
+      { key: "name",   label: "Tin",            cls: "col-name",
+        cell: t => { const n = t.members.length;
+          return t.display_name + (n > 1 ? `<span class="tin-badge">${n} listings</span>` : ""); },
+        sortVal: t => (t.display_name || "").toLowerCase() },
+      { key: "size",   label: "Size",           cls: "col-meta col-size",
+        cell: t => t.quantity || "—", sortVal: t => weightGrams(t.quantity) },
+      { key: "year",   label: "Year",           cls: "col-meta col-year",
+        cell: t => (t.years || []).join(", ") || "—", sortVal: t => parseInt((t.years || [])[0]) || 0 },
+      { key: "price",  label: "Per-Tin Price",  cls: "col-price",
+        cell: t => tinPriceLabel(t),
+        sortVal: t => { const ns = t.members.map(m => parseMoney(m.price)).filter(x => x != null);
+          return ns.length ? Math.min(...ns) : -1; } },
+      { key: "date",   label: "Last Seen",      cls: "col-meta col-date",
+        cell: t => fmt(tinLastSeen(t)), sortVal: t => tinLastSeen(t) },
+      { key: "source", label: "Source",         cls: "col-meta col-source",
+        cell: t => t.source || "—", sortVal: t => (t.source || "").toLowerCase() },
+    ];
   }
 
   function showGroupDetail(t) {
@@ -552,18 +623,18 @@
       if (q) list = list.filter(t =>
         t.display_name.toLowerCase().includes(q) ||
         t.members.some(m => (m.name || "").toLowerCase().includes(q)));
-      renderTinTable(list, q
+      renderSortableTable(list, tinColumns(), showGroupDetail, q
         ? `${list.length} tin${list.length === 1 ? "" : "s"} for "${qEl.value.trim()}"`
         : "");
       return;
     }
 
     if (!q) {
-      renderTable(bySource(ALL_PRODUCTS), "");
+      renderSortableTable(bySource(ALL_PRODUCTS), listingColumns(), showDetail, "");
       return;
     }
     const list = bySource(ALL_PRODUCTS).filter(p => p.name.toLowerCase().includes(q));
-    renderTable(list, list.length
+    renderSortableTable(list, listingColumns(), showDetail, list.length
       ? `${list.length} result${list.length === 1 ? "" : "s"} for "${qEl.value.trim()}"`
       : `No results for "${qEl.value.trim()}".`
     );
@@ -614,7 +685,7 @@
   function selectProduct(p) {
     qEl.value = p.name;
     closeDropdown();
-    renderTable([p], "");
+    renderSortableTable([p], listingColumns(), showDetail, "");
   }
 
   qEl.addEventListener("input", () => {
@@ -672,6 +743,13 @@
     TINS = (canonical && canonical.tins ? canonical.tins : []).slice()
       .sort((a, b) => byName({ name: a.display_name }, { name: b.display_name }));
 
+    // name -> { weight, year } lookup so the raw "All listings" view can show
+    // tin size and year (those live on the canonical tins, not the raw records).
+    ENRICH = {};
+    for (const t of TINS) for (const m of (t.members || [])) {
+      ENRICH[m.name] = { weight: t.quantity || "", year: m.year || "" };
+    }
+
     if (!ALL_PRODUCTS.length) {
       statusEl.textContent = "Could not load catalog. Please try refreshing.";
       return;
@@ -697,6 +775,14 @@
   }
   viewAllBtn.addEventListener("click", () => setView("all"));
   viewGroupedBtn.addEventListener("click", () => setView("grouped"));
+
+  /* ── mobile sort (table headers are hidden on phones) ── */
+  const mobileSort = document.getElementById("mobile-sort");
+  mobileSort.addEventListener("change", () => {
+    const [k, d] = mobileSort.value.split(":");
+    SORT.key = k; SORT.dir = d;
+    render();
+  });
 
   loadData();
 </script>
