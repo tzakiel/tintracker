@@ -1,6 +1,20 @@
 {
   "products": [
     {
+      "name": "2013 Samuel Gawith St James Flake 8 oz-3day auction",
+      "price": "$305.00",
+      "url": "https://tinbids.com/auction/196229/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-06-21T01:30:58.718853+00:00",
+      "last_seen": "2026-06-21T01:30:58.718853+00:00",
+      "price_history": [
+        {
+          "price": "$305.00",
+          "date": "2026-06-21T01:30:58.718853+00:00"
+        }
+      ]
+    },
+    {
       "name": "Lot of 2 Excellent 2019 & 2020 Cornell & Diehl Kings Stride Warped Series Until the End 2oz. Tins",
       "price": "$20.49",
       "url": "https://tinbids.com/auction/195444/",
@@ -169,8 +183,22 @@
       ]
     }
   ],
-  "last_scraped": "2026-06-21T01:01:31.224137+00:00",
+  "last_scraped": "2026-06-21T01:30:58.718853+00:00",
   "latest_scrape": [
+    {
+      "name": "2013 Samuel Gawith St James Flake 8 oz-3day auction",
+      "price": "$305.00",
+      "url": "https://tinbids.com/auction/196229/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-06-21T01:30:58.718853+00:00",
+      "last_seen": "2026-06-21T01:30:58.718853+00:00",
+      "price_history": [
+        {
+          "price": "$305.00",
+          "date": "2026-06-21T01:30:58.718853+00:00"
+        }
+      ]
+    },
     {
       "name": "Lot of 2 Excellent 2019 & 2020 Cornell & Diehl Kings Stride Warped Series Until the End 2oz. Tins",
       "price": "$20.49",
@@ -341,11 +369,6 @@
     }
   ],
   "pending": [
-    {
-      "url": "https://tinbids.com/auction/196229/",
-      "name": "2013 Samuel Gawith St James Flake 8 oz-3day auction",
-      "date_end": "2026-06-21 01:05:15"
-    },
     {
       "url": "https://tinbids.com/auction/196244/",
       "name": "2020 Mac Baren Vanilla Roll Cake 3.5oz Tin",
@@ -1068,7 +1091,7 @@
     },
     {
       "url": "https://tinbids.com/auction/195179/",
-      "name": "2x 2023 Sutliff Produced Plum Pudding Sealed 2oz Tins Seattle Pipe Club",
+      "name": "2x 2023 Sutliff Produced Plum Pudding Sealed 2oz Tins $59 BIN",
       "date_end": "2026-06-22 01:04:48"
     },
     {
@@ -3435,6 +3458,11 @@
       "url": "https://tinbids.com/auction/197206/",
       "name": "Lot of 4 - Nail of Nine 2025 blend",
       "date_end": "2026-06-28 00:07:18"
+    },
+    {
+      "url": "https://tinbids.com/auction/197209/",
+      "name": "4 Father’s Day Special, ESCUDO,EDGEWORTH,RED RIBBON,CAPSTAN.",
+      "date_end": "2026-06-22 01:17:02"
     }
   ]
 }
