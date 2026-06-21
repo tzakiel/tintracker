@@ -117,36 +117,6 @@
       color: #fff;
     }
 
-    /* ── view toggle (All listings / Grouped) ── */
-    #view-toggle {
-      display: inline-flex;
-      gap: 0;
-      margin-bottom: 1.1rem;
-      border: 2px solid #5a3a24;
-      border-radius: 999px;
-      overflow: hidden;
-    }
-    #view-toggle button {
-      font: inherit;
-      font-size: .82rem;
-      padding: .38rem 1rem;
-      background: #fffdf8;
-      color: #5a3a24;
-      border: none;
-      cursor: pointer;
-      transition: background .12s, color .12s;
-    }
-    #view-toggle button.on { background: #5a3a24; color: #f5e8c8; }
-
-    /* per-tin pricing note + listing/per-tin emphasis on group detail */
-    .price-note { font-size: .78rem; color: #8a6a4a; font-style: italic; margin: .2rem 0 .9rem; }
-    .history-table td.pertin { font-weight: 700; color: #3b2408; }
-    .history-table td.struck { color: #a98c6a; }
-    .tin-badge {
-      font-size: .72rem; color: #b06a50; margin-left: .5rem;
-      white-space: nowrap; font-weight: 600;
-    }
-
     #status { color: #7a4a1a; font-style: italic; margin-bottom: .9rem; min-height: 1.4em; font-size: .9rem; }
     #meta   { color: #8a6a4a; font-size: .78rem; margin-bottom: 1rem; font-style: italic; }
 
@@ -336,10 +306,6 @@
     <input id="q" type="text" placeholder="Search by product name…" autocomplete="off" />
     <div id="dropdown"></div>
   </div>
-  <div id="view-toggle">
-    <button id="view-all" class="on">All listings</button>
-    <button id="view-grouped">Grouped</button>
-  </div>
   <div id="source-filters"></div>
   <select id="mobile-sort" aria-label="Sort by">
     <option value="name:asc">Sort: Name (A–Z)</option>
@@ -378,9 +344,8 @@
 
 <script>
   let ALL_PRODUCTS = [];
-  let TINS = [];                    // consolidated tins (grouped view)
+  let TINS = [];                    // consolidated tins — used only to build ENRICH
   let ENRICH = {};                  // raw name -> { weight, year } from canonical
-  let VIEW_MODE = "all";            // "all" | "grouped"
   let SORT = { key: "name", dir: "asc" };  // default: alphabetical by name
   let ACTIVE_SOURCES = new Set();   // sources currently shown (empty = none)
   let activeIdx = -1;
@@ -403,19 +368,6 @@
   function parseMoney(s) {
     const m = (s || "").match(/[\d,]+(?:\.\d+)?/);
     return m ? parseFloat(m[0].replace(/,/g, "")) : null;
-  }
-  function fmtMoney(n) {
-    return "$" + n.toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
-  }
-  // per-tin price label for a tin row: single value or a min–max range
-  function tinPriceLabel(t) {
-    const nums = t.members.map(m => parseMoney(m.price)).filter(n => n != null);
-    if (!nums.length) return "—";
-    const lo = Math.min(...nums), hi = Math.max(...nums);
-    return lo === hi ? fmtMoney(lo) : `${fmtMoney(lo)}–${fmtMoney(hi)}`;
-  }
-  function tinLastSeen(t) {
-    return t.members.map(m => m.last_seen).filter(Boolean).sort().slice(-1)[0] || "";
   }
 
   const qEl       = document.getElementById("q");
@@ -544,90 +496,14 @@
     ];
   }
 
-  function tinColumns() {
-    return [
-      { key: "name",   label: "Tin",            cls: "col-name",
-        cell: t => { const n = t.members.length;
-          return t.display_name + (n > 1 ? `<span class="tin-badge">${n} listings</span>` : ""); },
-        sortVal: t => (t.display_name || "").toLowerCase() },
-      { key: "size",   label: "Size",           cls: "col-meta col-size",
-        cell: t => t.quantity || "—", sortVal: t => weightGrams(t.quantity) },
-      { key: "year",   label: "Year",           cls: "col-meta col-year",
-        cell: t => (t.years || []).join(", ") || "—", sortVal: t => parseInt((t.years || [])[0]) || 0 },
-      { key: "price",  label: "Per-Tin Price",  cls: "col-price",
-        cell: t => tinPriceLabel(t),
-        sortVal: t => { const ns = t.members.map(m => parseMoney(m.price)).filter(x => x != null);
-          return ns.length ? Math.min(...ns) : -1; } },
-      { key: "date",   label: "Last Seen",      cls: "col-meta col-date",
-        cell: t => fmt(tinLastSeen(t)), sortVal: t => tinLastSeen(t) },
-      { key: "source", label: "Source",         cls: "col-meta col-source",
-        cell: t => t.source || "—", sortVal: t => (t.source || "").toLowerCase() },
-    ];
-  }
-
-  function showGroupDetail(t) {
-    history.pushState({ detail: t.id }, "", "");
-    const hasPack = t.members.some(m => m.pack_count > 1);
-    const members = t.members.slice().sort((a, b) => (a.year || "").localeCompare(b.year || ""));
-    const rows = members.map(m => {
-      const isPack = m.pack_count > 1;
-      const src = m.url
-        ? `<a href="${m.url}" target="_blank" rel="noopener">${m.source || "link"}</a>`
-        : (m.source || "—");
-      return `<tr>
-        <td>${m.year || "—"}</td>
-        <td class="${isPack ? "struck" : ""}">${m.listing_price || "—"}</td>
-        <td>${isPack ? m.pack_count + "×" : "1×"}</td>
-        <td class="pertin">${m.price || "—"}</td>
-        <td>${src}</td>
-        <td>${fmt(m.last_seen)}</td>
-      </tr>`;
-    }).join("");
-
-    const note = hasPack
-      ? `<div class="price-note">Per-tin price = listing price ÷ pack size. Multi-tin lots are divided to compare like-for-like.</div>`
-      : "";
-
-    detailContent.innerHTML = `
-      <div class="detail-card">
-        <div class="detail-name">${t.display_name}</div>
-        <div class="detail-meta">
-          <span class="lbl">Source</span><span class="val">${t.source || "—"}</span>
-          ${t.quantity ? `<span class="lbl">Tin size</span><span class="val">${t.quantity}</span>` : ""}
-          <span class="lbl">Listings</span><span class="val">${t.members.length}${t.years.length ? " · " + t.years.join(", ") : ""}</span>
-        </div>
-        <div class="detail-section-title">Listings &amp; Per-Tin Prices</div>
-        ${note}
-        <table class="history-table">
-          <thead><tr><th>Year</th><th>Listing</th><th>Pack</th><th>Per Tin</th><th>Source</th><th>Last Seen</th></tr></thead>
-          <tbody>${rows}</tbody>
-        </table>
-      </div>`;
-
-    mainView.style.display = "none";
-    detailView.style.display = "block";
-    window.scrollTo(0, 0);
-  }
-
   function bySource(list) {
     return list.filter(p => ACTIVE_SOURCES.has(p.source));
   }
 
-  // Render whatever the current state calls for: search results if there's a
-  // query, otherwise the recent list — always filtered by the active sources.
+  // Render search results if there's a query, otherwise the full list —
+  // always filtered by the active sources.
   function render() {
     const q = qEl.value.trim().toLowerCase();
-
-    if (VIEW_MODE === "grouped") {
-      let list = TINS.filter(t => ACTIVE_SOURCES.has(t.source));
-      if (q) list = list.filter(t =>
-        t.display_name.toLowerCase().includes(q) ||
-        t.members.some(m => (m.name || "").toLowerCase().includes(q)));
-      renderSortableTable(list, tinColumns(), showGroupDetail, q
-        ? `${list.length} tin${list.length === 1 ? "" : "s"} for "${qEl.value.trim()}"`
-        : "");
-      return;
-    }
 
     if (!q) {
       renderSortableTable(bySource(ALL_PRODUCTS), listingColumns(), showDetail, "");
@@ -690,7 +566,6 @@
 
   qEl.addEventListener("input", () => {
     const q = qEl.value.trim().toLowerCase();
-    if (VIEW_MODE === "grouped") { closeDropdown(); render(); return; }
     if (!q) { closeDropdown(); render(); return; }
     openDropdown(bySource(ALL_PRODUCTS).filter(p => p.name.toLowerCase().includes(q)));
     render();
@@ -755,26 +630,10 @@
       return;
     }
 
-    // Hide the Grouped toggle entirely if no consolidation data is present.
-    if (!TINS.length) document.getElementById("view-toggle").style.display = "none";
-
     metaEl.textContent = "";
     buildSourceFilters();
     render();
   }
-
-  /* ── view toggle wiring ── */
-  const viewAllBtn = document.getElementById("view-all");
-  const viewGroupedBtn = document.getElementById("view-grouped");
-  function setView(mode) {
-    VIEW_MODE = mode;
-    viewAllBtn.classList.toggle("on", mode === "all");
-    viewGroupedBtn.classList.toggle("on", mode === "grouped");
-    closeDropdown();
-    render();
-  }
-  viewAllBtn.addEventListener("click", () => setView("all"));
-  viewGroupedBtn.addEventListener("click", () => setView("grouped"));
 
   /* ── mobile sort (table headers are hidden on phones) ── */
   const mobileSort = document.getElementById("mobile-sort");
