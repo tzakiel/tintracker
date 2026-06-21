@@ -35,8 +35,9 @@ KEY_STOP = {"in", "a", "of", "the", "an"}
 
 QTY_RE = re.compile(r"(\d+\s*g\b|\d+(?:[\-/]\d+)?\s*oz\b|\d+/\d+\s*oz\b|\d+\s*ounce\b)", re.I)
 YEAR_RE = re.compile(r"\b(19|20)\d{2}\b")
-# pack/lot count: "Lot of 2", "3-Pack", "5 Pack of" → number of tins in the listing
-PACK_RE = re.compile(r"(?:lot of\s*(\d+)|(\d+)\s*[-\s]?pack)", re.I)
+# pack/lot count → number of tins in one listing. Handles:
+#   "Lot of 2 …", "3-Pack", "5 Pack of …", "5 x CAO", "15x Peterson …"
+PACK_RE = re.compile(r"(?:lot of\s*(\d+)|(\d+)\s*[-\s]?pack|(\d+)\s*x\b)", re.I)
 # variety/sampler packs hold DIFFERENT blends — price can't be split per tin
 VARIETY_RE = re.compile(r"\b(variety|sampler|assort\w*)\b", re.I)
 
@@ -49,7 +50,7 @@ def _pack_count(s):
     m = PACK_RE.search(s or "")
     if m:
         try:
-            n = int(m.group(1) or m.group(2))
+            n = int(m.group(1) or m.group(2) or m.group(3))
             if n > 1:
                 return n
         except (TypeError, ValueError):
@@ -187,7 +188,10 @@ def main():
 
             # Per-tin pricing: a 4-pack's listing price is divided across 4 tins.
             # pack_count is NOT part of identity, so packs group with singles.
-            pack = (parsed or {}).get("pack_count", 1) or 1
+            # Computed from the raw name so it applies to EVERY source — including
+            # ones with no structured parser (e.g. Tinbids "Lot of 2 …").
+            pc = _pack_count(name)
+            pack = pc if pc else 1          # None (variety) or 1 → don't divide; N → divide
             listing_price = p.get("price", "")
             member = {
                 "name": name, "source": source, "url": p.get("url", ""),
