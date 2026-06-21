@@ -35,7 +35,7 @@
       box-shadow: 0 4px 14px rgba(90,58,36,.22);
     }
     header h1 { font-size: 1.7rem; letter-spacing: .03em; }
-    header p  { margin-top: .35rem; font-size: .85rem; color: #e6c79c; }
+    header p  { margin-top: .35rem; font-size: .85rem; color: #e6c79c; text-wrap: balance; }
     header p.coffee { margin-top: .6rem; font-size: .8rem; color: #e6c79c; }
     header p.coffee a { color: #ffe9c2; text-decoration: underline; text-underline-offset: 2px; }
     header p.coffee a:hover { color: #fff; }
@@ -138,6 +138,7 @@
     /* ── mobile cards ── */
     @media (max-width: 600px) {
       header h1 { font-size: 1.3rem; }
+      header p { max-width: 17rem; margin-left: auto; margin-right: auto; }
 
       table, thead, tbody, tr, td { display: block; }
       thead { display: none; }
