@@ -1,11 +1,7 @@
-name: Scrape (Pipestud)
+name: Weekly Scrape
 
 on:
-  schedule:
-    # TEMPORARY: once/hour at :08 (off-peak, away from :00 congestion) to prove
-    # scheduled scraping works. REVERT to "17 18/19/20 * * 6" (Saturday) after.
-    - cron: "8 * * * *"
-  workflow_dispatch:       # allows manual run from GitHub website
+  workflow_dispatch:       # triggered by cron-job.org via API
 
 jobs:
   scrape:

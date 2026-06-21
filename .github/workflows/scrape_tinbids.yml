@@ -1,11 +1,7 @@
-name: Scrape (Tinbids)
+name: Twice-Daily Scrape (Tinbids)
 
 on:
-  schedule:
-    # TEMPORARY: once/hour at :26 (off-peak, away from :00 congestion) to prove
-    # scheduled scraping works. REVERT to "23 17 * * *" + "23 5 * * *" after.
-    - cron: "26 * * * *"
-  workflow_dispatch:       # allows manual run from GitHub website
+  workflow_dispatch:       # triggered by cron-job.org via API
 
 jobs:
   scrape:

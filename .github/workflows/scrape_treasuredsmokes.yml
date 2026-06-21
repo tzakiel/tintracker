@@ -1,11 +1,7 @@
-name: Scrape (Treasured Smokes)
+name: Daily Scrape (Treasured Smokes)
 
 on:
-  schedule:
-    # TEMPORARY: once/hour at :47 (off-peak, away from :00 congestion) to prove
-    # scheduled scraping works. REVERT to "43 17 * * *" + "43 18 * * *" after.
-    - cron: "47 * * * *"
-  workflow_dispatch:       # allows manual run from GitHub website
+  workflow_dispatch:       # triggered by cron-job.org via API
 
 jobs:
   scrape:
