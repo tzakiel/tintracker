@@ -4,53 +4,83 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Tin Tracker</title>
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <link rel="apple-touch-icon" href="favicon.png" />
+  <meta name="theme-color" content="#5a3a24" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
+    html {
+      /* stop iOS Safari from auto-inflating long text blocks (the coffee line
+         was rendering larger than the tagline on iPhone because of this) */
+      -webkit-text-size-adjust: 100%;
+      text-size-adjust: 100%;
+    }
+
     body {
-      font-family: Georgia, serif;
-      background: #f5f0e8;
-      color: #2c2015;
+      font-family: "Work Sans", Helvetica, Arial, sans-serif;
+      /* cozy café "tablecloth" — soft dot grid on warm cream */
+      background-color: #f7f1e5;
+      background-image: radial-gradient(rgba(180,142,96,.13) 1.5px, transparent 1.6px);
+      background-size: 22px 22px;
+      color: #3a2a1c;
       min-height: 100vh;
+    }
+
+    /* Young Serif — display face, for branding & headings */
+    header h1, thead th, .detail-name, .detail-section-title {
+      font-family: "Young Serif", Georgia, serif;
+      font-weight: 400;
     }
 
     /* ── header ── */
     header {
-      background: #3b2408;
+      background: #5a3a24;            /* warm espresso, softer than near-black */
       color: #f5e8c8;
-      padding: 1.25rem 1.5rem;
+      padding: 1.4rem 1.5rem 1.6rem;
       text-align: center;
+      box-shadow: 0 4px 14px rgba(90,58,36,.22);
     }
-    header h1 { font-size: 1.6rem; letter-spacing: .04em; }
-    header p  { margin-top: .35rem; font-size: .85rem; color: #c9a96e; }
+    header h1 { font-size: 1.7rem; letter-spacing: .03em; }
+    header p  { margin-top: .35rem; font-size: .85rem; color: #e6c79c; text-wrap: balance; }
+    header p.coffee { margin-top: .6rem; font-size: .85rem; color: #e6c79c; }
+    header p.coffee a { color: #ffe9c2; text-decoration: underline; text-underline-offset: 2px; }
+    header p.coffee a:hover { color: #fff; }
+    header p.coffee a svg { width: 1.05em; height: 1.05em; vertical-align: -.2em; margin-left: .3em; }
+
 
     /* ── layout ── */
-    #main-view, #detail-view { max-width: 900px; margin: 2rem auto; padding: 0 1rem; }
+    #main-view, #detail-view { max-width: 1400px; margin: 2rem auto; padding: 0 1.5rem; }
     #detail-view { display: none; }
 
     /* ── search ── */
     .search-wrap { position: relative; margin-bottom: 1.5rem; }
     .search-wrap input {
       width: 100%;
-      padding: .7rem 1rem;
+      padding: .75rem 1.15rem;
       font-size: 1rem;
-      border: 2px solid #b89060;
-      border-radius: 6px;
+      border: 2px solid #d8b483;
+      border-radius: 999px;            /* soft pill */
       background: #fffdf8;
-      color: #2c2015;
+      color: #3a2a1c;
       outline: none;
+      box-shadow: 0 2px 6px rgba(90,58,36,.08);
     }
-    .search-wrap input:focus { border-color: #7a4a1a; }
+    .search-wrap input::placeholder { color: #b89a78; }
+    .search-wrap input:focus { border-color: #cf8a73; box-shadow: 0 0 0 3px rgba(207,138,115,.18); }
 
     #dropdown {
       display: none;
       position: absolute;
-      top: calc(100% + 4px);
+      top: calc(100% + 6px);
       left: 0; right: 0;
       background: #fffdf8;
-      border: 2px solid #b89060;
-      border-radius: 6px;
-      box-shadow: 0 4px 12px rgba(0,0,0,.15);
+      border: 2px solid #d8b483;
+      border-radius: 16px;
+      box-shadow: 0 8px 20px rgba(90,58,36,.18);
       max-height: 260px;
       overflow-y: auto;
       z-index: 100;
@@ -69,22 +99,52 @@
       margin-bottom: 1.1rem;
     }
     .chip {
-      padding: .35rem .85rem;
+      padding: .38rem .9rem;
       font: inherit;
       font-size: .82rem;
-      border: 2px solid #b89060;
+      border: 2px solid #d8b483;
       border-radius: 999px;
       background: #fffdf8;
-      color: #8a6a4a;
+      color: #9b7b5a;
       cursor: pointer;
       white-space: nowrap;
       transition: background .12s, color .12s, border-color .12s;
     }
-    .chip:hover { border-color: #7a4a1a; }
+    .chip:hover { border-color: #cf8a73; color: #b06a50; }
     .chip.on {
-      background: #7a4a1a;
-      border-color: #7a4a1a;
-      color: #f5e8c8;
+      background: #cf8a73;            /* dusty-rose accent when active */
+      border-color: #cf8a73;
+      color: #fff;
+    }
+
+    /* ── view toggle (All listings / Grouped) ── */
+    #view-toggle {
+      display: inline-flex;
+      gap: 0;
+      margin-bottom: 1.1rem;
+      border: 2px solid #5a3a24;
+      border-radius: 999px;
+      overflow: hidden;
+    }
+    #view-toggle button {
+      font: inherit;
+      font-size: .82rem;
+      padding: .38rem 1rem;
+      background: #fffdf8;
+      color: #5a3a24;
+      border: none;
+      cursor: pointer;
+      transition: background .12s, color .12s;
+    }
+    #view-toggle button.on { background: #5a3a24; color: #f5e8c8; }
+
+    /* per-tin pricing note + listing/per-tin emphasis on group detail */
+    .price-note { font-size: .78rem; color: #8a6a4a; font-style: italic; margin: .2rem 0 .9rem; }
+    .history-table td.pertin { font-weight: 700; color: #3b2408; }
+    .history-table td.struck { color: #a98c6a; }
+    .tin-badge {
+      font-size: .72rem; color: #b06a50; margin-left: .5rem;
+      white-space: nowrap; font-weight: 600;
     }
 
     #status { color: #7a4a1a; font-style: italic; margin-bottom: .9rem; min-height: 1.4em; font-size: .9rem; }
@@ -95,18 +155,18 @@
       width: 100%;
       border-collapse: collapse;
       background: #fffdf8;
-      border-radius: 8px;
+      border-radius: 16px;
       overflow: hidden;
-      box-shadow: 0 2px 8px rgba(0,0,0,.12);
+      box-shadow: 0 4px 14px rgba(90,58,36,.12);
     }
-    thead { background: #3b2408; color: #f5e8c8; }
-    thead th { padding: .7rem 1rem; text-align: left; font-size: .8rem; letter-spacing: .06em; text-transform: uppercase; }
+    thead { background: #5a3a24; color: #f5e8c8; }
+    thead th { padding: .75rem 1rem; text-align: left; font-size: .8rem; letter-spacing: .06em; text-transform: uppercase; }
     tbody tr { cursor: pointer; }
-    tbody tr:nth-child(even) { background: #f0e8d8; }
-    tbody tr:hover { background: #e8d8c0; }
+    tbody tr:nth-child(even) { background: #f6eedd; }
+    tbody tr:hover { background: #f7e3d8; }   /* warm rose tint on hover */
     tbody td { padding: .65rem 1rem; font-size: .9rem; vertical-align: middle; }
     .col-name {
-      max-width: 340px;
+      max-width: 760px;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
@@ -118,6 +178,7 @@
     /* ── mobile cards ── */
     @media (max-width: 600px) {
       header h1 { font-size: 1.3rem; }
+      header p { max-width: 17rem; margin-left: auto; margin-right: auto; }
 
       table, thead, tbody, tr, td { display: block; }
       thead { display: none; }
@@ -131,21 +192,22 @@
 
       tbody tr {
         background: #fffdf8;
-        border-radius: 8px;
+        border-radius: 16px;
         margin-bottom: .75rem;
-        padding: .75rem 1rem;
-        box-shadow: 0 1px 5px rgba(0,0,0,.1);
+        padding: .85rem 1.1rem;
+        box-shadow: 0 2px 8px rgba(90,58,36,.1);
         display: flex;
-        justify-content: space-between;
-        align-items: flex-start;
-        gap: .75rem;
+        flex-wrap: wrap;
+        align-items: baseline;
+        gap: .35rem .75rem;
         cursor: pointer;
       }
       tbody tr:nth-child(even) { background: #fffdf8; }
-      tbody tr:hover { background: #f0e8d8; }
+      tbody tr:hover { background: #f7e3d8; }
 
       .col-name {
-        flex: 1;
+        order: 1;
+        flex: 1 1 60%;
         white-space: normal;
         overflow: hidden;
         display: -webkit-box;
@@ -157,12 +219,24 @@
         color: #7a4a1a;
       }
       .col-price {
+        order: 2;
         font-size: .9rem;
         font-weight: bold;
+        margin-left: auto;
         flex-shrink: 0;
         text-align: right;
       }
-      .col-meta { display: none; }
+      /* second line: source · last seen */
+      .col-meta {
+        display: block;
+        flex: 0 0 auto;
+        font-size: .78rem;
+        color: #8a6a4a;
+        white-space: nowrap;
+      }
+      .col-source { order: 3; }
+      .col-date   { order: 4; }
+      .col-date::before { content: "·"; margin-right: .55rem; color: #c4a987; }
     }
 
     /* ── detail page ── */
@@ -179,14 +253,15 @@
       padding: 0;
       margin-bottom: 1.5rem;
     }
-    .back-btn:hover { color: #3b2408; }
+    .back-btn { color: #b06a50; }
+    .back-btn:hover { color: #8a4a32; }
     .back-btn svg { width: 14px; height: 14px; }
 
     .detail-card {
       background: #fffdf8;
-      border-radius: 10px;
-      padding: 1.5rem 1.75rem;
-      box-shadow: 0 2px 10px rgba(0,0,0,.12);
+      border-radius: 18px;
+      padding: 1.6rem 1.85rem;
+      box-shadow: 0 4px 16px rgba(90,58,36,.14);
     }
     .detail-name {
       font-size: 1.2rem;
@@ -221,14 +296,18 @@
     .history-table td, .history-table th { padding: .5rem .85rem; font-size: .85rem; }
 
     /* ── footer ── */
-    footer { text-align: center; padding: 2rem 1rem; color: #8a6a4a; font-size: .78rem; }
+    footer { text-align: center; padding: 2rem 1rem; color: #9b7b5a; font-size: .78rem; }
+    .footer-motif { display: flex; justify-content: center; gap: .8rem; margin-bottom: .6rem; }
+    .footer-motif svg { width: 20px; height: 20px; color: #c9a06f; opacity: .8; }
   </style>
 </head>
 <body>
 
 <header>
-  <h1>Tin Tracker</h1>
-  <p>Tracking tobacco tin prices across the web — search the full catalog below.</p>
+  <h1><a href="#" onclick="qEl.value='';render();return false;" style="color:inherit;text-decoration:none;">Tin Tracker</a></h1>
+  <p>A simple function: track the value of pipe tobacco tins.</p>
+  <p class="coffee">If this made you happy in any way, feel free to <a href="mailto:tzakiel@gmail.com">say thanks</a> or 
+    <a href="https://buymeacoffee.com/vandal_heart" target="_blank" rel="noopener">buy me a coffee<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 9h11v5a4 4 0 0 1-4 4H9a4 4 0 0 1-4-4z"/><path d="M16 10h2.5a2.2 2.2 0 0 1 0 4.4H16"/><path d="M8 2.6q1 1.2 0 2.6M11 2.6q1 1.2 0 2.6M14 2.6q1 1.2 0 2.6"/><path d="M5 21h12"/></svg></a>.</p>
 </header>
 
 <!-- Main list view -->
@@ -236,6 +315,10 @@
   <div class="search-wrap">
     <input id="q" type="text" placeholder="Search by product name…" autocomplete="off" />
     <div id="dropdown"></div>
+  </div>
+  <div id="view-toggle">
+    <button id="view-all" class="on">All listings</button>
+    <button id="view-grouped">Grouped</button>
   </div>
   <div id="source-filters"></div>
   <div id="meta"></div>
@@ -254,14 +337,42 @@
   <div id="detail-content"></div>
 </div>
 
-<footer>Prices collected automatically. ALPHA release - Expect bugs, inaccuracies.</footer>
+<footer>
+  <div class="footer-motif">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M5 19C5 11 11 5 19 5c0 8-6 14-14 14z"/>
+      <path d="M5 19 15 9"/>
+    </svg>
+  </div>
+  Prices collected automatically. ALPHA release — expect bugs &amp; inaccuracies.
+</footer>
 
 <script>
   let ALL_PRODUCTS = [];
-  let RECENT_PRODUCTS = [];
+  let TINS = [];                    // consolidated tins (grouped view)
+  let VIEW_MODE = "all";            // "all" | "grouped"
   let ACTIVE_SOURCES = new Set();   // sources currently shown (empty = none)
   let activeIdx = -1;
   let lastListState = null; // remembers what was showing before detail
+
+  /* ── money helpers ── */
+  function parseMoney(s) {
+    const m = (s || "").match(/[\d,]+(?:\.\d+)?/);
+    return m ? parseFloat(m[0].replace(/,/g, "")) : null;
+  }
+  function fmtMoney(n) {
+    return "$" + n.toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+  }
+  // per-tin price label for a tin row: single value or a min–max range
+  function tinPriceLabel(t) {
+    const nums = t.members.map(m => parseMoney(m.price)).filter(n => n != null);
+    if (!nums.length) return "—";
+    const lo = Math.min(...nums), hi = Math.max(...nums);
+    return lo === hi ? fmtMoney(lo) : `${fmtMoney(lo)}–${fmtMoney(hi)}`;
+  }
+  function tinLastSeen(t) {
+    return t.members.map(m => m.last_seen).filter(Boolean).sort().slice(-1)[0] || "";
+  }
 
   const qEl       = document.getElementById("q");
   const dropEl    = document.getElementById("dropdown");
@@ -281,6 +392,15 @@
     return new Date(iso).toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric" });
   }
 
+  // date + time of capture, in the viewer's local timezone (detail page only)
+  function fmtDateTime(iso) {
+    if (!iso) return "—";
+    return new Date(iso).toLocaleString("en-US", {
+      year: "numeric", month: "short", day: "numeric",
+      hour: "numeric", minute: "2-digit", timeZoneName: "short",
+    });
+  }
+
   /* ── detail page ── */
   function showDetail(p) {
     history.pushState({ detail: p.name }, "", "");
@@ -290,7 +410,7 @@
       <div class="detail-section-title">Price History</div>
       <table class="history-table">
         <thead><tr><th>Date</th><th>Price</th></tr></thead>
-        <tbody>${hist.map(h => `<tr><td>${fmt(h.date)}</td><td>${h.price}</td></tr>`).join("")}</tbody>
+        <tbody>${hist.map(h => `<tr><td>${fmtDateTime(h.date)}</td><td>${h.price}</td></tr>`).join("")}</tbody>
       </table>` : "";
 
     detailContent.innerHTML = `
@@ -300,7 +420,7 @@
           <span class="lbl">Price</span>
           <span class="val detail-price">${p.price || "—"}</span>
           <span class="lbl">Last seen</span>
-          <span class="val">${fmt(p.last_seen)}</span>
+          <span class="val">${fmtDateTime(p.last_seen)}</span>
           <span class="lbl">Source</span>
           <span class="val">${p.url
             ? `<a href="${p.url}" target="_blank" rel="noopener">${p.source || p.url}</a>`
@@ -332,8 +452,8 @@
       <tr data-i="${i}" data-ctx="${encodeURIComponent(JSON.stringify(p))}">
         <td class="col-name">${p.name}</td>
         <td class="col-price">${p.price || "—"}</td>
-        <td class="col-meta">${fmt(p.last_seen)}</td>
-        <td class="col-meta">${p.source || "—"}</td>
+        <td class="col-meta col-date">${fmt(p.last_seen)}</td>
+        <td class="col-meta col-source">${p.source || "—"}</td>
       </tr>`).join("");
 
     resultsEl.innerHTML = `
@@ -347,6 +467,77 @@
     });
   }
 
+  /* ── grouped (consolidated tins) table ── */
+  function renderTinTable(tins, label) {
+    statusEl.textContent = label || "";
+    if (!tins.length) { resultsEl.innerHTML = ""; return; }
+    const rows = tins.map(t => {
+      const n = t.members.length;
+      const badge = n > 1 ? `<span class="tin-badge">${n} listings · ${t.years.join(", ")}</span>` : "";
+      return `
+      <tr>
+        <td class="col-name">${t.display_name}${badge}</td>
+        <td class="col-price">${tinPriceLabel(t)}</td>
+        <td class="col-meta col-date">${fmt(tinLastSeen(t))}</td>
+        <td class="col-meta col-source">${t.source || "—"}</td>
+      </tr>`;
+    }).join("");
+
+    resultsEl.innerHTML = `
+      <table>
+        <thead><tr><th>Tin</th><th>Per-Tin Price</th><th>Last Seen</th><th>Source</th></tr></thead>
+        <tbody>${rows}</tbody>
+      </table>`;
+
+    resultsEl.querySelectorAll("tbody tr").forEach((tr, i) => {
+      tr.addEventListener("click", () => showGroupDetail(tins[i]));
+    });
+  }
+
+  function showGroupDetail(t) {
+    history.pushState({ detail: t.id }, "", "");
+    const hasPack = t.members.some(m => m.pack_count > 1);
+    const members = t.members.slice().sort((a, b) => (a.year || "").localeCompare(b.year || ""));
+    const rows = members.map(m => {
+      const isPack = m.pack_count > 1;
+      const src = m.url
+        ? `<a href="${m.url}" target="_blank" rel="noopener">${m.source || "link"}</a>`
+        : (m.source || "—");
+      return `<tr>
+        <td>${m.year || "—"}</td>
+        <td class="${isPack ? "struck" : ""}">${m.listing_price || "—"}</td>
+        <td>${isPack ? m.pack_count + "×" : "1×"}</td>
+        <td class="pertin">${m.price || "—"}</td>
+        <td>${src}</td>
+        <td>${fmt(m.last_seen)}</td>
+      </tr>`;
+    }).join("");
+
+    const note = hasPack
+      ? `<div class="price-note">Per-tin price = listing price ÷ pack size. Multi-tin lots are divided to compare like-for-like.</div>`
+      : "";
+
+    detailContent.innerHTML = `
+      <div class="detail-card">
+        <div class="detail-name">${t.display_name}</div>
+        <div class="detail-meta">
+          <span class="lbl">Source</span><span class="val">${t.source || "—"}</span>
+          ${t.quantity ? `<span class="lbl">Tin size</span><span class="val">${t.quantity}</span>` : ""}
+          <span class="lbl">Listings</span><span class="val">${t.members.length}${t.years.length ? " · " + t.years.join(", ") : ""}</span>
+        </div>
+        <div class="detail-section-title">Listings &amp; Per-Tin Prices</div>
+        ${note}
+        <table class="history-table">
+          <thead><tr><th>Year</th><th>Listing</th><th>Pack</th><th>Per Tin</th><th>Source</th><th>Last Seen</th></tr></thead>
+          <tbody>${rows}</tbody>
+        </table>
+      </div>`;
+
+    mainView.style.display = "none";
+    detailView.style.display = "block";
+    window.scrollTo(0, 0);
+  }
+
   function bySource(list) {
     return list.filter(p => ACTIVE_SOURCES.has(p.source));
   }
@@ -356,8 +547,19 @@
   function render() {
     const q = qEl.value.trim().toLowerCase();
 
+    if (VIEW_MODE === "grouped") {
+      let list = TINS.filter(t => ACTIVE_SOURCES.has(t.source));
+      if (q) list = list.filter(t =>
+        t.display_name.toLowerCase().includes(q) ||
+        t.members.some(m => (m.name || "").toLowerCase().includes(q)));
+      renderTinTable(list, q
+        ? `${list.length} tin${list.length === 1 ? "" : "s"} for "${qEl.value.trim()}"`
+        : "");
+      return;
+    }
+
     if (!q) {
-      renderTable(bySource(RECENT_PRODUCTS), "");
+      renderTable(bySource(ALL_PRODUCTS), "");
       return;
     }
     const list = bySource(ALL_PRODUCTS).filter(p => p.name.toLowerCase().includes(q));
@@ -367,14 +569,22 @@
     );
   }
 
+  // Sources on by default, in display order (others follow, alphabetical, off).
+  const DEFAULT_ON = ["pipestud.com", "Tinbids BIN (Sold)", "Tinbids Auction (Sold)"];
+
   function buildSourceFilters() {
-    const sources = [...new Set(ALL_PRODUCTS.map(p => p.source).filter(Boolean))].sort();
-    ACTIVE_SOURCES = new Set(sources);  // all on by default
+    const present = new Set(ALL_PRODUCTS.map(p => p.source).filter(Boolean));
+    const leading = DEFAULT_ON.filter(s => present.has(s));
+    const rest = [...present].filter(s => !DEFAULT_ON.includes(s)).sort();
+    const sources = [...leading, ...rest];
+
+    ACTIVE_SOURCES = new Set(leading);  // only the defaults start on
     const wrap = document.getElementById("source-filters");
     wrap.innerHTML = "";
     sources.forEach(src => {
+      const on = ACTIVE_SOURCES.has(src);
       const btn = document.createElement("button");
-      btn.className = "chip on";
+      btn.className = on ? "chip on" : "chip";
       btn.textContent = src;
       btn.addEventListener("click", () => {
         if (ACTIVE_SOURCES.has(src)) ACTIVE_SOURCES.delete(src);
@@ -409,6 +619,7 @@
 
   qEl.addEventListener("input", () => {
     const q = qEl.value.trim().toLowerCase();
+    if (VIEW_MODE === "grouped") { closeDropdown(); render(); return; }
     if (!q) { closeDropdown(); render(); return; }
     openDropdown(bySource(ALL_PRODUCTS).filter(p => p.name.toLowerCase().includes(q)));
     render();
@@ -441,33 +652,51 @@
 
   /* ── load ── */
   // Each source writes its own file; add new sources here.
-  const SOURCE_FILES = ["products.json", "products_tinbids.json", "products_treasuredsmokes.json"];
+  const SOURCE_FILES = ["products.json", "products_tinbids.json", "products_treasuredsmokes.json", "products_4noggins.json"];
 
   async function loadData() {
     const datasets = await Promise.all(SOURCE_FILES.map(f =>
       fetch(f).then(r => r.ok ? r.json() : null).catch(() => null)
     ));
+    const canonical = await fetch("canonical.json")
+      .then(r => r.ok ? r.json() : null).catch(() => null);
 
-    let products = [], recent = [];
+    let products = [];
     for (const data of datasets) {
       if (!data) continue;
       products = products.concat(data.products || []);
-      recent = recent.concat(data.latest_scrape || []);
     }
 
     const byName = (a, b) => (a.name || "").localeCompare(b.name || "", "en", { sensitivity: "base" });
     ALL_PRODUCTS = products.sort(byName);
-    RECENT_PRODUCTS = recent.sort(byName);
+    TINS = (canonical && canonical.tins ? canonical.tins : []).slice()
+      .sort((a, b) => byName({ name: a.display_name }, { name: b.display_name }));
 
     if (!ALL_PRODUCTS.length) {
       statusEl.textContent = "Could not load catalog. Please try refreshing.";
       return;
     }
 
-    metaEl.textContent = "Price history for resale tobacco tins.";
+    // Hide the Grouped toggle entirely if no consolidation data is present.
+    if (!TINS.length) document.getElementById("view-toggle").style.display = "none";
+
+    metaEl.textContent = "";
     buildSourceFilters();
     render();
   }
+
+  /* ── view toggle wiring ── */
+  const viewAllBtn = document.getElementById("view-all");
+  const viewGroupedBtn = document.getElementById("view-grouped");
+  function setView(mode) {
+    VIEW_MODE = mode;
+    viewAllBtn.classList.toggle("on", mode === "all");
+    viewGroupedBtn.classList.toggle("on", mode === "grouped");
+    closeDropdown();
+    render();
+  }
+  viewAllBtn.addEventListener("click", () => setView("all"));
+  viewGroupedBtn.addEventListener("click", () => setView("grouped"));
 
   loadData();
 </script>
