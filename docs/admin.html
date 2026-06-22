@@ -85,6 +85,25 @@
 
     .card.error { border-color: #e0b4a4; }
     .card.error .stat-big { color: #b06a50; font-size: 1.1rem; font-family: "Work Sans", sans-serif; }
+
+    /* ── scrape history ── */
+    details.history { margin-top: .9rem; border-top: 1px solid #efe4d0; padding-top: .6rem; }
+    details.history summary {
+      cursor: pointer; font-size: .8rem; font-weight: 600; color: #9b7b5a;
+      list-style: none; outline: none; user-select: none;
+    }
+    details.history summary::-webkit-details-marker { display: none; }
+    details.history summary::before { content: "▸ "; color: #cf8a73; }
+    details.history[open] summary::before { content: "▾ "; }
+    .hist-scroll { max-height: 220px; overflow-y: auto; margin-top: .55rem; }
+    .hist-row { display: flex; justify-content: space-between; gap: .8rem; font-size: .8rem; padding: .26rem 0; border-bottom: 1px solid #f2e8d6; }
+    .hist-row:last-child { border-bottom: none; }
+    .hist-row .when { color: #5a3a24; }
+    .hist-row .hist-meta { color: #b89a78; font-size: .72rem; }
+    .hist-row .cnt { color: #3f6b2e; font-weight: 600; white-space: nowrap; }
+    .hist-row .cnt.zeroadd { color: #b89a78; }
+    .hist-empty { font-size: .8rem; color: #b89a78; font-style: italic; margin-top: .5rem; }
+    .hist-note { font-size: .68rem; color: #b89a78; margin-top: .55rem; font-style: italic; }
   </style>
 </head>
 <body>
@@ -148,6 +167,64 @@
       return (data.products || []).filter(p => p.first_seen === last).length;
     }
 
+    // Scrape history merges two sources, keyed by timestamp:
+    //   • data.scrape_history — the persistent run-by-run log (added going
+    //     forward). Rich: includes zero-add runs, price changes, catalog total.
+    //   • reconstructed from product first_seen — covers runs that predate the
+    //     log (each distinct first_seen = a run that added that many listings).
+    // The log wins on shared timestamps; reconstructed-only events fill the past.
+    function scrapeHistory(data) {
+      const byTs = new Map();
+
+      // Reconstructed add-events (older history, before the log existed).
+      const recon = new Map();
+      for (const p of (data.products || [])) {
+        if (!p.first_seen) continue;
+        recon.set(p.first_seen, (recon.get(p.first_seen) || 0) + 1);
+      }
+      for (const [ts, n] of recon) {
+        byTs.set(ts, { date: ts, added: n, logged: false });
+      }
+
+      // Persistent log entries override/augment by timestamp.
+      for (const e of (data.scrape_history || [])) {
+        if (!e || !e.date) continue;
+        byTs.set(e.date, {
+          date: e.date,
+          added: e.added ?? 0,
+          price_changed: e.price_changed,
+          total: e.total,
+          logged: true,
+        });
+      }
+
+      return [...byTs.values()].sort((a, b) => new Date(b.date) - new Date(a.date));
+    }
+
+    function historyBlock(data) {
+      const hist = scrapeHistory(data);
+      if (!hist.length) {
+        return `<details class="history"><summary>Scrape history</summary>
+          <div class="hist-empty">No scrape history recorded yet.</div></details>`;
+      }
+      const rows = hist.map(h => {
+        const meta = [];
+        if (h.price_changed) meta.push(`~${fmtInt(h.price_changed)} price`);
+        if (h.total != null) meta.push(`${fmtInt(h.total)} total`);
+        const metaStr = meta.length ? ` <span class="hist-meta">· ${meta.join(" · ")}</span>` : "";
+        const addCls = h.added > 0 ? "" : " zeroadd";
+        return `<div class="hist-row">
+            <span class="when">${fmtDateTime(h.date)}${metaStr}</span>
+            <span class="cnt${addCls}">+${fmtInt(h.added)}</span>
+          </div>`;
+      }).join("");
+      return `<details class="history" open>
+        <summary>Scrape history (${hist.length} runs)</summary>
+        <div class="hist-scroll">${rows}</div>
+        <div class="hist-note">Newest first. Per-run counts logged from now on; earlier rows reconstructed from when listings first appeared.</div>
+      </details>`;
+    }
+
     function card(src, data) {
       if (!data) {
         return `<div class="card error">
@@ -177,6 +254,7 @@
           <div class="row"><span class="k"></span><span class="v rel">${relTime(last)}</span></div>
           ${extra}
         </div>
+        ${historyBlock(data)}
       </div>`;
     }
 
