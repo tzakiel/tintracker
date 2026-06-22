@@ -45,6 +45,8 @@
       box-shadow: 0 4px 14px rgba(90,58,36,.22);
     }
     header h1 { font-size: 1.7rem; letter-spacing: .03em; }
+    .brand { display: flex; align-items: center; justify-content: center; gap: .8rem; }
+    .brand-tin { width: 3.2rem; height: auto; flex: 0 0 auto; color: #f5e8c8; }
     header p  { margin-top: .35rem; font-size: .85rem; color: #e6c79c; text-wrap: balance; }
     header p.coffee { margin-top: .6rem; font-size: .85rem; color: #e6c79c; }
     header p.coffee a { color: #ffe9c2; text-decoration: underline; text-underline-offset: 2px; }
@@ -171,6 +173,8 @@
     /* ── mobile cards ── */
     @media (max-width: 600px) {
       header h1 { font-size: 1.3rem; }
+      .brand { gap: .6rem; }
+      .brand-tin { width: 2.4rem; }
       header p { max-width: 17rem; margin-left: auto; margin-right: auto; }
 
       table, thead, tbody, tr, td { display: block; }
@@ -304,7 +308,21 @@
 <body>
 
 <header>
-  <h1><a href="#" onclick="qEl.value='';render();return false;" style="color:inherit;text-decoration:none;">Tin Tracker</a></h1>
+  <div class="brand">
+    <h1><a href="#" onclick="qEl.value='';render();return false;" style="color:inherit;text-decoration:none;">Tin Tracker</a></h1>
+    <svg class="brand-tin" viewBox="6 22 94 50" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" stroke="currentColor" stroke-linejoin="round" stroke-linecap="round">
+      <!-- body, rounded corners (3/4 view) -->
+      <path d="M15.52 39.76 L30.48 30.24 Q34 28 43.6 28.96 L84.4 33.04 Q94 34 94 36.88 L94 49.12 Q94 52 90.48 54.24 L75.52 63.76 Q72 66 62.4 65.04 L21.6 60.96 Q12 60 12 57.12 L12 44.88 Q12 42 15.52 39.76 Z" fill="currentColor" fill-opacity=".10" stroke-width="2.2"/>
+      <!-- lid top face, rounded corners -->
+      <path d="M21.6 42.96 L62.4 47.04 Q72 48 75.52 45.76 L90.48 36.24 Q94 34 84.4 33.04 L43.6 28.96 Q34 28 30.48 30.24 L15.52 39.76 Q12 42 21.6 42.96 Z" fill="currentColor" fill-opacity=".14" stroke-width="2.2"/>
+      <!-- front-long & right-short top edges + front-right vertical -->
+      <path d="M12 42 L72 48 L94 34 M72 48 L72 66" stroke-width="2.2"/>
+      <!-- lid seam wrapping the body (front + right) -->
+      <path d="M12 50 L72 56 L94 42" stroke-width="1.6" opacity=".85"/>
+      <!-- faint label panel on the lid -->
+      <path d="M21 41 L67.8 45.8 L85 34.9 L38.2 30.2 Z" stroke-width="1.3" opacity=".5"/>
+    </svg>
+  </div>
   <p>A simple function: track the value of resale pipe tobacco tins.</p>
   <p class="coffee">If this made you happy in any way, feel free to <a href="mailto:tzakiel@gmail.com">say thanks</a> or 
     <a href="https://buymeacoffee.com/vandal_heart" target="_blank" rel="noopener">buy me a coffee<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 9h11v5a4 4 0 0 1-4 4H9a4 4 0 0 1-4-4z"/><path d="M16 10h2.5a2.2 2.2 0 0 1 0 4.4H16"/><path d="M8 2.6q1 1.2 0 2.6M11 2.6q1 1.2 0 2.6M14 2.6q1 1.2 0 2.6"/><path d="M5 21h12"/></svg></a>.</p>
