@@ -202,10 +202,14 @@ def main():
     sold_found = []
     if due and session is None:
         session = cloudscraper.create_scraper()
+    revisit_errors = 0
     for p in due:
         try:
-            html = session.get(p["url"], timeout=30).text
+            html = _get(session, p["url"]).text  # same retry window as browse —
+                                                  # a single GET gets Cloudflare-blocked
+                                                  # from CI datacenter IPs
         except Exception as e:
+            revisit_errors += 1
             print(f"[Tinbids] revisit error {p['url']}: {e}")
             continue
         closed, sold_price, bids = _parse_ended_sale(html)
@@ -218,6 +222,12 @@ def main():
             })
         pending.pop(p["url"], None)  # ended (sold or not) — stop watching
         time.sleep(0.4)
+
+    # If most revisits failed we're likely being blocked — surface it loudly so a
+    # block doesn't look like a quiet "no sales today" (data is still kept).
+    if due and revisit_errors > len(due) // 2:
+        print(f"[Tinbids] WARNING: {revisit_errors}/{len(due)} revisits failed — "
+              f"likely blocked; sales may be undercounted this run.", file=sys.stderr)
 
     scrape_core.merge_products(data, sold_found, now)
     # The catalog is entirely sales, so the homepage snapshot is all of them.
