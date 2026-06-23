@@ -53,7 +53,7 @@ SYSTEM = """You normalize messy pipe-tobacco listing titles into a clean blend i
 For each title return:
   brand      The manufacturer / house. Canonical, no possessive, no era. "McClelland's" -> "McClelland", "Robert McConnell's" -> "Robert McConnell". Keep ampersands ("Cornell & Diehl", "Gawith & Hoggarth"). "" if you genuinely can't tell.
   blend      The blend/product name ONLY — no brand, no size, no year, no condition words, no lot/pack counts, no auction cruft (NR, BIN, $price, "Sealed", "Very Nice", "Collectible Tobacco Sealed Tin", "Bid or Buy Now"). Expand obvious abbreviations ("Syr." -> "Syrian", "Va." -> "Virginia"). Drop series/line prefixes from the blend only when they are clearly a collection label, but keep them if they're part of the blend's actual name.
-  is_tin     true for a single retail pipe-tobacco blend (one tin, jar, bag, or an N-pack/lot of the SAME blend). false for cigars, variety/sampler/assortment packs with DIFFERENT blends, multi-blend lots, or blending-chest sets — anything whose price can't be attributed to one blend.
+  is_tin     true ONLY for a SINGLE retail pipe-tobacco tin/jar/bag of ONE blend. false for any multi-tin listing — multi-packs, N-packs, "lot of N", "N tins/bags of …", "several tins" (even of the SAME blend) — and for cigars, variety/sampler/assortment packs, multi-blend lots, or blending-chest sets. Anything that isn't exactly one tin is false; those listings are dropped, not tracked.
   confidence 0.0–1.0. Be honest: lower it when brand vs. blend is ambiguous, when a token might be a reseller/collection rather than the maker, or when the title is barely parseable.
 
 Rules of thumb:
@@ -64,7 +64,7 @@ Rules of thumb:
 Examples:
   "McClelland’s Christmas Cheer 100g tin – Year 2014" -> brand "McClelland", blend "Christmas Cheer", is_tin true, confidence 0.98
   "Mullingar’s Syr. Latakia Kenmare 2oz tin – 1980’s …" -> brand "Mullingar", blend "Syrian Latakia Kenmare", is_tin true, confidence 0.9
-  "Lot of 2 Excellent 2019 & 2020 Cornell & Diehl Kings Stride Warped Series Until the End 2oz. Tins" -> brand "Cornell & Diehl", blend "Until the End", is_tin true, confidence 0.85
+  "Lot of 2 Excellent 2019 & 2020 Cornell & Diehl Kings Stride Warped Series Until the End 2oz. Tins" -> brand "Cornell & Diehl", blend "Until the End", is_tin false, confidence 0.9
   "Very Nice Sealed 2018 Dunhill My Mixture 965 50g. Tin" -> brand "Dunhill", blend "My Mixture 965", is_tin true, confidence 0.95
   "Ashton: BLACK PARROT 50g 2003 - C" -> brand "Ashton", blend "Black Parrot", is_tin true, confidence 0.97
   "Fuente and Montecristo Bundle" -> brand "", blend "", is_tin false, confidence 0.95

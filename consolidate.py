@@ -5,14 +5,19 @@ separate docs/canonical.json. Deleting that file fully reverts the feature.
 
 Blend identity (brand + blend) comes from the LLM-extracted blend_cache.json,
 with overrides.json winning over it (see extract.py / build_cache.py). The
-deterministic bits — tin size, year, pack count, per-tin price — are still
-parsed here with regex, because those are reliable.
+deterministic bits — tin size, year, price — are still parsed here with regex,
+because those are reliable.
+
+We only track SINGLE tins. Multi-tin listings — multi-packs, lots, variety /
+sampler / assortment packs, "3 bags of …", "several tins", etc. — are dropped
+entirely (see _is_multi); a price spread across several tins can't be compared
+like-for-like against a single tin, so we don't capture it at all.
 
 A "tin" is one (brand, blend, size). Year-variants collapse together (e.g.
 McClelland Christmas Cheer 100g across 2008–2017 = one tin, many price points),
 and the SAME blend from DIFFERENT vendors collapses too (cross-source). Listings
-with no clean identity (unknown brand, or not a single blend — variety packs,
-cigars) stay as a group of one, never mis-merged.
+with no clean identity (unknown brand, or not a single blend — cigars, bundles)
+stay as a group of one, never mis-merged.
 """
 import json
 import os
@@ -23,6 +28,7 @@ HERE = os.path.dirname(__file__)
 DOCS = os.path.join(HERE, "docs")
 OUT_FILE = os.path.join(DOCS, "canonical.json")
 LOG_FILE = os.path.join(DOCS, "unmatched.log")
+EXCLUDED_LOG = os.path.join(DOCS, "excluded.log")
 CACHE_FILE = os.path.join(HERE, "blend_cache.json")
 OVERRIDES_FILE = os.path.join(HERE, "overrides.json")
 
@@ -34,35 +40,35 @@ SOURCE_FILES = [
 ]
 
 # tin weight, in a name OR a free-text description: "50g", "100 grams", "2oz",
-# "2 ounce", "1-3/4 oz", "1.76oz". (NOT pack counts — that's PACK_RE.)
+# "2 ounce", "1-3/4 oz", "1.76oz". (This is a single tin's weight, not a count.)
 QTY_RE = re.compile(r"(\d+\s*(?:g|grams?)\b|\d[\d.\-/]*\s*(?:oz|ounces?)\b)", re.I)
 YEAR_RE = re.compile(r"\b(19|20)\d{2}\b")
-PACK_RE = re.compile(r"(?:lot of\s*(\d+)|(\d+)\s*[-\s]?pack|(\d+)\s*x\b)", re.I)
-VARIETY_RE = re.compile(r"\b(variety|sampler|assort\w*)\b", re.I)
+
+# A listing that is NOT a single tin: multi-packs, lots, variety/sampler packs,
+# or any multi-tin quantity. We drop these entirely — only single tins are
+# tracked. Note "8oz. Pack" (a single large pack) is fine: the digit there is a
+# weight, not a count, so it doesn't match.
+_NUM_WORD = r"(?:two|three|four|five|six|seven|eight|nine|ten)"
+MULTI_RE = re.compile(
+    r"""
+      \b\d+\s*[-\s]?packs?\b                                   # 3-pack, 4 pack, 5 packs
+    | \b\d+\s*[-\s]?pk\b                                       # 3pk
+    | \bpack\s+of\s+\d+\b                                      # pack of 3
+    | \b\d+\s*x\b                                              # 4x, 2 x 50g
+    | \b(?:lot|box|set|bundle|case)\s+of\s+\d+\b               # lot of 2, box of 3
+    | \b\d+\s+(?:tins|jars|bags|pouches|tubs|boxes|cans)\b     # 2 tins, 3 bags, 15 tins
+    | \b""" + _NUM_WORD + r"""\s+(?:tins|jars|bags|pouches|tubs|boxes|cans|packs?)\b  # two tins
+    | \b(?:several|multiple)\b                                 # several tins, multiple
+    | \b(?:variety|sampler|assort\w*)\b                        # variety / sampler / assortment
+    """,
+    re.I | re.X,
+)
 
 
-def _pack_count(s):
-    if VARIETY_RE.search(s or ""):
-        return None
-    m = PACK_RE.search(s or "")
-    if m:
-        try:
-            n = int(m.group(1) or m.group(2) or m.group(3))
-            if n > 1:
-                return n
-        except (TypeError, ValueError):
-            pass
-    return 1
-
-
-def _divide_price(price, pack):
-    if not pack or pack <= 1:
-        return price
-    m = re.search(r"[\d,]+(?:\.\d+)?", price or "")
-    if not m:
-        return price
-    val = float(m.group(0).replace(",", ""))
-    return "${:,.2f}".format(val / pack)
+def _is_multi(s):
+    """True if the listing is a multi-pack / lot / variety pack — anything that
+    isn't a single tin and so gets dropped from the catalog."""
+    return bool(MULTI_RE.search(s or ""))
 
 
 def _norm(s):
@@ -104,7 +110,8 @@ def main():
     groups = {}
     name_to_id = {}
     unmatched = []
-    counts = {"listings": 0, "grouped_tins": 0, "collapsed_listings": 0}
+    excluded = []
+    counts = {"listings": 0, "grouped_tins": 0, "collapsed_listings": 0, "excluded": 0}
 
     for fname in SOURCE_FILES:
         path = os.path.join(DOCS, fname)
@@ -116,25 +123,27 @@ def main():
             name = (p.get("name") or "").strip()
             source = p.get("source", fname)
 
+            # Multi-packs, lots, and variety packs are not single tins — drop them.
+            if _is_multi(name):
+                counts["excluded"] += 1
+                excluded.append(f"[{source}] {name}")
+                continue
+
             id_rec = ident.get(name, {})
             brand = (id_rec.get("brand") or "").strip()
             blend = (id_rec.get("blend") or "").strip()
             is_tin = id_rec.get("is_tin", True)
 
-            pc = _pack_count(name)
-            pack = pc if pc else 1
-            listing_price = p.get("price", "")
             quantity = (_qty(name) or p.get("weight", "") or _qty(p.get("description", "")))
 
             member = {
                 "name": name, "source": source, "url": p.get("url", ""),
-                "listing_price": listing_price, "pack_count": pack,
-                "price": _divide_price(listing_price, pack),
+                "price": p.get("price", ""),
                 "last_seen": p.get("last_seen", ""),
                 "first_seen": p.get("first_seen", ""),
                 "year": _year(name),
                 "price_history": [
-                    {"price": _divide_price(h.get("price", ""), pack), "date": h.get("date", "")}
+                    {"price": h.get("price", ""), "date": h.get("date", "")}
                     for h in p.get("price_history", [])
                 ],
             }
@@ -182,6 +191,7 @@ def main():
         "generated": datetime.now(timezone.utc).isoformat(),
         "stats": {
             "total_listings": counts["listings"],
+            "excluded_multipacks": counts["excluded"],
             "total_tins": len(tins),
             "multi_member_tins": counts["grouped_tins"],
             "listings_in_groups": counts["collapsed_listings"],
@@ -195,9 +205,14 @@ def main():
         f.write(f"# {len(unmatched)} listings have no clean blend identity "
                 f"(left as standalone tins):\n\n")
         f.write("\n".join(sorted(unmatched)) + "\n")
+    with open(EXCLUDED_LOG, "w", encoding="utf-8") as f:
+        f.write(f"# {len(excluded)} multi-pack / lot / variety-pack listings "
+                f"dropped (not single tins):\n\n")
+        f.write("\n".join(sorted(excluded)) + "\n")
 
     s = out["stats"]
     print(f"Listings: {s['total_listings']}  ->  Tins: {s['total_tins']}")
+    print(f"Excluded multi-packs/lots: {s['excluded_multipacks']}  — see {os.path.basename(EXCLUDED_LOG)}")
     print(f"Multi-member tins: {s['multi_member_tins']} "
           f"(collapsing {s['listings_in_groups']} listings)")
     print(f"Cross-source tins: {s['cross_source_tins']}")
