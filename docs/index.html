@@ -210,7 +210,7 @@
       .col-price  { order: -2; grid-column: 1 / -1; }
       td.col-source {
         order: 1; grid-column: 1 / -1;
-        margin-top: .85rem; padding-top: .85rem;   /* buffer below the meta trio */
+        margin-top: 1.25rem; padding-top: 1rem;   /* buffer below the meta trio */
         border-top: 1px solid #efe4d0;
       }
 
@@ -859,18 +859,25 @@
     }
 
     const byName = (a, b) => (a.name || "").localeCompare(b.name || "", "en", { sensitivity: "base" });
-    ALL_PRODUCTS = products.sort(byName);
     TINS = (canonical && canonical.tins ? canonical.tins : []).slice()
       .sort((a, b) => byName({ name: a.display_name }, { name: b.display_name }));
     // Tolerate an older canonical.json that only had a singular `source`.
     TINS.forEach(t => { if (!t.sources) t.sources = t.source ? [t.source] : []; });
 
-    // name -> { weight, year } lookup so the raw "All listings" view can show
-    // tin size and year (those live on the canonical tins, not the raw records).
+    // canonical.json holds exactly the single tins we track — consolidate.py has
+    // already dropped multi-packs, lots, variety packs, bundles, cigars. Build the
+    // size/year lookup AND the set of kept names from its members.
     ENRICH = {};
+    const kept = new Set();
     for (const t of TINS) for (const m of (t.members || [])) {
       ENRICH[m.name] = { weight: t.quantity || "", year: m.year || "" };
+      kept.add(m.name);
     }
+    // "All listings" mirrors the Grouped view's exclusions: show only kept tins.
+    // If canonical failed to load, fall back to showing everything raw.
+    ALL_PRODUCTS = (kept.size
+      ? products.filter(p => kept.has((p.name || "").trim()))
+      : products).sort(byName);
 
     if (!ALL_PRODUCTS.length) {
       statusEl.textContent = "Could not load catalog. Please try refreshing.";
