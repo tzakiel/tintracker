@@ -190,56 +190,59 @@
       tbody tr {
         background: #fffdf8;
         border-radius: 16px;
-        margin-bottom: .75rem;
-        padding: .85rem 1.1rem;
+        margin-bottom: .85rem;
+        padding: .9rem 1.1rem;
         box-shadow: 0 2px 8px rgba(90,58,36,.1);
-        display: flex;
-        flex-wrap: wrap;
-        align-items: baseline;
-        gap: .35rem .75rem;
         cursor: pointer;
       }
       tbody tr:nth-child(even) { background: #fffdf8; }
       tbody tr:hover { background: #f7e3d8; }
 
+      /* product name = card title */
       .col-name {
-        order: 1;
-        flex: 1 1 60%;
+        width: auto;
+        max-width: none;
         white-space: normal;
         overflow: hidden;
         display: -webkit-box;
-        -webkit-line-clamp: 4;
+        -webkit-line-clamp: 3;
         -webkit-box-orient: vertical;
         text-overflow: ellipsis;
-        max-width: none;
-        font-size: .9rem;
+        font-size: .95rem;
+        font-weight: 600;
         color: #7a4a1a;
+        margin: 0 0 .55rem;
+        padding-bottom: .55rem;
+        border-bottom: 1px solid #efe4d0;
       }
-      .col-price {
-        order: 2;
-        font-size: .9rem;
-        font-weight: bold;
-        margin-left: auto;
-        flex-shrink: 0;
-        text-align: right;
+
+      /* every other field: label on the left, value on the right */
+      td.col-meta, td.col-price {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        gap: 1rem;
+        width: auto;
+        white-space: normal;
+        padding: .2rem 0;
+        font-size: .85rem;
+        color: #6b5640;
       }
-      /* second line: size · year · source · last seen */
-      .col-meta {
-        display: block;
+      td.col-meta::before, td.col-price::before {
+        content: attr(data-label);
         flex: 0 0 auto;
-        font-size: .78rem;
-        color: #8a6a4a;
-        white-space: nowrap;
+        color: #a07d57;
+        font-size: .7rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: .04em;
+        align-self: center;
       }
-      .col-size      { order: 3; }
-      .col-year      { order: 4; }
-      .col-source    { order: 5; }
-      .col-firstseen { order: 6; }
-      .col-date      { order: 7; }
-      .col-year::before,
-      .col-source::before,
-      .col-firstseen::before,
-      .col-date::before { content: "·"; margin-right: .55rem; color: #c4a987; }
+      td.col-price {
+        font-size: .95rem;
+        font-weight: 700;
+        color: #2c2015;
+      }
       #mobile-sort { display: block; }
     }
 
@@ -489,7 +492,7 @@
     const arrow = k => SORT.key === k ? `<span class="sort-ind">${SORT.dir === "asc" ? "▲" : "▼"}</span>` : "";
     const head = columns.map(c => `<th data-key="${c.key}">${c.label} ${arrow(c.key)}</th>`).join("");
     const body = sorted.map(r =>
-      `<tr>${columns.map(c => `<td class="${c.cls}">${c.cell(r)}</td>`).join("")}</tr>`
+      `<tr>${columns.map(c => `<td class="${c.cls}" data-label="${c.label}">${c.cell(r)}</td>`).join("")}</tr>`
     ).join("");
     resultsEl.innerHTML = `<table><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>`;
 
@@ -521,8 +524,6 @@
         cell: p => p.price || "—", sortVal: p => { const n = parseMoney(p.price); return n == null ? -1 : n; } },
       { key: "first",  label: "First Seen", cls: "col-meta col-firstseen",
         cell: p => fmt(p.first_seen), sortVal: p => p.first_seen || "" },
-      { key: "date",   label: "Last Seen", cls: "col-meta col-date",
-        cell: p => fmt(p.last_seen), sortVal: p => p.last_seen || "" },
       { key: "source", label: "Source",    cls: "col-meta col-source",
         cell: p => p.source || "—", sortVal: p => (p.source || "").toLowerCase() },
     ];
