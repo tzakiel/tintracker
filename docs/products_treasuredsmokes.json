@@ -1,246 +1,6 @@
 {
   "products": [
     {
-      "name": "Dunhill Flake - 2012",
-      "price": "$60.00",
-      "url": "https://www.treasuredsmokes.com/product-page/dunhill-flake-2012",
-      "source": "Treasured Smokes",
-      "first_seen": "2026-06-20T18:32:06.142896+00:00",
-      "last_seen": "2026-06-23T19:16:19.601534+00:00",
-      "price_history": [
-        {
-          "price": "$60.00",
-          "date": "2026-06-20T18:32:06.142896+00:00"
-        }
-      ],
-      "description": "Medium strength flake of selected grades of lemon and bronze Virginias. One of Dunhill's most expert blends of highest quality."
-    },
-    {
-      "name": "Balkan Luxury Blend 957",
-      "price": "$40.00",
-      "url": "https://www.treasuredsmokes.com/product-page/balkan-luxury-blend-957",
-      "source": "Treasured Smokes",
-      "first_seen": "2026-06-20T18:32:06.142896+00:00",
-      "last_seen": "2026-06-23T19:16:19.601534+00:00",
-      "price_history": [
-        {
-          "price": "$40.00",
-          "date": "2026-06-20T18:32:06.142896+00:00"
-        }
-      ],
-      "description": "An intermingling of Oriental, Perique, Latakia, Virginia, and Black Cavendish."
-    },
-    {
-      "name": "Limited Run - Cobblestone Plum Rum",
-      "price": "$28.00",
-      "url": "https://www.treasuredsmokes.com/product-page/limited-run-cobblestone-plum-rum",
-      "source": "Treasured Smokes",
-      "first_seen": "2026-06-20T18:32:06.142896+00:00",
-      "last_seen": "2026-06-23T19:16:19.601534+00:00",
-      "price_history": [
-        {
-          "price": "$28.00",
-          "date": "2026-06-20T18:32:06.142896+00:00"
-        }
-      ],
-      "description": "Released in 2023, Cobblestone's Limited Pressed Plum Rum tobacco stays true to the brand's penchant for producing high quality Aromatic blends, here presented in a pressed, crumble cake form for a full melding of flavors. Comprising a mixture of Virginias, Cavendish, and Burley tobaccos with a judicious pinch of Latakia, the Limited Pressed Plum Rum offers a mild, easygoing smoke, and is topped wi"
-    },
-    {
-      "name": "Mt. Marcy - 8 Ounce Can",
-      "price": "$90.00",
-      "url": "https://www.treasuredsmokes.com/product-page/mt-marcy-8-ounce-can",
-      "source": "Treasured Smokes",
-      "first_seen": "2026-06-20T18:32:06.142896+00:00",
-      "last_seen": "2026-06-23T19:16:19.601534+00:00",
-      "price_history": [
-        {
-          "price": "$90.00",
-          "date": "2026-06-20T18:32:06.142896+00:00"
-        }
-      ],
-      "description": "This elegant blend gets its name from the highest peak in New York. This is medium-bodied Balkan blend has a complex, delicate flavor and aroma, due in part to the use of fragrant Dubec in combination with other Orientals, Latakia and choice Virginias. A great choice when you want the richness of Latakia and the bouquet of Turkish tobaccos, but don't want anything too heavy. &nbsp; 8 ounce can fro"
-    },
-    {
-      "name": "Brigadier Black - Bull Run - 2013!",
-      "price": "$72.00",
-      "url": "https://www.treasuredsmokes.com/product-page/copy-of-brigadier-black-bull-run-2013",
-      "source": "Treasured Smokes",
-      "first_seen": "2026-06-20T18:32:06.142896+00:00",
-      "last_seen": "2026-06-23T19:16:19.601534+00:00",
-      "price_history": [
-        {
-          "price": "$72.00",
-          "date": "2026-06-20T18:32:06.142896+00:00"
-        }
-      ],
-      "description": "A mix of black Cavendish and golden Burleys with a gentle splash of vanilla. This is a smooth and mellow smoke that can easily become one of your everyday choices.&nbsp; &nbsp; 8 ounce can!"
-    },
-    {
-      "name": "Brigadier Black - Gettysburg - 2013!",
-      "price": "$72.00",
-      "url": "https://www.treasuredsmokes.com/product-page/brigadier-black-gettysburg-2013",
-      "source": "Treasured Smokes",
-      "first_seen": "2026-06-20T18:32:06.142896+00:00",
-      "last_seen": "2026-06-23T19:16:19.601534+00:00",
-      "price_history": [
-        {
-          "price": "$72.00",
-          "date": "2026-06-20T18:32:06.142896+00:00"
-        }
-      ],
-      "description": "A real crowd pleaser. The Gettysburg blend consists of nutty Burleys and zesty Virginias, paired with a hint of fresh peaches. With its sweet and silky flavor this blend will take you back to summer.&nbsp; &nbsp; 8 ounce can!"
-    },
-    {
-      "name": "Brigadier Black - Alamo - 2013!",
-      "price": "$72.00",
-      "url": "https://www.treasuredsmokes.com/product-page/brigadier-black-alamo-2013",
-      "source": "Treasured Smokes",
-      "first_seen": "2026-06-20T18:32:06.142896+00:00",
-      "last_seen": "2026-06-23T19:16:19.601534+00:00",
-      "price_history": [
-        {
-          "price": "$72.00",
-          "date": "2026-06-20T18:32:06.142896+00:00"
-        }
-      ],
-      "description": "A mellow Burley and smooth black Cavendish blend encased with sweet notes of nougat and rich mocha. This delicious blend will light up any room with its pleasant aroma. &nbsp; 8 ounce can!"
-    },
-    {
-      "name": "Brigadier Black - Sherman's March - 2013!",
-      "price": "$72.00",
-      "url": "https://www.treasuredsmokes.com/product-page/brigadier-black-sherman-s-march-2013",
-      "source": "Treasured Smokes",
-      "first_seen": "2026-06-20T18:32:06.142896+00:00",
-      "last_seen": "2026-06-23T19:16:19.601534+00:00",
-      "price_history": [
-        {
-          "price": "$72.00",
-          "date": "2026-06-20T18:32:06.142896+00:00"
-        }
-      ],
-      "description": "Sherman's March is a true American blend paying tribute to those blends that came before it. It pairs mellow, nutty Burleys with sweet Virginias, finished off with a shot of rum and warm maple flavors. Sit back and enjoy the old-fashioned experience that this blend provides. &nbsp; 8 ounce can!"
-    },
-    {
-      "name": "Rattray's - Hal O' Thy Wynd - 2011!",
-      "price": "$54.00",
-      "url": "https://www.treasuredsmokes.com/product-page/rattray-s-hal-o-thy-wynd-2011",
-      "source": "Treasured Smokes",
-      "first_seen": "2026-06-20T18:32:06.142896+00:00",
-      "last_seen": "2026-06-23T19:16:19.601534+00:00",
-      "price_history": [
-        {
-          "price": "$54.00",
-          "date": "2026-06-20T18:32:06.142896+00:00"
-        }
-      ],
-      "description": "This Rattray's mixture is a stronger, sharp aged red Virginia blend that will perk you up quickly. Hal O' The Wynd is always ranked near the top for fantastic Virginias to smoke now and save some for the cellar. &nbsp; 100g"
-    },
-    {
-      "name": "Drew Estate - Harvest on Hudson - 2011!",
-      "price": "$44.00",
-      "url": "https://www.treasuredsmokes.com/product-page/drew-estate-harvest-on-hudson-2011",
-      "source": "Treasured Smokes",
-      "first_seen": "2026-06-20T18:32:06.142896+00:00",
-      "last_seen": "2026-06-23T19:16:19.601534+00:00",
-      "price_history": [
-        {
-          "price": "$44.00",
-          "date": "2026-06-20T18:32:06.142896+00:00"
-        }
-      ],
-      "description": "We used to go up Hudson in the Fall to go apple picking at the orchards, and this is the memory of those times all packed into your bowl. Mild and wonderfully flavorful, with notes of freshly cut apples and a smooth blend of Virginia, burley and cavendish tobaccos."
-    },
-    {
-      "name": "Cornell & Diehl - Opening Night - 2011!",
-      "price": "$41.00",
-      "url": "https://www.treasuredsmokes.com/product-page/cornell-diehl-opening-night-2011",
-      "source": "Treasured Smokes",
-      "first_seen": "2026-06-20T18:32:06.142896+00:00",
-      "last_seen": "2026-06-23T19:16:19.601534+00:00",
-      "price_history": [
-        {
-          "price": "$41.00",
-          "date": "2026-06-20T18:32:06.142896+00:00"
-        }
-      ],
-      "description": "A delicious blend of the finest red and bright Virginias pressed to perfection and sliced into flakes. &nbsp; 50g"
-    },
-    {
-      "name": "Golden Triangle - Paulina - 2011",
-      "price": "$58.00",
-      "url": "https://www.treasuredsmokes.com/product-page/golden-triangle-paulina-2011",
-      "source": "Treasured Smokes",
-      "first_seen": "2026-06-20T18:32:06.142896+00:00",
-      "last_seen": "2026-06-23T19:16:19.601534+00:00",
-      "price_history": [
-        {
-          "price": "$58.00",
-          "date": "2026-06-20T18:32:06.142896+00:00"
-        }
-      ],
-      "description": "BLENDED BY RUSS OUELLETTE! &nbsp; This varietal exhibits a flinty character, with a peppery sourness that you notice toward the back of the tongue. There’s also of bit of a coffee note on the retrohale. In combination with the base blend, these flavor notes become very noticeable. Golden Triangle Paulina gives you a flavor that's a real departure from what you expect from Perique."
-    },
-    {
-      "name": "Golden Triangle - Belmont - 2011",
-      "price": "$58.00",
-      "url": "https://www.treasuredsmokes.com/product-page/golden-triangle-belmont-2011",
-      "source": "Treasured Smokes",
-      "first_seen": "2026-06-20T18:32:06.142896+00:00",
-      "last_seen": "2026-06-23T19:16:19.601534+00:00",
-      "price_history": [
-        {
-          "price": "$58.00",
-          "date": "2026-06-20T18:32:06.142896+00:00"
-        }
-      ],
-      "description": "BLENDED BY RUSS OUELLETTE! &nbsp; The Belmont varietal might be the most surprising. The aroma of the leaf reminded me of brined olives. There’s a butteriness and a bit of saltiness. The spice is bold, like Cayenne pepper. In this version, the creaminess is there with the pepper more noticeable on the finish, with the base blend adding some sweetness. Golden Triangle Belmont will give you a whole "
-    },
-    {
-      "name": "Golden Triangle - St. James Perique - 2011",
-      "price": "$58.00",
-      "url": "https://www.treasuredsmokes.com/product-page/golden-triangle-st-james-perique-2011",
-      "source": "Treasured Smokes",
-      "first_seen": "2026-06-20T18:32:06.142896+00:00",
-      "last_seen": "2026-06-23T19:16:19.601534+00:00",
-      "price_history": [
-        {
-          "price": "$58.00",
-          "date": "2026-06-20T18:32:06.142896+00:00"
-        }
-      ],
-      "description": "BLENDED BY RUSS OUELLETTE! &nbsp; This is the big bonus in the Golden Triangle Series. Straight St. James Perique hasn’t been available to the public in many years. What is in the tin is 50 grams of 100% true St. James Perique, which is a combination of the four varietal types included in this series. Now you can add some of this very rare tobacco to your favorite blend, make a whole new mixture, "
-    },
-    {
-      "name": "Golden Triangle - South Vacherie - 2011",
-      "price": "$58.00",
-      "url": "https://www.treasuredsmokes.com/product-page/golden-triangle-south-vacherie-2011",
-      "source": "Treasured Smokes",
-      "first_seen": "2026-06-20T18:32:06.142896+00:00",
-      "last_seen": "2026-06-23T19:16:19.601534+00:00",
-      "price_history": [
-        {
-          "price": "$58.00",
-          "date": "2026-06-20T18:32:06.142896+00:00"
-        }
-      ],
-      "description": "BLENDED BY RUSS OUELLETTE! &nbsp; The Perique from South Vacherie has a distinct espresso character supported by herbal notes. The spice in this varietal is like white pepper – lively but subdued. This might be the most complex of the four versions. With the base tobaccos being relatively neutral, those characteristics are more noticeable in this entry to the Golden Triangle Series."
-    },
-    {
-      "name": "Golden Triangle - Grand Point - 2011",
-      "price": "$58.00",
-      "url": "https://www.treasuredsmokes.com/product-page/golden-triangle-grand-point-2011",
-      "source": "Treasured Smokes",
-      "first_seen": "2026-06-20T18:32:06.142896+00:00",
-      "last_seen": "2026-06-23T19:16:19.601534+00:00",
-      "price_history": [
-        {
-          "price": "$58.00",
-          "date": "2026-06-20T18:32:06.142896+00:00"
-        }
-      ],
-      "description": "BLENDED BY RUSS OUELLETTE! &nbsp; With Grand Point, there’s a more subdued spiciness, more akin to cinnamon and nutmeg. It also has a fruitiness that comes across as a wine-like note, and there’s a hint of cocoa in the flavor. The spiced wine character is the most noticeable in this blend. This entry in the Golden Triangle Series comes the closest to what people expect from Perique."
-    },
-    {
       "name": "Cornell & Diehl - Exhausted Rooster - 2009-10!",
       "price": "$79.00",
       "url": "https://www.treasuredsmokes.com/product-page/cornell-diehl-exhausted-rooster-2010",
@@ -311,39 +71,18 @@
         {
           "price": "$79.00",
           "date": "2026-06-23T19:16:19.601534+00:00"
-        }
-      ],
-      "description": "A tasty flake of Virginias, Dark-Fired Burley, and a dash of Perique, the folks at Cornell &amp; Diehl blended Exhausted Rooster especially for the Chicagoland Pipe Show, years ago. &nbsp; 8 OUNCE CAN! &nbsp;"
-    },
-    {
-      "name": "Cornell & Diehl - Exhausted Rooster - 2011!",
-      "price": "$40.00",
-      "url": "https://www.treasuredsmokes.com/product-page/cornell-diehl-exhausted-rooster-2011",
-      "source": "Treasured Smokes",
-      "first_seen": "2026-06-20T18:32:06.142896+00:00",
-      "last_seen": "2026-06-23T19:16:19.601534+00:00",
-      "price_history": [
+        },
         {
-          "price": "$40.00",
-          "date": "2026-06-20T18:32:06.142896+00:00"
-        }
-      ],
-      "description": "A tasty flake of Virginias, Dark-Fired Burley, and a dash of Perique, the folks at Cornell &amp; Diehl blended Exhausted Rooster especially for the Chicagoland Pipe Show, years ago. &nbsp; 2 oz &nbsp;"
-    },
-    {
-      "name": "Cornell & Diehl - Exhausted Rooster - 2009!",
-      "price": "$42.00",
-      "url": "https://www.treasuredsmokes.com/product-page/cornell-diehl-exhausted-rooster-2009",
-      "source": "Treasured Smokes",
-      "first_seen": "2026-06-20T18:32:06.142896+00:00",
-      "last_seen": "2026-06-23T19:16:19.601534+00:00",
-      "price_history": [
+          "price": "$74.00",
+          "date": "2026-06-24T19:16:16.698908+00:00"
+        },
         {
-          "price": "$42.00",
-          "date": "2026-06-20T18:32:06.142896+00:00"
+          "price": "$79.00",
+          "date": "2026-06-24T19:16:16.698908+00:00"
         }
       ],
-      "description": "A tasty flake of Virginias, Dark-Fired Burley, and a dash of Perique, the folks at Cornell &amp; Diehl blended Exhausted Rooster especially for the Chicagoland Pipe Show, years ago. &nbsp; 2 oz &nbsp;"
+      "description": "A tasty flake of Virginias, Dark-Fired Burley, and a dash of Perique, the folks at Cornell &amp; Diehl blended Exhausted Rooster especially for the Chicagoland Pipe Show, years ago. &nbsp; 8 OUNCE CAN! &nbsp;",
+      "last_updated": "2026-06-24T19:16:16.698908+00:00"
     },
     {
       "name": "G.L. Pease - Haddo's Delight - 2009!",
@@ -416,9 +155,306 @@
         {
           "price": "$53.00",
           "date": "2026-06-23T19:16:19.601534+00:00"
+        },
+        {
+          "price": "$215.00",
+          "date": "2026-06-24T19:16:16.698908+00:00"
+        },
+        {
+          "price": "$53.00",
+          "date": "2026-06-24T19:16:16.698908+00:00"
         }
       ],
-      "description": "Haddo's Delight is a stout blend of several Virginia tobaccos with a generous measure of long-cut Perique. Unflavored Black Cavendish and a little air-cured White Burley ribbon provide fullness, body, and a bit of extra strength. Finally, an exclusive process darkens and marries the mixture, and gives the blend a subtle tin aroma of cocoa and dried fruit. The flavor is full on the palate, earthy, "
+      "description": "Haddo's Delight is a stout blend of several Virginia tobaccos with a generous measure of long-cut Perique. Unflavored Black Cavendish and a little air-cured White Burley ribbon provide fullness, body, and a bit of extra strength. Finally, an exclusive process darkens and marries the mixture, and gives the blend a subtle tin aroma of cocoa and dried fruit. The flavor is full on the palate, earthy, ",
+      "last_updated": "2026-06-24T19:16:16.698908+00:00"
+    },
+    {
+      "name": "Dunhill Flake - 2012",
+      "price": "$60.00",
+      "url": "https://www.treasuredsmokes.com/product-page/dunhill-flake-2012",
+      "source": "Treasured Smokes",
+      "first_seen": "2026-06-20T18:32:06.142896+00:00",
+      "last_seen": "2026-06-23T19:16:19.601534+00:00",
+      "price_history": [
+        {
+          "price": "$60.00",
+          "date": "2026-06-20T18:32:06.142896+00:00"
+        }
+      ],
+      "description": "Medium strength flake of selected grades of lemon and bronze Virginias. One of Dunhill's most expert blends of highest quality.",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
+    },
+    {
+      "name": "Balkan Luxury Blend 957",
+      "price": "$40.00",
+      "url": "https://www.treasuredsmokes.com/product-page/balkan-luxury-blend-957",
+      "source": "Treasured Smokes",
+      "first_seen": "2026-06-20T18:32:06.142896+00:00",
+      "last_seen": "2026-06-23T19:16:19.601534+00:00",
+      "price_history": [
+        {
+          "price": "$40.00",
+          "date": "2026-06-20T18:32:06.142896+00:00"
+        }
+      ],
+      "description": "An intermingling of Oriental, Perique, Latakia, Virginia, and Black Cavendish.",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
+    },
+    {
+      "name": "Limited Run - Cobblestone Plum Rum",
+      "price": "$28.00",
+      "url": "https://www.treasuredsmokes.com/product-page/limited-run-cobblestone-plum-rum",
+      "source": "Treasured Smokes",
+      "first_seen": "2026-06-20T18:32:06.142896+00:00",
+      "last_seen": "2026-06-23T19:16:19.601534+00:00",
+      "price_history": [
+        {
+          "price": "$28.00",
+          "date": "2026-06-20T18:32:06.142896+00:00"
+        }
+      ],
+      "description": "Released in 2023, Cobblestone's Limited Pressed Plum Rum tobacco stays true to the brand's penchant for producing high quality Aromatic blends, here presented in a pressed, crumble cake form for a full melding of flavors. Comprising a mixture of Virginias, Cavendish, and Burley tobaccos with a judicious pinch of Latakia, the Limited Pressed Plum Rum offers a mild, easygoing smoke, and is topped wi",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
+    },
+    {
+      "name": "Mt. Marcy - 8 Ounce Can",
+      "price": "$90.00",
+      "url": "https://www.treasuredsmokes.com/product-page/mt-marcy-8-ounce-can",
+      "source": "Treasured Smokes",
+      "first_seen": "2026-06-20T18:32:06.142896+00:00",
+      "last_seen": "2026-06-23T19:16:19.601534+00:00",
+      "price_history": [
+        {
+          "price": "$90.00",
+          "date": "2026-06-20T18:32:06.142896+00:00"
+        }
+      ],
+      "description": "This elegant blend gets its name from the highest peak in New York. This is medium-bodied Balkan blend has a complex, delicate flavor and aroma, due in part to the use of fragrant Dubec in combination with other Orientals, Latakia and choice Virginias. A great choice when you want the richness of Latakia and the bouquet of Turkish tobaccos, but don't want anything too heavy. &nbsp; 8 ounce can fro",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
+    },
+    {
+      "name": "Brigadier Black - Bull Run - 2013!",
+      "price": "$72.00",
+      "url": "https://www.treasuredsmokes.com/product-page/copy-of-brigadier-black-bull-run-2013",
+      "source": "Treasured Smokes",
+      "first_seen": "2026-06-20T18:32:06.142896+00:00",
+      "last_seen": "2026-06-23T19:16:19.601534+00:00",
+      "price_history": [
+        {
+          "price": "$72.00",
+          "date": "2026-06-20T18:32:06.142896+00:00"
+        }
+      ],
+      "description": "A mix of black Cavendish and golden Burleys with a gentle splash of vanilla. This is a smooth and mellow smoke that can easily become one of your everyday choices.&nbsp; &nbsp; 8 ounce can!",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
+    },
+    {
+      "name": "Brigadier Black - Gettysburg - 2013!",
+      "price": "$72.00",
+      "url": "https://www.treasuredsmokes.com/product-page/brigadier-black-gettysburg-2013",
+      "source": "Treasured Smokes",
+      "first_seen": "2026-06-20T18:32:06.142896+00:00",
+      "last_seen": "2026-06-23T19:16:19.601534+00:00",
+      "price_history": [
+        {
+          "price": "$72.00",
+          "date": "2026-06-20T18:32:06.142896+00:00"
+        }
+      ],
+      "description": "A real crowd pleaser. The Gettysburg blend consists of nutty Burleys and zesty Virginias, paired with a hint of fresh peaches. With its sweet and silky flavor this blend will take you back to summer.&nbsp; &nbsp; 8 ounce can!",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
+    },
+    {
+      "name": "Brigadier Black - Alamo - 2013!",
+      "price": "$72.00",
+      "url": "https://www.treasuredsmokes.com/product-page/brigadier-black-alamo-2013",
+      "source": "Treasured Smokes",
+      "first_seen": "2026-06-20T18:32:06.142896+00:00",
+      "last_seen": "2026-06-23T19:16:19.601534+00:00",
+      "price_history": [
+        {
+          "price": "$72.00",
+          "date": "2026-06-20T18:32:06.142896+00:00"
+        }
+      ],
+      "description": "A mellow Burley and smooth black Cavendish blend encased with sweet notes of nougat and rich mocha. This delicious blend will light up any room with its pleasant aroma. &nbsp; 8 ounce can!",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
+    },
+    {
+      "name": "Brigadier Black - Sherman's March - 2013!",
+      "price": "$72.00",
+      "url": "https://www.treasuredsmokes.com/product-page/brigadier-black-sherman-s-march-2013",
+      "source": "Treasured Smokes",
+      "first_seen": "2026-06-20T18:32:06.142896+00:00",
+      "last_seen": "2026-06-23T19:16:19.601534+00:00",
+      "price_history": [
+        {
+          "price": "$72.00",
+          "date": "2026-06-20T18:32:06.142896+00:00"
+        }
+      ],
+      "description": "Sherman's March is a true American blend paying tribute to those blends that came before it. It pairs mellow, nutty Burleys with sweet Virginias, finished off with a shot of rum and warm maple flavors. Sit back and enjoy the old-fashioned experience that this blend provides. &nbsp; 8 ounce can!",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
+    },
+    {
+      "name": "Rattray's - Hal O' Thy Wynd - 2011!",
+      "price": "$54.00",
+      "url": "https://www.treasuredsmokes.com/product-page/rattray-s-hal-o-thy-wynd-2011",
+      "source": "Treasured Smokes",
+      "first_seen": "2026-06-20T18:32:06.142896+00:00",
+      "last_seen": "2026-06-23T19:16:19.601534+00:00",
+      "price_history": [
+        {
+          "price": "$54.00",
+          "date": "2026-06-20T18:32:06.142896+00:00"
+        }
+      ],
+      "description": "This Rattray's mixture is a stronger, sharp aged red Virginia blend that will perk you up quickly. Hal O' The Wynd is always ranked near the top for fantastic Virginias to smoke now and save some for the cellar. &nbsp; 100g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
+    },
+    {
+      "name": "Drew Estate - Harvest on Hudson - 2011!",
+      "price": "$44.00",
+      "url": "https://www.treasuredsmokes.com/product-page/drew-estate-harvest-on-hudson-2011",
+      "source": "Treasured Smokes",
+      "first_seen": "2026-06-20T18:32:06.142896+00:00",
+      "last_seen": "2026-06-23T19:16:19.601534+00:00",
+      "price_history": [
+        {
+          "price": "$44.00",
+          "date": "2026-06-20T18:32:06.142896+00:00"
+        }
+      ],
+      "description": "We used to go up Hudson in the Fall to go apple picking at the orchards, and this is the memory of those times all packed into your bowl. Mild and wonderfully flavorful, with notes of freshly cut apples and a smooth blend of Virginia, burley and cavendish tobaccos.",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
+    },
+    {
+      "name": "Cornell & Diehl - Opening Night - 2011!",
+      "price": "$41.00",
+      "url": "https://www.treasuredsmokes.com/product-page/cornell-diehl-opening-night-2011",
+      "source": "Treasured Smokes",
+      "first_seen": "2026-06-20T18:32:06.142896+00:00",
+      "last_seen": "2026-06-23T19:16:19.601534+00:00",
+      "price_history": [
+        {
+          "price": "$41.00",
+          "date": "2026-06-20T18:32:06.142896+00:00"
+        }
+      ],
+      "description": "A delicious blend of the finest red and bright Virginias pressed to perfection and sliced into flakes. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
+    },
+    {
+      "name": "Golden Triangle - Paulina - 2011",
+      "price": "$58.00",
+      "url": "https://www.treasuredsmokes.com/product-page/golden-triangle-paulina-2011",
+      "source": "Treasured Smokes",
+      "first_seen": "2026-06-20T18:32:06.142896+00:00",
+      "last_seen": "2026-06-23T19:16:19.601534+00:00",
+      "price_history": [
+        {
+          "price": "$58.00",
+          "date": "2026-06-20T18:32:06.142896+00:00"
+        }
+      ],
+      "description": "BLENDED BY RUSS OUELLETTE! &nbsp; This varietal exhibits a flinty character, with a peppery sourness that you notice toward the back of the tongue. There’s also of bit of a coffee note on the retrohale. In combination with the base blend, these flavor notes become very noticeable. Golden Triangle Paulina gives you a flavor that's a real departure from what you expect from Perique.",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
+    },
+    {
+      "name": "Golden Triangle - Belmont - 2011",
+      "price": "$58.00",
+      "url": "https://www.treasuredsmokes.com/product-page/golden-triangle-belmont-2011",
+      "source": "Treasured Smokes",
+      "first_seen": "2026-06-20T18:32:06.142896+00:00",
+      "last_seen": "2026-06-23T19:16:19.601534+00:00",
+      "price_history": [
+        {
+          "price": "$58.00",
+          "date": "2026-06-20T18:32:06.142896+00:00"
+        }
+      ],
+      "description": "BLENDED BY RUSS OUELLETTE! &nbsp; The Belmont varietal might be the most surprising. The aroma of the leaf reminded me of brined olives. There’s a butteriness and a bit of saltiness. The spice is bold, like Cayenne pepper. In this version, the creaminess is there with the pepper more noticeable on the finish, with the base blend adding some sweetness. Golden Triangle Belmont will give you a whole ",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
+    },
+    {
+      "name": "Golden Triangle - St. James Perique - 2011",
+      "price": "$58.00",
+      "url": "https://www.treasuredsmokes.com/product-page/golden-triangle-st-james-perique-2011",
+      "source": "Treasured Smokes",
+      "first_seen": "2026-06-20T18:32:06.142896+00:00",
+      "last_seen": "2026-06-23T19:16:19.601534+00:00",
+      "price_history": [
+        {
+          "price": "$58.00",
+          "date": "2026-06-20T18:32:06.142896+00:00"
+        }
+      ],
+      "description": "BLENDED BY RUSS OUELLETTE! &nbsp; This is the big bonus in the Golden Triangle Series. Straight St. James Perique hasn’t been available to the public in many years. What is in the tin is 50 grams of 100% true St. James Perique, which is a combination of the four varietal types included in this series. Now you can add some of this very rare tobacco to your favorite blend, make a whole new mixture, ",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
+    },
+    {
+      "name": "Golden Triangle - South Vacherie - 2011",
+      "price": "$58.00",
+      "url": "https://www.treasuredsmokes.com/product-page/golden-triangle-south-vacherie-2011",
+      "source": "Treasured Smokes",
+      "first_seen": "2026-06-20T18:32:06.142896+00:00",
+      "last_seen": "2026-06-23T19:16:19.601534+00:00",
+      "price_history": [
+        {
+          "price": "$58.00",
+          "date": "2026-06-20T18:32:06.142896+00:00"
+        }
+      ],
+      "description": "BLENDED BY RUSS OUELLETTE! &nbsp; The Perique from South Vacherie has a distinct espresso character supported by herbal notes. The spice in this varietal is like white pepper – lively but subdued. This might be the most complex of the four versions. With the base tobaccos being relatively neutral, those characteristics are more noticeable in this entry to the Golden Triangle Series.",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
+    },
+    {
+      "name": "Golden Triangle - Grand Point - 2011",
+      "price": "$58.00",
+      "url": "https://www.treasuredsmokes.com/product-page/golden-triangle-grand-point-2011",
+      "source": "Treasured Smokes",
+      "first_seen": "2026-06-20T18:32:06.142896+00:00",
+      "last_seen": "2026-06-23T19:16:19.601534+00:00",
+      "price_history": [
+        {
+          "price": "$58.00",
+          "date": "2026-06-20T18:32:06.142896+00:00"
+        }
+      ],
+      "description": "BLENDED BY RUSS OUELLETTE! &nbsp; With Grand Point, there’s a more subdued spiciness, more akin to cinnamon and nutmeg. It also has a fruitiness that comes across as a wine-like note, and there’s a hint of cocoa in the flavor. The spiced wine character is the most noticeable in this blend. This entry in the Golden Triangle Series comes the closest to what people expect from Perique.",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
+    },
+    {
+      "name": "Cornell & Diehl - Exhausted Rooster - 2011!",
+      "price": "$40.00",
+      "url": "https://www.treasuredsmokes.com/product-page/cornell-diehl-exhausted-rooster-2011",
+      "source": "Treasured Smokes",
+      "first_seen": "2026-06-20T18:32:06.142896+00:00",
+      "last_seen": "2026-06-23T19:16:19.601534+00:00",
+      "price_history": [
+        {
+          "price": "$40.00",
+          "date": "2026-06-20T18:32:06.142896+00:00"
+        }
+      ],
+      "description": "A tasty flake of Virginias, Dark-Fired Burley, and a dash of Perique, the folks at Cornell &amp; Diehl blended Exhausted Rooster especially for the Chicagoland Pipe Show, years ago. &nbsp; 2 oz &nbsp;",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
+    },
+    {
+      "name": "Cornell & Diehl - Exhausted Rooster - 2009!",
+      "price": "$42.00",
+      "url": "https://www.treasuredsmokes.com/product-page/cornell-diehl-exhausted-rooster-2009",
+      "source": "Treasured Smokes",
+      "first_seen": "2026-06-20T18:32:06.142896+00:00",
+      "last_seen": "2026-06-23T19:16:19.601534+00:00",
+      "price_history": [
+        {
+          "price": "$42.00",
+          "date": "2026-06-20T18:32:06.142896+00:00"
+        }
+      ],
+      "description": "A tasty flake of Virginias, Dark-Fired Burley, and a dash of Perique, the folks at Cornell &amp; Diehl blended Exhausted Rooster especially for the Chicagoland Pipe Show, years ago. &nbsp; 2 oz &nbsp;",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "G.L. Pease - Haddo's Delight - 2010!",
@@ -433,7 +469,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Haddo's Delight is a stout blend of several Virginia tobaccos with a generous measure of long-cut Perique. Unflavored Black Cavendish and a little air-cured White Burley ribbon provide fullness, body, and a bit of extra strength. Finally, an exclusive process darkens and marries the mixture, and gives the blend a subtle tin aroma of cocoa and dried fruit. The flavor is full on the palate, earthy, "
+      "description": "Haddo's Delight is a stout blend of several Virginia tobaccos with a generous measure of long-cut Perique. Unflavored Black Cavendish and a little air-cured White Burley ribbon provide fullness, body, and a bit of extra strength. Finally, an exclusive process darkens and marries the mixture, and gives the blend a subtle tin aroma of cocoa and dried fruit. The flavor is full on the palate, earthy, ",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "G.L. Pease - JackKnife Plug - 2011!",
@@ -448,7 +485,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "For Pease's Jackknife Plug, dark-fired Kentucky Leaf and ripe red Virginia tobaccos, with their deep, earthy flavors, are layered on a central core of golden flue-cured for a hint of bright sweetness, then pressed and matured in cakes, and finally cut into 2oz blocks. Slice it thick and rub it out for a ribbon cut, thin for a shag, or chop it into cubes. The choice is yours. &nbsp; 2 oz"
+      "description": "For Pease's Jackknife Plug, dark-fired Kentucky Leaf and ripe red Virginia tobaccos, with their deep, earthy flavors, are layered on a central core of golden flue-cured for a hint of bright sweetness, then pressed and matured in cakes, and finally cut into 2oz blocks. Slice it thick and rub it out for a ribbon cut, thin for a shag, or chop it into cubes. The choice is yours. &nbsp; 2 oz",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "G.L. Pease - Jack Knife Plug - 2010!",
@@ -463,7 +501,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "For Pease's Jackknife Plug, dark-fired Kentucky Leaf and ripe red Virginia tobaccos, with their deep, earthy flavors, are layered on a central core of golden flue-cured for a hint of bright sweetness, then pressed and matured in cakes, and finally cut into 2oz blocks. Slice it thick and rub it out for a ribbon cut, thin for a shag, or chop it into cubes. The choice is yours. &nbsp; 2 oz"
+      "description": "For Pease's Jackknife Plug, dark-fired Kentucky Leaf and ripe red Virginia tobaccos, with their deep, earthy flavors, are layered on a central core of golden flue-cured for a hint of bright sweetness, then pressed and matured in cakes, and finally cut into 2oz blocks. Slice it thick and rub it out for a ribbon cut, thin for a shag, or chop it into cubes. The choice is yours. &nbsp; 2 oz",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "G.L. Pease - Fillmore - 2010!",
@@ -478,7 +517,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Here G. L. Pease produces thick-slices of broken flake in the Scottish tradition. Ripe Red Virginia tobaccos are combined with a generous measure of fine Louisiana Perique, and then pressed to marry the components and deepen the flavors. The cakes are sliced and gently broken before tinning. Fillmore presents an elegant sweetness and delightful piquancy, enhanced by a creamy richness that develops"
+      "description": "Here G. L. Pease produces thick-slices of broken flake in the Scottish tradition. Ripe Red Virginia tobaccos are combined with a generous measure of fine Louisiana Perique, and then pressed to marry the components and deepen the flavors. The cakes are sliced and gently broken before tinning. Fillmore presents an elegant sweetness and delightful piquancy, enhanced by a creamy richness that develops",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "G.L. Pease - Fillmore - 2009!",
@@ -493,7 +533,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Here G. L. Pease produces thick-slices of broken flake in the Scottish tradition. Ripe Red Virginia tobaccos are combined with a generous measure of fine Louisiana Perique, and then pressed to marry the components and deepen the flavors. The cakes are sliced and gently broken before tinning. Fillmore presents an elegant sweetness and delightful piquancy, enhanced by a creamy richness that develops"
+      "description": "Here G. L. Pease produces thick-slices of broken flake in the Scottish tradition. Ripe Red Virginia tobaccos are combined with a generous measure of fine Louisiana Perique, and then pressed to marry the components and deepen the flavors. The cakes are sliced and gently broken before tinning. Fillmore presents an elegant sweetness and delightful piquancy, enhanced by a creamy richness that develops",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "G.L. Pease - Fillmore - 2008! 8 Ounce Big Can",
@@ -508,7 +549,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Here G. L. Pease produces thick-slices of broken flake in the Scottish tradition. Ripe Red Virginia tobaccos are combined with a generous measure of fine Louisiana Perique, and then pressed to marry the components and deepen the flavors. The cakes are sliced and gently broken before tinning. Fillmore presents an elegant sweetness and delightful piquancy, enhanced by a creamy richness that develops"
+      "description": "Here G. L. Pease produces thick-slices of broken flake in the Scottish tradition. Ripe Red Virginia tobaccos are combined with a generous measure of fine Louisiana Perique, and then pressed to marry the components and deepen the flavors. The cakes are sliced and gently broken before tinning. Fillmore presents an elegant sweetness and delightful piquancy, enhanced by a creamy richness that develops",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "G.L. Pease - Fillmore - 2008!",
@@ -523,7 +565,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Here G. L. Pease produces thick-slices of broken flake in the Scottish tradition. Ripe Red Virginia tobaccos are combined with a generous measure of fine Louisiana Perique, and then pressed to marry the components and deepen the flavors. The cakes are sliced and gently broken before tinning. Fillmore presents an elegant sweetness and delightful piquancy, enhanced by a creamy richness that develops"
+      "description": "Here G. L. Pease produces thick-slices of broken flake in the Scottish tradition. Ripe Red Virginia tobaccos are combined with a generous measure of fine Louisiana Perique, and then pressed to marry the components and deepen the flavors. The cakes are sliced and gently broken before tinning. Fillmore presents an elegant sweetness and delightful piquancy, enhanced by a creamy richness that develops",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Cringle Flake 2020",
@@ -538,7 +581,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Decade old red Virginias are stoved to perfection, bringing the natural flavors to the forefront. Then, they are combined with 2003 vintage perique, pressed, and sliced into broken flakes."
+      "description": "Decade old red Virginias are stoved to perfection, bringing the natural flavors to the forefront. Then, they are combined with 2003 vintage perique, pressed, and sliced into broken flakes.",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Cult Conspiracy",
@@ -553,7 +597,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Golden Virginias, reddish Burley, a special Green River Black Cavendish, and a touch of Cyprian Latakia are blended together and topped with notes of vanilla and clover honey to produce Cult Conspiracy's creamy and just slightly floral smoke."
+      "description": "Golden Virginias, reddish Burley, a special Green River Black Cavendish, and a touch of Cyprian Latakia are blended together and topped with notes of vanilla and clover honey to produce Cult Conspiracy's creamy and just slightly floral smoke.",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "John Cotton's - Double Pressed Virginia - 2020",
@@ -568,7 +613,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A blend of sweet Virginias is first pressed and then sliced into a flake. It's then tumbled into a ribbon, allowed to breathe and put back into the mold to be pressed again into a crumble cake. This darkens the leaf, gives it a deeper, richer flavor, and takes much of the \"edge\" off the blend. Finally, there's a Virginia tobacco that just about anyone can enjoy - John Cotton's Double Pressed Virgi"
+      "description": "A blend of sweet Virginias is first pressed and then sliced into a flake. It's then tumbled into a ribbon, allowed to breathe and put back into the mold to be pressed again into a crumble cake. This darkens the leaf, gives it a deeper, richer flavor, and takes much of the \"edge\" off the blend. Finally, there's a Virginia tobacco that just about anyone can enjoy - John Cotton's Double Pressed Virgi",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Perique - Blending",
@@ -583,7 +629,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Rare and precious, this dark, fragrant condiment tobacco comes to us in wooden casks from St. James Parish, Louisiana, where it has been produced in time honored fashion since the days when the natives pressed it in tree trunks. Use it sparingly in your blends for its distinctive cooked fruit, musty, mushroom-like aroma and cool smoking character. 2011 50g"
+      "description": "Rare and precious, this dark, fragrant condiment tobacco comes to us in wooden casks from St. James Parish, Louisiana, where it has been produced in time honored fashion since the days when the natives pressed it in tree trunks. Use it sparingly in your blends for its distinctive cooked fruit, musty, mushroom-like aroma and cool smoking character. 2011 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Brown Sugar Flake!",
@@ -598,7 +645,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Brown Sugar Flake is a Samuel Gawith/Danish Pipe Shop collaboration, the goal of which was to create a fuller-bodied ode to the old Orlik Brown Sliced. High quality Virginia is hot pressed with natural cavendish to create a pure flavor with just a hint of natural sweetness from the cavendish.&nbsp; Then to spice it up just a bit, a pinch of Burley and Oriental is added."
+      "description": "Brown Sugar Flake is a Samuel Gawith/Danish Pipe Shop collaboration, the goal of which was to create a fuller-bodied ode to the old Orlik Brown Sliced. High quality Virginia is hot pressed with natural cavendish to create a pure flavor with just a hint of natural sweetness from the cavendish.&nbsp; Then to spice it up just a bit, a pinch of Burley and Oriental is added.",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Red Ribbon - 2017!",
@@ -613,7 +661,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Straight red Virginia from the Old Belt. A single crop allotment that is simply the best&nbsp;2017&nbsp;Crop from North Carolina. 2017 50g"
+      "description": "Straight red Virginia from the Old Belt. A single crop allotment that is simply the best&nbsp;2017&nbsp;Crop from North Carolina. 2017 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Whimsical - Birds of a Feather",
@@ -628,7 +677,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Featuring peppery and spicy true St. James Perique - this blend is balanced out by Red and Bright Virginias. A hint of tanginess completes the blend and makes it pleasing alongside the natural Virginia sweetness and zesty St. James Perique. 2022 50g"
+      "description": "Featuring peppery and spicy true St. James Perique - this blend is balanced out by Red and Bright Virginias. A hint of tanginess completes the blend and makes it pleasing alongside the natural Virginia sweetness and zesty St. James Perique. 2022 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Anomalous - Birds of a Feather",
@@ -643,7 +693,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A special crumble cake blend featuring Katerini perique, an oriental tobacco grown in Greece. Katerini perique has a lighter taste than normal perique, and as an extra gain, it develops a deep raisin/fruity taste. The Katerini perique is blended with Red Virginia, a fair amount of Virginia Cavendish, and a bit of high-grade Burley. A blend with lots of Virginia sweetness and the unique taste of ra"
+      "description": "A special crumble cake blend featuring Katerini perique, an oriental tobacco grown in Greece. Katerini perique has a lighter taste than normal perique, and as an extra gain, it develops a deep raisin/fruity taste. The Katerini perique is blended with Red Virginia, a fair amount of Virginia Cavendish, and a bit of high-grade Burley. A blend with lots of Virginia sweetness and the unique taste of ra",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Uno - Birds of a Feather",
@@ -658,7 +709,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A complex blend of 8 major blending tobaccos - with Katerini Perique (an oriental tobacco grown in Greece), St. James Perique, and Latakia in the front seat of the flavor profile. Supported by mellowing Virginias and a balancing Dark Fired Kentucky, the mixture results in a subtle peppery note and the deep flavor of fruit and raisins. &nbsp; 50g"
+      "description": "A complex blend of 8 major blending tobaccos - with Katerini Perique (an oriental tobacco grown in Greece), St. James Perique, and Latakia in the front seat of the flavor profile. Supported by mellowing Virginias and a balancing Dark Fired Kentucky, the mixture results in a subtle peppery note and the deep flavor of fruit and raisins. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Paradoxical - Birds of a Feather",
@@ -673,7 +725,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Paradoxical offers burley complimented by the rare Rustica leaf. Supported by sweet Virginias, nutty notes are accented with underlying cocoa, characteristic of fine burley tobacco. The stout Rustica then offers spice and earthy notes, bringing a bold character to the flavor and body. &nbsp; 50g"
+      "description": "Paradoxical offers burley complimented by the rare Rustica leaf. Supported by sweet Virginias, nutty notes are accented with underlying cocoa, characteristic of fine burley tobacco. The stout Rustica then offers spice and earthy notes, bringing a bold character to the flavor and body. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "McClelland Full Balkan Reserve",
@@ -688,7 +741,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "ONE LAST TIN &nbsp; A very smooth Balkan style blend with exceptional depth. It is rich with cool smoking, aromatic and lightly sweet Cyprian latakia, spiced with the finest fragrant Macendonian Oriental leaf. One of the most popular Balkans we have ever made. &nbsp; 50 g"
+      "description": "ONE LAST TIN &nbsp; A very smooth Balkan style blend with exceptional depth. It is rich with cool smoking, aromatic and lightly sweet Cyprian latakia, spiced with the finest fragrant Macendonian Oriental leaf. One of the most popular Balkans we have ever made. &nbsp; 50 g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Villiger - Mid-Day - 2013!",
@@ -703,7 +757,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A mixture of double-steamed Black Cavendish, blended with Burley, Oriental and light Virginia tobaccos. A delightful aroma and top note vanilla and exotic fruit make this mild and pleasant smoke in the early afternoon"
+      "description": "A mixture of double-steamed Black Cavendish, blended with Burley, Oriental and light Virginia tobaccos. A delightful aroma and top note vanilla and exotic fruit make this mild and pleasant smoke in the early afternoon",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Stanwell - Melange - 2015!",
@@ -718,7 +773,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A modern approach to a traditional mixture. Black cavendish, toasted burley, Orientals and bright Virginias are gently mixed with apricot and natural sweetness. Soft and mellow with a pleasing aroma and a delicate taste. &nbsp; 50g"
+      "description": "A modern approach to a traditional mixture. Black cavendish, toasted burley, Orientals and bright Virginias are gently mixed with apricot and natural sweetness. Soft and mellow with a pleasing aroma and a delicate taste. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Sasieni - Balkan - 2018!",
@@ -733,7 +789,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Original formula Balkan smoking mixture was created in London at the beginning of the century by the master of Tobacco Blenders who first combined the aromatic pleasures of the choicest of Macedonia and Latakia leaf with the richness of Old Virginia to give the pipe smoker an unrivaled smoking pleasure. &nbsp; 50g"
+      "description": "Original formula Balkan smoking mixture was created in London at the beginning of the century by the master of Tobacco Blenders who first combined the aromatic pleasures of the choicest of Macedonia and Latakia leaf with the richness of Old Virginia to give the pipe smoker an unrivaled smoking pleasure. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Samuel Gawith - Sam's Flake - 2017!",
@@ -748,7 +805,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "The 2nd in our Mayor's Collection. Sam's Flake is a combination of flue cured Virginias and Turkish leaf which after blending is pressed in the hot oven, cut and then treated to a light flavouring which adds another flavour dimension to the tobacco. Good smoke and room aroma with a medium strength. &nbsp; 50g"
+      "description": "The 2nd in our Mayor's Collection. Sam's Flake is a combination of flue cured Virginias and Turkish leaf which after blending is pressed in the hot oven, cut and then treated to a light flavouring which adds another flavour dimension to the tobacco. Good smoke and room aroma with a medium strength. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Samuel Gawith - Squadron Leader - 2017!",
@@ -763,7 +821,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Samuel Gawith Squadron Leader pipe tobacco epitomises the traditional English tobacco. Blended dark and bright Virginias, together with Latakia and Turkish leaf results in a perfect, medium bodied product which gives a rich and slow burning smoke. &nbsp; 50g"
+      "description": "Samuel Gawith Squadron Leader pipe tobacco epitomises the traditional English tobacco. Blended dark and bright Virginias, together with Latakia and Turkish leaf results in a perfect, medium bodied product which gives a rich and slow burning smoke. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Samuel Gawith - 1792 Flake - 2018!",
@@ -778,7 +837,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "1792 Flake is a full-strength, mellow tobacco comprising a blend of dark fired Tanzanian leaf. It is Gawith's best selling premium grade flake. It starts as 7 lbs. of hand stripped leaf and goes through a steaming process prior to being pressed. The cake, having been prepared, is wrapped in a select leaf and packed by hand into a 12 inch square. This cake is pressed and left for a minimum of two h"
+      "description": "1792 Flake is a full-strength, mellow tobacco comprising a blend of dark fired Tanzanian leaf. It is Gawith's best selling premium grade flake. It starts as 7 lbs. of hand stripped leaf and goes through a steaming process prior to being pressed. The cake, having been prepared, is wrapped in a select leaf and packed by hand into a 12 inch square. This cake is pressed and left for a minimum of two h",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Samuel Gawith - Balkan Flake - 2018!",
@@ -793,7 +853,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A beautifully formed dark flake of pressed Virginias and a generous helping of latakia. Relax and enjoy this medium strength tobacco with its \"smokey\" flavour and cool, smooth characteristics. &nbsp; 50g"
+      "description": "A beautifully formed dark flake of pressed Virginias and a generous helping of latakia. Relax and enjoy this medium strength tobacco with its \"smokey\" flavour and cool, smooth characteristics. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Samuel Gawith - Grousemoor - 2016!",
@@ -808,7 +869,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "An original blend from Samuel Gawith, Grousemoor conjures up a vision of the Lakeland scenery with its accompaniment of seasonal scents. Manufactured in the heart of Lakeland for over 200 years. Using a combination of hand-stripped flue-cured leaf, Grousemoor is first steamed prior to being cut. After further steaming, to give Grousemoor its own golden color, the cut leaf is stoved then “rested”. "
+      "description": "An original blend from Samuel Gawith, Grousemoor conjures up a vision of the Lakeland scenery with its accompaniment of seasonal scents. Manufactured in the heart of Lakeland for over 200 years. Using a combination of hand-stripped flue-cured leaf, Grousemoor is first steamed prior to being cut. After further steaming, to give Grousemoor its own golden color, the cut leaf is stoved then “rested”. ",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Samuel Gawith - Perfection - 2018!",
@@ -823,7 +885,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "&nbsp; A variety of Brown &amp; Bright Virginias with a touch of latakia &amp; fine Turkish, steamed then a hint of vanilla has been added. &nbsp; 50g"
+      "description": "&nbsp; A variety of Brown &amp; Bright Virginias with a touch of latakia &amp; fine Turkish, steamed then a hint of vanilla has been added. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Robert McConnell - Scottish Blend - 2017!",
@@ -838,7 +901,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "One of the original blends from 1848. Mature red Virginia and Kentucky from North Carolina, black cavendish and Turkish are blended with latakia to produce a blend which has given quiet satisfaction to smokers for over a century. &nbsp; 50g"
+      "description": "One of the original blends from 1848. Mature red Virginia and Kentucky from North Carolina, black cavendish and Turkish are blended with latakia to produce a blend which has given quiet satisfaction to smokers for over a century. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Robert Lewis - Orcilla Mixture - 2017!",
@@ -853,7 +917,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A classic, fine ribbon Oriental blend. Robert Lewis' Orcilla Mixture is made from the finest Virginia tobaccos available with a whisper of perique. This has been a favorite of discerning smokers for over a century. &nbsp; 50g"
+      "description": "A classic, fine ribbon Oriental blend. Robert Lewis' Orcilla Mixture is made from the finest Virginia tobaccos available with a whisper of perique. This has been a favorite of discerning smokers for over a century. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Rattray's - Bagpiper's Dream - 2018!",
@@ -868,7 +933,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A fragrant pipe tobacco blend of Black Cavendish and four ready rubbed Golden Virginia tobaccos including ribbon cut, plug, curly, and flake, lightly top dressed with cognac for an elegant smoke. Tobaccos used are 5.6% domestically grown and 94.4% foreign grown. &nbsp; 100g"
+      "description": "A fragrant pipe tobacco blend of Black Cavendish and four ready rubbed Golden Virginia tobaccos including ribbon cut, plug, curly, and flake, lightly top dressed with cognac for an elegant smoke. Tobaccos used are 5.6% domestically grown and 94.4% foreign grown. &nbsp; 100g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Rattray's - Jock's Mixture - 2018!",
@@ -883,7 +949,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A very dark and full-bodied, mild mixture of surprising flavor and very slow burning with exactly the necessary touch of latakia supported by a good portion of cavendish. &nbsp; 100g"
+      "description": "A very dark and full-bodied, mild mixture of surprising flavor and very slow burning with exactly the necessary touch of latakia supported by a good portion of cavendish. &nbsp; 100g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Peterson - University Flake - 2017!",
@@ -898,7 +965,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "This style of tobacco is allowing the smoker to rub out the flake to the preferred texture. The blend is mixed with mahogany, brown and orange Virginia and sun cured leaf from India and is slowly pressed for days into cakes of tobacco and then sliced into delicate flakes. &nbsp; 50g"
+      "description": "This style of tobacco is allowing the smoker to rub out the flake to the preferred texture. The blend is mixed with mahogany, brown and orange Virginia and sun cured leaf from India and is slowly pressed for days into cakes of tobacco and then sliced into delicate flakes. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Orlik - Mellow Mixture - 2017!",
@@ -913,7 +981,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Ribbon cut Virginia, mixed with two types of black cavendish and a touch of roasted burley. Fresh sweet taste. &nbsp; 50g"
+      "description": "Ribbon cut Virginia, mixed with two types of black cavendish and a touch of roasted burley. Fresh sweet taste. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "McCranie's - Somerled - 2017!",
@@ -928,7 +997,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "This old family recipe is richly deep in flavor without being strong and accompanied by a wonderful aroma without being overly sweet. Named for the progenitor of our Clan Donald and Lord of the Isles. &nbsp; 50g"
+      "description": "This old family recipe is richly deep in flavor without being strong and accompanied by a wonderful aroma without being overly sweet. Named for the progenitor of our Clan Donald and Lord of the Isles. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "McClelland's - Blending Latakia - 2001!",
@@ -943,7 +1013,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Top-grade, smoky, black latakia comes to us in bales from Cyprus. We cut it in ribbon form. It is cool smoking and very fragrant. Add a little to your medium mixture to create \"fuller\" blends. &nbsp; 100g"
+      "description": "Top-grade, smoky, black latakia comes to us in bales from Cyprus. We cut it in ribbon form. It is cool smoking and very fragrant. Add a little to your medium mixture to create \"fuller\" blends. &nbsp; 100g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Hearth and Home - Classic Burley Kake - 2012 - 8 Ounce Can!",
@@ -958,7 +1029,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Classic Burley Kake is a blend that pays homage to old time burley flakes and cakes. Using Tennessee and Kentucky burleys, ranging from lighter white to darker mahogany, and a bit of matured red Virginia, this sliced cake tobacco is a traditional American style blend. We start with four different types of burley, the aforementioned Tennessee and Kentucky, plus two different premium white burleys. "
+      "description": "Classic Burley Kake is a blend that pays homage to old time burley flakes and cakes. Using Tennessee and Kentucky burleys, ranging from lighter white to darker mahogany, and a bit of matured red Virginia, this sliced cake tobacco is a traditional American style blend. We start with four different types of burley, the aforementioned Tennessee and Kentucky, plus two different premium white burleys. ",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Half & Half - Burley & Bright - 2012!",
@@ -973,7 +1045,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Half and Half is a timeless mix of loose cut burley and Virginia tobaccos with flavorful notes of cardamom, coriander and maze. Enjoy this smooth, easy-going smoke again and again. &nbsp; 14 oz can"
+      "description": "Half and Half is a timeless mix of loose cut burley and Virginia tobaccos with flavorful notes of cardamom, coriander and maze. Enjoy this smooth, easy-going smoke again and again. &nbsp; 14 oz can",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Gawith Hoggarth - Balkan Mixture",
@@ -988,7 +1061,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Gawith, Hoggarth &amp; Co. takes the finest Virginia tobacco and dark fire-cured tobacco from India and expertly blends them with Latakia to give the smoker a unique taste and aroma for this Balkan Mixture. &nbsp; 50g"
+      "description": "Gawith, Hoggarth &amp; Co. takes the finest Virginia tobacco and dark fire-cured tobacco from India and expertly blends them with Latakia to give the smoker a unique taste and aroma for this Balkan Mixture. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Gawith Hoggarth - Rum Flake - 2021",
@@ -1003,7 +1077,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "The 'Christmas cake' of all our tobaccos. A very rich, sweet fully flavoured blend. The main feature is the high proportion of naturally sweet sun-cured tobaccos in the blend - over 40%. Only 30% Virginia leaf, with the rest of the blend coming from burleys and dark-air cured contribute to a strong, but rewarding smoke. The whole blend is cased in maple sugars to further enhance the natural sweetn"
+      "description": "The 'Christmas cake' of all our tobaccos. A very rich, sweet fully flavoured blend. The main feature is the high proportion of naturally sweet sun-cured tobaccos in the blend - over 40%. Only 30% Virginia leaf, with the rest of the blend coming from burleys and dark-air cured contribute to a strong, but rewarding smoke. The whole blend is cased in maple sugars to further enhance the natural sweetn",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Friburg & Treyer - Cut Blended Plug - 2017",
@@ -1018,7 +1093,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A light red Virginia flake, slightly sweet with natural flavoring. &nbsp; 50g"
+      "description": "A light red Virginia flake, slightly sweet with natural flavoring. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Cornell & Diehl - Billy Budd - 2017",
@@ -1033,7 +1109,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A heavy Latakia blend with rough-cut burley, bright Virginia flake, and a good amount of rough-cut cigar leaf. Billy Budd was created for C&amp;D's late friend Sailorman Jack. &nbsp; 2oz"
+      "description": "A heavy Latakia blend with rough-cut burley, bright Virginia flake, and a good amount of rough-cut cigar leaf. Billy Budd was created for C&amp;D's late friend Sailorman Jack. &nbsp; 2oz",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "BriarWorks - Country Lawyer - 2018",
@@ -1048,7 +1125,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "BriarWorks International's Country Lawyer: Spicy and full bodied, this courthouse blend is sure to charm the jury with no objections. Case closed. &nbsp; 2 oz jar"
+      "description": "BriarWorks International's Country Lawyer: Spicy and full bodied, this courthouse blend is sure to charm the jury with no objections. Case closed. &nbsp; 2 oz jar",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "BriarWorks - Unsweet Tea - 2018",
@@ -1063,7 +1141,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "BriarWorks International's Unsweet Tea: A traditional blend from north of the Mason Dixon line. Steeped with a robust, yet smooth taste. &nbsp; 2 oz jar"
+      "description": "BriarWorks International's Unsweet Tea: A traditional blend from north of the Mason Dixon line. Steeped with a robust, yet smooth taste. &nbsp; 2 oz jar",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Ashton Old Dog - 2000",
@@ -1077,7 +1156,8 @@
           "price": "$85.00",
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
-      ]
+      ],
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Ashton - Celebrated Sovereign - 1998",
@@ -1091,7 +1171,8 @@
           "price": "$90.00",
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
-      ]
+      ],
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Ashton Old Dog - 2004",
@@ -1105,10 +1186,11 @@
           "price": "$75.00",
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
-      ]
+      ],
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     }
   ],
-  "last_scraped": "2026-06-23T19:16:19.601534+00:00",
+  "last_scraped": "2026-06-24T19:16:16.698908+00:00",
   "latest_scrape": [
     {
       "name": "Dunhill Flake - 2012",
@@ -1123,7 +1205,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Medium strength flake of selected grades of lemon and bronze Virginias. One of Dunhill's most expert blends of highest quality."
+      "description": "Medium strength flake of selected grades of lemon and bronze Virginias. One of Dunhill's most expert blends of highest quality.",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Balkan Luxury Blend 957",
@@ -1138,7 +1221,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "An intermingling of Oriental, Perique, Latakia, Virginia, and Black Cavendish."
+      "description": "An intermingling of Oriental, Perique, Latakia, Virginia, and Black Cavendish.",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Limited Run - Cobblestone Plum Rum",
@@ -1153,7 +1237,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Released in 2023, Cobblestone's Limited Pressed Plum Rum tobacco stays true to the brand's penchant for producing high quality Aromatic blends, here presented in a pressed, crumble cake form for a full melding of flavors. Comprising a mixture of Virginias, Cavendish, and Burley tobaccos with a judicious pinch of Latakia, the Limited Pressed Plum Rum offers a mild, easygoing smoke, and is topped wi"
+      "description": "Released in 2023, Cobblestone's Limited Pressed Plum Rum tobacco stays true to the brand's penchant for producing high quality Aromatic blends, here presented in a pressed, crumble cake form for a full melding of flavors. Comprising a mixture of Virginias, Cavendish, and Burley tobaccos with a judicious pinch of Latakia, the Limited Pressed Plum Rum offers a mild, easygoing smoke, and is topped wi",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Mt. Marcy - 8 Ounce Can",
@@ -1168,7 +1253,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "This elegant blend gets its name from the highest peak in New York. This is medium-bodied Balkan blend has a complex, delicate flavor and aroma, due in part to the use of fragrant Dubec in combination with other Orientals, Latakia and choice Virginias. A great choice when you want the richness of Latakia and the bouquet of Turkish tobaccos, but don't want anything too heavy. &nbsp; 8 ounce can fro"
+      "description": "This elegant blend gets its name from the highest peak in New York. This is medium-bodied Balkan blend has a complex, delicate flavor and aroma, due in part to the use of fragrant Dubec in combination with other Orientals, Latakia and choice Virginias. A great choice when you want the richness of Latakia and the bouquet of Turkish tobaccos, but don't want anything too heavy. &nbsp; 8 ounce can fro",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Brigadier Black - Bull Run - 2013!",
@@ -1183,7 +1269,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A mix of black Cavendish and golden Burleys with a gentle splash of vanilla. This is a smooth and mellow smoke that can easily become one of your everyday choices.&nbsp; &nbsp; 8 ounce can!"
+      "description": "A mix of black Cavendish and golden Burleys with a gentle splash of vanilla. This is a smooth and mellow smoke that can easily become one of your everyday choices.&nbsp; &nbsp; 8 ounce can!",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Brigadier Black - Gettysburg - 2013!",
@@ -1198,7 +1285,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A real crowd pleaser. The Gettysburg blend consists of nutty Burleys and zesty Virginias, paired with a hint of fresh peaches. With its sweet and silky flavor this blend will take you back to summer.&nbsp; &nbsp; 8 ounce can!"
+      "description": "A real crowd pleaser. The Gettysburg blend consists of nutty Burleys and zesty Virginias, paired with a hint of fresh peaches. With its sweet and silky flavor this blend will take you back to summer.&nbsp; &nbsp; 8 ounce can!",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Brigadier Black - Alamo - 2013!",
@@ -1213,7 +1301,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A mellow Burley and smooth black Cavendish blend encased with sweet notes of nougat and rich mocha. This delicious blend will light up any room with its pleasant aroma. &nbsp; 8 ounce can!"
+      "description": "A mellow Burley and smooth black Cavendish blend encased with sweet notes of nougat and rich mocha. This delicious blend will light up any room with its pleasant aroma. &nbsp; 8 ounce can!",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Brigadier Black - Sherman's March - 2013!",
@@ -1228,7 +1317,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Sherman's March is a true American blend paying tribute to those blends that came before it. It pairs mellow, nutty Burleys with sweet Virginias, finished off with a shot of rum and warm maple flavors. Sit back and enjoy the old-fashioned experience that this blend provides. &nbsp; 8 ounce can!"
+      "description": "Sherman's March is a true American blend paying tribute to those blends that came before it. It pairs mellow, nutty Burleys with sweet Virginias, finished off with a shot of rum and warm maple flavors. Sit back and enjoy the old-fashioned experience that this blend provides. &nbsp; 8 ounce can!",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Rattray's - Hal O' Thy Wynd - 2011!",
@@ -1243,7 +1333,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "This Rattray's mixture is a stronger, sharp aged red Virginia blend that will perk you up quickly. Hal O' The Wynd is always ranked near the top for fantastic Virginias to smoke now and save some for the cellar. &nbsp; 100g"
+      "description": "This Rattray's mixture is a stronger, sharp aged red Virginia blend that will perk you up quickly. Hal O' The Wynd is always ranked near the top for fantastic Virginias to smoke now and save some for the cellar. &nbsp; 100g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Drew Estate - Harvest on Hudson - 2011!",
@@ -1258,7 +1349,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "We used to go up Hudson in the Fall to go apple picking at the orchards, and this is the memory of those times all packed into your bowl. Mild and wonderfully flavorful, with notes of freshly cut apples and a smooth blend of Virginia, burley and cavendish tobaccos."
+      "description": "We used to go up Hudson in the Fall to go apple picking at the orchards, and this is the memory of those times all packed into your bowl. Mild and wonderfully flavorful, with notes of freshly cut apples and a smooth blend of Virginia, burley and cavendish tobaccos.",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Cornell & Diehl - Opening Night - 2011!",
@@ -1273,7 +1365,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A delicious blend of the finest red and bright Virginias pressed to perfection and sliced into flakes. &nbsp; 50g"
+      "description": "A delicious blend of the finest red and bright Virginias pressed to perfection and sliced into flakes. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Golden Triangle - Paulina - 2011",
@@ -1288,7 +1381,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "BLENDED BY RUSS OUELLETTE! &nbsp; This varietal exhibits a flinty character, with a peppery sourness that you notice toward the back of the tongue. There’s also of bit of a coffee note on the retrohale. In combination with the base blend, these flavor notes become very noticeable. Golden Triangle Paulina gives you a flavor that's a real departure from what you expect from Perique."
+      "description": "BLENDED BY RUSS OUELLETTE! &nbsp; This varietal exhibits a flinty character, with a peppery sourness that you notice toward the back of the tongue. There’s also of bit of a coffee note on the retrohale. In combination with the base blend, these flavor notes become very noticeable. Golden Triangle Paulina gives you a flavor that's a real departure from what you expect from Perique.",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Golden Triangle - Belmont - 2011",
@@ -1303,7 +1397,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "BLENDED BY RUSS OUELLETTE! &nbsp; The Belmont varietal might be the most surprising. The aroma of the leaf reminded me of brined olives. There’s a butteriness and a bit of saltiness. The spice is bold, like Cayenne pepper. In this version, the creaminess is there with the pepper more noticeable on the finish, with the base blend adding some sweetness. Golden Triangle Belmont will give you a whole "
+      "description": "BLENDED BY RUSS OUELLETTE! &nbsp; The Belmont varietal might be the most surprising. The aroma of the leaf reminded me of brined olives. There’s a butteriness and a bit of saltiness. The spice is bold, like Cayenne pepper. In this version, the creaminess is there with the pepper more noticeable on the finish, with the base blend adding some sweetness. Golden Triangle Belmont will give you a whole ",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Golden Triangle - St. James Perique - 2011",
@@ -1318,7 +1413,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "BLENDED BY RUSS OUELLETTE! &nbsp; This is the big bonus in the Golden Triangle Series. Straight St. James Perique hasn’t been available to the public in many years. What is in the tin is 50 grams of 100% true St. James Perique, which is a combination of the four varietal types included in this series. Now you can add some of this very rare tobacco to your favorite blend, make a whole new mixture, "
+      "description": "BLENDED BY RUSS OUELLETTE! &nbsp; This is the big bonus in the Golden Triangle Series. Straight St. James Perique hasn’t been available to the public in many years. What is in the tin is 50 grams of 100% true St. James Perique, which is a combination of the four varietal types included in this series. Now you can add some of this very rare tobacco to your favorite blend, make a whole new mixture, ",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Golden Triangle - South Vacherie - 2011",
@@ -1333,7 +1429,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "BLENDED BY RUSS OUELLETTE! &nbsp; The Perique from South Vacherie has a distinct espresso character supported by herbal notes. The spice in this varietal is like white pepper – lively but subdued. This might be the most complex of the four versions. With the base tobaccos being relatively neutral, those characteristics are more noticeable in this entry to the Golden Triangle Series."
+      "description": "BLENDED BY RUSS OUELLETTE! &nbsp; The Perique from South Vacherie has a distinct espresso character supported by herbal notes. The spice in this varietal is like white pepper – lively but subdued. This might be the most complex of the four versions. With the base tobaccos being relatively neutral, those characteristics are more noticeable in this entry to the Golden Triangle Series.",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Golden Triangle - Grand Point - 2011",
@@ -1348,7 +1445,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "BLENDED BY RUSS OUELLETTE! &nbsp; With Grand Point, there’s a more subdued spiciness, more akin to cinnamon and nutmeg. It also has a fruitiness that comes across as a wine-like note, and there’s a hint of cocoa in the flavor. The spiced wine character is the most noticeable in this blend. This entry in the Golden Triangle Series comes the closest to what people expect from Perique."
+      "description": "BLENDED BY RUSS OUELLETTE! &nbsp; With Grand Point, there’s a more subdued spiciness, more akin to cinnamon and nutmeg. It also has a fruitiness that comes across as a wine-like note, and there’s a hint of cocoa in the flavor. The spiced wine character is the most noticeable in this blend. This entry in the Golden Triangle Series comes the closest to what people expect from Perique.",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Cornell & Diehl - Exhausted Rooster - 2009-10!",
@@ -1421,9 +1519,18 @@
         {
           "price": "$79.00",
           "date": "2026-06-23T19:16:19.601534+00:00"
+        },
+        {
+          "price": "$74.00",
+          "date": "2026-06-24T19:16:16.698908+00:00"
+        },
+        {
+          "price": "$79.00",
+          "date": "2026-06-24T19:16:16.698908+00:00"
         }
       ],
-      "description": "A tasty flake of Virginias, Dark-Fired Burley, and a dash of Perique, the folks at Cornell &amp; Diehl blended Exhausted Rooster especially for the Chicagoland Pipe Show, years ago. &nbsp; 8 OUNCE CAN! &nbsp;"
+      "description": "A tasty flake of Virginias, Dark-Fired Burley, and a dash of Perique, the folks at Cornell &amp; Diehl blended Exhausted Rooster especially for the Chicagoland Pipe Show, years ago. &nbsp; 8 OUNCE CAN! &nbsp;",
+      "last_updated": "2026-06-24T19:16:16.698908+00:00"
     },
     {
       "name": "Cornell & Diehl - Exhausted Rooster - 2009-10!",
@@ -1496,9 +1603,18 @@
         {
           "price": "$79.00",
           "date": "2026-06-23T19:16:19.601534+00:00"
+        },
+        {
+          "price": "$74.00",
+          "date": "2026-06-24T19:16:16.698908+00:00"
+        },
+        {
+          "price": "$79.00",
+          "date": "2026-06-24T19:16:16.698908+00:00"
         }
       ],
-      "description": "A tasty flake of Virginias, Dark-Fired Burley, and a dash of Perique, the folks at Cornell &amp; Diehl blended Exhausted Rooster especially for the Chicagoland Pipe Show, years ago. &nbsp; 8 OUNCE CAN! &nbsp;"
+      "description": "A tasty flake of Virginias, Dark-Fired Burley, and a dash of Perique, the folks at Cornell &amp; Diehl blended Exhausted Rooster especially for the Chicagoland Pipe Show, years ago. &nbsp; 8 OUNCE CAN! &nbsp;",
+      "last_updated": "2026-06-24T19:16:16.698908+00:00"
     },
     {
       "name": "Cornell & Diehl - Exhausted Rooster - 2011!",
@@ -1513,7 +1629,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A tasty flake of Virginias, Dark-Fired Burley, and a dash of Perique, the folks at Cornell &amp; Diehl blended Exhausted Rooster especially for the Chicagoland Pipe Show, years ago. &nbsp; 2 oz &nbsp;"
+      "description": "A tasty flake of Virginias, Dark-Fired Burley, and a dash of Perique, the folks at Cornell &amp; Diehl blended Exhausted Rooster especially for the Chicagoland Pipe Show, years ago. &nbsp; 2 oz &nbsp;",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Cornell & Diehl - Exhausted Rooster - 2009!",
@@ -1528,7 +1645,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A tasty flake of Virginias, Dark-Fired Burley, and a dash of Perique, the folks at Cornell &amp; Diehl blended Exhausted Rooster especially for the Chicagoland Pipe Show, years ago. &nbsp; 2 oz &nbsp;"
+      "description": "A tasty flake of Virginias, Dark-Fired Burley, and a dash of Perique, the folks at Cornell &amp; Diehl blended Exhausted Rooster especially for the Chicagoland Pipe Show, years ago. &nbsp; 2 oz &nbsp;",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "G.L. Pease - Haddo's Delight - 2009!",
@@ -1601,9 +1719,18 @@
         {
           "price": "$53.00",
           "date": "2026-06-23T19:16:19.601534+00:00"
+        },
+        {
+          "price": "$215.00",
+          "date": "2026-06-24T19:16:16.698908+00:00"
+        },
+        {
+          "price": "$53.00",
+          "date": "2026-06-24T19:16:16.698908+00:00"
         }
       ],
-      "description": "Haddo's Delight is a stout blend of several Virginia tobaccos with a generous measure of long-cut Perique. Unflavored Black Cavendish and a little air-cured White Burley ribbon provide fullness, body, and a bit of extra strength. Finally, an exclusive process darkens and marries the mixture, and gives the blend a subtle tin aroma of cocoa and dried fruit. The flavor is full on the palate, earthy, "
+      "description": "Haddo's Delight is a stout blend of several Virginia tobaccos with a generous measure of long-cut Perique. Unflavored Black Cavendish and a little air-cured White Burley ribbon provide fullness, body, and a bit of extra strength. Finally, an exclusive process darkens and marries the mixture, and gives the blend a subtle tin aroma of cocoa and dried fruit. The flavor is full on the palate, earthy, ",
+      "last_updated": "2026-06-24T19:16:16.698908+00:00"
     },
     {
       "name": "G.L. Pease - Haddo's Delight - 2010!",
@@ -1618,7 +1745,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Haddo's Delight is a stout blend of several Virginia tobaccos with a generous measure of long-cut Perique. Unflavored Black Cavendish and a little air-cured White Burley ribbon provide fullness, body, and a bit of extra strength. Finally, an exclusive process darkens and marries the mixture, and gives the blend a subtle tin aroma of cocoa and dried fruit. The flavor is full on the palate, earthy, "
+      "description": "Haddo's Delight is a stout blend of several Virginia tobaccos with a generous measure of long-cut Perique. Unflavored Black Cavendish and a little air-cured White Burley ribbon provide fullness, body, and a bit of extra strength. Finally, an exclusive process darkens and marries the mixture, and gives the blend a subtle tin aroma of cocoa and dried fruit. The flavor is full on the palate, earthy, ",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "G.L. Pease - Haddo's Delight - 2009!",
@@ -1691,9 +1819,18 @@
         {
           "price": "$53.00",
           "date": "2026-06-23T19:16:19.601534+00:00"
+        },
+        {
+          "price": "$215.00",
+          "date": "2026-06-24T19:16:16.698908+00:00"
+        },
+        {
+          "price": "$53.00",
+          "date": "2026-06-24T19:16:16.698908+00:00"
         }
       ],
-      "description": "Haddo's Delight is a stout blend of several Virginia tobaccos with a generous measure of long-cut Perique. Unflavored Black Cavendish and a little air-cured White Burley ribbon provide fullness, body, and a bit of extra strength. Finally, an exclusive process darkens and marries the mixture, and gives the blend a subtle tin aroma of cocoa and dried fruit. The flavor is full on the palate, earthy, "
+      "description": "Haddo's Delight is a stout blend of several Virginia tobaccos with a generous measure of long-cut Perique. Unflavored Black Cavendish and a little air-cured White Burley ribbon provide fullness, body, and a bit of extra strength. Finally, an exclusive process darkens and marries the mixture, and gives the blend a subtle tin aroma of cocoa and dried fruit. The flavor is full on the palate, earthy, ",
+      "last_updated": "2026-06-24T19:16:16.698908+00:00"
     },
     {
       "name": "G.L. Pease - JackKnife Plug - 2011!",
@@ -1708,7 +1845,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "For Pease's Jackknife Plug, dark-fired Kentucky Leaf and ripe red Virginia tobaccos, with their deep, earthy flavors, are layered on a central core of golden flue-cured for a hint of bright sweetness, then pressed and matured in cakes, and finally cut into 2oz blocks. Slice it thick and rub it out for a ribbon cut, thin for a shag, or chop it into cubes. The choice is yours. &nbsp; 2 oz"
+      "description": "For Pease's Jackknife Plug, dark-fired Kentucky Leaf and ripe red Virginia tobaccos, with their deep, earthy flavors, are layered on a central core of golden flue-cured for a hint of bright sweetness, then pressed and matured in cakes, and finally cut into 2oz blocks. Slice it thick and rub it out for a ribbon cut, thin for a shag, or chop it into cubes. The choice is yours. &nbsp; 2 oz",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "G.L. Pease - Jack Knife Plug - 2010!",
@@ -1723,7 +1861,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "For Pease's Jackknife Plug, dark-fired Kentucky Leaf and ripe red Virginia tobaccos, with their deep, earthy flavors, are layered on a central core of golden flue-cured for a hint of bright sweetness, then pressed and matured in cakes, and finally cut into 2oz blocks. Slice it thick and rub it out for a ribbon cut, thin for a shag, or chop it into cubes. The choice is yours. &nbsp; 2 oz"
+      "description": "For Pease's Jackknife Plug, dark-fired Kentucky Leaf and ripe red Virginia tobaccos, with their deep, earthy flavors, are layered on a central core of golden flue-cured for a hint of bright sweetness, then pressed and matured in cakes, and finally cut into 2oz blocks. Slice it thick and rub it out for a ribbon cut, thin for a shag, or chop it into cubes. The choice is yours. &nbsp; 2 oz",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "G.L. Pease - Fillmore - 2010!",
@@ -1738,7 +1877,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Here G. L. Pease produces thick-slices of broken flake in the Scottish tradition. Ripe Red Virginia tobaccos are combined with a generous measure of fine Louisiana Perique, and then pressed to marry the components and deepen the flavors. The cakes are sliced and gently broken before tinning. Fillmore presents an elegant sweetness and delightful piquancy, enhanced by a creamy richness that develops"
+      "description": "Here G. L. Pease produces thick-slices of broken flake in the Scottish tradition. Ripe Red Virginia tobaccos are combined with a generous measure of fine Louisiana Perique, and then pressed to marry the components and deepen the flavors. The cakes are sliced and gently broken before tinning. Fillmore presents an elegant sweetness and delightful piquancy, enhanced by a creamy richness that develops",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "G.L. Pease - Fillmore - 2009!",
@@ -1753,7 +1893,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Here G. L. Pease produces thick-slices of broken flake in the Scottish tradition. Ripe Red Virginia tobaccos are combined with a generous measure of fine Louisiana Perique, and then pressed to marry the components and deepen the flavors. The cakes are sliced and gently broken before tinning. Fillmore presents an elegant sweetness and delightful piquancy, enhanced by a creamy richness that develops"
+      "description": "Here G. L. Pease produces thick-slices of broken flake in the Scottish tradition. Ripe Red Virginia tobaccos are combined with a generous measure of fine Louisiana Perique, and then pressed to marry the components and deepen the flavors. The cakes are sliced and gently broken before tinning. Fillmore presents an elegant sweetness and delightful piquancy, enhanced by a creamy richness that develops",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "G.L. Pease - Fillmore - 2008! 8 Ounce Big Can",
@@ -1768,7 +1909,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Here G. L. Pease produces thick-slices of broken flake in the Scottish tradition. Ripe Red Virginia tobaccos are combined with a generous measure of fine Louisiana Perique, and then pressed to marry the components and deepen the flavors. The cakes are sliced and gently broken before tinning. Fillmore presents an elegant sweetness and delightful piquancy, enhanced by a creamy richness that develops"
+      "description": "Here G. L. Pease produces thick-slices of broken flake in the Scottish tradition. Ripe Red Virginia tobaccos are combined with a generous measure of fine Louisiana Perique, and then pressed to marry the components and deepen the flavors. The cakes are sliced and gently broken before tinning. Fillmore presents an elegant sweetness and delightful piquancy, enhanced by a creamy richness that develops",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "G.L. Pease - Fillmore - 2008!",
@@ -1783,7 +1925,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Here G. L. Pease produces thick-slices of broken flake in the Scottish tradition. Ripe Red Virginia tobaccos are combined with a generous measure of fine Louisiana Perique, and then pressed to marry the components and deepen the flavors. The cakes are sliced and gently broken before tinning. Fillmore presents an elegant sweetness and delightful piquancy, enhanced by a creamy richness that develops"
+      "description": "Here G. L. Pease produces thick-slices of broken flake in the Scottish tradition. Ripe Red Virginia tobaccos are combined with a generous measure of fine Louisiana Perique, and then pressed to marry the components and deepen the flavors. The cakes are sliced and gently broken before tinning. Fillmore presents an elegant sweetness and delightful piquancy, enhanced by a creamy richness that develops",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Cringle Flake 2020",
@@ -1798,7 +1941,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Decade old red Virginias are stoved to perfection, bringing the natural flavors to the forefront. Then, they are combined with 2003 vintage perique, pressed, and sliced into broken flakes."
+      "description": "Decade old red Virginias are stoved to perfection, bringing the natural flavors to the forefront. Then, they are combined with 2003 vintage perique, pressed, and sliced into broken flakes.",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Cult Conspiracy",
@@ -1813,7 +1957,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Golden Virginias, reddish Burley, a special Green River Black Cavendish, and a touch of Cyprian Latakia are blended together and topped with notes of vanilla and clover honey to produce Cult Conspiracy's creamy and just slightly floral smoke."
+      "description": "Golden Virginias, reddish Burley, a special Green River Black Cavendish, and a touch of Cyprian Latakia are blended together and topped with notes of vanilla and clover honey to produce Cult Conspiracy's creamy and just slightly floral smoke.",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "John Cotton's - Double Pressed Virginia - 2020",
@@ -1828,7 +1973,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A blend of sweet Virginias is first pressed and then sliced into a flake. It's then tumbled into a ribbon, allowed to breathe and put back into the mold to be pressed again into a crumble cake. This darkens the leaf, gives it a deeper, richer flavor, and takes much of the \"edge\" off the blend. Finally, there's a Virginia tobacco that just about anyone can enjoy - John Cotton's Double Pressed Virgi"
+      "description": "A blend of sweet Virginias is first pressed and then sliced into a flake. It's then tumbled into a ribbon, allowed to breathe and put back into the mold to be pressed again into a crumble cake. This darkens the leaf, gives it a deeper, richer flavor, and takes much of the \"edge\" off the blend. Finally, there's a Virginia tobacco that just about anyone can enjoy - John Cotton's Double Pressed Virgi",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Perique - Blending",
@@ -1843,7 +1989,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Rare and precious, this dark, fragrant condiment tobacco comes to us in wooden casks from St. James Parish, Louisiana, where it has been produced in time honored fashion since the days when the natives pressed it in tree trunks. Use it sparingly in your blends for its distinctive cooked fruit, musty, mushroom-like aroma and cool smoking character. 2011 50g"
+      "description": "Rare and precious, this dark, fragrant condiment tobacco comes to us in wooden casks from St. James Parish, Louisiana, where it has been produced in time honored fashion since the days when the natives pressed it in tree trunks. Use it sparingly in your blends for its distinctive cooked fruit, musty, mushroom-like aroma and cool smoking character. 2011 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Brown Sugar Flake!",
@@ -1858,7 +2005,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Brown Sugar Flake is a Samuel Gawith/Danish Pipe Shop collaboration, the goal of which was to create a fuller-bodied ode to the old Orlik Brown Sliced. High quality Virginia is hot pressed with natural cavendish to create a pure flavor with just a hint of natural sweetness from the cavendish.&nbsp; Then to spice it up just a bit, a pinch of Burley and Oriental is added."
+      "description": "Brown Sugar Flake is a Samuel Gawith/Danish Pipe Shop collaboration, the goal of which was to create a fuller-bodied ode to the old Orlik Brown Sliced. High quality Virginia is hot pressed with natural cavendish to create a pure flavor with just a hint of natural sweetness from the cavendish.&nbsp; Then to spice it up just a bit, a pinch of Burley and Oriental is added.",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Red Ribbon - 2017!",
@@ -1873,7 +2021,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Straight red Virginia from the Old Belt. A single crop allotment that is simply the best&nbsp;2017&nbsp;Crop from North Carolina. 2017 50g"
+      "description": "Straight red Virginia from the Old Belt. A single crop allotment that is simply the best&nbsp;2017&nbsp;Crop from North Carolina. 2017 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Whimsical - Birds of a Feather",
@@ -1888,7 +2037,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Featuring peppery and spicy true St. James Perique - this blend is balanced out by Red and Bright Virginias. A hint of tanginess completes the blend and makes it pleasing alongside the natural Virginia sweetness and zesty St. James Perique. 2022 50g"
+      "description": "Featuring peppery and spicy true St. James Perique - this blend is balanced out by Red and Bright Virginias. A hint of tanginess completes the blend and makes it pleasing alongside the natural Virginia sweetness and zesty St. James Perique. 2022 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Anomalous - Birds of a Feather",
@@ -1903,7 +2053,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A special crumble cake blend featuring Katerini perique, an oriental tobacco grown in Greece. Katerini perique has a lighter taste than normal perique, and as an extra gain, it develops a deep raisin/fruity taste. The Katerini perique is blended with Red Virginia, a fair amount of Virginia Cavendish, and a bit of high-grade Burley. A blend with lots of Virginia sweetness and the unique taste of ra"
+      "description": "A special crumble cake blend featuring Katerini perique, an oriental tobacco grown in Greece. Katerini perique has a lighter taste than normal perique, and as an extra gain, it develops a deep raisin/fruity taste. The Katerini perique is blended with Red Virginia, a fair amount of Virginia Cavendish, and a bit of high-grade Burley. A blend with lots of Virginia sweetness and the unique taste of ra",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Uno - Birds of a Feather",
@@ -1918,7 +2069,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A complex blend of 8 major blending tobaccos - with Katerini Perique (an oriental tobacco grown in Greece), St. James Perique, and Latakia in the front seat of the flavor profile. Supported by mellowing Virginias and a balancing Dark Fired Kentucky, the mixture results in a subtle peppery note and the deep flavor of fruit and raisins. &nbsp; 50g"
+      "description": "A complex blend of 8 major blending tobaccos - with Katerini Perique (an oriental tobacco grown in Greece), St. James Perique, and Latakia in the front seat of the flavor profile. Supported by mellowing Virginias and a balancing Dark Fired Kentucky, the mixture results in a subtle peppery note and the deep flavor of fruit and raisins. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Paradoxical - Birds of a Feather",
@@ -1933,7 +2085,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Paradoxical offers burley complimented by the rare Rustica leaf. Supported by sweet Virginias, nutty notes are accented with underlying cocoa, characteristic of fine burley tobacco. The stout Rustica then offers spice and earthy notes, bringing a bold character to the flavor and body. &nbsp; 50g"
+      "description": "Paradoxical offers burley complimented by the rare Rustica leaf. Supported by sweet Virginias, nutty notes are accented with underlying cocoa, characteristic of fine burley tobacco. The stout Rustica then offers spice and earthy notes, bringing a bold character to the flavor and body. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "McClelland Full Balkan Reserve",
@@ -1948,7 +2101,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "ONE LAST TIN &nbsp; A very smooth Balkan style blend with exceptional depth. It is rich with cool smoking, aromatic and lightly sweet Cyprian latakia, spiced with the finest fragrant Macendonian Oriental leaf. One of the most popular Balkans we have ever made. &nbsp; 50 g"
+      "description": "ONE LAST TIN &nbsp; A very smooth Balkan style blend with exceptional depth. It is rich with cool smoking, aromatic and lightly sweet Cyprian latakia, spiced with the finest fragrant Macendonian Oriental leaf. One of the most popular Balkans we have ever made. &nbsp; 50 g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Villiger - Mid-Day - 2013!",
@@ -1963,7 +2117,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A mixture of double-steamed Black Cavendish, blended with Burley, Oriental and light Virginia tobaccos. A delightful aroma and top note vanilla and exotic fruit make this mild and pleasant smoke in the early afternoon"
+      "description": "A mixture of double-steamed Black Cavendish, blended with Burley, Oriental and light Virginia tobaccos. A delightful aroma and top note vanilla and exotic fruit make this mild and pleasant smoke in the early afternoon",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Stanwell - Melange - 2015!",
@@ -1978,7 +2133,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A modern approach to a traditional mixture. Black cavendish, toasted burley, Orientals and bright Virginias are gently mixed with apricot and natural sweetness. Soft and mellow with a pleasing aroma and a delicate taste. &nbsp; 50g"
+      "description": "A modern approach to a traditional mixture. Black cavendish, toasted burley, Orientals and bright Virginias are gently mixed with apricot and natural sweetness. Soft and mellow with a pleasing aroma and a delicate taste. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Sasieni - Balkan - 2018!",
@@ -1993,7 +2149,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Original formula Balkan smoking mixture was created in London at the beginning of the century by the master of Tobacco Blenders who first combined the aromatic pleasures of the choicest of Macedonia and Latakia leaf with the richness of Old Virginia to give the pipe smoker an unrivaled smoking pleasure. &nbsp; 50g"
+      "description": "Original formula Balkan smoking mixture was created in London at the beginning of the century by the master of Tobacco Blenders who first combined the aromatic pleasures of the choicest of Macedonia and Latakia leaf with the richness of Old Virginia to give the pipe smoker an unrivaled smoking pleasure. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Samuel Gawith - Sam's Flake - 2017!",
@@ -2008,7 +2165,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "The 2nd in our Mayor's Collection. Sam's Flake is a combination of flue cured Virginias and Turkish leaf which after blending is pressed in the hot oven, cut and then treated to a light flavouring which adds another flavour dimension to the tobacco. Good smoke and room aroma with a medium strength. &nbsp; 50g"
+      "description": "The 2nd in our Mayor's Collection. Sam's Flake is a combination of flue cured Virginias and Turkish leaf which after blending is pressed in the hot oven, cut and then treated to a light flavouring which adds another flavour dimension to the tobacco. Good smoke and room aroma with a medium strength. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Samuel Gawith - Squadron Leader - 2017!",
@@ -2023,7 +2181,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Samuel Gawith Squadron Leader pipe tobacco epitomises the traditional English tobacco. Blended dark and bright Virginias, together with Latakia and Turkish leaf results in a perfect, medium bodied product which gives a rich and slow burning smoke. &nbsp; 50g"
+      "description": "Samuel Gawith Squadron Leader pipe tobacco epitomises the traditional English tobacco. Blended dark and bright Virginias, together with Latakia and Turkish leaf results in a perfect, medium bodied product which gives a rich and slow burning smoke. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Samuel Gawith - 1792 Flake - 2018!",
@@ -2038,7 +2197,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "1792 Flake is a full-strength, mellow tobacco comprising a blend of dark fired Tanzanian leaf. It is Gawith's best selling premium grade flake. It starts as 7 lbs. of hand stripped leaf and goes through a steaming process prior to being pressed. The cake, having been prepared, is wrapped in a select leaf and packed by hand into a 12 inch square. This cake is pressed and left for a minimum of two h"
+      "description": "1792 Flake is a full-strength, mellow tobacco comprising a blend of dark fired Tanzanian leaf. It is Gawith's best selling premium grade flake. It starts as 7 lbs. of hand stripped leaf and goes through a steaming process prior to being pressed. The cake, having been prepared, is wrapped in a select leaf and packed by hand into a 12 inch square. This cake is pressed and left for a minimum of two h",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Samuel Gawith - Balkan Flake - 2018!",
@@ -2053,7 +2213,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A beautifully formed dark flake of pressed Virginias and a generous helping of latakia. Relax and enjoy this medium strength tobacco with its \"smokey\" flavour and cool, smooth characteristics. &nbsp; 50g"
+      "description": "A beautifully formed dark flake of pressed Virginias and a generous helping of latakia. Relax and enjoy this medium strength tobacco with its \"smokey\" flavour and cool, smooth characteristics. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Samuel Gawith - Grousemoor - 2016!",
@@ -2068,7 +2229,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "An original blend from Samuel Gawith, Grousemoor conjures up a vision of the Lakeland scenery with its accompaniment of seasonal scents. Manufactured in the heart of Lakeland for over 200 years. Using a combination of hand-stripped flue-cured leaf, Grousemoor is first steamed prior to being cut. After further steaming, to give Grousemoor its own golden color, the cut leaf is stoved then “rested”. "
+      "description": "An original blend from Samuel Gawith, Grousemoor conjures up a vision of the Lakeland scenery with its accompaniment of seasonal scents. Manufactured in the heart of Lakeland for over 200 years. Using a combination of hand-stripped flue-cured leaf, Grousemoor is first steamed prior to being cut. After further steaming, to give Grousemoor its own golden color, the cut leaf is stoved then “rested”. ",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Samuel Gawith - Perfection - 2018!",
@@ -2083,7 +2245,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "&nbsp; A variety of Brown &amp; Bright Virginias with a touch of latakia &amp; fine Turkish, steamed then a hint of vanilla has been added. &nbsp; 50g"
+      "description": "&nbsp; A variety of Brown &amp; Bright Virginias with a touch of latakia &amp; fine Turkish, steamed then a hint of vanilla has been added. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Robert McConnell - Scottish Blend - 2017!",
@@ -2098,7 +2261,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "One of the original blends from 1848. Mature red Virginia and Kentucky from North Carolina, black cavendish and Turkish are blended with latakia to produce a blend which has given quiet satisfaction to smokers for over a century. &nbsp; 50g"
+      "description": "One of the original blends from 1848. Mature red Virginia and Kentucky from North Carolina, black cavendish and Turkish are blended with latakia to produce a blend which has given quiet satisfaction to smokers for over a century. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Robert Lewis - Orcilla Mixture - 2017!",
@@ -2113,7 +2277,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A classic, fine ribbon Oriental blend. Robert Lewis' Orcilla Mixture is made from the finest Virginia tobaccos available with a whisper of perique. This has been a favorite of discerning smokers for over a century. &nbsp; 50g"
+      "description": "A classic, fine ribbon Oriental blend. Robert Lewis' Orcilla Mixture is made from the finest Virginia tobaccos available with a whisper of perique. This has been a favorite of discerning smokers for over a century. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Rattray's - Bagpiper's Dream - 2018!",
@@ -2128,7 +2293,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A fragrant pipe tobacco blend of Black Cavendish and four ready rubbed Golden Virginia tobaccos including ribbon cut, plug, curly, and flake, lightly top dressed with cognac for an elegant smoke. Tobaccos used are 5.6% domestically grown and 94.4% foreign grown. &nbsp; 100g"
+      "description": "A fragrant pipe tobacco blend of Black Cavendish and four ready rubbed Golden Virginia tobaccos including ribbon cut, plug, curly, and flake, lightly top dressed with cognac for an elegant smoke. Tobaccos used are 5.6% domestically grown and 94.4% foreign grown. &nbsp; 100g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Rattray's - Jock's Mixture - 2018!",
@@ -2143,7 +2309,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A very dark and full-bodied, mild mixture of surprising flavor and very slow burning with exactly the necessary touch of latakia supported by a good portion of cavendish. &nbsp; 100g"
+      "description": "A very dark and full-bodied, mild mixture of surprising flavor and very slow burning with exactly the necessary touch of latakia supported by a good portion of cavendish. &nbsp; 100g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Peterson - University Flake - 2017!",
@@ -2158,7 +2325,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "This style of tobacco is allowing the smoker to rub out the flake to the preferred texture. The blend is mixed with mahogany, brown and orange Virginia and sun cured leaf from India and is slowly pressed for days into cakes of tobacco and then sliced into delicate flakes. &nbsp; 50g"
+      "description": "This style of tobacco is allowing the smoker to rub out the flake to the preferred texture. The blend is mixed with mahogany, brown and orange Virginia and sun cured leaf from India and is slowly pressed for days into cakes of tobacco and then sliced into delicate flakes. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Orlik - Mellow Mixture - 2017!",
@@ -2173,7 +2341,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Ribbon cut Virginia, mixed with two types of black cavendish and a touch of roasted burley. Fresh sweet taste. &nbsp; 50g"
+      "description": "Ribbon cut Virginia, mixed with two types of black cavendish and a touch of roasted burley. Fresh sweet taste. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "McCranie's - Somerled - 2017!",
@@ -2188,7 +2357,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "This old family recipe is richly deep in flavor without being strong and accompanied by a wonderful aroma without being overly sweet. Named for the progenitor of our Clan Donald and Lord of the Isles. &nbsp; 50g"
+      "description": "This old family recipe is richly deep in flavor without being strong and accompanied by a wonderful aroma without being overly sweet. Named for the progenitor of our Clan Donald and Lord of the Isles. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "McClelland's - Blending Latakia - 2001!",
@@ -2203,7 +2373,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Top-grade, smoky, black latakia comes to us in bales from Cyprus. We cut it in ribbon form. It is cool smoking and very fragrant. Add a little to your medium mixture to create \"fuller\" blends. &nbsp; 100g"
+      "description": "Top-grade, smoky, black latakia comes to us in bales from Cyprus. We cut it in ribbon form. It is cool smoking and very fragrant. Add a little to your medium mixture to create \"fuller\" blends. &nbsp; 100g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Hearth and Home - Classic Burley Kake - 2012 - 8 Ounce Can!",
@@ -2218,7 +2389,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Classic Burley Kake is a blend that pays homage to old time burley flakes and cakes. Using Tennessee and Kentucky burleys, ranging from lighter white to darker mahogany, and a bit of matured red Virginia, this sliced cake tobacco is a traditional American style blend. We start with four different types of burley, the aforementioned Tennessee and Kentucky, plus two different premium white burleys. "
+      "description": "Classic Burley Kake is a blend that pays homage to old time burley flakes and cakes. Using Tennessee and Kentucky burleys, ranging from lighter white to darker mahogany, and a bit of matured red Virginia, this sliced cake tobacco is a traditional American style blend. We start with four different types of burley, the aforementioned Tennessee and Kentucky, plus two different premium white burleys. ",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Half & Half - Burley & Bright - 2012!",
@@ -2233,7 +2405,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Half and Half is a timeless mix of loose cut burley and Virginia tobaccos with flavorful notes of cardamom, coriander and maze. Enjoy this smooth, easy-going smoke again and again. &nbsp; 14 oz can"
+      "description": "Half and Half is a timeless mix of loose cut burley and Virginia tobaccos with flavorful notes of cardamom, coriander and maze. Enjoy this smooth, easy-going smoke again and again. &nbsp; 14 oz can",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Gawith Hoggarth - Balkan Mixture",
@@ -2248,7 +2421,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "Gawith, Hoggarth &amp; Co. takes the finest Virginia tobacco and dark fire-cured tobacco from India and expertly blends them with Latakia to give the smoker a unique taste and aroma for this Balkan Mixture. &nbsp; 50g"
+      "description": "Gawith, Hoggarth &amp; Co. takes the finest Virginia tobacco and dark fire-cured tobacco from India and expertly blends them with Latakia to give the smoker a unique taste and aroma for this Balkan Mixture. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Gawith Hoggarth - Rum Flake - 2021",
@@ -2263,7 +2437,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "The 'Christmas cake' of all our tobaccos. A very rich, sweet fully flavoured blend. The main feature is the high proportion of naturally sweet sun-cured tobaccos in the blend - over 40%. Only 30% Virginia leaf, with the rest of the blend coming from burleys and dark-air cured contribute to a strong, but rewarding smoke. The whole blend is cased in maple sugars to further enhance the natural sweetn"
+      "description": "The 'Christmas cake' of all our tobaccos. A very rich, sweet fully flavoured blend. The main feature is the high proportion of naturally sweet sun-cured tobaccos in the blend - over 40%. Only 30% Virginia leaf, with the rest of the blend coming from burleys and dark-air cured contribute to a strong, but rewarding smoke. The whole blend is cased in maple sugars to further enhance the natural sweetn",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Friburg & Treyer - Cut Blended Plug - 2017",
@@ -2278,7 +2453,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A light red Virginia flake, slightly sweet with natural flavoring. &nbsp; 50g"
+      "description": "A light red Virginia flake, slightly sweet with natural flavoring. &nbsp; 50g",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Cornell & Diehl - Billy Budd - 2017",
@@ -2293,7 +2469,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "A heavy Latakia blend with rough-cut burley, bright Virginia flake, and a good amount of rough-cut cigar leaf. Billy Budd was created for C&amp;D's late friend Sailorman Jack. &nbsp; 2oz"
+      "description": "A heavy Latakia blend with rough-cut burley, bright Virginia flake, and a good amount of rough-cut cigar leaf. Billy Budd was created for C&amp;D's late friend Sailorman Jack. &nbsp; 2oz",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "BriarWorks - Country Lawyer - 2018",
@@ -2308,7 +2485,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "BriarWorks International's Country Lawyer: Spicy and full bodied, this courthouse blend is sure to charm the jury with no objections. Case closed. &nbsp; 2 oz jar"
+      "description": "BriarWorks International's Country Lawyer: Spicy and full bodied, this courthouse blend is sure to charm the jury with no objections. Case closed. &nbsp; 2 oz jar",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "BriarWorks - Unsweet Tea - 2018",
@@ -2323,7 +2501,8 @@
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
       ],
-      "description": "BriarWorks International's Unsweet Tea: A traditional blend from north of the Mason Dixon line. Steeped with a robust, yet smooth taste. &nbsp; 2 oz jar"
+      "description": "BriarWorks International's Unsweet Tea: A traditional blend from north of the Mason Dixon line. Steeped with a robust, yet smooth taste. &nbsp; 2 oz jar",
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Ashton Old Dog - 2000",
@@ -2337,7 +2516,8 @@
           "price": "$85.00",
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
-      ]
+      ],
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Ashton - Celebrated Sovereign - 1998",
@@ -2351,7 +2531,8 @@
           "price": "$90.00",
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
-      ]
+      ],
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     },
     {
       "name": "Ashton Old Dog - 2004",
@@ -2365,7 +2546,8 @@
           "price": "$75.00",
           "date": "2026-06-20T18:32:06.142896+00:00"
         }
-      ]
+      ],
+      "last_updated": "2026-06-20T18:32:06.142896+00:00"
     }
   ],
   "scrape_history": [
@@ -2378,6 +2560,13 @@
     },
     {
       "date": "2026-06-23T19:16:19.601534+00:00",
+      "found": 68,
+      "added": 0,
+      "price_changed": 4,
+      "total": 66
+    },
+    {
+      "date": "2026-06-24T19:16:16.698908+00:00",
       "found": 68,
       "added": 0,
       "price_changed": 4,
