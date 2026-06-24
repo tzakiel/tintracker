@@ -261,21 +261,75 @@
         font-weight: 700;
         color: #2c2015;
       }
-      /* Weight · Year · Last Updated: stacked label-over-value, three across one
-         row that fills the card — Weight left, Year centered, Last Updated right. */
-      td.col-year, td.col-updated {
+      /* Weight · Avg$/oz · Year: stacked label-over-value, three across one row */
+      td.col-weight, td.col-ppo, td.col-year {
         flex-direction: column;
         justify-content: flex-start;
-        gap: .1rem;
+        gap: .15rem;
         padding: .4rem 0 0;
         font-size: .82rem;
       }
-      td.col-year    { align-items: center; }
-      td.col-updated { align-items: flex-end; }
-      /* labels follow each cell's alignment instead of the col-meta default */
-      td.col-year::before, td.col-updated::before {
-        align-self: auto;
+      td.col-weight  { align-items: flex-start; }
+      td.col-ppo     { align-items: center; display: flex; color: #6b5640; width: auto; white-space: nowrap; }
+      td.col-year    { align-items: flex-end; }
+      td.col-weight::before, td.col-ppo::before, td.col-year::before { align-self: auto; }
+      td.col-ppo::before {
+        content: attr(data-label);
+        color: #a07d57;
+        font-size: .7rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: .04em;
       }
+
+      /* Last Updated: full-width inline row with separator above */
+      td.col-updated {
+        grid-column: 1 / -1;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: baseline;
+        padding: .45rem 0 0;
+        margin-top: .3rem;
+        border-top: 1px solid #efe4d0;
+        font-size: .82rem;
+      }
+
+      /* History table on mobile: each row becomes a labeled card */
+      .history-table { overflow: visible; }
+      .history-table tbody tr {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: .1rem .5rem;
+        background: #f3ece0;
+        border-radius: 10px;
+        margin-bottom: .55rem;
+        padding: .6rem .75rem;
+        cursor: default;
+        box-shadow: none;
+      }
+      .history-table td {
+        display: block;
+        padding: .1rem 0;
+        font-size: .82rem;
+        font-weight: normal;
+        color: #3a2a1c;
+        white-space: normal;
+      }
+      .history-table td::before {
+        display: block;
+        content: attr(data-label);
+        color: #a07d57;
+        font-size: .65rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: .04em;
+        margin-bottom: .1rem;
+      }
+      .history-table td:nth-child(3),
+      .history-table td:nth-child(4) { grid-column: 1 / -1; }
+      .history-table td.price { font-weight: 700; color: #2c2015; }
+      .history-table .listing-name { max-width: none; margin-top: .2rem; }
+
       #mobile-sort { display: block; }
     }
 
@@ -641,10 +695,10 @@
           ? `<a href="${m.url}" target="_blank" rel="noopener">${m.source || "link"}</a>`
           : (m.source || "—");
         return `<tr>
-          <td>${m.year || "—"}</td>
-          <td class="price">${m.price || "—"}</td>
-          <td>${src}${m.name ? `<span class="listing-name">${esc(m.name)}</span>` : ""}</td>
-          <td>${fmt(m.first_seen)}</td>
+          <td data-label="Year">${m.year || "—"}</td>
+          <td class="price" data-label="Price">${m.price || "—"}</td>
+          <td data-label="Source">${src}${m.name ? `<span class="listing-name">${esc(m.name)}</span>` : ""}</td>
+          <td data-label="Date">${fmt(m.first_seen)}</td>
         </tr>`;
       }).join("");
       const label = sz.quantity || "Unknown size";
