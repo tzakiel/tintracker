@@ -90,13 +90,16 @@ def merge_products(data, found, now, latest=None):
             ex = existing[p["name"]]
             if "price_history" not in ex:
                 ex["price_history"] = [{"price": ex["price"], "date": ex.get("first_seen", now)}]
+            # Migration: seed last_updated from the most recent price_history entry.
+            if "last_updated" not in ex:
+                ex["last_updated"] = ex["price_history"][-1]["date"]
             if ex["price"] != p["price"]:
                 ex["price_history"].append({"price": p["price"], "date": now})
+                ex["last_updated"] = now
                 price_changed += 1
             ex["price"] = p["price"]
             ex["url"] = p["url"]
             ex["source"] = p["source"]
-            ex["last_seen"] = now
             for f in EXTRA_FIELDS:
                 if p.get(f):
                     ex[f] = p[f]
@@ -107,7 +110,7 @@ def merge_products(data, found, now, latest=None):
                 "url": p["url"],
                 "source": p["source"],
                 "first_seen": now,
-                "last_seen": now,
+                "last_updated": now,
                 "price_history": [{"price": p["price"], "date": now}],
             }
             for f in EXTRA_FIELDS:
@@ -116,7 +119,8 @@ def merge_products(data, found, now, latest=None):
             existing[p["name"]] = rec
             added += 1
 
-    data["products"] = sorted(existing.values(), key=lambda x: x["last_seen"], reverse=True)
+    data["products"] = sorted(existing.values(),
+        key=lambda x: x.get("last_updated") or x.get("last_seen", ""), reverse=True)
     data["last_scraped"] = now
     if latest is None:
         latest = found

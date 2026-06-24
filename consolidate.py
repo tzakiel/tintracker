@@ -37,6 +37,7 @@ SOURCE_FILES = [
     "products_tinbids.json",
     "products_treasuredsmokes.json",
     "products_4noggins.json",
+    "products_speakeasy.json",
 ]
 
 # tin weight, in a name OR a free-text description: "50g", "100 grams", "2oz",
@@ -173,7 +174,7 @@ def main():
             member = {
                 "name": name, "source": source, "url": p.get("url", ""),
                 "price": p.get("price", ""),
-                "last_seen": p.get("last_seen", ""),
+                "last_updated": p.get("last_updated") or p.get("last_seen", ""),
                 "first_seen": p.get("first_seen", ""),
                 "year": _year(name),
                 "price_history": [
