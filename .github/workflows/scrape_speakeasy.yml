@@ -1,0 +1,32 @@
+name: Scrape (Speak-Easy.Club)
+
+on:
+  workflow_dispatch:       # triggered by cron-job.org via API
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install cloudscraper beautifulsoup4 lxml requests
+
+      - name: Run scraper
+        env:
+          SPEAKEASY_USERNAME: ${{ secrets.SPEAKEASY_USERNAME }}
+          SPEAKEASY_PASSWORD: ${{ secrets.SPEAKEASY_PASSWORD }}
+        run: python scrape_speakeasy.py
+
+      - name: Commit updated data
+        env:
+          SRC: docs/products_speakeasy.json
+          MSG: "Daily Speak-Easy.Club scrape"
+        run: bash .github/commit-scrape.sh
