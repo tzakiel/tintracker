@@ -123,7 +123,7 @@
   <header>
     <h1>Tin Tracker · Admin</h1>
     <p>Scrape &amp; catalog dashboard</p>
-    <p style="margin-top:.6rem"><a class="back" href="index.html">← back to site</a> · <a class="back" href="index.html?view=all">all-listings view (legacy)</a></p>
+    <p style="margin-top:.6rem"><a class="back" href="index.html">← back to site</a></p>
   </header>
 
   <main>
@@ -137,13 +137,13 @@
   </main>
 
   <script>
-    // Each scrape source writes its own self-describing file. Keep in sync with
-    // SOURCE_FILES in index.html.
+    // Each scrape source writes its own self-describing file.
     const SOURCES = [
       { file: "products.json",               label: "Pipestud" },
       { file: "products_tinbids.json",        label: "Tinbids" },
       { file: "products_treasuredsmokes.json", label: "Treasured Smokes" },
       { file: "products_4noggins.json",       label: "4Noggins" },
+      { file: "products_speakeasy.json",      label: "Speak-Easy.Club" },
     ];
 
     const fmtInt = n => n.toLocaleString();
