@@ -680,7 +680,7 @@
     let list = TINS.filter(tinActive);
     if (q) list = list.filter(t =>
       t.display_name.toLowerCase().includes(q) ||
-      t.members.some(m => (m.name || "").toLowerCase().includes(q)));
+      (t.sizes || []).flatMap(sz => sz.members || []).some(m => (m.name || "").toLowerCase().includes(q)));
     renderSortableTable(list, tinColumns(), showGroupDetail, q
       ? `${list.length} tin${list.length === 1 ? "" : "s"} for "${qEl.value.trim()}"`
       : "");
