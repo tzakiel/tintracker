@@ -42,6 +42,7 @@ SOURCE_FILES = {
     "products_tinbids.json": "tinbids — freeform auction titles (years, lot counts, condition words, BIN prices mixed in)",
     "products_treasuredsmokes.json": "treasuredsmokes — 'Brand - Blend - Year!' (hyphen-delimited)",
     "products_4noggins.json": "4noggins.com — 'Brand: BLEND NAME SIZE YEAR - C'",
+    "products_speakeasy.json": "speakeasy — freeform WTS forum descriptions; typically 'Brand Blend SIZE' or 'Brand Blend SIZE Year condition' (e.g. 'McClelland Christmas Cheer 100g', 'GL Pease Kensington 2oz 2018 sealed')",
 }
 
 MODEL = "claude-opus-4-8"
