@@ -1,61 +1,220 @@
 {
-  "Dracquer & Sons: BLEND 805 4oz 1993 - C": {"brand": "Drucquer & Sons", "blend": "Blend 805"},
-
-  "Tobacco Tin Sutliff Crindle Flake 2023 2 Oz. Sealed Pipe Tobacco Tin by Sutliff": {"brand": "Sutliff", "blend": "Cringle Flake"},
-  "Tobacco Tin Sutliff Crindle Flake 2024 2 Oz. Sealed Pipe Tobacco Tin by Sutliff": {"brand": "Sutliff", "blend": "Cringle Flake"},
-  "Tobacco Tin Sutliff Crindle Flake 2 oz. Sealed Pipe Tobacco Tin by Sutliff 2022": {"brand": "Sutliff", "blend": "Cringle Flake"},
-  "Cringle Flake 2020": {"brand": "Sutliff", "blend": "Cringle Flake"},
-
-  "Bufflehead: BLUEBILL DRAKE DECOY 2oz 2005 - C": {"brand": "Bufflehead", "blend": "Bluebill Drake Decoy"},
-  "Bufflehead: CANVASBACK DECOY 4oz 2005 - C": {"brand": "Bufflehead", "blend": "Canvasback Decoy"},
-  "Bufflehead: GREATER SCAUP 100g 1997 - C": {"brand": "Bufflehead", "blend": "Greater Scaup"},
-  "Bufflehead: OLD WOODEN DUCK DECOY 2oz 2005 - C": {"brand": "Bufflehead", "blend": "Old Wooden Duck Decoy"},
-  "Bufflehead: GAWITH & HOGGARTH LA FLAKE 2oz 2005 - C": {"brand": "Gawith & Hoggarth", "blend": "LA Flake"},
-
-  "Charatans Make: LONDON ENGLAND EXECUTIVE XL 1965": {"brand": "Charatan", "blend": "Executive XL"},
-  "Charatan’s Original Light Aromatic – 1970’s era & Made by Dunhill": {"brand": "Charatan", "blend": "Original Light Aromatic"},
-
-  "Ashton: BLACK PARROT SPECIAL CUT by William Taylor 1985- C": {"brand": "Ashton", "blend": "Black Parrot Special Cut"},
-  "William Taylor Ashton:  OLD LONDON PEBBLE CUT 100g 1985- C": {"brand": "Ashton", "blend": "Old London Pebble Cut"},
-
-  "PCCA: CYPRIAN STAR 1993 - C": {"brand": "PCCA", "blend": "Cyprian Star"},
-  "McClelland: PCCA  MILLENNIUM 2000 100g - C": {"brand": "PCCA", "blend": "New Millennium"},
-  "PCCA New  Millennium 50g tin – Year 2000 and Made by McClelland’s": {"brand": "PCCA", "blend": "New Millennium"},
-  "McClelland: PCCA  USA SERIES- NEW WORLD FLAKE 100g 1992 - C": {"brand": "PCCA", "blend": "USA Series New World Flake"},
-  "McClelland: PCCA  USA SERIES- PORT OF DUMFRIES 100g 1992 - C": {"brand": "PCCA", "blend": "USA Series Port of Dumfries"},
-  "McClelland: PCCA HAIRY LARRY 50g 1997 - C": {"brand": "PCCA", "blend": "Hairy Larry"},
-  "McClelland: PCCA PANACHE 50g 1993 - C": {"brand": "PCCA", "blend": "Panache"},
-  "McClelland: PCCA Samovar 2oz 2012 - C": {"brand": "PCCA", "blend": "Samovar"},
-  "McClelland: PCCA SOPHISTICATE 50g 1997- C": {"brand": "PCCA", "blend": "Sophisticate"},
-
-  "McClelland: Grand Orientals: BLACK SEA SOKHOUM 50g 2008 - C": {"brand": "McClelland", "blend": "Grand Oriental Black Sea Sokhoum"},
-  "McClelland: Grand Orientals: BLACK SEA SOKHOUM 50g 2011 - C": {"brand": "McClelland", "blend": "Grand Oriental Black Sea Sokhoum"},
-  "McClelland: Grand Orientals: YENIDJE SUPREME 50g 2007 - C": {"brand": "McClelland", "blend": "Grand Oriental Yenidje Supreme"},
-  "McClelland’s Grand Oriental Series Drama Reserve 50g tins – Year 2017": {"brand": "McClelland", "blend": "Grand Oriental Drama Reserve"},
-  "McClelland Grand Oriental Series Drama Reserve 2012 NR": {"brand": "McClelland", "blend": "Grand Oriental Drama Reserve"},
-  "McClelland Grand Oriental Series Smyrna No. 1 2014 NR": {"brand": "McClelland", "blend": "Grand Oriental Smyrna No. 1"},
-
-  "Captains Earl’s Ten Russians (Early Hermit 50g Tin)": {"brand": "Captain Earle's", "blend": "Ten Russians"},
-  "Excellent Sealed 2005 Captain Earle's Pressed Ten Russians 2oz. Tin": {"brand": "Captain Earle's", "blend": "Ten Russians"},
-  "Hermit Tobacco: Captain Earle's Holiday 2009 2oz - C": {"brand": "Captain Earle's", "blend": "Holiday"},
-
-  "Balkan Luxury Blend 957": {"brand": "", "blend": "Balkan Luxury Blend 957"},
-  "Mt. Marcy - 8 Ounce Can": {"brand": "", "blend": "Mt. Marcy"},
-  "Brown Sugar Flake!": {"brand": "", "blend": "Brown Sugar Flake"},
-  "Perique - Blending": {"brand": "", "blend": "Perique"},
-  "Cult Conspiracy": {"brand": "", "blend": "Cult Conspiracy"},
-  "Whimsical - Birds of a Feather": {"brand": "", "blend": "Whimsical"},
-  "Anomalous - Birds of a Feather": {"brand": "", "blend": "Anomalous"},
-  "Uno - Birds of a Feather": {"brand": "", "blend": "Uno"},
-  "Paradoxical - Birds of a Feather": {"brand": "", "blend": "Paradoxical"},
-
-  "Fuente and Montecristo Bundle": {"brand": "", "blend": "", "is_tin": false},
-  "August 1945 John Middleton De Luxe Pipe Tobacco Blending Chest, Complete 7-Jar Set, Featured on Pipe Appeal": {"brand": "", "blend": "", "is_tin": false},
-  "72 hour auction!  3 bags of Esoterica and 15 tins!  Plus 2 tins of Germain's Balkan Sobranie!": {"brand": "", "blend": "", "is_tin": false},
-  "Four 50g Tins of Premium Pipe Tobacco: Two Balkan Sobranie, One Balkan Sasieni and One Solani White & Black from 2018": {"brand": "", "blend": "", "is_tin": false},
-  "A Cult Trio!  Three 50g Tins - From 2014/2015.": {"brand": "", "blend": "", "is_tin": false},
-  "2015 Samuel Gawith Seasons- Spring, Summer, Winter": {"brand": "", "blend": "", "is_tin": false},
-  "CAO Flavours 1-Cherrybomb | Stanwell 1-Vanilla": {"brand": "", "blend": "", "is_tin": false},
-  "Dunhill Variety 5-Pack of 50g tins – Various Years": {"brand": "Dunhill", "blend": "", "is_tin": false},
-  "Dunhill Variety 3-Pack of 50g tins – Years 2011 & 2014": {"brand": "Dunhill", "blend": "", "is_tin": false}
+  "Dracquer & Sons: BLEND 805 4oz 1993 - C": {
+    "brand": "Drucquer & Sons",
+    "blend": "Blend 805"
+  },
+  "Tobacco Tin Sutliff Crindle Flake 2023 2 Oz. Sealed Pipe Tobacco Tin by Sutliff": {
+    "brand": "Sutliff",
+    "blend": "Cringle Flake"
+  },
+  "Tobacco Tin Sutliff Crindle Flake 2024 2 Oz. Sealed Pipe Tobacco Tin by Sutliff": {
+    "brand": "Sutliff",
+    "blend": "Cringle Flake"
+  },
+  "Tobacco Tin Sutliff Crindle Flake 2 oz. Sealed Pipe Tobacco Tin by Sutliff 2022": {
+    "brand": "Sutliff",
+    "blend": "Cringle Flake"
+  },
+  "Cringle Flake 2020": {
+    "brand": "Sutliff",
+    "blend": "Cringle Flake"
+  },
+  "Bufflehead: BLUEBILL DRAKE DECOY 2oz 2005 - C": {
+    "brand": "Bufflehead",
+    "blend": "Bluebill Drake Decoy"
+  },
+  "Bufflehead: CANVASBACK DECOY 4oz 2005 - C": {
+    "brand": "Bufflehead",
+    "blend": "Canvasback Decoy"
+  },
+  "Bufflehead: GREATER SCAUP 100g 1997 - C": {
+    "brand": "Bufflehead",
+    "blend": "Greater Scaup"
+  },
+  "Bufflehead: OLD WOODEN DUCK DECOY 2oz 2005 - C": {
+    "brand": "Bufflehead",
+    "blend": "Old Wooden Duck Decoy"
+  },
+  "Bufflehead: GAWITH & HOGGARTH LA FLAKE 2oz 2005 - C": {
+    "brand": "Gawith & Hoggarth",
+    "blend": "LA Flake"
+  },
+  "Charatans Make: LONDON ENGLAND EXECUTIVE XL 1965": {
+    "brand": "Charatan",
+    "blend": "Executive XL"
+  },
+  "Charatan’s Original Light Aromatic – 1970’s era & Made by Dunhill": {
+    "brand": "Charatan",
+    "blend": "Original Light Aromatic"
+  },
+  "Ashton: BLACK PARROT SPECIAL CUT by William Taylor 1985- C": {
+    "brand": "Ashton",
+    "blend": "Black Parrot Special Cut"
+  },
+  "William Taylor Ashton:  OLD LONDON PEBBLE CUT 100g 1985- C": {
+    "brand": "Ashton",
+    "blend": "Old London Pebble Cut"
+  },
+  "PCCA: CYPRIAN STAR 1993 - C": {
+    "brand": "PCCA",
+    "blend": "Cyprian Star"
+  },
+  "McClelland: PCCA  MILLENNIUM 2000 100g - C": {
+    "brand": "PCCA",
+    "blend": "New Millennium"
+  },
+  "PCCA New  Millennium 50g tin – Year 2000 and Made by McClelland’s": {
+    "brand": "PCCA",
+    "blend": "New Millennium"
+  },
+  "McClelland: PCCA  USA SERIES- NEW WORLD FLAKE 100g 1992 - C": {
+    "brand": "PCCA",
+    "blend": "USA Series New World Flake"
+  },
+  "McClelland: PCCA  USA SERIES- PORT OF DUMFRIES 100g 1992 - C": {
+    "brand": "PCCA",
+    "blend": "USA Series Port of Dumfries"
+  },
+  "McClelland: PCCA HAIRY LARRY 50g 1997 - C": {
+    "brand": "PCCA",
+    "blend": "Hairy Larry"
+  },
+  "McClelland: PCCA PANACHE 50g 1993 - C": {
+    "brand": "PCCA",
+    "blend": "Panache"
+  },
+  "McClelland: PCCA Samovar 2oz 2012 - C": {
+    "brand": "PCCA",
+    "blend": "Samovar"
+  },
+  "McClelland: PCCA SOPHISTICATE 50g 1997- C": {
+    "brand": "PCCA",
+    "blend": "Sophisticate"
+  },
+  "McClelland: Grand Orientals: BLACK SEA SOKHOUM 50g 2008 - C": {
+    "brand": "McClelland",
+    "blend": "Grand Oriental Black Sea Sokhoum"
+  },
+  "McClelland: Grand Orientals: BLACK SEA SOKHOUM 50g 2011 - C": {
+    "brand": "McClelland",
+    "blend": "Grand Oriental Black Sea Sokhoum"
+  },
+  "McClelland: Grand Orientals: YENIDJE SUPREME 50g 2007 - C": {
+    "brand": "McClelland",
+    "blend": "Grand Oriental Yenidje Supreme"
+  },
+  "McClelland’s Grand Oriental Series Drama Reserve 50g tins – Year 2017": {
+    "brand": "McClelland",
+    "blend": "Grand Oriental Drama Reserve"
+  },
+  "McClelland Grand Oriental Series Drama Reserve 2012 NR": {
+    "brand": "McClelland",
+    "blend": "Grand Oriental Drama Reserve"
+  },
+  "McClelland Grand Oriental Series Smyrna No. 1 2014 NR": {
+    "brand": "McClelland",
+    "blend": "Grand Oriental Smyrna No. 1"
+  },
+  "Captains Earl’s Ten Russians (Early Hermit 50g Tin)": {
+    "brand": "Captain Earle's",
+    "blend": "Ten Russians"
+  },
+  "Excellent Sealed 2005 Captain Earle's Pressed Ten Russians 2oz. Tin": {
+    "brand": "Captain Earle's",
+    "blend": "Ten Russians"
+  },
+  "Hermit Tobacco: Captain Earle's Holiday 2009 2oz - C": {
+    "brand": "Captain Earle's",
+    "blend": "Holiday"
+  },
+  "Balkan Luxury Blend 957": {
+    "brand": "Mac Baren",
+    "blend": "Balkan Luxury Blend",
+    "is_tin": true
+  },
+  "Mt. Marcy - 8 Ounce Can": {
+    "brand": "Cornell & Diehl",
+    "blend": "Mt. Marcy",
+    "is_tin": true
+  },
+  "Brown Sugar Flake!": {
+    "brand": "Cornell & Diehl",
+    "blend": "Brown Sugar Flake",
+    "is_tin": true
+  },
+  "Perique - Blending": {
+    "brand": "",
+    "blend": "Perique",
+    "is_tin": false
+  },
+  "Cult Conspiracy": {
+    "brand": "Cornell & Diehl",
+    "blend": "Cult Conspiracy",
+    "is_tin": true
+  },
+  "Whimsical - Birds of a Feather": {
+    "brand": "Cornell & Diehl",
+    "blend": "Whimsical",
+    "is_tin": true
+  },
+  "Anomalous - Birds of a Feather": {
+    "brand": "Cornell & Diehl",
+    "blend": "Anomalous",
+    "is_tin": true
+  },
+  "Uno - Birds of a Feather": {
+    "brand": "Cornell & Diehl",
+    "blend": "Uno",
+    "is_tin": true
+  },
+  "Paradoxical - Birds of a Feather": {
+    "brand": "Cornell & Diehl",
+    "blend": "Paradoxical",
+    "is_tin": true
+  },
+  "Fuente and Montecristo Bundle": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false
+  },
+  "August 1945 John Middleton De Luxe Pipe Tobacco Blending Chest, Complete 7-Jar Set, Featured on Pipe Appeal": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false
+  },
+  "72 hour auction!  3 bags of Esoterica and 15 tins!  Plus 2 tins of Germain's Balkan Sobranie!": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false
+  },
+  "Four 50g Tins of Premium Pipe Tobacco: Two Balkan Sobranie, One Balkan Sasieni and One Solani White & Black from 2018": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false
+  },
+  "A Cult Trio!  Three 50g Tins - From 2014/2015.": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false
+  },
+  "2015 Samuel Gawith Seasons- Spring, Summer, Winter": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false
+  },
+  "CAO Flavours 1-Cherrybomb | Stanwell 1-Vanilla": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false
+  },
+  "Dunhill Variety 5-Pack of 50g tins – Various Years": {
+    "brand": "Dunhill",
+    "blend": "",
+    "is_tin": false
+  },
+  "Dunhill Variety 3-Pack of 50g tins – Years 2011 & 2014": {
+    "brand": "Dunhill",
+    "blend": "",
+    "is_tin": false
+  }
 }

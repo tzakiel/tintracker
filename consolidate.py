@@ -125,14 +125,19 @@ def _year(s):
     return m.group(0) if m else ""
 
 
+def _norm_apos(s):
+    """Normalize Unicode curly apostrophes/quotes to ASCII so cache keys match source data."""
+    return s.replace('’', "'").replace('‘', "'").replace('′', "'")
+
+
 def load_identity():
     """title -> {brand, blend, is_tin}. Overrides win over the cache."""
     cache = json.load(open(CACHE_FILE, encoding="utf-8")) if os.path.exists(CACHE_FILE) else {}
-    ident = {t: {"brand": r.get("brand", ""), "blend": r.get("blend", ""),
+    ident = {_norm_apos(t): {"brand": r.get("brand", ""), "blend": r.get("blend", ""),
                  "is_tin": r.get("is_tin", True)} for t, r in cache.items()}
     if os.path.exists(OVERRIDES_FILE):
         for t, r in json.load(open(OVERRIDES_FILE, encoding="utf-8")).items():
-            ident[t] = {"brand": r.get("brand", ""), "blend": r.get("blend", ""),
+            ident[_norm_apos(t)] = {"brand": r.get("brand", ""), "blend": r.get("blend", ""),
                         "is_tin": r.get("is_tin", True)}
     return ident
 
@@ -155,7 +160,7 @@ def main():
             name = (p.get("name") or "").strip()
             source = p.get("source", fname)
 
-            id_rec = ident.get(name, {})
+            id_rec = ident.get(_norm_apos(name), {})
             brand = (id_rec.get("brand") or "").strip()
             blend = (id_rec.get("blend") or "").strip()
             is_tin = id_rec.get("is_tin", True)
