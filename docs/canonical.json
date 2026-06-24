@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-24T17:11:43.419263+00:00",
+  "generated": "2026-06-24T18:02:52.322514+00:00",
   "stats": {
     "total_listings": 1650,
     "excluded_multipacks": 535,
-    "total_tins": 913,
-    "multi_member_tins": 135,
-    "listings_in_groups": 337,
+    "total_tins": 906,
+    "multi_member_tins": 136,
+    "listings_in_groups": 345,
     "cross_source_tins": 61
   },
   "tins": [
@@ -70,37 +70,6 @@
         "2019"
       ],
       "source": "Tinbids Auction (Sold)"
-    },
-    {
-      "id": "3oaks|englishblend|50g",
-      "brand": "3 Oaks",
-      "blend": "English Blend",
-      "quantity": "50g",
-      "display_name": "3 Oaks English Blend 50g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "(ThreeOne) 2014 3 Oaks English Blend 50g Tin",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/mcclelland-tinned-tobaccos.43697/",
-          "price": "$65",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2014",
-          "price_history": [
-            {
-              "price": "$65",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2014"
-      ],
-      "source": "Speak-Easy.Club"
     },
     {
       "id": "acpetersen|premiercru|50g",
@@ -621,47 +590,6 @@
       "source": "4noggins.com"
     },
     {
-      "id": "balkansobranie|balkansobranie|50g",
-      "brand": "Balkan Sobranie",
-      "blend": "Balkan Sobranie",
-      "quantity": "50g",
-      "display_name": "Balkan Sobranie Balkan Sobranie 50g",
-      "sources": [
-        "4noggins.com"
-      ],
-      "members": [
-        {
-          "name": "Balkan Sobranie: BALKAN SOBRANIE 50g -C",
-          "source": "4noggins.com",
-          "url": "https://www.4noggins.com/products/balkan-sobranie-balkan-sobranie-50g-c-1",
-          "price": "$125.00",
-          "last_updated": "2026-06-24T15:14:15.069299+00:00",
-          "first_seen": "2026-06-23T15:14:19.145115+00:00",
-          "year": "",
-          "price_history": [
-            {
-              "price": "$145.00",
-              "date": "2026-06-23T15:14:19.145115+00:00"
-            },
-            {
-              "price": "$125.00",
-              "date": "2026-06-23T15:14:19.145115+00:00"
-            },
-            {
-              "price": "$145.00",
-              "date": "2026-06-24T15:14:15.069299+00:00"
-            },
-            {
-              "price": "$125.00",
-              "date": "2026-06-24T15:14:15.069299+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [],
-      "source": "4noggins.com"
-    },
-    {
       "id": "bells|threenuns|100g",
       "brand": "Bell's",
       "blend": "Three Nuns",
@@ -765,6 +693,35 @@
       "years": [
         "2002"
       ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "solo|speakeasyclub|boughtthisoffebayandneversmokeditthoughithinkithasbeensmokedonceextrabowlicouldntfindanythingdefinitiveaboutpricingsoimgoingwith",
+      "brand": "Gawith Hoggarth & Co.",
+      "blend": "",
+      "quantity": "",
+      "display_name": "Bought this off eBay and never smoked it. Though I think it has been smoked once. Extra bowl. I couldn’t find anything definitive about pricing so I’m going with",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "Bought this off eBay and never smoked it. Though I think it has been smoked once. Extra bowl. I couldn’t find anything definitive about pricing so I’m going with",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/vintage-%E2%80%9Clike-new%E2%80%9D-falcon.41862/",
+          "price": "$100",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "",
+          "price_history": [
+            {
+              "price": "$100",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [],
       "source": "Speak-Easy.Club"
     },
     {
@@ -1694,69 +1651,6 @@
       "source": "Speak-Easy.Club"
     },
     {
-      "id": "capstan|capstanyellow|",
-      "brand": "Capstan",
-      "blend": "Capstan Yellow",
-      "quantity": "",
-      "display_name": "Capstan Capstan Yellow",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "x 2013 yellow capstan",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/quickie-sale-varietals.43140/",
-          "price": "$40",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2013",
-          "price_history": [
-            {
-              "price": "$40",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        },
-        {
-          "name": "x 2018 Capstan Yellow",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/flash-sale.42149/",
-          "price": "$25",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2018",
-          "price_history": [
-            {
-              "price": "$25",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        },
-        {
-          "name": "x 2020 yellow capstan",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/quickie-sale-varietals.43140/",
-          "price": "$30",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2020",
-          "price_history": [
-            {
-              "price": "$30",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2013",
-        "2018",
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
       "id": "capstan|flakegold|50g",
       "brand": "Capstan",
       "blend": "Flake Gold",
@@ -1844,6 +1738,36 @@
           ]
         },
         {
+          "name": "x 2013 yellow capstan",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/quickie-sale-varietals.43140/",
+          "price": "$40",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2013",
+          "price_history": [
+            {
+              "price": "$40",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        },
+        {
+          "name": "x 2018 Capstan Yellow",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/flash-sale.42149/",
+          "price": "$25",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2018",
+          "price_history": [
+            {
+              "price": "$25",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        },
+        {
           "name": "x Capstan Yellow 2018",
           "source": "Speak-Easy.Club",
           "url": "https://speak-easy.club/threads/mac-b-and-odds-and-ends.41736/",
@@ -1857,10 +1781,27 @@
               "date": "2026-06-24T02:02:09.029335+00:00"
             }
           ]
+        },
+        {
+          "name": "x 2020 yellow capstan",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/quickie-sale-varietals.43140/",
+          "price": "$30",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2020",
+          "price_history": [
+            {
+              "price": "$30",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
         }
       ],
       "years": [
-        "2018"
+        "2013",
+        "2018",
+        "2020"
       ],
       "source": "Speak-Easy.Club"
     },
@@ -2318,6 +2259,68 @@
       "source": "Speak-Easy.Club"
     },
     {
+      "id": "cornelldiehl|bayoumorning|48g",
+      "brand": "Cornell & Diehl",
+      "blend": "Bayou Morning",
+      "quantity": "48g",
+      "display_name": "Cornell & Diehl Bayou Morning 48g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Bayou Morning 07/2020                 48g",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$9",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2020",
+          "price_history": [
+            {
+              "price": "$9",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2020"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|bayoumorning|8oz",
+      "brand": "Cornell & Diehl",
+      "blend": "Bayou Morning",
+      "quantity": "8oz",
+      "display_name": "Cornell & Diehl Bayou Morning 8oz",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Bayou Morning 8oz mylar, 2015, x1",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/cellar-clean-up.44554/unread",
+          "price": "$50",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2015",
+          "price_history": [
+            {
+              "price": "$50",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2015"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
       "id": "cornelldiehl|billybudd|2oz",
       "brand": "Cornell & Diehl",
       "blend": "Billy Budd",
@@ -2347,6 +2350,68 @@
         "2017"
       ],
       "source": "Treasured Smokes"
+    },
+    {
+      "id": "cornelldiehl|billybudd|38g",
+      "brand": "Cornell & Diehl",
+      "blend": "Billy Budd",
+      "quantity": "38g",
+      "display_name": "Cornell & Diehl Billy Budd 38g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Billy Budd 02/2020                         38g",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$7",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2020",
+          "price_history": [
+            {
+              "price": "$7",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2020"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|billybuddblonde|30g",
+      "brand": "Cornell & Diehl",
+      "blend": "Billy Budd Blonde",
+      "quantity": "30g",
+      "display_name": "Cornell & Diehl Billy Budd Blonde 30g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Billy Budd Blonde 02/2020            30g",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$6",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2020",
+          "price_history": [
+            {
+              "price": "$6",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2020"
+      ],
+      "source": "Speak-Easy.Club"
     },
     {
       "id": "cornelldiehl|brownsugarflake|",
@@ -2409,135 +2474,11 @@
       "source": "Tinbids Auction (Sold)"
     },
     {
-      "id": "cornelldiehl|cdbayoumorning07202048g|48g",
+      "id": "cornelldiehl|byzantium|35g",
       "brand": "Cornell & Diehl",
-      "blend": "C&D Bayou Morning 07/2020                 48g",
-      "quantity": "48g",
-      "display_name": "Cornell & Diehl C&D Bayou Morning 07/2020                 48g 48g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Bayou Morning 07/2020                 48g",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$9",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2020",
-          "price_history": [
-            {
-              "price": "$9",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdbayoumorning8ozmylar2015x1|8oz",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Bayou Morning 8oz mylar, 2015, x1",
-      "quantity": "8oz",
-      "display_name": "Cornell & Diehl C&D Bayou Morning 8oz mylar, 2015, x1 8oz",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Bayou Morning 8oz mylar, 2015, x1",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/cellar-clean-up.44554/unread",
-          "price": "$50",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2015",
-          "price_history": [
-            {
-              "price": "$50",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2015"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdbillybudd02202038g|38g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Billy Budd 02/2020                         38g",
-      "quantity": "38g",
-      "display_name": "Cornell & Diehl C&D Billy Budd 02/2020                         38g 38g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Billy Budd 02/2020                         38g",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$7",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2020",
-          "price_history": [
-            {
-              "price": "$7",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdbillybuddblonde02202030g|30g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Billy Budd Blonde 02/2020            30g",
-      "quantity": "30g",
-      "display_name": "Cornell & Diehl C&D Billy Budd Blonde 02/2020            30g 30g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Billy Budd Blonde 02/2020            30g",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$6",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2020",
-          "price_history": [
-            {
-              "price": "$6",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdbyzantium02202035g|35g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Byzantium 02/2020                        35g",
+      "blend": "Byzantium",
       "quantity": "35g",
-      "display_name": "Cornell & Diehl C&D Byzantium 02/2020                        35g 35g",
+      "display_name": "Cornell & Diehl Byzantium 35g",
       "sources": [
         "Speak-Easy.Club"
       ],
@@ -2560,1207 +2501,6 @@
       ],
       "years": [
         "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdcarolinaredflake09212019x1|",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Carolina Red Flake 09/21/2019     x1",
-      "quantity": "",
-      "display_name": "Cornell & Diehl C&D Carolina Red Flake 09/21/2019     x1",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Carolina Red Flake 09/21/2019     x1",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$30",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2019",
-          "price_history": [
-            {
-              "price": "$30",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2019"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdcarolinaredflake09232019x1|",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Carolina Red Flake 09/23/2019     x1",
-      "quantity": "",
-      "display_name": "Cornell & Diehl C&D Carolina Red Flake 09/23/2019     x1",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Carolina Red Flake 09/23/2019     x1",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$30",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2019",
-          "price_history": [
-            {
-              "price": "$30",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2019"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdcarolinaredflake09242019x1|",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Carolina Red Flake 09/24/2019     x1",
-      "quantity": "",
-      "display_name": "Cornell & Diehl C&D Carolina Red Flake 09/24/2019     x1",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Carolina Red Flake 09/24/2019     x1",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$30",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2019",
-          "price_history": [
-            {
-              "price": "$30",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2019"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdcarolinaredflake2018|",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Carolina Red Flake 2018",
-      "quantity": "",
-      "display_name": "Cornell & Diehl C&D Carolina Red Flake 2018",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Carolina Red Flake 2018",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/partial-cellar-sell-off.41910/",
-          "price": "$20",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2018",
-          "price_history": [
-            {
-              "price": "$20",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2018"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdchelseamorning02212019x1|",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Chelsea Morning 02/21/2019         x1",
-      "quantity": "",
-      "display_name": "Cornell & Diehl C&D Chelsea Morning 02/21/2019         x1",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Chelsea Morning 02/21/2019         x1",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$20",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2019",
-          "price_history": [
-            {
-              "price": "$20",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2019"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdcrfwperique09292021x1|",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D CRF w/Perique 09/29/2021            x1",
-      "quantity": "",
-      "display_name": "Cornell & Diehl C&D CRF w/Perique 09/29/2021            x1",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D CRF w/Perique 09/29/2021            x1",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$30",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2021",
-          "price_history": [
-            {
-              "price": "$30",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2021"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdcrosseyedcricket02202041g|41g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Cross-eyed Cricket 02/2020         41g",
-      "quantity": "41g",
-      "display_name": "Cornell & Diehl C&D Cross-eyed Cricket 02/2020         41g 41g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Cross-eyed Cricket 02/2020         41g",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$8",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2020",
-          "price_history": [
-            {
-              "price": "$8",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdderringer16oz2020|16oz",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Derringer 1.6oz 2020",
-      "quantity": "1.6oz",
-      "display_name": "Cornell & Diehl C&D Derringer 1.6oz 2020 1.6oz",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Derringer 1.6oz 2020",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/random-jarred-things-and-a-few-tins.44696/unread",
-          "price": "$10",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2020",
-          "price_history": [
-            {
-              "price": "$10",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cddreamsofkadath10272019x1|",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Dreams of Kadath 10/27/2019       x1",
-      "quantity": "",
-      "display_name": "Cornell & Diehl C&D Dreams of Kadath 10/27/2019       x1",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Dreams of Kadath 10/27/2019       x1",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$20",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2019",
-          "price_history": [
-            {
-              "price": "$20",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2019"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdengine38208202045g|45g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Engine #382 08/2020                    45g",
-      "quantity": "45g",
-      "display_name": "Cornell & Diehl C&D Engine #382 08/2020                    45g 45g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Engine #382 08/2020                    45g",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$9",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2020",
-          "price_history": [
-            {
-              "price": "$9",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdfathertheflame15oz|15oz",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Father The Flame 1.5oz",
-      "quantity": "1.5oz",
-      "display_name": "Cornell & Diehl C&D Father The Flame 1.5oz 1.5oz",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Father The Flame 1.5oz",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/random-jarred-things-and-a-few-tins.44696/unread",
-          "price": "$20",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "",
-          "price_history": [
-            {
-              "price": "$20",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdgoldendaysofyore1oz|1oz",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Golden Days of Yore 1oz",
-      "quantity": "1oz",
-      "display_name": "Cornell & Diehl C&D Golden Days of Yore 1oz 1oz",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Golden Days of Yore 1oz",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/partial-cellar-sell-off.41910/",
-          "price": "$5",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "",
-          "price_history": [
-            {
-              "price": "$5",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdgranbystation07202046g|46g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Granby Station 07/2020                 46g",
-      "quantity": "46g",
-      "display_name": "Cornell & Diehl C&D Granby Station 07/2020                 46g 46g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Granby Station 07/2020                 46g",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$9",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2020",
-          "price_history": [
-            {
-              "price": "$9",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdhauntedbookshop02202087g|87g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Haunted Bookshop 02/2020          87g",
-      "quantity": "87g",
-      "display_name": "Cornell & Diehl C&D Haunted Bookshop 02/2020          87g 87g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Haunted Bookshop 02/2020          87g",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$13",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2020",
-          "price_history": [
-            {
-              "price": "$13",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdhauntedbookshop022020105g|105g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Haunted Bookshop 02/2020        105g",
-      "quantity": "105g",
-      "display_name": "Cornell & Diehl C&D Haunted Bookshop 02/2020        105g 105g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Haunted Bookshop 02/2020        105g",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$16",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2020",
-          "price_history": [
-            {
-              "price": "$16",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdhauntedbookshop022020129g|129g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Haunted Bookshop 02/2020        129g",
-      "quantity": "129g",
-      "display_name": "Cornell & Diehl C&D Haunted Bookshop 02/2020        129g 129g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Haunted Bookshop 02/2020        129g",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$20",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2020",
-          "price_history": [
-            {
-              "price": "$20",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdhauntedbookshop8oz11012022x1|8oz",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Haunted Bookshop 8oz 11/01/2022 x1",
-      "quantity": "8oz",
-      "display_name": "Cornell & Diehl C&D Haunted Bookshop 8oz 11/01/2022 x1 8oz",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Haunted Bookshop 8oz 11/01/2022 x1",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$40",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2022",
-          "price_history": [
-            {
-              "price": "$40",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2022"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdinnsmouth10082019x1|",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Innsmouth 10/08/2019                   x1",
-      "quantity": "",
-      "display_name": "Cornell & Diehl C&D Innsmouth 10/08/2019                   x1",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Innsmouth 10/08/2019                   x1",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$20",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2019",
-          "price_history": [
-            {
-              "price": "$20",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2019"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdizmirturkish201823g|23g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Izmir Turkish 2018 23g",
-      "quantity": "23g",
-      "display_name": "Cornell & Diehl C&D Izmir Turkish 2018 23g 23g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Izmir Turkish 2018 23g",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/partial-cellar-sell-off.41910/",
-          "price": "$4",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2018",
-          "price_history": [
-            {
-              "price": "$4",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2018"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdjohnmarr07202030g|30g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D John Marr 07/2020                         30g",
-      "quantity": "30g",
-      "display_name": "Cornell & Diehl C&D John Marr 07/2020                         30g 30g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D John Marr 07/2020                         30g",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$6",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2020",
-          "price_history": [
-            {
-              "price": "$6",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdjollyoldstnick2018|",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Jolly Old St. Nick 2018",
-      "quantity": "",
-      "display_name": "Cornell & Diehl C&D Jolly Old St. Nick 2018",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Jolly Old St. Nick 2018",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/partial-cellar-sell-off.41910/",
-          "price": "$14",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2018",
-          "price_history": [
-            {
-              "price": "$14",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2018"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdmaltesefalcon09292019x1|",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Maltese Falcon 09/29/2019          x1",
-      "quantity": "",
-      "display_name": "Cornell & Diehl C&D Maltese Falcon 09/29/2019          x1",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Maltese Falcon 09/29/2019          x1",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$20",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2019",
-          "price_history": [
-            {
-              "price": "$20",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2019"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdmississippimud07202054g|54g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Mississippi Mud 07/2020               54g",
-      "quantity": "54g",
-      "display_name": "Cornell & Diehl C&D Mississippi Mud 07/2020               54g 54g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Mississippi Mud 07/2020               54g",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$16",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2020",
-          "price_history": [
-            {
-              "price": "$16",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdnewmarket07202052g|52g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D New Market 07/2020                      52g",
-      "quantity": "52g",
-      "display_name": "Cornell & Diehl C&D New Market 07/2020                      52g 52g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D New Market 07/2020                      52g",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$16",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2020",
-          "price_history": [
-            {
-              "price": "$16",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdnighttrain88oz|88oz",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Night Train 8.8 oz",
-      "quantity": "8.8oz",
-      "display_name": "Cornell & Diehl C&D Night Train 8.8 oz 8.8oz",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Night Train 8.8 oz",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/wts-misc-pipe-tobacco.44490/unread",
-          "price": "$5",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "",
-          "price_history": [
-            {
-              "price": "$5",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdoldjoekrantz02202164g|64g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Old Joe Krantz 02/2021                 64g",
-      "quantity": "64g",
-      "display_name": "Cornell & Diehl C&D Old Joe Krantz 02/2021                 64g 64g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Old Joe Krantz 02/2021                 64g",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$12",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2021",
-          "price_history": [
-            {
-              "price": "$12",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2021"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdoldjoekrantz02202171g|71g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Old Joe Krantz 02/2021                 71g",
-      "quantity": "71g",
-      "display_name": "Cornell & Diehl C&D Old Joe Krantz 02/2021                 71g 71g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Old Joe Krantz 02/2021                 71g",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$13",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2021",
-          "price_history": [
-            {
-              "price": "$13",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2021"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdoldjoekrantz02202175g|75g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Old Joe Krantz 02/2021                 75g",
-      "quantity": "75g",
-      "display_name": "Cornell & Diehl C&D Old Joe Krantz 02/2021                 75g 75g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Old Joe Krantz 02/2021                 75g",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$14",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2021",
-          "price_history": [
-            {
-              "price": "$14",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2021"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdoldjoekrantz02202178g|78g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Old Joe Krantz 02/2021                 78g",
-      "quantity": "78g",
-      "display_name": "Cornell & Diehl C&D Old Joe Krantz 02/2021                 78g 78g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Old Joe Krantz 02/2021                 78g",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$14",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2021",
-          "price_history": [
-            {
-              "price": "$14",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2021"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdoldjoekrantz02202185g|85g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Old Joe Krantz 02/2021                 85g",
-      "quantity": "85g",
-      "display_name": "Cornell & Diehl C&D Old Joe Krantz 02/2021                 85g 85g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Old Joe Krantz 02/2021                 85g",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$16",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2021",
-          "price_history": [
-            {
-              "price": "$16",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2021"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdoldjoekrantz07202038g|38g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Old Joe Krantz 07/2020                 38g",
-      "quantity": "38g",
-      "display_name": "Cornell & Diehl C&D Old Joe Krantz 07/2020                 38g 38g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Old Joe Krantz 07/2020                 38g",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$7",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2020",
-          "price_history": [
-            {
-              "price": "$7",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdoldjoekrantz07202043g|43g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Old Joe Krantz 07/2020                 43g",
-      "quantity": "43g",
-      "display_name": "Cornell & Diehl C&D Old Joe Krantz 07/2020                 43g 43g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Old Joe Krantz 07/2020                 43g",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$8",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2020",
-          "price_history": [
-            {
-              "price": "$8",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdoldjoekrantz07202044g|44g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Old Joe Krantz 07/2020                 44g",
-      "quantity": "44g",
-      "display_name": "Cornell & Diehl C&D Old Joe Krantz 07/2020                 44g 44g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Old Joe Krantz 07/2020                 44g",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$8",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2020",
-          "price_history": [
-            {
-              "price": "$8",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdpalmettobalkan8oz|8oz",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Palmetto Balkan 8oz",
-      "quantity": "8oz",
-      "display_name": "Cornell & Diehl C&D Palmetto Balkan 8oz 8oz",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Palmetto Balkan 8oz",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/mcc-eso-germain-couple-others.41850/",
-          "price": "$60",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "",
-          "price_history": [
-            {
-              "price": "$60",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdpoplarcamp201640gzipand4ozjar|40g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Poplar Camp 2016 40g zip and 4oz jar",
-      "quantity": "40g",
-      "display_name": "Cornell & Diehl C&D Poplar Camp 2016 40g zip and 4oz jar 40g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Poplar Camp 2016 40g zip and 4oz jar",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/partial-cellar-sell-off.41910/",
-          "price": "$18",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2016",
-          "price_history": [
-            {
-              "price": "$18",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2016"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdredburn02222019x1|",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Redburn 02/22/2019                      x1",
-      "quantity": "",
-      "display_name": "Cornell & Diehl C&D Redburn 02/22/2019                      x1",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Redburn 02/22/2019                      x1",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$20",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2019",
-          "price_history": [
-            {
-              "price": "$20",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2019"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdsunbear202035gzipandtin|35g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Sunbear 2020 35g zip and tin",
-      "quantity": "35g",
-      "display_name": "Cornell & Diehl C&D Sunbear 2020 35g zip and tin 35g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Sunbear 2020 35g zip and tin",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/partial-cellar-sell-off.41910/",
-          "price": "$22",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2020",
-          "price_history": [
-            {
-              "price": "$22",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdsundaypicnic07222020x1|",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Sunday Picnic 07/22/2020            x1",
-      "quantity": "",
-      "display_name": "Cornell & Diehl C&D Sunday Picnic 07/22/2020            x1",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Sunday Picnic 07/22/2020            x1",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$20",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2020",
-          "price_history": [
-            {
-              "price": "$20",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|cdwintertimereserve11202236g|36g",
-      "brand": "Cornell & Diehl",
-      "blend": "C&D Wintertime Reserve 11/2022          36g",
-      "quantity": "36g",
-      "display_name": "Cornell & Diehl C&D Wintertime Reserve 11/2022          36g 36g",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "C&D Wintertime Reserve 11/2022          36g",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/heaps.44351/",
-          "price": "$7",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2022",
-          "price_history": [
-            {
-              "price": "$7",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2022"
       ],
       "source": "Speak-Easy.Club"
     },
@@ -3788,9 +2528,72 @@
               "date": "2026-06-24T02:02:09.029335+00:00"
             }
           ]
+        },
+        {
+          "name": "C&D Carolina Red Flake 2018",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/partial-cellar-sell-off.41910/",
+          "price": "$20",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2018",
+          "price_history": [
+            {
+              "price": "$20",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        },
+        {
+          "name": "C&D Carolina Red Flake 09/21/2019     x1",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$30",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2019",
+          "price_history": [
+            {
+              "price": "$30",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        },
+        {
+          "name": "C&D Carolina Red Flake 09/23/2019     x1",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$30",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2019",
+          "price_history": [
+            {
+              "price": "$30",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        },
+        {
+          "name": "C&D Carolina Red Flake 09/24/2019     x1",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$30",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2019",
+          "price_history": [
+            {
+              "price": "$30",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
         }
       ],
-      "years": [],
+      "years": [
+        "2018",
+        "2019"
+      ],
       "source": "Speak-Easy.Club"
     },
     {
@@ -3874,6 +2677,37 @@
       "source": "Multiple sources"
     },
     {
+      "id": "cornelldiehl|chelseamorning|",
+      "brand": "Cornell & Diehl",
+      "blend": "Chelsea Morning",
+      "quantity": "",
+      "display_name": "Cornell & Diehl Chelsea Morning",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Chelsea Morning 02/21/2019         x1",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$20",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2019",
+          "price_history": [
+            {
+              "price": "$20",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2019"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
       "id": "cornelldiehl|chenetscake|8oz",
       "brand": "Cornell & Diehl",
       "blend": "Chenet's Cake",
@@ -3901,6 +2735,68 @@
       ],
       "years": [
         "2021"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|crfwperique|",
+      "brand": "Cornell & Diehl",
+      "blend": "CRF w/Perique",
+      "quantity": "",
+      "display_name": "Cornell & Diehl CRF w/Perique",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D CRF w/Perique 09/29/2021            x1",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$30",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2021",
+          "price_history": [
+            {
+              "price": "$30",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2021"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|crosseyedcricket|41g",
+      "brand": "Cornell & Diehl",
+      "blend": "Cross-eyed Cricket",
+      "quantity": "41g",
+      "display_name": "Cornell & Diehl Cross-eyed Cricket 41g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Cross-eyed Cricket 02/2020         41g",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$8",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2020",
+          "price_history": [
+            {
+              "price": "$8",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2020"
       ],
       "source": "Speak-Easy.Club"
     },
@@ -3992,6 +2888,99 @@
       ],
       "years": [],
       "source": "Treasured Smokes"
+    },
+    {
+      "id": "cornelldiehl|derringer|16oz",
+      "brand": "Cornell & Diehl",
+      "blend": "Derringer",
+      "quantity": "1.6oz",
+      "display_name": "Cornell & Diehl Derringer 1.6oz",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Derringer 1.6oz 2020",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/random-jarred-things-and-a-few-tins.44696/unread",
+          "price": "$10",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2020",
+          "price_history": [
+            {
+              "price": "$10",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2020"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|dreamsofkadath|",
+      "brand": "Cornell & Diehl",
+      "blend": "Dreams of Kadath",
+      "quantity": "",
+      "display_name": "Cornell & Diehl Dreams of Kadath",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Dreams of Kadath 10/27/2019       x1",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$20",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2019",
+          "price_history": [
+            {
+              "price": "$20",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2019"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|engine382|45g",
+      "brand": "Cornell & Diehl",
+      "blend": "Engine #382",
+      "quantity": "45g",
+      "display_name": "Cornell & Diehl Engine #382 45g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Engine #382 08/2020                    45g",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$9",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2020",
+          "price_history": [
+            {
+              "price": "$9",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2020"
+      ],
+      "source": "Speak-Easy.Club"
     },
     {
       "id": "cornelldiehl|exhaustedrooster|2oz",
@@ -4130,6 +3119,35 @@
         "2009"
       ],
       "source": "Treasured Smokes"
+    },
+    {
+      "id": "cornelldiehl|fathertheflame|15oz",
+      "brand": "Cornell & Diehl",
+      "blend": "Father The Flame",
+      "quantity": "1.5oz",
+      "display_name": "Cornell & Diehl Father The Flame 1.5oz",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Father The Flame 1.5oz",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/random-jarred-things-and-a-few-tins.44696/unread",
+          "price": "$20",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "",
+          "price_history": [
+            {
+              "price": "$20",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Speak-Easy.Club"
     },
     {
       "id": "cornelldiehl|firebirdflake|2oz",
@@ -4314,6 +3332,314 @@
       "source": "Tinbids Auction (Sold)"
     },
     {
+      "id": "cornelldiehl|goldendaysofyore|1oz",
+      "brand": "Cornell & Diehl",
+      "blend": "Golden Days of Yore",
+      "quantity": "1oz",
+      "display_name": "Cornell & Diehl Golden Days of Yore 1oz",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Golden Days of Yore 1oz",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/partial-cellar-sell-off.41910/",
+          "price": "$5",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "",
+          "price_history": [
+            {
+              "price": "$5",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|granbystation|46g",
+      "brand": "Cornell & Diehl",
+      "blend": "Granby Station",
+      "quantity": "46g",
+      "display_name": "Cornell & Diehl Granby Station 46g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Granby Station 07/2020                 46g",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$9",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2020",
+          "price_history": [
+            {
+              "price": "$9",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2020"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|hauntedbookshop|105g",
+      "brand": "Cornell & Diehl",
+      "blend": "Haunted Bookshop",
+      "quantity": "105g",
+      "display_name": "Cornell & Diehl Haunted Bookshop 105g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Haunted Bookshop 02/2020        105g",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$16",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2020",
+          "price_history": [
+            {
+              "price": "$16",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2020"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|hauntedbookshop|129g",
+      "brand": "Cornell & Diehl",
+      "blend": "Haunted Bookshop",
+      "quantity": "129g",
+      "display_name": "Cornell & Diehl Haunted Bookshop 129g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Haunted Bookshop 02/2020        129g",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$20",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2020",
+          "price_history": [
+            {
+              "price": "$20",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2020"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|hauntedbookshop|87g",
+      "brand": "Cornell & Diehl",
+      "blend": "Haunted Bookshop",
+      "quantity": "87g",
+      "display_name": "Cornell & Diehl Haunted Bookshop 87g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Haunted Bookshop 02/2020          87g",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$13",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2020",
+          "price_history": [
+            {
+              "price": "$13",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2020"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|hauntedbookshop|8oz",
+      "brand": "Cornell & Diehl",
+      "blend": "Haunted Bookshop",
+      "quantity": "8oz",
+      "display_name": "Cornell & Diehl Haunted Bookshop 8oz",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Haunted Bookshop 8oz 11/01/2022 x1",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$40",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2022",
+          "price_history": [
+            {
+              "price": "$40",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2022"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|innsmouth|",
+      "brand": "Cornell & Diehl",
+      "blend": "Innsmouth",
+      "quantity": "",
+      "display_name": "Cornell & Diehl Innsmouth",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Innsmouth 10/08/2019                   x1",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$20",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2019",
+          "price_history": [
+            {
+              "price": "$20",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2019"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|izmirturkish|23g",
+      "brand": "Cornell & Diehl",
+      "blend": "Izmir Turkish",
+      "quantity": "23g",
+      "display_name": "Cornell & Diehl Izmir Turkish 23g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Izmir Turkish 2018 23g",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/partial-cellar-sell-off.41910/",
+          "price": "$4",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2018",
+          "price_history": [
+            {
+              "price": "$4",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2018"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|johnmarr|30g",
+      "brand": "Cornell & Diehl",
+      "blend": "John Marr",
+      "quantity": "30g",
+      "display_name": "Cornell & Diehl John Marr 30g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D John Marr 07/2020                         30g",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$6",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2020",
+          "price_history": [
+            {
+              "price": "$6",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2020"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|jollyoldstnick|",
+      "brand": "Cornell & Diehl",
+      "blend": "Jolly Old St. Nick",
+      "quantity": "",
+      "display_name": "Cornell & Diehl Jolly Old St. Nick",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Jolly Old St. Nick 2018",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/partial-cellar-sell-off.41910/",
+          "price": "$14",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2018",
+          "price_history": [
+            {
+              "price": "$14",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2018"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
       "id": "cornelldiehl|krampus|",
       "brand": "Cornell & Diehl",
       "blend": "Krampus",
@@ -4374,6 +3700,37 @@
       "source": "Speak-Easy.Club"
     },
     {
+      "id": "cornelldiehl|maltesefalcon|",
+      "brand": "Cornell & Diehl",
+      "blend": "Maltese Falcon",
+      "quantity": "",
+      "display_name": "Cornell & Diehl Maltese Falcon",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Maltese Falcon 09/29/2019          x1",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$20",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2019",
+          "price_history": [
+            {
+              "price": "$20",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2019"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
       "id": "cornelldiehl|manhattanafternoon|50g",
       "brand": "Cornell & Diehl",
       "blend": "Manhattan Afternoon",
@@ -4416,6 +3773,37 @@
       ],
       "years": [
         "2022"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|mississippimud|54g",
+      "brand": "Cornell & Diehl",
+      "blend": "Mississippi Mud",
+      "quantity": "54g",
+      "display_name": "Cornell & Diehl Mississippi Mud 54g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Mississippi Mud 07/2020               54g",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$16",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2020",
+          "price_history": [
+            {
+              "price": "$16",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2020"
       ],
       "source": "Speak-Easy.Club"
     },
@@ -4557,6 +3945,37 @@
       "source": "Treasured Smokes"
     },
     {
+      "id": "cornelldiehl|newmarket|52g",
+      "brand": "Cornell & Diehl",
+      "blend": "New Market",
+      "quantity": "52g",
+      "display_name": "Cornell & Diehl New Market 52g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D New Market 07/2020                      52g",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$16",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2020",
+          "price_history": [
+            {
+              "price": "$16",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2020"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
       "id": "cornelldiehl|nighttrain|",
       "brand": "Cornell & Diehl",
       "blend": "Night Train",
@@ -4629,6 +4048,35 @@
       "years": [
         "2011"
       ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|nighttrain|88oz",
+      "brand": "Cornell & Diehl",
+      "blend": "Night Train",
+      "quantity": "8.8oz",
+      "display_name": "Cornell & Diehl Night Train 8.8oz",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Night Train 8.8 oz",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/wts-misc-pipe-tobacco.44490/unread",
+          "price": "$5",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "",
+          "price_history": [
+            {
+              "price": "$5",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [],
       "source": "Speak-Easy.Club"
     },
     {
@@ -4815,6 +4263,254 @@
       "source": "Speak-Easy.Club"
     },
     {
+      "id": "cornelldiehl|oldjoekrantz|38g",
+      "brand": "Cornell & Diehl",
+      "blend": "Old Joe Krantz",
+      "quantity": "38g",
+      "display_name": "Cornell & Diehl Old Joe Krantz 38g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Old Joe Krantz 07/2020                 38g",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$7",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2020",
+          "price_history": [
+            {
+              "price": "$7",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2020"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|oldjoekrantz|43g",
+      "brand": "Cornell & Diehl",
+      "blend": "Old Joe Krantz",
+      "quantity": "43g",
+      "display_name": "Cornell & Diehl Old Joe Krantz 43g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Old Joe Krantz 07/2020                 43g",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$8",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2020",
+          "price_history": [
+            {
+              "price": "$8",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2020"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|oldjoekrantz|44g",
+      "brand": "Cornell & Diehl",
+      "blend": "Old Joe Krantz",
+      "quantity": "44g",
+      "display_name": "Cornell & Diehl Old Joe Krantz 44g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Old Joe Krantz 07/2020                 44g",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$8",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2020",
+          "price_history": [
+            {
+              "price": "$8",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2020"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|oldjoekrantz|64g",
+      "brand": "Cornell & Diehl",
+      "blend": "Old Joe Krantz",
+      "quantity": "64g",
+      "display_name": "Cornell & Diehl Old Joe Krantz 64g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Old Joe Krantz 02/2021                 64g",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$12",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2021",
+          "price_history": [
+            {
+              "price": "$12",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2021"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|oldjoekrantz|71g",
+      "brand": "Cornell & Diehl",
+      "blend": "Old Joe Krantz",
+      "quantity": "71g",
+      "display_name": "Cornell & Diehl Old Joe Krantz 71g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Old Joe Krantz 02/2021                 71g",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$13",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2021",
+          "price_history": [
+            {
+              "price": "$13",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2021"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|oldjoekrantz|75g",
+      "brand": "Cornell & Diehl",
+      "blend": "Old Joe Krantz",
+      "quantity": "75g",
+      "display_name": "Cornell & Diehl Old Joe Krantz 75g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Old Joe Krantz 02/2021                 75g",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$14",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2021",
+          "price_history": [
+            {
+              "price": "$14",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2021"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|oldjoekrantz|78g",
+      "brand": "Cornell & Diehl",
+      "blend": "Old Joe Krantz",
+      "quantity": "78g",
+      "display_name": "Cornell & Diehl Old Joe Krantz 78g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Old Joe Krantz 02/2021                 78g",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$14",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2021",
+          "price_history": [
+            {
+              "price": "$14",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2021"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|oldjoekrantz|85g",
+      "brand": "Cornell & Diehl",
+      "blend": "Old Joe Krantz",
+      "quantity": "85g",
+      "display_name": "Cornell & Diehl Old Joe Krantz 85g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Old Joe Krantz 02/2021                 85g",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$16",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2021",
+          "price_history": [
+            {
+              "price": "$16",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2021"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
       "id": "cornelldiehl|openingnight|50g",
       "brand": "Cornell & Diehl",
       "blend": "Opening Night",
@@ -4906,6 +4602,35 @@
       "source": "Speak-Easy.Club"
     },
     {
+      "id": "cornelldiehl|palmettobalkan|8oz",
+      "brand": "Cornell & Diehl",
+      "blend": "Palmetto Balkan",
+      "quantity": "8oz",
+      "display_name": "Cornell & Diehl Palmetto Balkan 8oz",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Palmetto Balkan 8oz",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/mcc-eso-germain-couple-others.41850/",
+          "price": "$60",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "",
+          "price_history": [
+            {
+              "price": "$60",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Speak-Easy.Club"
+    },
+    {
       "id": "cornelldiehl|paradoxical|50g",
       "brand": "Cornell & Diehl",
       "blend": "Paradoxical",
@@ -4964,6 +4689,68 @@
         "1998"
       ],
       "source": "4noggins.com"
+    },
+    {
+      "id": "cornelldiehl|poplarcamp|40g",
+      "brand": "Cornell & Diehl",
+      "blend": "Poplar Camp",
+      "quantity": "40g",
+      "display_name": "Cornell & Diehl Poplar Camp 40g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Poplar Camp 2016 40g zip and 4oz jar",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/partial-cellar-sell-off.41910/",
+          "price": "$18",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2016",
+          "price_history": [
+            {
+              "price": "$18",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2016"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "cornelldiehl|redburn|",
+      "brand": "Cornell & Diehl",
+      "blend": "Redburn",
+      "quantity": "",
+      "display_name": "Cornell & Diehl Redburn",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Redburn 02/22/2019                      x1",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$20",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2019",
+          "price_history": [
+            {
+              "price": "$20",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2019"
+      ],
+      "source": "Speak-Easy.Club"
     },
     {
       "id": "cornelldiehl|renaissancedavinci|50g",
@@ -5198,6 +4985,37 @@
       "source": "Tinbids Auction (Sold)"
     },
     {
+      "id": "cornelldiehl|sunbear|35g",
+      "brand": "Cornell & Diehl",
+      "blend": "Sunbear",
+      "quantity": "35g",
+      "display_name": "Cornell & Diehl Sunbear 35g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Sunbear 2020 35g zip and tin",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/partial-cellar-sell-off.41910/",
+          "price": "$22",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2020",
+          "price_history": [
+            {
+              "price": "$22",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2020"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
       "id": "cornelldiehl|sundaypicnic|",
       "brand": "Cornell & Diehl",
       "blend": "Sunday Picnic",
@@ -5233,6 +5051,21 @@
           "price_history": [
             {
               "price": "$30",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        },
+        {
+          "name": "C&D Sunday Picnic 07/22/2020            x1",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$20",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2020",
+          "price_history": [
+            {
+              "price": "$20",
               "date": "2026-06-24T02:02:09.029335+00:00"
             }
           ]
@@ -5424,6 +5257,37 @@
       ],
       "years": [],
       "source": "Treasured Smokes"
+    },
+    {
+      "id": "cornelldiehl|wintertimereserve|36g",
+      "brand": "Cornell & Diehl",
+      "blend": "Wintertime Reserve",
+      "quantity": "36g",
+      "display_name": "Cornell & Diehl Wintertime Reserve 36g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "C&D Wintertime Reserve 11/2022          36g",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/heaps.44351/",
+          "price": "$7",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2022",
+          "price_history": [
+            {
+              "price": "$7",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2022"
+      ],
+      "source": "Speak-Easy.Club"
     },
     {
       "id": "cornelldiehl|wintertimereservetobogganrun|2oz",
@@ -9754,159 +9618,6 @@
       "source": "pipestud.com"
     },
     {
-      "id": "gh|7brokenflake|",
-      "brand": "G.H.",
-      "blend": "#7 Broken Flake",
-      "quantity": "",
-      "display_name": "G.H. #7 Broken Flake",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "#7 Broken Flake 2021",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/garth-7-and-sliced-brown-twist.41245/",
-          "price": "$6",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2021",
-          "price_history": [
-            {
-              "price": "$6",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2021"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "gh|8ozgh7brokenflake2021|8oz",
-      "brand": "G.H.",
-      "blend": "8oz GH #7 Broken Flake 2021",
-      "quantity": "8oz",
-      "display_name": "G.H. 8oz GH #7 Broken Flake 2021 8oz",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "8oz GH #7 Broken Flake 2021",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/samuel-gawith-hoggarth.41067/",
-          "price": "$50",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2021",
-          "price_history": [
-            {
-              "price": "$50",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2021"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "gh|balkanmixture|3oz",
-      "brand": "G.H.",
-      "blend": "Balkan Mixture",
-      "quantity": "3oz",
-      "display_name": "G.H. Balkan Mixture 3oz",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "3 oz G&H Balkan Mixture 2021",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/more-cleaning-of-the-lockers.43504/",
-          "price": "$30",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2021",
-          "price_history": [
-            {
-              "price": "$30",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2021"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "gh|boughtthisoffebayandneversmokeditthoughithinkithasbeensmokedonceextrabowlicouldntfindanythingdefinitiveaboutpricingsoimgoingwith|",
-      "brand": "G.H.",
-      "blend": "Bought this off eBay and never smoked it. Though I think it has been smoked once. Extra bowl. I couldn’t find anything definitive about pricing so I’m going with",
-      "quantity": "",
-      "display_name": "G.H. Bought this off eBay and never smoked it. Though I think it has been smoked once. Extra bowl. I couldn’t find anything definitive about pricing so I’m going with",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "Bought this off eBay and never smoked it. Though I think it has been smoked once. Extra bowl. I couldn’t find anything definitive about pricing so I’m going with",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/vintage-%E2%80%9Clike-new%E2%80%9D-falcon.41862/",
-          "price": "$100",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "",
-          "price_history": [
-            {
-              "price": "$100",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "gh|curlycutdeluxe|6oz",
-      "brand": "G.H.",
-      "blend": "Curly Cut Deluxe",
-      "quantity": "6oz",
-      "display_name": "G.H. Curly Cut Deluxe 6oz",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "6 oz G&H Curly Cut Deluxe 2023",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/more-cleaning-of-the-lockers.43504/",
-          "price": "$100",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2023",
-          "price_history": [
-            {
-              "price": "$100",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2023"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
       "id": "glpease|abingdon|2oz",
       "brand": "G.L. Pease",
       "blend": "Abingdon",
@@ -12297,15 +12008,61 @@
       "source": "Treasured Smokes"
     },
     {
-      "id": "gawithhoggarthco|7brokenflake|8oz",
-      "brand": "Gawith, Hoggarth & Co.",
+      "id": "gawithhoggarthco|7brokenflake|",
+      "brand": "Gawith Hoggarth & Co.",
       "blend": "#7 Broken Flake",
-      "quantity": "8oz",
-      "display_name": "Gawith, Hoggarth & Co. #7 Broken Flake 8oz",
+      "quantity": "",
+      "display_name": "Gawith Hoggarth & Co. #7 Broken Flake",
       "sources": [
         "Speak-Easy.Club"
       ],
       "members": [
+        {
+          "name": "#7 Broken Flake 2021",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/garth-7-and-sliced-brown-twist.41245/",
+          "price": "$6",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2021",
+          "price_history": [
+            {
+              "price": "$6",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2021"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "gawithhoggarthco|7brokenflake|8oz",
+      "brand": "Gawith Hoggarth & Co.",
+      "blend": "#7 Broken Flake",
+      "quantity": "8oz",
+      "display_name": "Gawith Hoggarth & Co. #7 Broken Flake 8oz",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "8oz GH #7 Broken Flake 2021",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/samuel-gawith-hoggarth.41067/",
+          "price": "$50",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2021",
+          "price_history": [
+            {
+              "price": "$50",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        },
         {
           "name": "SOLD 8oz GH #7 Broken Flake 2021",
           "source": "Speak-Easy.Club",
@@ -12324,6 +12081,68 @@
       ],
       "years": [
         "2021"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "gawithhoggarthco|balkanmixture|3oz",
+      "brand": "Gawith Hoggarth & Co.",
+      "blend": "Balkan Mixture",
+      "quantity": "3oz",
+      "display_name": "Gawith Hoggarth & Co. Balkan Mixture 3oz",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "3 oz G&H Balkan Mixture 2021",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/more-cleaning-of-the-lockers.43504/",
+          "price": "$30",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2021",
+          "price_history": [
+            {
+              "price": "$30",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2021"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "gawithhoggarthco|curlycutdeluxe|6oz",
+      "brand": "Gawith Hoggarth & Co.",
+      "blend": "Curly Cut Deluxe",
+      "quantity": "6oz",
+      "display_name": "Gawith Hoggarth & Co. Curly Cut Deluxe 6oz",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "6 oz G&H Curly Cut Deluxe 2023",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/more-cleaning-of-the-lockers.43504/",
+          "price": "$100",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2023",
+          "price_history": [
+            {
+              "price": "$100",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2023"
       ],
       "source": "Speak-Easy.Club"
     },
@@ -12781,37 +12600,6 @@
       ],
       "years": [
         "2021"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "germains|brownflake|",
-      "brand": "Germain's",
-      "blend": "Brown Flake",
-      "quantity": "",
-      "display_name": "Germain's Brown Flake",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "Up for grabs but not pictured is a wonderful 2018 Tin of Germain’s Briwn Flake for",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/mac-b-and-odds-and-ends.41736/",
-          "price": "$45",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2018",
-          "price_history": [
-            {
-              "price": "$45",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2018"
       ],
       "source": "Speak-Easy.Club"
     },
@@ -14480,6 +14268,78 @@
       "source": "4noggins.com"
     },
     {
+      "id": "jfgermain|balkansobranie|",
+      "brand": "J.F. Germain",
+      "blend": "Balkan Sobranie",
+      "quantity": "",
+      "display_name": "J.F. Germain Balkan Sobranie",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "Balkan Sobranie - 2020-2021?",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/rare-discontinued-stuff-fund-my-cannon-build.44610/unread",
+          "price": "$40",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2020",
+          "price_history": [
+            {
+              "price": "$40",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2020"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "jfgermain|balkansobranie|50g",
+      "brand": "J.F. Germain",
+      "blend": "Balkan Sobranie",
+      "quantity": "50g",
+      "display_name": "J.F. Germain Balkan Sobranie 50g",
+      "sources": [
+        "4noggins.com"
+      ],
+      "members": [
+        {
+          "name": "Balkan Sobranie: BALKAN SOBRANIE 50g -C",
+          "source": "4noggins.com",
+          "url": "https://www.4noggins.com/products/balkan-sobranie-balkan-sobranie-50g-c-1",
+          "price": "$125.00",
+          "last_updated": "2026-06-24T15:14:15.069299+00:00",
+          "first_seen": "2026-06-23T15:14:19.145115+00:00",
+          "year": "",
+          "price_history": [
+            {
+              "price": "$145.00",
+              "date": "2026-06-23T15:14:19.145115+00:00"
+            },
+            {
+              "price": "$125.00",
+              "date": "2026-06-23T15:14:19.145115+00:00"
+            },
+            {
+              "price": "$145.00",
+              "date": "2026-06-24T15:14:15.069299+00:00"
+            },
+            {
+              "price": "$125.00",
+              "date": "2026-06-24T15:14:15.069299+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [],
+      "source": "4noggins.com"
+    },
+    {
       "id": "jfgermain|balkansobraniemixture|",
       "brand": "J.F. Germain",
       "blend": "Balkan Sobranie Mixture",
@@ -14571,6 +14431,37 @@
       ],
       "years": [],
       "source": "4noggins.com"
+    },
+    {
+      "id": "jfgermain|brownflake|",
+      "brand": "J.F. Germain",
+      "blend": "Brown Flake",
+      "quantity": "",
+      "display_name": "J.F. Germain Brown Flake",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "Up for grabs but not pictured is a wonderful 2018 Tin of Germain’s Briwn Flake for",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/mac-b-and-odds-and-ends.41736/",
+          "price": "$45",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2018",
+          "price_history": [
+            {
+              "price": "$45",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2018"
+      ],
+      "source": "Speak-Easy.Club"
     },
     {
       "id": "jfgermain|brownflake|50g",
@@ -18343,6 +18234,37 @@
         "2020"
       ],
       "source": "4noggins.com"
+    },
+    {
+      "id": "mcclelland|3oaksenglishblend|50g",
+      "brand": "McClelland",
+      "blend": "3 Oaks English Blend",
+      "quantity": "50g",
+      "display_name": "McClelland 3 Oaks English Blend 50g",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "(ThreeOne) 2014 3 Oaks English Blend 50g Tin",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/mcclelland-tinned-tobaccos.43697/",
+          "price": "$65",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2014",
+          "price_history": [
+            {
+              "price": "$65",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2014"
+      ],
+      "source": "Speak-Easy.Club"
     },
     {
       "id": "mcclelland|3oaksoriginal|",
@@ -27715,37 +27637,6 @@
       "source": "Speak-Easy.Club"
     },
     {
-      "id": "scandinaviantobaccogroup|balkansobranie|",
-      "brand": "Scandinavian Tobacco Group",
-      "blend": "Balkan Sobranie",
-      "quantity": "",
-      "display_name": "Scandinavian Tobacco Group Balkan Sobranie",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "Balkan Sobranie - 2020-2021?",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/rare-discontinued-stuff-fund-my-cannon-build.44610/unread",
-          "price": "$40",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2020",
-          "price_history": [
-            {
-              "price": "$40",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
       "id": "seattlepipeclub|mississippiriver|8oz",
       "brand": "Seattle Pipe Club",
       "blend": "Mississippi River",
@@ -30381,37 +30272,6 @@
       "source": "Speak-Easy.Club"
     },
     {
-      "id": "watchcitycigar|fatbastard|145oz",
-      "brand": "Watch City Cigar",
-      "blend": "Fat Bastard",
-      "quantity": "14.5oz",
-      "display_name": "Watch City Cigar Fat Bastard 14.5oz",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "members": [
-        {
-          "name": "Fat Bastard (2024) - 14.5oz",
-          "source": "Speak-Easy.Club",
-          "url": "https://speak-easy.club/threads/releasing-tobacco-back-into-the-wild-bulk-edition.43941/",
-          "price": "$70",
-          "last_updated": "2026-06-24T02:02:09.029335+00:00",
-          "first_seen": "2026-06-24T02:02:09.029335+00:00",
-          "year": "2024",
-          "price_history": [
-            {
-              "price": "$70",
-              "date": "2026-06-24T02:02:09.029335+00:00"
-            }
-          ]
-        }
-      ],
-      "years": [
-        "2024"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
       "id": "watchcitycigars|deluxecrumbcut|36g",
       "brand": "Watch City Cigars",
       "blend": "Deluxe Crumb Cut",
@@ -30558,6 +30418,37 @@
         }
       ],
       "years": [],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "watchcity|fatbastard|145oz",
+      "brand": "Watch City",
+      "blend": "Fat Bastard",
+      "quantity": "14.5oz",
+      "display_name": "Watch City Fat Bastard 14.5oz",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "members": [
+        {
+          "name": "Fat Bastard (2024) - 14.5oz",
+          "source": "Speak-Easy.Club",
+          "url": "https://speak-easy.club/threads/releasing-tobacco-back-into-the-wild-bulk-edition.43941/",
+          "price": "$70",
+          "last_updated": "2026-06-24T02:02:09.029335+00:00",
+          "first_seen": "2026-06-24T02:02:09.029335+00:00",
+          "year": "2024",
+          "price_history": [
+            {
+              "price": "$70",
+              "date": "2026-06-24T02:02:09.029335+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2024"
+      ],
       "source": "Speak-Easy.Club"
     },
     {
@@ -31502,7 +31393,7 @@
     "Esoterica: ST. IVES 8oz - C": "esoterica|stives|8oz",
     "Esoterica: TILBURY 2oz - C": "esoterica|tilbury|2oz",
     "Esoterica: TILBURY 8oz. 2018 - C": "esoterica|tilbury|8oz",
-    "Balkan Sobranie: BALKAN SOBRANIE 50g -C": "balkansobranie|balkansobranie|50g",
+    "Balkan Sobranie: BALKAN SOBRANIE 50g -C": "jfgermain|balkansobranie|50g",
     "Esoterica: DORCHESTER 8oz - C": "solo|4nogginscom|esotericadorchester8ozc",
     "Esoterica: PEACEHAVEN 8oz - C": "solo|4nogginscom|esotericapeacehaven8ozc",
     "Esoterica: DUNBAR 8oz - C": "esoterica|dunbar|8oz",
@@ -31748,8 +31639,8 @@
     "Frog Morton 3.1oz 2015": "mcclelland|frogmorton|31oz",
     "Mc Clelland Mellow Apple 2oz 2016": "mcclelland|mellowapple|2oz",
     "Mc Clelland Jubilee 1.4oz 2014": "mcclelland|jubilee|14oz",
-    "C&D Father The Flame 1.5oz": "cornelldiehl|cdfathertheflame15oz|15oz",
-    "C&D Derringer 1.6oz 2020": "cornelldiehl|cdderringer16oz2020|16oz",
+    "C&D Father The Flame 1.5oz": "cornelldiehl|fathertheflame|15oz",
+    "C&D Derringer 1.6oz 2020": "cornelldiehl|derringer|16oz",
     "Ennerdale Flake": "gawithhoggarthco|ennerdaleflake|",
     "Rum Flake": "gawithhoggarthco|rumflake|",
     "Bright CR Flake": "samuelgawith|brightcrflake|",
@@ -31762,7 +31653,7 @@
     "Semois - Date Unknown but at least 8 years old": "tabacmanil|labrumeuse|",
     "HU - directors cut - 2018": "hutobacco|directorscut|",
     "John Cottons Smyrna - 2019?": "johncottons|smyrna|",
-    "Balkan Sobranie - 2020-2021?": "scandinaviantobaccogroup|balkansobranie|",
+    "Balkan Sobranie - 2020-2021?": "jfgermain|balkansobranie|",
     "Brebbia - Latakia Flake no9": "brebbia|latakiaflakeno9|",
     "Mac Baren Honey & Chocolate - 3.5oz tin - Oct 2012": "macbaren|honeychocolate|35oz",
     "G.L. Pease Stonehenge Flake - 2017": "glpease|stonehengeflake|",
@@ -31770,21 +31661,21 @@
     "Peterson Balkan Mixture, 24, x1": "peterson|balkanmixture|",
     "Hearth & Home Bright Night, Received 12/24, don't know date, x1": "hearthhome|brightnight|",
     "Missouri Meerschaum 150th blend, 12/24, x1": "missourimeerschaum|150thanniversary|",
-    "C&D Bayou Morning 8oz mylar, 2015, x1": "cornelldiehl|cdbayoumorning8ozmylar2015x1|8oz",
-    "C&D Night Train 8.8 oz": "cornelldiehl|cdnighttrain88oz|88oz",
+    "C&D Bayou Morning 8oz mylar, 2015, x1": "cornelldiehl|bayoumorning|8oz",
+    "C&D Night Train 8.8 oz": "cornelldiehl|nighttrain|88oz",
     "Then we've got a bag (opened, but still moist since it's J4) of the sadly discontinued Sutliff J4 Burley. I don't have any way of taring out the bag so let's call it 12 ounces": "sutliff|j4burley|12oz",
     "Finally a chunk of Wessex Gold Brick. I took a slice and smoked a bowl when I got it but wasn't thrilled, wanted to try it with some age but never got around to it. 3.4oz": "wessex|goldbrick|34oz",
-    "C&D Carolina Red Flake 09/21/2019     x1": "cornelldiehl|cdcarolinaredflake09212019x1|",
-    "C&D Carolina Red Flake 09/23/2019     x1": "cornelldiehl|cdcarolinaredflake09232019x1|",
-    "C&D Carolina Red Flake 09/24/2019     x1": "cornelldiehl|cdcarolinaredflake09242019x1|",
-    "C&D CRF w/Perique 09/29/2021            x1": "cornelldiehl|cdcrfwperique09292021x1|",
-    "C&D Chelsea Morning 02/21/2019         x1": "cornelldiehl|cdchelseamorning02212019x1|",
-    "C&D Dreams of Kadath 10/27/2019       x1": "cornelldiehl|cddreamsofkadath10272019x1|",
-    "C&D Haunted Bookshop 8oz 11/01/2022 x1": "cornelldiehl|cdhauntedbookshop8oz11012022x1|8oz",
-    "C&D Innsmouth 10/08/2019                   x1": "cornelldiehl|cdinnsmouth10082019x1|",
-    "C&D Maltese Falcon 09/29/2019          x1": "cornelldiehl|cdmaltesefalcon09292019x1|",
-    "C&D Redburn 02/22/2019                      x1": "cornelldiehl|cdredburn02222019x1|",
-    "C&D Sunday Picnic 07/22/2020            x1": "cornelldiehl|cdsundaypicnic07222020x1|",
+    "C&D Carolina Red Flake 09/21/2019     x1": "cornelldiehl|carolinaredflake|",
+    "C&D Carolina Red Flake 09/23/2019     x1": "cornelldiehl|carolinaredflake|",
+    "C&D Carolina Red Flake 09/24/2019     x1": "cornelldiehl|carolinaredflake|",
+    "C&D CRF w/Perique 09/29/2021            x1": "cornelldiehl|crfwperique|",
+    "C&D Chelsea Morning 02/21/2019         x1": "cornelldiehl|chelseamorning|",
+    "C&D Dreams of Kadath 10/27/2019       x1": "cornelldiehl|dreamsofkadath|",
+    "C&D Haunted Bookshop 8oz 11/01/2022 x1": "cornelldiehl|hauntedbookshop|8oz",
+    "C&D Innsmouth 10/08/2019                   x1": "cornelldiehl|innsmouth|",
+    "C&D Maltese Falcon 09/29/2019          x1": "cornelldiehl|maltesefalcon|",
+    "C&D Redburn 02/22/2019                      x1": "cornelldiehl|redburn|",
+    "C&D Sunday Picnic 07/22/2020            x1": "cornelldiehl|sundaypicnic|",
     "Escudo Navy De Luxe 2020                   x1": "stg|escudonavydeluxe|",
     "Peterson 3P's 2021                                 x1": "peterson|threeps|",
     "Peterson Balkan Mixture 2021               x1": "peterson|balkanmixture|",
@@ -31798,28 +31689,28 @@
     "Samuel Gawith Grousemoor 2020         x1": "samuelgawith|grousemoor|",
     "Samuel Gawith Navy Flake 2020           x1": "samuelgawith|navyflake|",
     "Samuel Gawith Skiff Mixture 2019        x1": "samuelgawith|skiffmixture|",
-    "C&D Bayou Morning 07/2020                 48g": "cornelldiehl|cdbayoumorning07202048g|48g",
-    "C&D Billy Budd 02/2020                         38g": "cornelldiehl|cdbillybudd02202038g|38g",
-    "C&D Billy Budd Blonde 02/2020            30g": "cornelldiehl|cdbillybuddblonde02202030g|30g",
-    "C&D Byzantium 02/2020                        35g": "cornelldiehl|cdbyzantium02202035g|35g",
-    "C&D Cross-eyed Cricket 02/2020         41g": "cornelldiehl|cdcrosseyedcricket02202041g|41g",
-    "C&D Engine #382 08/2020                    45g": "cornelldiehl|cdengine38208202045g|45g",
-    "C&D Granby Station 07/2020                 46g": "cornelldiehl|cdgranbystation07202046g|46g",
-    "C&D Haunted Bookshop 02/2020        129g": "cornelldiehl|cdhauntedbookshop022020129g|129g",
-    "C&D Haunted Bookshop 02/2020          87g": "cornelldiehl|cdhauntedbookshop02202087g|87g",
-    "C&D Haunted Bookshop 02/2020        105g": "cornelldiehl|cdhauntedbookshop022020105g|105g",
-    "C&D John Marr 07/2020                         30g": "cornelldiehl|cdjohnmarr07202030g|30g",
-    "C&D New Market 07/2020                      52g": "cornelldiehl|cdnewmarket07202052g|52g",
-    "C&D Mississippi Mud 07/2020               54g": "cornelldiehl|cdmississippimud07202054g|54g",
-    "C&D Old Joe Krantz 02/2021                 85g": "cornelldiehl|cdoldjoekrantz02202185g|85g",
-    "C&D Old Joe Krantz 02/2021                 64g": "cornelldiehl|cdoldjoekrantz02202164g|64g",
-    "C&D Old Joe Krantz 02/2021                 71g": "cornelldiehl|cdoldjoekrantz02202171g|71g",
-    "C&D Old Joe Krantz 02/2021                 78g": "cornelldiehl|cdoldjoekrantz02202178g|78g",
-    "C&D Old Joe Krantz 07/2020                 43g": "cornelldiehl|cdoldjoekrantz07202043g|43g",
-    "C&D Old Joe Krantz 02/2021                 75g": "cornelldiehl|cdoldjoekrantz02202175g|75g",
-    "C&D Old Joe Krantz 07/2020                 38g": "cornelldiehl|cdoldjoekrantz07202038g|38g",
-    "C&D Old Joe Krantz 07/2020                 44g": "cornelldiehl|cdoldjoekrantz07202044g|44g",
-    "C&D Wintertime Reserve 11/2022          36g": "cornelldiehl|cdwintertimereserve11202236g|36g",
+    "C&D Bayou Morning 07/2020                 48g": "cornelldiehl|bayoumorning|48g",
+    "C&D Billy Budd 02/2020                         38g": "cornelldiehl|billybudd|38g",
+    "C&D Billy Budd Blonde 02/2020            30g": "cornelldiehl|billybuddblonde|30g",
+    "C&D Byzantium 02/2020                        35g": "cornelldiehl|byzantium|35g",
+    "C&D Cross-eyed Cricket 02/2020         41g": "cornelldiehl|crosseyedcricket|41g",
+    "C&D Engine #382 08/2020                    45g": "cornelldiehl|engine382|45g",
+    "C&D Granby Station 07/2020                 46g": "cornelldiehl|granbystation|46g",
+    "C&D Haunted Bookshop 02/2020        129g": "cornelldiehl|hauntedbookshop|129g",
+    "C&D Haunted Bookshop 02/2020          87g": "cornelldiehl|hauntedbookshop|87g",
+    "C&D Haunted Bookshop 02/2020        105g": "cornelldiehl|hauntedbookshop|105g",
+    "C&D John Marr 07/2020                         30g": "cornelldiehl|johnmarr|30g",
+    "C&D New Market 07/2020                      52g": "cornelldiehl|newmarket|52g",
+    "C&D Mississippi Mud 07/2020               54g": "cornelldiehl|mississippimud|54g",
+    "C&D Old Joe Krantz 02/2021                 85g": "cornelldiehl|oldjoekrantz|85g",
+    "C&D Old Joe Krantz 02/2021                 64g": "cornelldiehl|oldjoekrantz|64g",
+    "C&D Old Joe Krantz 02/2021                 71g": "cornelldiehl|oldjoekrantz|71g",
+    "C&D Old Joe Krantz 02/2021                 78g": "cornelldiehl|oldjoekrantz|78g",
+    "C&D Old Joe Krantz 07/2020                 43g": "cornelldiehl|oldjoekrantz|43g",
+    "C&D Old Joe Krantz 02/2021                 75g": "cornelldiehl|oldjoekrantz|75g",
+    "C&D Old Joe Krantz 07/2020                 38g": "cornelldiehl|oldjoekrantz|38g",
+    "C&D Old Joe Krantz 07/2020                 44g": "cornelldiehl|oldjoekrantz|44g",
+    "C&D Wintertime Reserve 11/2022          36g": "cornelldiehl|wintertimereserve|36g",
     "Dunhill Nightcap 09/2018                       90g": "dunhill|dunhillnightcap09201890g|90g",
     "G&H Scotch Flake 06/2020                    25g": "gawithhoggarthco|scotchflake|25g",
     "H&H White Knight 11/2018                      45g": "hearthhome|whiteknight|45g",
@@ -31924,7 +31815,7 @@
     "St. James Flake Burnt Ends (2025) - 5.8oz": "samuelgawith|stjamesflake|58oz",
     "Mocha Strips (2024) - 32oz": "cornelldiehl|mochastrips|32oz",
     "Mixture 79 (2024) - 7.87oz": "sutliff|mixtureno79|787oz",
-    "Fat Bastard (2024) - 14.5oz": "watchcitycigar|fatbastard|145oz",
+    "Fat Bastard (2024) - 14.5oz": "watchcity|fatbastard|145oz",
     "Old Black Magic (2024) - 13oz": "watchcity|oldblackmagic|13oz",
     "Old Dominion (2024) - 13.7oz": "cornelldiehl|olddominion|137oz",
     "Rouxgaroux (2024) - 7.7oz": "watchcity|rouxgaroux|77oz",
@@ -31964,7 +31855,7 @@
     "*sold*SJF '24": "samuelgawith|stjamesflake|",
     "FVF '24": "samuelgawith|fullvirginiaflake|",
     "Sold-Also have a sealed an 4oz bag of Watch City Cigars limited release Strange Magic flake if anyone’s interested": "watchcitycigars|strangemagic|4oz",
-    "(ThreeOne) 2014 3 Oaks English Blend 50g Tin": "3oaks|englishblend|50g",
+    "(ThreeOne) 2014 3 Oaks English Blend 50g Tin": "mcclelland|3oaksenglishblend|50g",
     "SOLD(One) 2017 Tudor Castle 50g Tin": "mcclelland|tudorcastle|50g",
     "SOLD(One) 2017 Balkan Blue 40g Tin": "mcclelland|balkanblue|40g",
     "x 2013 Triple Play 50g’s": "glpease|tripleplay|50g",
@@ -32003,11 +31894,11 @@
     "Rhythm and blues 2021": "watchcity|rhythmandblues|",
     "Happy bogie 50g 2021": "samuelgawith|happybogie|50g",
     "ODF RR 1LB": "macbaren|olddarkfiredreadyrubbed|",
-    "3 oz G&H Balkan Mixture 2021": "gh|balkanmixture|3oz",
+    "3 oz G&H Balkan Mixture 2021": "gawithhoggarthco|balkanmixture|3oz",
     "8 oz Drucquer Blairgowrie 2019": "drucquersons|blairgowrie|8oz",
     "4 oz LJ Peretti Cambridge Flake 2022": "ljperetti|cambridgeflake|4oz",
     "9 oz KBV ProBlend VBC 2021": "kenbyronventures|problendvbc|9oz",
-    "6 oz G&H Curly Cut Deluxe 2023": "gh|curlycutdeluxe|6oz",
+    "6 oz G&H Curly Cut Deluxe 2023": "gawithhoggarthco|curlycutdeluxe|6oz",
     "x 2020 Roper’s Roundels 50g": "dan|ropersroundels|50g",
     "x 2020 Flanagan Flake 50g": "hutobacco|flanagan|50g",
     "x 2013 GLP Cumberland": "glpease|cumberland|",
@@ -32123,8 +32014,8 @@
     "x 2010  100g HH Mature Va": "hearthhome|matureva|100g",
     "x 2019 50g HH Acadian $": "hearthhome|acadian|50g",
     "x 2021 Cringle Flake": "sutliff|cringleflake|",
-    "x 2013 yellow capstan": "capstan|capstanyellow|",
-    "x 2020 yellow capstan": "capstan|capstanyellow|",
+    "x 2013 yellow capstan": "capstan|yellow|",
+    "x 2020 yellow capstan": "capstan|yellow|",
     "x 2020 MacB Dark Twist 100g": "macbaren|darktwist|100g",
     "x 2018 hh burley 100g": "hearthhome|burleyflake|100g",
     "x 2022(?)Sutliff Barrel Aged #2": "sutliff|barrelaged2|",
@@ -32171,22 +32062,22 @@
     "HH Acadian Perique, jarred 2019 (unopened) 2oz": "hearthhome|acadianperique|2oz",
     "GQ Nottingham Lace Noir (lakeland) 22g": "gqtobaccos|nottinghamlacenoir|22g",
     "MacBaren Roll Cake (January 2010, jarred 2017) 1oz zip, 2oz jar": "macbaren|rollcake|1oz",
-    "C&D Poplar Camp 2016 40g zip and 4oz jar": "cornelldiehl|cdpoplarcamp201640gzipand4ozjar|40g",
-    "C&D Sunbear 2020 35g zip and tin": "cornelldiehl|cdsunbear202035gzipandtin|35g",
+    "C&D Poplar Camp 2016 40g zip and 4oz jar": "cornelldiehl|poplarcamp|40g",
+    "C&D Sunbear 2020 35g zip and tin": "cornelldiehl|sunbear|35g",
     "Hearth and Home Country Lane 2017 missing one bowl zip and full tin": "hearthhome|countrylane|",
     "Crumble Cake 2020 44g": "cornelldiehl|crumblekake|44g",
     "Stokkebye Luxury bullseye flake 1.75oz 2018": "peterstokkebye|luxurybullseyeflake|175oz",
     "Dunhill Ready Rubbed 25g": "dunhill|dunhillreadyrubbed25g|25g",
     "Luxury Navy flake 2oz (or 400, says both but crossed off on label). Bought this before I moved, so at least 2017, unopened": "peterstokkebye|luxurynavyflake|2oz",
     "Newminster 400 2oz 2016 (unopened)": "newminster|no400superiornavyflake|2oz",
-    "C&D Golden Days of Yore 1oz": "cornelldiehl|cdgoldendaysofyore1oz|1oz",
-    "C&D Izmir Turkish 2018 23g": "cornelldiehl|cdizmirturkish201823g|23g",
+    "C&D Golden Days of Yore 1oz": "cornelldiehl|goldendaysofyore|1oz",
+    "C&D Izmir Turkish 2018 23g": "cornelldiehl|izmirturkish|23g",
     "Sutliff Red Ribbon 22g": "sutliff|redribbon|22g",
     "AAA. Solani 633 38g. from 2003, acquired 2019, unopened": "solani|633|38g",
-    "C&D Jolly Old St. Nick 2018": "cornelldiehl|cdjollyoldstnick2018|",
+    "C&D Jolly Old St. Nick 2018": "cornelldiehl|jollyoldstnick|",
     "Butera Royal Vintage 2017": "butera|royalvintage|",
     "Benjamin Hartwell Chesdin 2002": "benjaminhartwell|chesdinmixture|",
-    "C&D Carolina Red Flake 2018": "cornelldiehl|cdcarolinaredflake2018|",
+    "C&D Carolina Red Flake 2018": "cornelldiehl|carolinaredflake|",
     "MacBaren HH Mature Virginia 2010": "macbaren|hhmaturevirginia|",
     "McClelland 2015 VaPer Feb 2018 (bulk SJW) 1oz zip +3oz Jar": "mcclelland|vaper|1oz",
     "MacBaren HH Mature Virginia 2010 14g zip and 2oz jar": "macbaren|hhmaturevirginia|14g",
@@ -32195,7 +32086,7 @@
     "F&T Vintage (2018 or 2019)": "fribourgtreyer|vintage|",
     "MacBaren Roll Cake Spun Cut 2010": "macbaren|rollcake|",
     "MacBaren Club Blend roll cake 2010": "macbaren|clubblend|",
-    "x 2018 Capstan Yellow": "capstan|capstanyellow|",
+    "x 2018 Capstan Yellow": "capstan|yellow|",
     "x 2018 HH Burley Flake 100g’s": "hearthhome|burleyflake|100g",
     "HH Burley Flake 257g’s": "macbaren|hhburleyflake|257g",
     "x 2020 OGS": "orlik|goldensliced|",
@@ -32232,9 +32123,9 @@
     "(SOLD) 2024 Steamworks": "cornelldiehl|steamworks|",
     "(SOLD) 2024 Sunbear": "cornelldiehl|sunbear|",
     "(SOLD) 2024  FVF": "samuelgawith|fullvirginiaflake|",
-    "Bought this off eBay and never smoked it. Though I think it has been smoked once. Extra bowl. I couldn’t find anything definitive about pricing so I’m going with": "gh|boughtthisoffebayandneversmokeditthoughithinkithasbeensmokedonceextrabowlicouldntfindanythingdefinitiveaboutpricingsoimgoingwith|",
+    "Bought this off eBay and never smoked it. Though I think it has been smoked once. Extra bowl. I couldn’t find anything definitive about pricing so I’m going with": "solo|speakeasyclub|boughtthisoffebayandneversmokeditthoughithinkithasbeensmokedonceextrabowlicouldntfindanythingdefinitiveaboutpricingsoimgoingwith",
     "Samuel Gawith FVF 8oz (Code 333)": "samuelgawith|fullvirginiaflake|8oz",
-    "C&D Palmetto Balkan 8oz": "cornelldiehl|cdpalmettobalkan8oz|8oz",
+    "C&D Palmetto Balkan 8oz": "cornelldiehl|palmettobalkan|8oz",
     "McClellands 40th Anniversary 100g": "mcclelland|40thanniversary|100g",
     "McClellands Dark Star 50g": "mcclelland|darkstar|50g",
     "McClellands No. 24 100g": "mcclelland|no24|100g",
@@ -32256,7 +32147,7 @@
     "MB HH Burley 250g 2018": "macbaren|hhburleyflake|250g",
     "Comoy’s #4 182g 2014": "comoys|caskno4|182g",
     "MB HH Mature Va 8oz 2013": "macbaren|hhmaturevirginia|8oz",
-    "Up for grabs but not pictured is a wonderful 2018 Tin of Germain’s Briwn Flake for": "germains|brownflake|",
+    "Up for grabs but not pictured is a wonderful 2018 Tin of Germain’s Briwn Flake for": "jfgermain|brownflake|",
     "x MB ODF 1.75oz 2019": "macbaren|hholddarkfired|175oz",
     "x MB ODF Plug 1.75 2019": "macbaren|hholddarkfired|",
     "x MB Bold Kentucky 1.75oz 2020": "macbaren|boldkentucky|175oz",
@@ -32295,10 +32186,10 @@
     "Skiff 1/2019": "samuelgawith|skiffmixture|",
     "Fire dance flake 6/2022": "samuelgawith|firedanceflake|",
     "Stokkebye 1855": "peterstokkebye|1855|",
-    "#7 Broken Flake 2021": "gh|7brokenflake|",
+    "#7 Broken Flake 2021": "gawithhoggarthco|7brokenflake|",
     "Sliced Brown Twist 2021": "gawithhoggarthco|slicedbrowntwist|",
     "8oz SG Kendal Cream 2021": "samuelgawith|8ozsgkendalcream2021|8oz",
-    "8oz GH #7 Broken Flake 2021": "gh|8ozgh7brokenflake2021|8oz",
+    "8oz GH #7 Broken Flake 2021": "gawithhoggarthco|7brokenflake|8oz",
     "SOLD 8oz GH #7 Broken Flake 2021": "gawithhoggarthco|7brokenflake|8oz",
     "SOLD 5oz GH Bob’s Chocolate Flake 2009": "gawithhoggarthco|bobschocolateflake|5oz",
     "SG Kendal Cream Flake": "samuelgawith|kendalcreamflake|",
