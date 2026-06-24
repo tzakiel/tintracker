@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-24T02:08:24.072041+00:00",
+  "generated": "2026-06-24T04:04:56.707415+00:00",
   "stats": {
-    "total_listings": 1625,
-    "excluded_multipacks": 80,
-    "total_tins": 1464,
+    "total_listings": 1634,
+    "excluded_multipacks": 82,
+    "total_tins": 1471,
     "multi_member_tins": 50,
     "listings_in_groups": 128,
     "cross_source_tins": 28
@@ -1109,6 +1109,37 @@
       "source": "Speak-Easy.Club"
     },
     {
+      "id": "solo|tinbidsauctionsold|1996mcclellandno25virginia20thanniversary100g",
+      "brand": "",
+      "blend": "",
+      "quantity": "100g",
+      "display_name": "1996 McClelland No. 25 Virginia 20th Anniversary - 100g",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "members": [
+        {
+          "name": "1996 McClelland No. 25 Virginia 20th Anniversary - 100g",
+          "source": "Tinbids Auction (Sold)",
+          "url": "https://tinbids.com/auction/195727/",
+          "price": "$200.00",
+          "last_updated": "2026-06-24T04:00:27.343799+00:00",
+          "first_seen": "2026-06-24T04:00:27.343799+00:00",
+          "year": "1996",
+          "price_history": [
+            {
+              "price": "$200.00",
+              "date": "2026-06-24T04:00:27.343799+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "1996"
+      ],
+      "source": "Tinbids Auction (Sold)"
+    },
+    {
       "id": "solo|speakeasyclub|19aviprati2017",
       "brand": "",
       "blend": "",
@@ -1138,6 +1169,37 @@
         "2017"
       ],
       "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "solo|tinbidsauctionsold|2019perjensenbirdblendsuno50g",
+      "brand": "",
+      "blend": "",
+      "quantity": "50g",
+      "display_name": "2019 Per Jensen Bird Blends - Uno - 50g",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "members": [
+        {
+          "name": "2019 Per Jensen Bird Blends - Uno - 50g",
+          "source": "Tinbids Auction (Sold)",
+          "url": "https://tinbids.com/auction/195817/",
+          "price": "$59.00",
+          "last_updated": "2026-06-24T04:00:27.343799+00:00",
+          "first_seen": "2026-06-24T04:00:27.343799+00:00",
+          "year": "2019",
+          "price_history": [
+            {
+              "price": "$59.00",
+              "date": "2026-06-24T04:00:27.343799+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2019"
+      ],
+      "source": "Tinbids Auction (Sold)"
     },
     {
       "id": "solo|speakeasyclub|2oztilbury",
@@ -11469,6 +11531,35 @@
         "1999"
       ],
       "source": "4noggins.com"
+    },
+    {
+      "id": "solo|tinbidsauctionsold|dunhilllondonmixturepaintedtin50g",
+      "brand": "",
+      "blend": "",
+      "quantity": "50g",
+      "display_name": "Dunhill London Mixture, Painted Tin, 50g",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "members": [
+        {
+          "name": "Dunhill London Mixture, Painted Tin, 50g",
+          "source": "Tinbids Auction (Sold)",
+          "url": "https://tinbids.com/auction/195751/",
+          "price": "$102.00",
+          "last_updated": "2026-06-24T04:00:27.343799+00:00",
+          "first_seen": "2026-06-24T04:00:27.343799+00:00",
+          "year": "",
+          "price_history": [
+            {
+              "price": "$102.00",
+              "date": "2026-06-24T04:00:27.343799+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Tinbids Auction (Sold)"
     },
     {
       "id": "dunhill|mildblend|50g",
@@ -28793,6 +28884,35 @@
       "source": "Speak-Easy.Club"
     },
     {
+      "id": "solo|tinbidsauctionsold|perfectstartercellarcollectionesotericatobaccianapembrokemargatpeterheinrichgawithhoggarthsillemsgermainandmore",
+      "brand": "",
+      "blend": "",
+      "quantity": "",
+      "display_name": "Perfect starter cellar collection. Esoterica Tobacciana Pembroke & Margat, Peter Heinrich, Gawith Hoggarth, Sillem’s, Germain, and more!",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "members": [
+        {
+          "name": "Perfect starter cellar collection. Esoterica Tobacciana Pembroke & Margat, Peter Heinrich, Gawith Hoggarth, Sillem’s, Germain, and more!",
+          "source": "Tinbids Auction (Sold)",
+          "url": "https://tinbids.com/auction/197128/",
+          "price": "$1210.00",
+          "last_updated": "2026-06-24T04:00:27.343799+00:00",
+          "first_seen": "2026-06-24T04:00:27.343799+00:00",
+          "year": "",
+          "price_history": [
+            {
+              "price": "$1210.00",
+              "date": "2026-06-24T04:00:27.343799+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Tinbids Auction (Sold)"
+    },
+    {
       "id": "solo|treasuredsmokes|periqueblending",
       "brand": "",
       "blend": "Perique",
@@ -39162,6 +39282,68 @@
       "source": "Treasured Smokes"
     },
     {
+      "id": "solo|tinbidsauctionsold|vintage2016dunhillbabysbottonrarespelledout",
+      "brand": "",
+      "blend": "",
+      "quantity": "",
+      "display_name": "Vintage - 2016 - Dunhill Baby's Botton (rare - spelled out)",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "members": [
+        {
+          "name": "Vintage - 2016 - Dunhill Baby's Botton (rare - spelled out)",
+          "source": "Tinbids Auction (Sold)",
+          "url": "https://tinbids.com/auction/195750/",
+          "price": "$95.00",
+          "last_updated": "2026-06-24T04:00:27.343799+00:00",
+          "first_seen": "2026-06-24T04:00:27.343799+00:00",
+          "year": "2016",
+          "price_history": [
+            {
+              "price": "$95.00",
+              "date": "2026-06-24T04:00:27.343799+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "2016"
+      ],
+      "source": "Tinbids Auction (Sold)"
+    },
+    {
+      "id": "solo|tinbidsauctionsold|vintage1994ashtongoldenflake",
+      "brand": "",
+      "blend": "",
+      "quantity": "",
+      "display_name": "Vintage 1994 - Ashton Golden Flake",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "members": [
+        {
+          "name": "Vintage 1994 - Ashton Golden Flake",
+          "source": "Tinbids Auction (Sold)",
+          "url": "https://tinbids.com/auction/195774/",
+          "price": "$85.00",
+          "last_updated": "2026-06-24T04:00:27.343799+00:00",
+          "first_seen": "2026-06-24T04:00:27.343799+00:00",
+          "year": "1994",
+          "price_history": [
+            {
+              "price": "$85.00",
+              "date": "2026-06-24T04:00:27.343799+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [
+        "1994"
+      ],
+      "source": "Tinbids Auction (Sold)"
+    },
+    {
       "id": "solo|speakeasyclub|viprati",
       "brand": "",
       "blend": "",
@@ -39526,6 +39708,35 @@
         "2012"
       ],
       "source": "4noggins.com"
+    },
+    {
+      "id": "solo|tinbidsauctionsold|warhorsebardiscontinuedgrabatinwhileyoustillcan",
+      "brand": "",
+      "blend": "",
+      "quantity": "",
+      "display_name": "War Horse Bar! Discontinued grab a tin while you still can!",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "members": [
+        {
+          "name": "War Horse Bar! Discontinued grab a tin while you still can!",
+          "source": "Tinbids Auction (Sold)",
+          "url": "https://tinbids.com/auction/195882/",
+          "price": "$67.00",
+          "last_updated": "2026-06-24T04:00:27.343799+00:00",
+          "first_seen": "2026-06-24T04:00:27.343799+00:00",
+          "year": "",
+          "price_history": [
+            {
+              "price": "$67.00",
+              "date": "2026-06-24T04:00:27.343799+00:00"
+            }
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Tinbids Auction (Sold)"
     },
     {
       "id": "warhorse|green|",
@@ -45637,6 +45848,13 @@
     "Mac Baren Dark Twist Roll Cake 100g tins – Year 2009": "macbaren|darktwistrollcake|100g",
     "Van Rossem’s Schippers Tabak 3-1/2oz tins – 1070’s – 1980’s era": "vanrossem|schipperstabak|312oz",
     "Theodorus Niemeyer Flying Dutchman 2oz tins – 1960’s – 1970’s era": "theodorusniemeyer|flyingdutchman|2oz",
+    "1996 McClelland No. 25 Virginia 20th Anniversary - 100g": "solo|tinbidsauctionsold|1996mcclellandno25virginia20thanniversary100g",
+    "Vintage - 2016 - Dunhill Baby's Botton (rare - spelled out)": "solo|tinbidsauctionsold|vintage2016dunhillbabysbottonrarespelledout",
+    "Dunhill London Mixture, Painted Tin, 50g": "solo|tinbidsauctionsold|dunhilllondonmixturepaintedtin50g",
+    "Perfect starter cellar collection. Esoterica Tobacciana Pembroke & Margat, Peter Heinrich, Gawith Hoggarth, Sillem’s, Germain, and more!": "solo|tinbidsauctionsold|perfectstartercellarcollectionesotericatobaccianapembrokemargatpeterheinrichgawithhoggarthsillemsgermainandmore",
+    "Vintage 1994 - Ashton Golden Flake": "solo|tinbidsauctionsold|vintage1994ashtongoldenflake",
+    "2019 Per Jensen Bird Blends - Uno - 50g": "solo|tinbidsauctionsold|2019perjensenbirdblendsuno50g",
+    "War Horse Bar! Discontinued grab a tin while you still can!": "solo|tinbidsauctionsold|warhorsebardiscontinuedgrabatinwhileyoustillcan",
     "Butera Pelican - Sealed tin": "butera|pelican|",
     "Esoterica Penzance - sealed tin": "esoterica|penzance|",
     "McClelland Grand Oriental Series Smyrna No. 1 2014 NR": "mcclelland|grandorientalsmyrnano1|",
