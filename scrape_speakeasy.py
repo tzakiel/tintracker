@@ -185,19 +185,39 @@ def _collect_new_urls(session, cutoff):
 
 
 def _parse_first_post(html):
-    """Extract (name, price) pairs from the first post of a WTS thread.
+    """Extract (name, price) pairs and post date from the first post of a WTS thread.
 
-    Each line containing a price signal yields one listing. Quoted replies
-    and list markers are stripped before scanning.
+    Returns (listings, post_date_iso_or_None). Each line containing a price
+    signal yields one listing. Quoted replies and list markers are stripped.
     """
     soup = BeautifulSoup(html, "lxml")
 
     messages = soup.select(".message--post")
     if not messages:
-        return []
+        return [], None
     post_body = messages[0].select_one(".message-body .bbWrapper")
     if not post_body:
-        return []
+        return [], None
+
+    # Extract the first post's timestamp (thread creation date).
+    post_date = None
+    time_el = messages[0].select_one(
+        ".message-attribution time, .message-date time, "
+        ".message-attribution-main time, header time"
+    )
+    if time_el:
+        ts = time_el.get("data-time")
+        if ts and ts.isdigit():
+            post_date = datetime.fromtimestamp(int(ts), tz=timezone.utc).isoformat()
+        else:
+            dt_str = time_el.get("datetime", "")
+            if dt_str:
+                try:
+                    post_date = datetime.fromisoformat(
+                        dt_str.replace("Z", "+00:00")
+                    ).isoformat()
+                except ValueError:
+                    pass
 
     for el in post_body.select("blockquote, .bbCodeBlock--quote"):
         el.decompose()
@@ -228,7 +248,7 @@ def _parse_first_post(html):
 
         listings.append((desc, price))
 
-    return listings
+    return listings, post_date
 
 
 def main():
@@ -288,13 +308,14 @@ def main():
             time.sleep(POST_DELAY)
             continue
 
-        listings = _parse_first_post(resp.text)
+        listings, post_date = _parse_first_post(resp.text)
         for name, price in listings:
             found.append({
                 "name": name,
                 "price": price,
                 "url": thread_url,
                 "source": SOURCE,
+                "first_seen": post_date,
             })
 
         if not listings:

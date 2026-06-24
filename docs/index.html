@@ -565,11 +565,9 @@
     const f = n => "$" + n.toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
     return p.lo === p.hi ? f(p.lo) : `${f(p.lo)}–${f(p.hi)}`;
   }
-  // "Last updated" for a group: when its newest listing was first discovered.
-  // Set when the group's first listing appears, and bumped each time a new
-  // listing joins the group (its first_seen is more recent).
+  // "Last updated" for a group: the latest source-specific date among active members.
   function tinLastUpdated(t) {
-    return activeMembers(t).map(m => m.last_updated || m.first_seen).filter(Boolean).sort().slice(-1)[0] || "";
+    return activeMembers(t).map(m => m.first_seen).filter(Boolean).sort().slice(-1)[0] || "";
   }
   // A tin is shown if any of its listings is from an active source.
   function tinActive(t) {
@@ -654,7 +652,7 @@
       return `
         <div class="detail-section-title">${esc(label)} · ${n} listing${n !== 1 ? "s" : ""}</div>
         <table class="history-table">
-          <thead><tr><th>Year</th><th>Price</th><th>Source</th><th>First Seen</th></tr></thead>
+          <thead><tr><th>Year</th><th>Price</th><th>Source</th><th>Date</th></tr></thead>
           <tbody>${rows}</tbody>
         </table>`;
     }).join("");

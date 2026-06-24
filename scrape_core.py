@@ -104,14 +104,15 @@ def merge_products(data, found, now, latest=None):
                 if p.get(f):
                     ex[f] = p[f]
         else:
+            first_seen_date = p.get("first_seen") or now
             rec = {
                 "name": p["name"],
                 "price": p["price"],
                 "url": p["url"],
                 "source": p["source"],
-                "first_seen": now,
+                "first_seen": first_seen_date,
                 "last_updated": now,
-                "price_history": [{"price": p["price"], "date": now}],
+                "price_history": [{"price": p["price"], "date": first_seen_date}],
             }
             for f in EXTRA_FIELDS:
                 if p.get(f):

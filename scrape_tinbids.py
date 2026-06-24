@@ -242,9 +242,16 @@ def main():
         if not closed:
             continue  # not actually ended yet (e.g. timezone slack) — keep watching
         if sold_price:
+            date_end_iso = None
+            try:
+                dt = datetime.strptime(p["date_end"], "%Y-%m-%d %H:%M:%S")
+                date_end_iso = dt.replace(tzinfo=timezone.utc).isoformat()
+            except (TypeError, ValueError):
+                pass
             sold_found.append({
                 "name": p["name"], "price": sold_price, "url": p["url"],
                 "source": AUCTION_SOURCE if bids > 0 else BIN_SOURCE,
+                "first_seen": date_end_iso,
             })
         pending.pop(p["url"], None)  # ended (sold or not) — stop watching
         time.sleep(0.4)
