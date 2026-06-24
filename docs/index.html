@@ -165,6 +165,7 @@
       color: #7a4a1a;
     }
     .col-price { white-space: nowrap; }
+    .col-ppo   { white-space: nowrap; }
     .col-meta  { font-size: .78rem; color: #8a6a4a; white-space: nowrap; }
     /* Safety net: if even the shrunk name + content columns can't fit a very
        narrow desktop window, scroll the table rather than breaking the page. */
@@ -393,6 +394,10 @@
     <option value="year:asc">Sort: Year (old–new)</option>
     <option value="price:asc">Sort: Price (low–high)</option>
     <option value="price:desc">Sort: Price (high–low)</option>
+    <option value="ppo:asc">Sort: $/oz (low–high)</option>
+    <option value="ppo:desc">Sort: $/oz (high–low)</option>
+    <option value="weight:asc">Sort: Weight (light–heavy)</option>
+    <option value="weight:desc">Sort: Weight (heavy–light)</option>
   </select>
   <div id="meta"></div>
   <div id="status">Loading catalog…</div>
@@ -571,14 +576,51 @@
     return (t.sources || []).some(s => ACTIVE_SOURCES.has(s));
   }
 
+  function tinWeights(t) {
+    const ws = [...new Set((t.sizes || []).map(sz => sz.quantity).filter(Boolean))];
+    if (!ws.length) return "—";
+    return ws.length === 1 ? ws[0] : "Multiple";
+  }
+
+  // Returns avg $/oz across all active listings that have a parseable weight+price.
+  // Grams and oz are both supported via the existing weightGrams() helper.
+  function tinPricePerOzNum(t) {
+    const samples = [];
+    for (const sz of (t.sizes || [])) {
+      const grams = weightGrams(sz.quantity);
+      if (grams <= 0) continue;
+      const oz = grams / 28.3495;
+      for (const m of (sz.members || [])) {
+        if (!ACTIVE_SOURCES.has(m.source)) continue;
+        const price = parseMoney(m.price);
+        if (price == null) continue;
+        samples.push(price / oz);
+      }
+    }
+    if (!samples.length) return null;
+    return samples.reduce((a, b) => a + b, 0) / samples.length;
+  }
+
+  function tinPricePerOzLabel(t) {
+    const v = tinPricePerOzNum(t);
+    if (v == null) return "—";
+    return "$" + v.toFixed(2) + "/oz";
+  }
+
   function tinColumns() {
     return [
       { key: "name",  label: "Tin",          cls: "col-name",
         cell: t => { const n = totalMembers(t); return `${t.display_name}${n > 1 ? `<span class="tin-badge">${n} listings</span>` : ""}`; },
         sortVal: t => (t.display_name || "").toLowerCase() },
-      { key: "price", label: "Price", cls: "col-price",
+      { key: "price", label: "Price",        cls: "col-price",
         cell: t => tinPriceLabel(t),
         sortVal: t => { const p = tinPrice(t); return p ? p.lo : -1; } },
+      { key: "weight", label: "Weight",      cls: "col-meta col-weight",
+        cell: t => tinWeights(t),
+        sortVal: t => Math.max(-1, ...(t.sizes || []).map(sz => weightGrams(sz.quantity))) },
+      { key: "ppo",   label: "Avg $/oz",     cls: "col-ppo",
+        cell: t => tinPricePerOzLabel(t),
+        sortVal: t => tinPricePerOzNum(t) ?? -1 },
       { key: "year",  label: "Year",          cls: "col-meta col-year",
         cell: t => { const am = activeMembers(t); return am.length > 1 ? "Multiple" : (am[0] && am[0].year) || "—"; },
         sortVal: t => Math.max(0, ...activeMembers(t).map(m => parseInt(m.year) || 0)) },
