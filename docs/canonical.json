@@ -1,14 +1,52 @@
 {
-  "generated": "2026-06-25T15:14:23.452453+00:00",
+  "generated": "2026-06-25T16:07:03.786202+00:00",
   "stats": {
-    "total_listings": 1682,
-    "excluded_multipacks": 537,
-    "total_tins": 732,
+    "total_listings": 1694,
+    "excluded_multipacks": 541,
+    "total_tins": 740,
     "multi_member_tins": 200,
     "listings_in_groups": 613,
     "cross_source_tins": 105
   },
   "tins": [
+    {
+      "id": "solo|tinbidsauctionsold|1995mcclellandsbuteralatakiano1nrbin110",
+      "brand": "",
+      "blend": "",
+      "display_name": "1995 McClelland's Butera Latakia No.1 -  NR BIN $110",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "1995 McClelland's Butera Latakia No.1 -  NR BIN $110",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/198591/",
+              "price": "$105.00",
+              "last_updated": "2026-06-25T16:00:26.745346+00:00",
+              "first_seen": "2026-06-25T12:52:53+00:00",
+              "year": "1995",
+              "price_history": [
+                {
+                  "price": "$105.00",
+                  "date": "2026-06-25T12:52:53+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [
+        "1995"
+      ],
+      "source": "Tinbids Auction (Sold)"
+    },
     {
       "id": "solo|tinbidsauctionsold|1996mcclellandno25virginia20thanniversary100g",
       "brand": "",
@@ -200,6 +238,44 @@
       "source": "Tinbids Auction (Sold)"
     },
     {
+      "id": "solo|tinbidsauctionsold|2018macbarenhholddarkfired35ounce1tinnrbin100",
+      "brand": "",
+      "blend": "",
+      "display_name": "2018 Mac Baren HH Old Dark Fired 3.5 ounce - 1 Tin NR BIN $100",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "3.5oz",
+          "members": [
+            {
+              "name": "2018 Mac Baren HH Old Dark Fired 3.5 ounce - 1 Tin NR BIN $100",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/198573/",
+              "price": "$95.00",
+              "last_updated": "2026-06-25T16:00:26.745346+00:00",
+              "first_seen": "2026-06-25T12:47:11+00:00",
+              "year": "2018",
+              "price_history": [
+                {
+                  "price": "$95.00",
+                  "date": "2026-06-25T12:47:11+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [
+        "2018"
+      ],
+      "source": "Tinbids Auction (Sold)"
+    },
+    {
       "id": "solo|tinbidsauctionsold|2019perjensenbirdblendsuno50g",
       "brand": "",
       "blend": "",
@@ -261,6 +337,44 @@
                 {
                   "price": "$25.00",
                   "date": "2026-06-25T00:44:05+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [
+        "2017"
+      ],
+      "source": "Tinbids Auction (Sold)"
+    },
+    {
+      "id": "solo|tinbidsauctionsold|50gtinofpiperschoicetophatpipetobaccobymcclellandfrom2017",
+      "brand": "",
+      "blend": "",
+      "display_name": "50g tin of Piper’s Choice TOP HAT Pipe Tobacco by McClelland from 2017",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "50g",
+          "members": [
+            {
+              "name": "50g tin of Piper’s Choice TOP HAT Pipe Tobacco by McClelland from 2017",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/196083/",
+              "price": "$62.00",
+              "last_updated": "2026-06-25T16:00:26.745346+00:00",
+              "first_seen": "2026-06-24T16:48:23+00:00",
+              "year": "2017",
+              "price_history": [
+                {
+                  "price": "$62.00",
+                  "date": "2026-06-24T16:48:23+00:00"
                 }
               ]
             }
@@ -10017,6 +10131,42 @@
       ],
       "years": [],
       "source": "Multiple sources"
+    },
+    {
+      "id": "solo|tinbidsauctionsold|esotericapembroke1tinnrbin100",
+      "brand": "",
+      "blend": "",
+      "display_name": "Esoterica Pembroke - 1 Tin NR BIN $100",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Esoterica Pembroke - 1 Tin NR BIN $100",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/198545/",
+              "price": "$95.00",
+              "last_updated": "2026-06-25T16:00:26.745346+00:00",
+              "first_seen": "2026-06-25T12:35:31+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$95.00",
+                  "date": "2026-06-25T12:35:31+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Tinbids Auction (Sold)"
     },
     {
       "id": "esoterica|penzance",
@@ -21020,7 +21170,7 @@
             {
               "name": "McClelland 40th Anniversary - NR BIN $225",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/197041/",
+              "url": "https://tinbids.com/auction/198594/",
               "price": "$225.00",
               "last_updated": "2026-06-22T13:53:20.063064+00:00",
               "first_seen": "2026-06-22T13:53:20.063064+00:00",
@@ -25807,6 +25957,44 @@
         "2020"
       ],
       "source": "Multiple sources"
+    },
+    {
+      "id": "solo|tinbidsauctionsold|orlikdarkstrongkentucky20201015grams",
+      "brand": "",
+      "blend": "",
+      "display_name": "Orlik Dark Strong Kentucky 2020 -101.5 grams",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "5g",
+          "members": [
+            {
+              "name": "Orlik Dark Strong Kentucky 2020 -101.5 grams",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/196212/",
+              "price": "$47.00",
+              "last_updated": "2026-06-25T16:00:26.745346+00:00",
+              "first_seen": "2026-06-25T00:37:00+00:00",
+              "year": "2020",
+              "price_history": [
+                {
+                  "price": "$47.00",
+                  "date": "2026-06-25T00:37:00+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [
+        "2020"
+      ],
+      "source": "Tinbids Auction (Sold)"
     },
     {
       "id": "orlik|goldensliced",
@@ -31397,6 +31585,42 @@
       "source": "Multiple sources"
     },
     {
+      "id": "solo|tinbidsauctionsold|samuelgawithstjamesflake",
+      "brand": "",
+      "blend": "",
+      "display_name": "Samuel Gawith St. James Flake",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Samuel Gawith St. James Flake",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/196320/",
+              "price": "$40.00",
+              "last_updated": "2026-06-25T16:00:26.745346+00:00",
+              "first_seen": "2026-06-25T13:22:49+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$40.00",
+                  "date": "2026-06-25T13:22:49+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Tinbids Auction (Sold)"
+    },
+    {
       "id": "samuelgawith|stjamesminiplug",
       "brand": "Samuel Gawith",
       "blend": "St. James Mini Plug",
@@ -32030,6 +32254,44 @@
       "source": "4noggins.com"
     },
     {
+      "id": "solo|tinbidsauctionsold|smokershavencognacblend2018616grams",
+      "brand": "",
+      "blend": "",
+      "display_name": "Smoker's Haven Cognac Blend 2018 - 61.6 grams",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "6g",
+          "members": [
+            {
+              "name": "Smoker's Haven Cognac Blend 2018 - 61.6 grams",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/196216/",
+              "price": "$83.00",
+              "last_updated": "2026-06-25T16:00:26.745346+00:00",
+              "first_seen": "2026-06-25T00:38:57+00:00",
+              "year": "2018",
+              "price_history": [
+                {
+                  "price": "$83.00",
+                  "date": "2026-06-25T00:38:57+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [
+        "2018"
+      ],
+      "source": "Tinbids Auction (Sold)"
+    },
+    {
       "id": "smokershaven|exotiquemixture",
       "brand": "Smoker's Haven",
       "blend": "Exotique Mixture",
@@ -32166,6 +32428,44 @@
         "2018"
       ],
       "source": "4noggins.com"
+    },
+    {
+      "id": "solo|tinbidsauctionsold|smokershavenourbestblendobb201818765g",
+      "brand": "",
+      "blend": "",
+      "display_name": "Smoker's Haven Our Best Blend OBB 2018 '18 - 76.5g",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "5g",
+          "members": [
+            {
+              "name": "Smoker's Haven Our Best Blend OBB 2018 '18 - 76.5g",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/196208/",
+              "price": "$83.00",
+              "last_updated": "2026-06-25T16:00:26.745346+00:00",
+              "first_seen": "2026-06-25T00:32:55+00:00",
+              "year": "2018",
+              "price_history": [
+                {
+                  "price": "$83.00",
+                  "date": "2026-06-25T00:32:55+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [
+        "2018"
+      ],
+      "source": "Tinbids Auction (Sold)"
     },
     {
       "id": "smokershaven|selectmixture",
@@ -36042,6 +36342,14 @@
     "Mac Baren Dark Twist Roll Cake 100g tins – Year 2009": "macbaren|darktwistrollcake",
     "Van Rossem’s Schippers Tabak 3-1/2oz tins – 1070’s – 1980’s era": "vanrossem|schipperstabak",
     "Theodorus Niemeyer Flying Dutchman 2oz tins – 1960’s – 1970’s era": "theodorusniemeyer|flyingdutchman",
+    "50g tin of Piper’s Choice TOP HAT Pipe Tobacco by McClelland from 2017": "solo|tinbidsauctionsold|50gtinofpiperschoicetophatpipetobaccobymcclellandfrom2017",
+    "Smoker's Haven Our Best Blend OBB 2018 '18 - 76.5g": "solo|tinbidsauctionsold|smokershavenourbestblendobb201818765g",
+    "Orlik Dark Strong Kentucky 2020 -101.5 grams": "solo|tinbidsauctionsold|orlikdarkstrongkentucky20201015grams",
+    "Smoker's Haven Cognac Blend 2018 - 61.6 grams": "solo|tinbidsauctionsold|smokershavencognacblend2018616grams",
+    "Esoterica Pembroke - 1 Tin NR BIN $100": "solo|tinbidsauctionsold|esotericapembroke1tinnrbin100",
+    "2018 Mac Baren HH Old Dark Fired 3.5 ounce - 1 Tin NR BIN $100": "solo|tinbidsauctionsold|2018macbarenhholddarkfired35ounce1tinnrbin100",
+    "1995 McClelland's Butera Latakia No.1 -  NR BIN $110": "solo|tinbidsauctionsold|1995mcclellandsbuteralatakiano1nrbin110",
+    "Samuel Gawith St. James Flake": "solo|tinbidsauctionsold|samuelgawithstjamesflake",
     "2017 Frog Morton on the log 50 gram": "solo|tinbidsauctionsold|2017frogmortononthelog50gram",
     "Esoterica Dorchester 8oz Bag & 2oz Tin 2018": "solo|tinbidsauctionsold|esotericadorchester8ozbag2oztin2018",
     "McCLELLAND CHRISTMAS CHEER 2016": "solo|tinbidsauctionsold|mcclellandchristmascheer2016",
