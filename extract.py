@@ -61,6 +61,7 @@ Rules of thumb:
 - A leading "Word:" on 4noggins is usually the brand, but NOT always — e.g. a reseller's own collection name can sit there with the real maker inside the title. If unsure which is the maker, pick your best guess and LOWER confidence.
 - Year-variants of the same blend must produce the IDENTICAL brand+blend (years live elsewhere).
 - Never invent a brand. Empty string + low confidence beats a guess presented as certain.
+- "HH" as a prefix or standalone abbreviation in a pipe tobacco title almost always refers to the Mac Baren HH product line (e.g. "HH Acadian Perique", "HH Old Dark Fired", "HH Mature Virginia", "HH Burley Flake"). Always extract brand as "Mac Baren" and keep the full "HH …" name as the blend. Do NOT classify "HH …" listings as Hearth & Home.
 
 Examples:
   "McClelland’s Christmas Cheer 100g tin – Year 2014" -> brand "McClelland", blend "Christmas Cheer", is_tin true, confidence 0.98
