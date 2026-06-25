@@ -80,7 +80,7 @@ def merge_products(data, found, now, latest=None):
 
     # Optional fields a source may supply (e.g. description/weight for tin-size
     # recovery). Carried through verbatim so consolidate.py can read them.
-    EXTRA_FIELDS = ("description", "weight")
+    EXTRA_FIELDS = ("description", "weight", "tag")
 
     added = 0          # new records created this run
     price_changed = 0  # existing records whose price moved this run

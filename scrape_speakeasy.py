@@ -1,4 +1,4 @@
-"""Speak-Easy.Club source — WTS (Want To Sell) tin listings from the marketplace.
+"""Speak-Easy.Club source — WTS, SOLD, and CLOSED tin listings from the marketplace.
 
 Login-required XenForo 2.x forum. Credentials come from SPEAKEASY_USERNAME and
 SPEAKEASY_PASSWORD environment variables (set via GitHub Secrets).
@@ -7,8 +7,16 @@ Run strategy:
   • First run (no prior data): bootstraps up to MAX_AGE_DAYS back.
   • Subsequent runs: only visits threads with activity since the last scrape,
     PLUS any thread seen within RECHECK_DAYS (to catch silent OP edits).
+  • Set SPEAKEASY_BACKFILL=1 to force a full MAX_AGE_DAYS lookback regardless
+    of last_scraped (used for the one-time historical backfill).
   • Legitimately finding zero new listings is not treated as a failure — only
     an inaccessible forum page triggers a hard exit.
+
+Collects WTS (active), SOLD, and CLOSED threads. CLOSED threads are filtered
+by a title-text blocklist of non-sale types (WTT, WTB, Giveaway, etc.) since
+XenForo does not retain the original tag after a thread is closed. Price-signal
+presence in the first post is the final guard. Each listing record carries a
+"tag" field for future use; not surfaced in the UI.
 
 Runs daily. Writes docs/products_speakeasy.json. Shared logic in scrape_core.py.
 """
@@ -32,6 +40,14 @@ PAGE_DELAY = 1.5   # seconds between forum index pages
 POST_DELAY = 1.2   # seconds between individual thread fetches
 MAX_AGE_DAYS = 2 * 365  # bootstrap lookback when no prior scrape exists
 RECHECK_DAYS = 14  # re-visit recently-seen threads to catch silent OP edits
+
+# CLOSED threads whose title contains any of these terms are skipped — they are
+# non-sale types (trades, giveaways, etc.) that lose their original tag when closed.
+# PENDING is intentionally absent: pending sales are worth collecting.
+CLOSED_BLOCKLIST = [
+    "wtt", "wtb", "to trade", "giveaway", "contest", "pif",
+    "baccyball", "sampleswap", "expired", "deal",
+]
 
 
 def _find_price(line):
@@ -96,17 +112,41 @@ def _login(session):
         )
 
 
-def _is_wts(thread_el):
-    """True when the thread carries a WTS prefix label."""
+def _get_tag(thread_el):
+    """Return "WTS", "SOLD", "CLOSED", or None (skip thread)."""
     label = thread_el.select_one(".label")
     if label:
-        return "WTS" in label.get_text(strip=True).upper()
+        text = label.get_text(strip=True).upper()
+        if "WTS" in text:
+            return "WTS"
+        if "SOLD" in text:
+            return "SOLD"
+        if "CLOSED" in text:
+            return "CLOSED"
     title_el = (thread_el.select_one(".structItem-title a[data-tp-primary]")
                 or thread_el.select_one(".structItem-title a"))
     if title_el:
         t = title_el.get_text(strip=True).upper()
-        return t.startswith("[WTS]") or t.startswith("WTS ")
-    return False
+        if t.startswith("[WTS]") or t.startswith("WTS "):
+            return "WTS"
+        if t.startswith("[SOLD]") or t.startswith("SOLD "):
+            return "SOLD"
+        if t.startswith("[CLOSED]") or t.startswith("CLOSED "):
+            return "CLOSED"
+    return None
+
+
+def _thread_title(thread_el):
+    """Return the thread title text, or empty string."""
+    title_el = (thread_el.select_one(".structItem-title a[data-tp-primary]")
+                or thread_el.select_one(".structItem-title a"))
+    return title_el.get_text(strip=True) if title_el else ""
+
+
+def _is_closed_blocklisted(title):
+    """True if the thread title contains a non-sale type marker."""
+    lower = title.lower()
+    return any(term in lower for term in CLOSED_BLOCKLIST)
 
 
 def _thread_date(thread_el):
@@ -138,14 +178,14 @@ def _thread_url(thread_el):
 
 
 def _collect_new_urls(session, cutoff):
-    """Walk forum pages, returning (wts_urls, forum_ok).
+    """Walk forum pages, returning (url_tag_pairs, forum_ok).
 
-    Collects WTS threads with activity since `cutoff`. Stops paginating once
-    an entire page is older than the cutoff. forum_ok is False when the first
-    page loads but contains no thread elements — indicating a block or login
-    failure.
+    Collects WTS, SOLD, and CLOSED threads with activity since `cutoff`. CLOSED
+    threads matching the blocklist are skipped. Returns a list of (url, tag)
+    tuples. forum_ok is False when no thread elements were found on the first
+    page — indicating a block or login failure.
     """
-    urls = []
+    url_tags = []
     page = 1
     forum_ok = False
 
@@ -158,7 +198,7 @@ def _collect_new_urls(session, cutoff):
         threads = soup.select(".structItem--thread")
         if not threads:
             break
-        forum_ok = True  # got at least one thread page — forum is reachable
+        forum_ok = True
 
         any_in_range = False
         for thread in threads:
@@ -166,10 +206,14 @@ def _collect_new_urls(session, cutoff):
             if dt is not None and dt < cutoff:
                 continue
             any_in_range = True
-            if _is_wts(thread):
-                u = _thread_url(thread)
-                if u:
-                    urls.append(u)
+            tag = _get_tag(thread)
+            if not tag:
+                continue
+            if tag == "CLOSED" and _is_closed_blocklisted(_thread_title(thread)):
+                continue
+            u = _thread_url(thread)
+            if u:
+                url_tags.append((u, tag))
 
         if not any_in_range:
             print(f"[{SOURCE}] page {page}: all threads older than cutoff — stopping.")
@@ -181,11 +225,11 @@ def _collect_new_urls(session, cutoff):
         page += 1
         time.sleep(PAGE_DELAY)
 
-    return urls, forum_ok
+    return url_tags, forum_ok
 
 
 def _parse_first_post(html):
-    """Extract (name, price) pairs and post date from the first post of a WTS thread.
+    """Extract (name, price) pairs and post date from the first post of a thread.
 
     Returns (listings, post_date_iso_or_None). Each line containing a price
     signal yields one listing. Quoted replies and list markers are stripped.
@@ -259,24 +303,36 @@ def main():
     now = datetime.now(timezone.utc)
     now_iso = now.isoformat()
 
-    # Cutoff: since last scrape on ongoing runs; 2-year bootstrap on first run.
-    last_scraped = data.get("last_scraped")
-    if last_scraped:
-        cutoff = datetime.fromisoformat(last_scraped)
-        if cutoff.tzinfo is None:
-            cutoff = cutoff.replace(tzinfo=timezone.utc)
-    else:
-        cutoff = now - timedelta(days=MAX_AGE_DAYS)
+    # SPEAKEASY_BACKFILL=1 forces the full 2-year lookback for the one-time
+    # historical run regardless of what last_scraped says.
+    backfill = os.environ.get("SPEAKEASY_BACKFILL", "").strip() == "1"
 
-    # Prune expired re-check entries.
+    if backfill:
+        cutoff = now - timedelta(days=MAX_AGE_DAYS)
+        print(f"[{SOURCE}] BACKFILL mode: scanning {MAX_AGE_DAYS} days back.")
+    else:
+        last_scraped = data.get("last_scraped")
+        if last_scraped:
+            cutoff = datetime.fromisoformat(last_scraped)
+            if cutoff.tzinfo is None:
+                cutoff = cutoff.replace(tzinfo=timezone.utc)
+        else:
+            cutoff = now - timedelta(days=MAX_AGE_DAYS)
+
+    # Prune expired re-check entries. Values may be plain ISO strings (legacy)
+    # or dicts with an "expiry" key.
+    def _recheck_expiry(val):
+        return val if isinstance(val, str) else val["expiry"]
+
     recheck = {
-        url: exp for url, exp in data.get("thread_recheck", {}).items()
-        if datetime.fromisoformat(exp) > now
+        url: val for url, val in data.get("thread_recheck", {}).items()
+        if datetime.fromisoformat(_recheck_expiry(val)) > now
     }
+    recheck_tags = data.get("thread_recheck_tags", {})
 
     # Walk forum for threads with activity since cutoff.
     try:
-        new_urls, forum_ok = _collect_new_urls(session, cutoff)
+        new_url_tags, forum_ok = _collect_new_urls(session, cutoff)
     except Exception as e:
         print(f"[{SOURCE}] ERROR fetching forum pages: {e}", file=sys.stderr)
         sys.exit(1)
@@ -288,18 +344,24 @@ def main():
 
     # Add newly-seen threads to the re-check cache.
     expiry = (now + timedelta(days=RECHECK_DAYS)).isoformat()
-    for url in new_urls:
+    for url, tag in new_url_tags:
         recheck.setdefault(url, expiry)
+        recheck_tags[url] = tag  # always update — tag can change (WTS → SOLD)
 
-    # Visit new threads + anything still in the re-check window (deduped).
-    all_urls = list(dict.fromkeys(new_urls + list(recheck)))
-    n_new = len(new_urls)
-    n_recheck = len(all_urls) - n_new
+    # Build deduped (url, tag) list: new threads first, then recheck remainder.
+    seen = dict(new_url_tags)
+    for url in recheck:
+        if url not in seen:
+            seen[url] = recheck_tags.get(url, "WTS")  # fallback for legacy entries
+    all_url_tags = list(seen.items())
+
+    n_new = len(new_url_tags)
+    n_recheck = len(all_url_tags) - n_new
     print(f"[{SOURCE}] {n_new} new thread(s), {n_recheck} re-check — "
-          f"fetching {len(all_urls)} total…")
+          f"fetching {len(all_url_tags)} total…")
 
     found = []
-    for thread_url in all_urls:
+    for thread_url, tag in all_url_tags:
         try:
             resp = session.get(thread_url, timeout=30)
             resp.raise_for_status()
@@ -316,6 +378,7 @@ def main():
                 "url": thread_url,
                 "source": SOURCE,
                 "first_seen": post_date,
+                "tag": tag,
             })
 
         if not listings:
@@ -325,6 +388,7 @@ def main():
 
     scrape_core.merge_products(data, found, now_iso)
     data["thread_recheck"] = recheck
+    data["thread_recheck_tags"] = recheck_tags
     scrape_core.save(data, DATA_FILE)
 
     print(f"[{SOURCE}] +{len(found)} listing(s) this run. "

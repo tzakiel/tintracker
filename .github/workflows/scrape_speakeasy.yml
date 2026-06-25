@@ -1,7 +1,12 @@
 name: Scrape (Speak-Easy.Club)
 
 on:
-  workflow_dispatch:       # triggered by cron-job.org via API
+  workflow_dispatch:       # triggered by cron-job.org via API (normal daily run)
+    inputs:
+      backfill:
+        description: 'Set to "true" to force a full 2-year historical backfill'
+        required: false
+        default: "false"
 
 jobs:
   scrape:
@@ -23,6 +28,7 @@ jobs:
         env:
           SPEAKEASY_USERNAME: ${{ secrets.SPEAKEASY_USERNAME }}
           SPEAKEASY_PASSWORD: ${{ secrets.SPEAKEASY_PASSWORD }}
+          SPEAKEASY_BACKFILL: ${{ inputs.backfill == 'true' && '1' || '0' }}
         run: python scrape_speakeasy.py
 
       - name: Commit updated data
