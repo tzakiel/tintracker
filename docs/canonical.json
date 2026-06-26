@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-26T15:14:17.085701+00:00",
+  "generated": "2026-06-26T16:07:06.962645+00:00",
   "stats": {
-    "total_listings": 2772,
-    "excluded_multipacks": 652,
-    "total_tins": 1694,
+    "total_listings": 2788,
+    "excluded_multipacks": 657,
+    "total_tins": 1705,
     "multi_member_tins": 198,
     "listings_in_groups": 617,
     "cross_source_tins": 105
@@ -2928,6 +2928,44 @@
       "source": "Tinbids Auction (Sold)"
     },
     {
+      "id": "solo|tinbidsauctionsold|2013mcclellandsbritishwoods1tinnrbin220",
+      "brand": "",
+      "blend": "",
+      "display_name": "2013 McClelland’s British Woods - 1 Tin NR BIN $220",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "2013 McClelland’s British Woods - 1 Tin NR BIN $220",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/199020/",
+              "price": "$215.00",
+              "last_updated": "2026-06-26T16:00:27.901345+00:00",
+              "first_seen": "2026-06-26T12:56:34+00:00",
+              "year": "2013",
+              "price_history": [
+                {
+                  "price": "$215.00",
+                  "date": "2026-06-26T12:56:34+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [
+        "2013"
+      ],
+      "source": "Tinbids Auction (Sold)"
+    },
+    {
       "id": "solo|tinbidsauctionsold|2014peterstokkebyenaturaldutchcavendish301approx2ozjarred",
       "brand": "",
       "blend": "",
@@ -3000,6 +3038,44 @@
       ],
       "years": [
         "2014"
+      ],
+      "source": "Tinbids Auction (Sold)"
+    },
+    {
+      "id": "solo|tinbidsauctionsold|2016frogmortonacrossthepondwithsyrianlatakiabymcclelland10yearsofage",
+      "brand": "",
+      "blend": "",
+      "display_name": "2016 Frog Morton Across The Pond with Syrian Latakia by McClelland 10 Years of Age",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "2016 Frog Morton Across The Pond with Syrian Latakia by McClelland 10 Years of Age",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/196835/",
+              "price": "$194.00",
+              "last_updated": "2026-06-26T16:00:27.901345+00:00",
+              "first_seen": "2026-06-26T14:18:01+00:00",
+              "year": "2016",
+              "price_history": [
+                {
+                  "price": "$194.00",
+                  "date": "2026-06-26T14:18:01+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [
+        "2016"
       ],
       "source": "Tinbids Auction (Sold)"
     },
@@ -3418,6 +3494,44 @@
       ],
       "years": [],
       "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "solo|tinbidsauctionsold|2oztinfromsep2021ofcornellanddiehlssmallbatchcarolinaredflakewperique1467515000",
+      "brand": "",
+      "blend": "",
+      "display_name": "2oz tin from Sep, 2021 of Cornell and Diehl's Small-Batch Carolina Red Flake w/Perique. 14,675/15,000",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "2oz",
+          "members": [
+            {
+              "name": "2oz tin from Sep, 2021 of Cornell and Diehl's Small-Batch Carolina Red Flake w/Perique. 14,675/15,000",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/196829/",
+              "price": "$30.00",
+              "last_updated": "2026-06-26T16:00:27.901345+00:00",
+              "first_seen": "2026-06-26T14:16:00+00:00",
+              "year": "2021",
+              "price_history": [
+                {
+                  "price": "$30.00",
+                  "date": "2026-06-26T14:16:00+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [
+        "2021"
+      ],
+      "source": "Tinbids Auction (Sold)"
     },
     {
       "id": "solo|speakeasyclub|3tins",
@@ -7180,6 +7294,44 @@
       ],
       "years": [],
       "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "solo|tinbidsauctionsold|bellsthreenuns175oztinbymacbarenfromjul2017with9yearsofageonit",
+      "brand": "",
+      "blend": "",
+      "display_name": "Bell’s Three Nuns 1.75oz tin by Mac Baren from Jul 2017 with 9 years of age on it",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "1.75oz",
+          "members": [
+            {
+              "name": "Bell’s Three Nuns 1.75oz tin by Mac Baren from Jul 2017 with 9 years of age on it",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/196841/",
+              "price": "$46.00",
+              "last_updated": "2026-06-26T16:00:27.901345+00:00",
+              "first_seen": "2026-06-26T14:22:13+00:00",
+              "year": "2017",
+              "price_history": [
+                {
+                  "price": "$46.00",
+                  "date": "2026-06-26T14:22:13+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [
+        "2017"
+      ],
+      "source": "Tinbids Auction (Sold)"
     },
     {
       "id": "solo|speakeasyclub|benwadejambomadeingrbritainbentbrandysmoothafricanmeer",
@@ -66019,6 +66171,42 @@
       "source": "Speak-Easy.Club"
     },
     {
+      "id": "solo|tinbidsauctionsold|tsugethefourseasonspipetobacco3outof450gtinspremiumpipetobacco",
+      "brand": "",
+      "blend": "",
+      "display_name": "Tsuge “The Four Seasons” Pipe Tobacco - 3 out of 4 - 50g tins Premium Pipe Tobacco",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "50g",
+          "members": [
+            {
+              "name": "Tsuge “The Four Seasons” Pipe Tobacco - 3 out of 4 - 50g tins Premium Pipe Tobacco",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/196814/",
+              "price": "$132.00",
+              "last_updated": "2026-06-26T16:00:27.901345+00:00",
+              "first_seen": "2026-06-26T13:52:31+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$132.00",
+                  "date": "2026-06-26T13:52:31+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Tinbids Auction (Sold)"
+    },
+    {
       "id": "solo|tinbidsauctionsold|two2wellagedsealedsaltydogsplugfrom2018",
       "brand": "",
       "blend": "",
@@ -66987,6 +67175,186 @@
       "source": "Tinbids Auction (Sold)"
     },
     {
+      "id": "solo|tinbidsauctionsold|vintageandrareflyingdutchman2ozcuttertop",
+      "brand": "",
+      "blend": "",
+      "display_name": "VINTAGE and RARE Flying Dutchman 2oz cutter top",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "2oz",
+          "members": [
+            {
+              "name": "VINTAGE and RARE Flying Dutchman 2oz cutter top",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/196807/",
+              "price": "$305.00",
+              "last_updated": "2026-06-26T16:00:27.901345+00:00",
+              "first_seen": "2026-06-26T13:36:17+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$305.00",
+                  "date": "2026-06-26T13:36:17+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Tinbids Auction (Sold)"
+    },
+    {
+      "id": "solo|tinbidsauctionsold|vintageandraresealed1960sdunhillflake4oz",
+      "brand": "",
+      "blend": "",
+      "display_name": "VINTAGE and RARE sealed 1960s Dunhill Flake 4oz",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "4oz",
+          "members": [
+            {
+              "name": "VINTAGE and RARE sealed 1960s Dunhill Flake 4oz",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/196813/",
+              "price": "$1130.00",
+              "last_updated": "2026-06-26T16:00:27.901345+00:00",
+              "first_seen": "2026-06-26T13:38:58+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$1130.00",
+                  "date": "2026-06-26T13:38:58+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Tinbids Auction (Sold)"
+    },
+    {
+      "id": "solo|tinbidsauctionsold|vintageandraresealedbengalslicesaromatic50gtin",
+      "brand": "",
+      "blend": "",
+      "display_name": "VINTAGE and RARE sealed Bengal Slices (aromatic) 50g tin",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "50g",
+          "members": [
+            {
+              "name": "VINTAGE and RARE sealed Bengal Slices (aromatic) 50g tin",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/196812/",
+              "price": "$350.00",
+              "last_updated": "2026-06-26T16:00:27.901345+00:00",
+              "first_seen": "2026-06-26T13:38:28+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$350.00",
+                  "date": "2026-06-26T13:38:28+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Tinbids Auction (Sold)"
+    },
+    {
+      "id": "solo|tinbidsauctionsold|vintageandraresealedplayerswhiskeyreadyrubbed25gtin",
+      "brand": "",
+      "blend": "",
+      "display_name": "VINTAGE and RARE Sealed Player's Whiskey Ready Rubbed 25g tin",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "25g",
+          "members": [
+            {
+              "name": "VINTAGE and RARE Sealed Player's Whiskey Ready Rubbed 25g tin",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/196811/",
+              "price": "$150.00",
+              "last_updated": "2026-06-26T16:00:27.901345+00:00",
+              "first_seen": "2026-06-26T13:37:57+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$150.00",
+                  "date": "2026-06-26T13:37:57+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Tinbids Auction (Sold)"
+    },
+    {
+      "id": "solo|tinbidsauctionsold|vintagedunhillmymixture9651980s90solderlogopaintedlid40gramsopen50gtin",
+      "brand": "",
+      "blend": "",
+      "display_name": "Vintage Dunhill My Mixture 965 (1980s-90s) Older Logo, Painted Lid (40 GRAMS) Open 50g Tin",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "40g",
+          "members": [
+            {
+              "name": "Vintage Dunhill My Mixture 965 (1980s-90s) Older Logo, Painted Lid (40 GRAMS) Open 50g Tin",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/196615/",
+              "price": "$110.00",
+              "last_updated": "2026-06-26T16:00:27.901345+00:00",
+              "first_seen": "2026-06-26T01:04:40+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$110.00",
+                  "date": "2026-06-26T01:04:40+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Tinbids Auction (Sold)"
+    },
+    {
       "id": "solo|speakeasyclub|vintageflake2020",
       "brand": "",
       "blend": "",
@@ -67097,6 +67465,44 @@
       ],
       "years": [],
       "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "solo|tinbidsauctionsold|vintagemcclelland2016christmascheer100gsealedtin",
+      "brand": "",
+      "blend": "",
+      "display_name": "Vintage McClelland 2016 CHRISTMAS CHEER 100g Sealed Tin",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "100g",
+          "members": [
+            {
+              "name": "Vintage McClelland 2016 CHRISTMAS CHEER 100g Sealed Tin",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/196740/",
+              "price": "$190.00",
+              "last_updated": "2026-06-26T16:00:27.901345+00:00",
+              "first_seen": "2026-06-26T13:10:37+00:00",
+              "year": "2016",
+              "price_history": [
+                {
+                  "price": "$190.00",
+                  "date": "2026-06-26T13:10:37+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [
+        "2016"
+      ],
+      "source": "Tinbids Auction (Sold)"
     },
     {
       "id": "solo|speakeasyclub|vintagesyrian2017discontinued35oz",
@@ -71844,6 +72250,17 @@
     "Mac Baren Dark Twist Roll Cake 100g tins – Year 2009": "macbaren|darktwistrollcake",
     "Van Rossem’s Schippers Tabak 3-1/2oz tins – 1070’s – 1980’s era": "vanrossem|schipperstabak",
     "Theodorus Niemeyer Flying Dutchman 2oz tins – 1960’s – 1970’s era": "theodorusniemeyer|flyingdutchman",
+    "Vintage Dunhill My Mixture 965 (1980s-90s) Older Logo, Painted Lid (40 GRAMS) Open 50g Tin": "solo|tinbidsauctionsold|vintagedunhillmymixture9651980s90solderlogopaintedlid40gramsopen50gtin",
+    "2013 McClelland’s British Woods - 1 Tin NR BIN $220": "solo|tinbidsauctionsold|2013mcclellandsbritishwoods1tinnrbin220",
+    "Vintage McClelland 2016 CHRISTMAS CHEER 100g Sealed Tin": "solo|tinbidsauctionsold|vintagemcclelland2016christmascheer100gsealedtin",
+    "VINTAGE and RARE Flying Dutchman 2oz cutter top": "solo|tinbidsauctionsold|vintageandrareflyingdutchman2ozcuttertop",
+    "VINTAGE and RARE Sealed Player's Whiskey Ready Rubbed 25g tin": "solo|tinbidsauctionsold|vintageandraresealedplayerswhiskeyreadyrubbed25gtin",
+    "VINTAGE and RARE sealed Bengal Slices (aromatic) 50g tin": "solo|tinbidsauctionsold|vintageandraresealedbengalslicesaromatic50gtin",
+    "VINTAGE and RARE sealed 1960s Dunhill Flake 4oz": "solo|tinbidsauctionsold|vintageandraresealed1960sdunhillflake4oz",
+    "Tsuge “The Four Seasons” Pipe Tobacco - 3 out of 4 - 50g tins Premium Pipe Tobacco": "solo|tinbidsauctionsold|tsugethefourseasonspipetobacco3outof450gtinspremiumpipetobacco",
+    "2oz tin from Sep, 2021 of Cornell and Diehl's Small-Batch Carolina Red Flake w/Perique. 14,675/15,000": "solo|tinbidsauctionsold|2oztinfromsep2021ofcornellanddiehlssmallbatchcarolinaredflakewperique1467515000",
+    "2016 Frog Morton Across The Pond with Syrian Latakia by McClelland 10 Years of Age": "solo|tinbidsauctionsold|2016frogmortonacrossthepondwithsyrianlatakiabymcclelland10yearsofage",
+    "Bell’s Three Nuns 1.75oz tin by Mac Baren from Jul 2017 with 9 years of age on it": "solo|tinbidsauctionsold|bellsthreenuns175oztinbymacbarenfromjul2017with9yearsofageonit",
     "2017 Frog Morton on the log 50 gram": "solo|tinbidsauctionsold|2017frogmortononthelog50gram",
     "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 2003": "butera|pelican",
     "Esoterica Tobacciana Butera’s Margate 8 oz. Sealed Pipe Tobacco Germain & Son, UK": "esoterica|margate",
