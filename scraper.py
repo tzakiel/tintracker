@@ -3,12 +3,11 @@
 Runs weekly. Writes docs/products.json. Shared logic lives in scrape_core.py.
 Uses Playwright (real Chromium browser) to bypass Cloudflare protection.
 
-Pipestud paginates 12 tins per page. We walk pages sequentially until a page
-returns empty after retries (= past the last page), rather than detecting the
-page count from pagination links (unreliable when Cloudflare delays JS
-rendering). Each page load gets a FRESH browser context (fresh
-cookies/fingerprint) — that alone clears most Cloudflare throttling — and an
-empty page is retried before concluding we've reached the end.
+Pipestud paginates 12 tins per page. We walk pages sequentially and stop when
+a page is empty after retries OR returns only already-seen products (WooCommerce
+wraps out-of-bounds page numbers to the last real page). Each page load gets a
+FRESH browser context (fresh cookies/fingerprint) to clear Cloudflare
+throttling.
 """
 import os
 import time
@@ -94,10 +93,14 @@ def fetch():
     """One full attempt: walk every page once. Returns a list (empty if blocked).
 
     Rather than detecting max_page from page-1's pagination links (unreliable
-    when Cloudflare delays JS rendering), we walk sequentially and stop when a
-    page comes back empty after retries — that means we've passed the last page.
+    when Cloudflare delays JS rendering), we walk sequentially and stop when:
+      - a page comes back empty after retries (past the last page), OR
+      - a page returns only products already seen this run (WooCommerce
+        wraps out-of-bounds page numbers back to the last real page).
+    Each page load gets a FRESH browser context to clear Cloudflare throttling.
     """
     found = []
+    seen_names = set()
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -115,8 +118,14 @@ def fetch():
                 print(f"[pipestud.com] page {n} empty after retries — stopping at {n - 1} pages.")
                 break
             batch = _parse_products(soup)
-            found.extend(batch)
-            print(f"[pipestud.com] page {n}: {len(batch)} products (running total: {len(found)})")
+            new_on_page = [item for item in batch if item["name"] not in seen_names]
+            if not new_on_page:
+                # All products already seen — WooCommerce wrapped around.
+                print(f"[pipestud.com] page {n} all duplicates — stopping at {n - 1} pages.")
+                break
+            found.extend(new_on_page)
+            seen_names.update(item["name"] for item in new_on_page)
+            print(f"[pipestud.com] page {n}: {len(new_on_page)} new (running total: {len(found)})")
 
         print(f"[pipestud.com] collected {len(found)} products.")
         browser.close()
