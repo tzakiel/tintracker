@@ -86,7 +86,7 @@ If a pipe brand name appears **and** any of these descriptors are present, it's 
 - **Watch City Cigars** makes: Rouxgaroux, Simply Red, Old Black Magic, Strange Magic, Deluxe Crumb Cut
 - **STG** makes: Balkan Sasieni, Escudo (Navy De Luxe)
 - **"x2", "x3"** in title → is_tin: false (multi-pack rule)
-- **"Crumble Kake"** format: check Sutliff vs Cornell & Diehl by variant (Va/Per = Sutliff; Red Virginias = uncertain)
+- **"Crumble Kake"** is a Sutliff blend (all variants)
 - **Chewing tobacco** (Stokers, Levi Garrett, etc.) → is_tin: false
 
 ## Step 4 — Web search uncertain entries

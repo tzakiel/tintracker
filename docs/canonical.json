@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-27T21:13:40.142735+00:00",
+  "generated": "2026-06-27T21:52:38.404800+00:00",
   "stats": {
     "total_listings": 3069,
     "excluded_multipacks": 1237,
@@ -4482,67 +4482,6 @@
               "price_history": [
                 {
                   "price": "$8",
-                  "date": "2026-06-24T02:02:09.029335+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|crumblekake",
-      "brand": "Cornell & Diehl",
-      "blend": "Crumble Kake",
-      "display_name": "Cornell & Diehl Crumble Kake",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "44g",
-          "members": [
-            {
-              "name": "Crumble Cake 2020 44g",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/partial-cellar-sell-off.41910/",
-              "price": "$8",
-              "last_updated": "2026-06-24T02:02:09.029335+00:00",
-              "first_seen": "2025-02-21T23:49:21+00:00",
-              "year": "2020",
-              "price_history": [
-                {
-                  "price": "$8",
-                  "date": "2026-06-24T02:02:09.029335+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        },
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "SOLD Crumble Kake",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/mississippi-river-john-cotton-mcclelland-bundle.43194/",
-              "price": "$25",
-              "last_updated": "2026-06-24T02:02:09.029335+00:00",
-              "first_seen": "2025-10-17T19:30:19+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$25",
                   "date": "2026-06-24T02:02:09.029335+00:00"
                 }
               ]
@@ -46026,6 +45965,67 @@
       "source": "Multiple sources"
     },
     {
+      "id": "sutliff|crumblekake",
+      "brand": "Sutliff",
+      "blend": "Crumble Kake",
+      "display_name": "Sutliff Crumble Kake",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "sizes": [
+        {
+          "quantity": "44g",
+          "members": [
+            {
+              "name": "Crumble Cake 2020 44g",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/partial-cellar-sell-off.41910/",
+              "price": "$8",
+              "last_updated": "2026-06-24T02:02:09.029335+00:00",
+              "first_seen": "2025-02-21T23:49:21+00:00",
+              "year": "2020",
+              "price_history": [
+                {
+                  "price": "$8",
+                  "date": "2026-06-24T02:02:09.029335+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        },
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "SOLD Crumble Kake",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/mississippi-river-john-cotton-mcclelland-bundle.43194/",
+              "price": "$25",
+              "last_updated": "2026-06-24T02:02:09.029335+00:00",
+              "first_seen": "2025-10-17T19:30:19+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$25",
+                  "date": "2026-06-24T02:02:09.029335+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        }
+      ],
+      "years": [
+        "2020"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
       "id": "sutliff|crumblekakeredvirginias",
       "brand": "Sutliff",
       "blend": "Crumble Kake Red Virginias",
@@ -51237,7 +51237,7 @@
     "Montgomery": "glpease|montgomery",
     "Mississippi River 8oz 6/2019": "seattlepipeclub|mississippiriver",
     "SOLD Annie Kake": "hearthhome|anniversarycake",
-    "SOLD Crumble Kake": "cornelldiehl|crumblekake",
+    "SOLD Crumble Kake": "sutliff|crumblekake",
     "Sold War Horse": "sutliff|warhorsebar",
     "Sold Viprati": "hearthhome|viprati",
     "Sold Classic Flake": "macbaren|classicflake",
@@ -51316,7 +51316,7 @@
     "C&D Poplar Camp 2016 40g zip and 4oz jar": "cornelldiehl|poplarcamp",
     "C&D Sunbear 2020 35g zip and tin": "cornelldiehl|sunbear",
     "Hearth and Home Country Lane 2017 missing one bowl zip and full tin": "hearthhome|countrylane",
-    "Crumble Cake 2020 44g": "cornelldiehl|crumblekake",
+    "Crumble Cake 2020 44g": "sutliff|crumblekake",
     "Stokkebye Luxury bullseye flake 1.75oz 2018": "peterstokkebye|luxurybullseyeflake",
     "Dunhill Ready Rubbed 25g": "dunhill|readyrubbed",
     "Luxury Navy flake 2oz (or 400, says both but crossed off on label). Bought this before I moved, so at least 2017, unopened": "peterstokkebye|luxurynavyflake",

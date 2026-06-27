@@ -172,7 +172,7 @@ Note: "H&H Anniversary Flake" = Hearth & Home (not Mac Baren). "HH Anniversary K
 - Capstan: brand=`Mac Baren`, blend=`Capstan Yellow` or `Capstan Blue` (keep full "Capstan [color]" as blend name; brand is Mac Baren)
 - Date/year variants are the same blend: "Carolina Red Flake 09/21/2019" → blend=`Carolina Red Flake` (strip dates)
 - Strip weights from all Samuel Gawith blend names: "Full Virginia Flake 50g" → blend=`Full Virginia Flake`; applies to any SG entry with a trailing weight (50g, 250g, 4oz, etc.)
-- "Crumble Kake" format: check Sutliff vs C&D by variant name
+- "Crumble Kake" is a Sutliff blend (all variants)
 
 ---
 
