@@ -410,6 +410,7 @@
 
     /* ── detail $/oz chart ── */
     .ppo-chart-section {
+      position: relative;
       border-top: 1px solid #e8dcc8;
       padding-top: 1rem;
       margin-bottom: 1.5rem;
@@ -421,6 +422,34 @@
       color: #8a6a4a;
       margin-bottom: .6rem;
     }
+    .ppo-dot { cursor: pointer; transition: r .1s, fill-opacity .1s; }
+    .ppo-dot:hover { fill-opacity: 1; }
+    .ppo-tooltip {
+      position: absolute;
+      background: #3a2a1c;
+      color: #f5e8c8;
+      padding: .5rem .8rem;
+      border-radius: 10px;
+      font-size: .82rem;
+      pointer-events: none;
+      white-space: nowrap;
+      transform: translate(-50%, calc(-100% - 10px));
+      z-index: 20;
+      box-shadow: 0 4px 14px rgba(0,0,0,.3);
+      line-height: 1.55;
+    }
+    .ppo-tooltip::after {
+      content: "";
+      position: absolute;
+      left: 50%; bottom: -5px;
+      transform: translateX(-50%);
+      border: 5px solid transparent;
+      border-top-color: #3a2a1c;
+      border-bottom: none;
+    }
+    .ppo-tooltip[hidden] { display: none; }
+    .ppo-tt-ppo  { font-weight: 700; font-size: .9rem; }
+    .ppo-tt-row  { color: #d4a97a; margin-top: .1rem; }
     .detail-empty { color: #8a6a4a; font-size: .9rem; padding: 1rem 0; }
 
     /* ── footer ── */
@@ -722,7 +751,9 @@
         if (!m.first_seen) continue;
         const price = parseMoney(m.price);
         if (price == null) continue;
-        pts.push({ ms: new Date(m.first_seen).getTime(), ppo: price / oz });
+        pts.push({ ms: new Date(m.first_seen).getTime(), ppo: price / oz,
+          price: m.price || "—", source: m.source || "—",
+          size: sz.quantity || "—", date: m.first_seen });
       }
     }
     if (pts.length < 2) return "";
@@ -792,9 +823,13 @@
       ? `<polyline points="${lineCoords}" fill="none" stroke="#d8b483" stroke-width="1.5" stroke-linejoin="round"/>`
       : "";
 
-    // Individual dots
+    // Individual dots — carry listing data for tooltip
     const dots = pts.map(p =>
-      `<circle cx="${toX(p.ms).toFixed(1)}" cy="${toY(p.ppo).toFixed(1)}" r="3.5" fill="#cf8a73" fill-opacity=".8"/>`
+      `<circle cx="${toX(p.ms).toFixed(1)}" cy="${toY(p.ppo).toFixed(1)}" r="5"
+        fill="#cf8a73" fill-opacity=".8" class="ppo-dot"
+        data-ppo="${p.ppo.toFixed(2)}"
+        data-price="${esc(p.price)}" data-source="${esc(p.source)}"
+        data-size="${esc(p.size)}" data-date="${p.date || ""}"/>`
     ).join("");
 
     return `<svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:auto;display:block;overflow:visible">
@@ -852,9 +887,36 @@
           <span class="lbl">Listings</span><span class="val">${listingsLabel}${t.years && t.years.length ? " · " + t.years.join(", ") : ""}</span>
           <span class="lbl">Sources</span><span class="val">${activeSrcs.join(", ") || "—"}</span>
         </div>
-        ${chart ? `<div class="ppo-chart-section"><div class="ppo-chart-label">$/oz over time</div>${chart}</div>` : ""}
+        ${chart ? `<div class="ppo-chart-section"><div class="ppo-chart-label">$/oz over time</div>${chart}<div class="ppo-tooltip" hidden></div></div>` : ""}
         ${sizeSections || '<p class="detail-empty">No listings match the current source filters.</p>'}
       </div>`;
+    attachChartListeners();
+  }
+
+  let _chartDismiss = null;
+  function attachChartListeners() {
+    if (_chartDismiss) document.removeEventListener('click', _chartDismiss);
+    const tooltip = detailContent.querySelector('.ppo-tooltip');
+    const section = detailContent.querySelector('.ppo-chart-section');
+    if (!tooltip || !section) return;
+
+    detailContent.querySelectorAll('.ppo-dot').forEach(dot => {
+      dot.addEventListener('click', e => {
+        e.stopPropagation();
+        const dr = dot.getBoundingClientRect(), sr = section.getBoundingClientRect();
+        tooltip.style.left = (dr.left - sr.left + dr.width / 2) + 'px';
+        tooltip.style.top  = (dr.top  - sr.top) + 'px';
+        tooltip.innerHTML = `
+          <div class="ppo-tt-ppo">$${parseFloat(dot.dataset.ppo).toFixed(2)}/oz</div>
+          <div class="ppo-tt-row">${esc(dot.dataset.price)} · ${esc(dot.dataset.size)}</div>
+          <div class="ppo-tt-row">${esc(dot.dataset.source)}</div>
+          <div class="ppo-tt-row">${fmt(dot.dataset.date)}</div>`;
+        tooltip.hidden = false;
+      });
+    });
+
+    _chartDismiss = () => { tooltip.hidden = true; };
+    document.addEventListener('click', _chartDismiss);
   }
 
   function showGroupDetail(t) {
