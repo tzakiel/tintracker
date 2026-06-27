@@ -27,7 +27,7 @@ import time
 from datetime import datetime, timedelta, timezone
 
 import cloudscraper
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString
 
 import scrape_core
 
@@ -228,6 +228,62 @@ def _collect_new_urls(session, cutoff):
     return url_tags, forum_ok
 
 
+def _table_to_lines(table):
+    """Convert an HTML <table> to one 'name price' string per data row.
+
+    Identifies the price column by header text containing 'price', and the
+    name column by 'item'/'blend'/'tobacco'/'name'/'desc' (defaults to col 0).
+    Falls back to emitting the full pipe-joined row when no price column is
+    found, so _find_price can still extract a bare number via pattern 3.
+    """
+    rows = table.select("tr")
+    if not rows:
+        return []
+
+    headers = []
+    data_start = 0
+    for i, row in enumerate(rows):
+        ths = row.select("th")
+        if ths:
+            headers = [th.get_text(strip=True).lower() for th in ths]
+            data_start = i + 1
+            break
+
+    if not headers and rows:
+        tds = rows[0].select("td")
+        if tds:
+            headers = [td.get_text(strip=True).lower() for td in tds]
+            data_start = 1
+
+    price_col = next(
+        (i for i, h in enumerate(headers) if "price" in h), None
+    )
+    name_col = next(
+        (i for i, h in enumerate(headers)
+         if any(k in h for k in ("item", "blend", "tobacco", "name", "desc"))),
+        0,
+    )
+
+    lines = []
+    for row in rows[data_start:]:
+        cells = row.select("td")
+        if not cells:
+            continue
+        name = cells[name_col].get_text(strip=True) if name_col < len(cells) else ""
+        if not name:
+            continue
+        price_text = (
+            cells[price_col].get_text(strip=True)
+            if price_col is not None and price_col < len(cells)
+            else ""
+        )
+        if price_text:
+            lines.append(f"{name} {price_text}")
+        else:
+            lines.append(" | ".join(c.get_text(strip=True) for c in cells))
+    return lines
+
+
 def _parse_first_post(html):
     """Extract (name, price) pairs and post date from the first post of a thread.
 
@@ -265,6 +321,12 @@ def _parse_first_post(html):
 
     for el in post_body.select("blockquote, .bbCodeBlock--quote"):
         el.decompose()
+
+    # Convert tables to one line per data row before text extraction so rows
+    # aren't smashed together by get_text().
+    for table in post_body.select("table"):
+        tbl_lines = _table_to_lines(table)
+        table.replace_with(NavigableString("\n" + "\n".join(tbl_lines) + "\n"))
 
     for el in post_body.select("br"):
         el.replace_with("\n")
