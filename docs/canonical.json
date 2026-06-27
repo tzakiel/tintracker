@@ -1,12 +1,12 @@
 {
-  "generated": "2026-06-27T20:34:51.138059+00:00",
+  "generated": "2026-06-27T20:38:29.155590+00:00",
   "stats": {
     "total_listings": 3069,
     "excluded_multipacks": 1237,
-    "total_tins": 880,
+    "total_tins": 879,
     "multi_member_tins": 322,
-    "listings_in_groups": 1111,
-    "cross_source_tins": 167
+    "listings_in_groups": 1112,
+    "cross_source_tins": 168
   },
   "tins": [
     {
@@ -27294,7 +27294,8 @@
       "blend": "HH Pure Virginia",
       "display_name": "Mac Baren HH Pure Virginia",
       "sources": [
-        "4noggins.com"
+        "4noggins.com",
+        "Speak-Easy.Club"
       ],
       "sizes": [
         {
@@ -27319,12 +27320,52 @@
           "sources": [
             "4noggins.com"
           ]
+        },
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Mac Baren Pure Virginia 2019",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/some-random-tins-for-sale-kbv-sg-dunhill-macbaren.42515/",
+              "price": "$25",
+              "last_updated": "2026-06-25T20:46:10.923480+00:00",
+              "first_seen": "2025-06-25T18:51:14+00:00",
+              "year": "2019",
+              "price_history": [
+                {
+                  "price": "$25",
+                  "date": "2025-06-25T18:51:14+00:00"
+                }
+              ]
+            },
+            {
+              "name": "Mac Baren Pure Virginia 2020",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/some-random-tins-for-sale-kbv-sg-dunhill-macbaren.42515/",
+              "price": "$24",
+              "last_updated": "2026-06-25T20:46:10.923480+00:00",
+              "first_seen": "2025-06-25T18:51:14+00:00",
+              "year": "2020",
+              "price_history": [
+                {
+                  "price": "$24",
+                  "date": "2025-06-25T18:51:14+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
         }
       ],
       "years": [
+        "2019",
+        "2020",
         "2021"
       ],
-      "source": "4noggins.com"
+      "source": "Multiple sources"
     },
     {
       "id": "macbaren|hhrustica",
@@ -27916,60 +27957,6 @@
         }
       ],
       "years": [],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "macbaren|purevirginia",
-      "brand": "Mac Baren",
-      "blend": "Pure Virginia",
-      "display_name": "Mac Baren Pure Virginia",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Mac Baren Pure Virginia 2019",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/some-random-tins-for-sale-kbv-sg-dunhill-macbaren.42515/",
-              "price": "$25",
-              "last_updated": "2026-06-25T20:46:10.923480+00:00",
-              "first_seen": "2025-06-25T18:51:14+00:00",
-              "year": "2019",
-              "price_history": [
-                {
-                  "price": "$25",
-                  "date": "2025-06-25T18:51:14+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Mac Baren Pure Virginia 2020",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/some-random-tins-for-sale-kbv-sg-dunhill-macbaren.42515/",
-              "price": "$24",
-              "last_updated": "2026-06-25T20:46:10.923480+00:00",
-              "first_seen": "2025-06-25T18:51:14+00:00",
-              "year": "2020",
-              "price_history": [
-                {
-                  "price": "$24",
-                  "date": "2025-06-25T18:51:14+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [
-        "2019",
-        "2020"
-      ],
       "source": "Speak-Easy.Club"
     },
     {
@@ -50635,8 +50622,8 @@
     "RO Acadian English 2020": "hearthhome|roacadianenglish",
     "KBV Verge Engine Overdrive 2020": "kenbyronventures|vergeengineoverdrive",
     "Mac Baren Capstan Blue 2020": "macbaren|capstanblue",
-    "Mac Baren Pure Virginia 2020": "macbaren|purevirginia",
-    "Mac Baren Pure Virginia 2019": "macbaren|purevirginia",
+    "Mac Baren Pure Virginia 2020": "macbaren|hhpurevirginia",
+    "Mac Baren Pure Virginia 2019": "macbaren|hhpurevirginia",
     "Hamborger Veermaster, 250g, 2021,": "dantobacco|hamborgerveermaster",
     "Oaks original English": "mcclelland|3oaksoriginal",
     "Smokers Haven Best Blend": "smokershaven|bestblend",
