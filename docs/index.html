@@ -1037,7 +1037,7 @@
     TINS.forEach(t => { if (!t.sources) t.sources = t.source ? [t.source] : []; });
 
     // 1-in-100 chance: slip in a special listing
-    if (Math.random() < 0.01) {
+    if (Math.random() < 0.01 || location.hash === '#longbottom') {
       TINS.push({
         id: "easteregg|pouchoflongbottomleaf",
         brand: "Easter Egg",
