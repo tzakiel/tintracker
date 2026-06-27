@@ -9,7 +9,7 @@
   <meta name="theme-color" content="#5a3a24" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Work+Sans:wght@400;500;600;700&family=Uncial+Antiqua&display=swap" rel="stylesheet" />
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -456,6 +456,11 @@
     footer { text-align: center; padding: 2rem 1rem; color: #9b7b5a; font-size: .78rem; }
     .footer-motif { display: flex; justify-content: center; gap: .8rem; margin-bottom: .6rem; }
     .footer-motif svg { width: 20px; height: 20px; color: #c9a06f; opacity: .8; }
+  .easter-egg-row td {
+    font-family: 'Uncial Antiqua', serif;
+    font-weight: bold;
+    color: #4a8c5c;
+  }
   </style>
 </head>
 <body>
@@ -635,7 +640,7 @@
     const arrow = k => SORT.key === k ? `<span class="sort-ind">${SORT.dir === "asc" ? "▲" : "▼"}</span>` : "";
     const head = columns.map(c => `<th data-key="${c.key}">${c.label} ${arrow(c.key)}</th>`).join("");
     const body = sorted.map(r =>
-      `<tr>${columns.map(c => `<td class="${c.cls}" data-label="${c.label}">${c.cell(r)}</td>`).join("")}</tr>`
+      `<tr${r._easter ? ' class="easter-egg-row"' : ''}>${columns.map(c => `<td class="${c.cls}" data-label="${c.label}">${c.cell(r)}</td>`).join("")}</tr>`
     ).join("");
     resultsEl.innerHTML = `<table><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>`;
 
