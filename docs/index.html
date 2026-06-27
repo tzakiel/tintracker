@@ -753,14 +753,14 @@
         if (price == null) continue;
         pts.push({ ms: new Date(m.first_seen).getTime(), ppo: price / oz,
           price: m.price || "—", source: m.source || "—",
-          size: sz.quantity || "—", date: m.first_seen });
+          size: sz.quantity || "—", date: m.first_seen, year: m.year || "—" });
       }
     }
     if (pts.length < 1) return "";
     pts.sort((a, b) => a.ms - b.ms);
 
-    const W = 500, H = 160;
-    const PL = 54, PR = 12, PT = 12, PB = 36;
+    const W = 500, H = 107;
+    const PL = 54, PR = 12, PT = 8, PB = 26;
     const plotW = W - PL - PR, plotH = H - PT - PB;
 
     const minMs = pts[0].ms, maxMs = pts[pts.length - 1].ms;
@@ -802,13 +802,13 @@
     const grid = yTicks.map(v => {
       const y = toY(v).toFixed(1);
       return `<line x1="${PL}" y1="${y}" x2="${W - PR}" y2="${y}" stroke="#e8dcc8" stroke-width="1"/>
-        <text x="${PL - 5}" y="${y}" text-anchor="end" dominant-baseline="middle" fill="#8a6a4a" font-size="8">$${v.toFixed(2)}</text>`;
+        <text x="${PL - 5}" y="${y}" text-anchor="end" dominant-baseline="middle" fill="#8a6a4a" font-size="7">$${v.toFixed(2)}</text>`;
     }).join("");
 
     // x labels
     const xLabels = xTicks.map(ms => {
       const x = toX(ms).toFixed(1);
-      return `<text x="${x}" y="${(PT + plotH + 16).toFixed(1)}" text-anchor="middle" fill="#8a6a4a" font-size="8">${fmtTick(ms)}</text>`;
+      return `<text x="${x}" y="${(PT + plotH + 13).toFixed(1)}" text-anchor="middle" fill="#8a6a4a" font-size="7">${fmtTick(ms)}</text>`;
     }).join("");
 
     // Trend line: average $/oz per unique date
@@ -832,7 +832,7 @@
         fill="#FF69AF" fill-opacity=".85" class="ppo-dot"
         data-ppo="${p.ppo.toFixed(2)}"
         data-price="${esc(p.price)}" data-source="${esc(p.source)}"
-        data-size="${esc(p.size)}" data-date="${p.date || ""}"/>`
+        data-size="${esc(p.size)}" data-date="${p.date || ""}" data-year="${esc(String(p.year))}"/>`
     ).join("");
 
     return `<svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:auto;display:block;overflow:visible">
@@ -913,7 +913,8 @@
           <div class="ppo-tt-ppo">$${parseFloat(dot.dataset.ppo).toFixed(2)}/oz</div>
           <div class="ppo-tt-row">${esc(dot.dataset.price)} · ${esc(dot.dataset.size)}</div>
           <div class="ppo-tt-row">${esc(dot.dataset.source)}</div>
-          <div class="ppo-tt-row">${fmt(dot.dataset.date)}</div>`;
+          <div class="ppo-tt-row">${fmt(dot.dataset.date)}</div>
+          <div class="ppo-tt-row">Tin year: ${esc(dot.dataset.year)}</div>`;
         tooltip.hidden = false;
       });
     });
