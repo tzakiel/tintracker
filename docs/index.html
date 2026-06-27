@@ -848,6 +848,42 @@
   }
 
   function renderDetailContent(t) {
+    if (t._easter) {
+      detailContent.innerHTML = `
+        <div class="detail-card">
+          <div class="detail-name">Easter Egg: Pouch of Longbottom Leaf</div>
+          <div class="detail-meta">
+            <span class="lbl">Price</span><span class="val detail-price">Priceless</span>
+            <span class="lbl">Avg $/oz</span><span class="val">—</span>
+            <span class="lbl">Listings</span><span class="val">1 · Third Age 3001</span>
+            <span class="lbl">Sources</span><span class="val">Longbottom, Southfarthing</span>
+          </div>
+          <div class="detail-section-title">About this tin</div>
+          <div style="padding:0 0 1rem;line-height:1.65;font-size:0.92rem;color:var(--text)">
+            <blockquote style="border-left:3px solid var(--accent);margin:0 0 1rem;padding:0 0 0 1rem;font-style:italic;color:var(--text-muted)">
+              "There is another astonishing thing about Hobbits of old: that is, the love of pipe-weed."<br>
+              <span style="font-style:normal;font-size:0.85em">— Meriadoc Brandybuck, <em>Herblore of the Shire</em></span>
+            </blockquote>
+            <p>Longbottom Leaf — first cultivated by Tobold Hornblower of Longbottom in the Southfarthing, circa SR 1070 — is widely acknowledged as among the finest leaf grown in the Shire. This particular sealed pouch was recovered from beneath Bilbo Baggins' favourite armchair at Bag End following his sudden and rather theatrical departure on the evening of his 111th birthday party.</p>
+            <p><strong>Condition:</strong> Sealed. A small note reads: <em>"DO NOT SMOKE until the King returns — T.B."</em> The King has returned. The pouch remains unsmoked. Nobody is quite sure what Tobold would make of this.</p>
+            <p><strong>Provenance:</strong> Gandalf is known to have sampled Longbottom Leaf extensively and appraised it as <em>"most excellent"</em> — though he declined to provide written documentation and was characteristically vague about where the pouch came from. Saruman, it is noted, also developed a fondness for the best Longbottom Leaf in his later years. Draw your own conclusions about its quality.</p>
+            <p><strong>Tasting notes:</strong> Smooth. Very smooth. Makes excellent smoke rings if you've had 500 years of practice. Meriadoc Brandybuck reportedly blew a smoke-ship; Peregrin Took reportedly blew a smaller, sadder smoke-ship, which dissolved immediately.</p>
+          </div>
+          <div class="detail-section-title">1 listing</div>
+          <table class="history-table">
+            <colgroup><col class="ht-col-yr"><col class="ht-col-pr"><col><col class="ht-col-dt"></colgroup>
+            <thead><tr><th>Year</th><th>Price</th><th>Source</th><th>Date</th></tr></thead>
+            <tbody><tr>
+              <td data-label="Year">TA 3001</td>
+              <td class="price" data-label="Price">Not for sale</td>
+              <td data-label="Source">The Green Dragon, Bywater<span class="listing-name">Pouch of Longbottom Leaf — sealed, provenance Bag End, slightly dusty</span></td>
+              <td data-label="Date">22 Sep, TA 3001</td>
+            </tr></tbody>
+          </table>
+        </div>`;
+      return;
+    }
+
     const sizeSections = (t.sizes || []).map(sz => {
       const members = sz.members
         .filter(m => ACTIVE_SOURCES.has(m.source))
@@ -999,6 +1035,21 @@
     TINS = (canonical && canonical.tins ? canonical.tins : []).slice()
       .sort((a, b) => byName({ name: a.display_name }, { name: b.display_name }));
     TINS.forEach(t => { if (!t.sources) t.sources = t.source ? [t.source] : []; });
+
+    // 1-in-100 chance: slip in a special listing
+    if (Math.random() < 0.01) {
+      TINS.push({
+        id: "easteregg|pouchoflongbottomleaf",
+        brand: "Easter Egg",
+        blend: "Pouch of Longbottom Leaf",
+        display_name: "Easter Egg Pouch of Longbottom Leaf",
+        sources: ["Speak-Easy.Club"],
+        sizes: [],
+        years: ["3001"],
+        source: "Speak-Easy.Club",
+        _easter: true,
+      });
+    }
 
     ENRICH = {};
     for (const t of TINS) for (const sz of (t.sizes || [])) for (const m of (sz.members || [])) {
