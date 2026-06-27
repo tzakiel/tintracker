@@ -436,6 +436,9 @@
     <a href="https://buymeacoffee.com/vandal_heart" target="_blank" rel="noopener">buy me a coffee<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 9h11v5a4 4 0 0 1-4 4H9a4 4 0 0 1-4-4z"/><path d="M16 10h2.5a2.2 2.2 0 0 1 0 4.4H16"/><path d="M8 2.6q1 1.2 0 2.6M11 2.6q1 1.2 0 2.6M14 2.6q1 1.2 0 2.6"/><path d="M5 21h12"/></svg></a>.</p>
 </header>
 
+<!-- Persistent source filter chips (shown on both main and detail views) -->
+<div id="source-filters"></div>
+
 <!-- Main list view -->
 <div id="main-view">
   <div class="search-wrap">
@@ -443,7 +446,6 @@
     <div id="dropdown"></div>
   </div>
 
-  <div id="source-filters"></div>
   <select id="mobile-sort" aria-label="Sort by">
     <option value="updated:desc">Sort: Last Updated (newest)</option>
     <option value="updated:asc">Sort: Last Updated (oldest)</option>
@@ -491,6 +493,7 @@
   let SORT = { key: "updated", dir: "desc" };
   let ACTIVE_SOURCES = new Set();   // sources currently shown (empty = none)
   let lastListState = null; // remembers what was showing before detail
+  let currentDetailTin = null;      // tin currently shown in detail view
 
   // tin weight as grams, for numeric size sorting ("2oz" -> ~56.7, "50g" -> 50)
   function weightGrams(q) {
@@ -691,11 +694,12 @@
     ];
   }
 
-  function showGroupDetail(t) {
-    history.pushState({ detail: t.id }, "", "");
-
+  function renderDetailContent(t) {
     const sizeSections = (t.sizes || []).map(sz => {
-      const members = sz.members.slice().sort((a, b) => (a.year || "").localeCompare(b.year || ""));
+      const members = sz.members
+        .filter(m => ACTIVE_SOURCES.has(m.source))
+        .slice().sort((a, b) => (a.year || "").localeCompare(b.year || ""));
+      if (!members.length) return "";
       const rows = members.map(m => {
         const src = m.url
           ? `<a href="${m.url}" target="_blank" rel="noopener">${m.source || "link"}</a>`
@@ -718,17 +722,29 @@
         </table>`;
     }).join("");
 
+    const activeCount = activeMembers(t).length;
+    const totalCount = totalMembers(t);
+    const listingsLabel = activeCount === totalCount
+      ? `${totalCount}`
+      : `${activeCount} of ${totalCount}`;
+    const activeSrcs = (t.sources || []).filter(s => ACTIVE_SOURCES.has(s));
+
     detailContent.innerHTML = `
       <div class="detail-card">
         <div class="detail-name">${t.display_name}</div>
         <div class="detail-meta">
           <span class="lbl">Price</span><span class="val detail-price">${tinPriceLabel(t)}</span>
-          <span class="lbl">Listings</span><span class="val">${totalMembers(t)}${t.years && t.years.length ? " · " + t.years.join(", ") : ""}</span>
-          <span class="lbl">Sources</span><span class="val">${(t.sources || []).join(", ") || "—"}</span>
+          <span class="lbl">Listings</span><span class="val">${listingsLabel}${t.years && t.years.length ? " · " + t.years.join(", ") : ""}</span>
+          <span class="lbl">Sources</span><span class="val">${activeSrcs.join(", ") || "—"}</span>
         </div>
-        ${sizeSections}
+        ${sizeSections || '<p class="detail-empty">No listings match the current source filters.</p>'}
       </div>`;
+  }
 
+  function showGroupDetail(t) {
+    currentDetailTin = t;
+    history.pushState({ detail: t.id }, "", "");
+    renderDetailContent(t);
     mainView.style.display = "none";
     detailView.style.display = "block";
     window.scrollTo(0, 0);
@@ -772,6 +788,9 @@
         if (ACTIVE_SOURCES.has(src)) ACTIVE_SOURCES.delete(src);
         else ACTIVE_SOURCES.add(src);
         btn.classList.toggle("on");
+        if (detailView.style.display !== "none" && currentDetailTin) {
+          renderDetailContent(currentDetailTin);
+        }
         render();
       });
       wrap.appendChild(btn);
