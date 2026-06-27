@@ -408,6 +408,21 @@
     .history-table col.ht-col-dt { width: 9rem; }
     .history-table td { overflow-wrap: break-word; }
 
+    /* ── detail $/oz chart ── */
+    .ppo-chart-section {
+      border-top: 1px solid #e8dcc8;
+      padding-top: 1rem;
+      margin-bottom: 1.5rem;
+    }
+    .ppo-chart-label {
+      font-size: .78rem;
+      text-transform: uppercase;
+      letter-spacing: .07em;
+      color: #8a6a4a;
+      margin-bottom: .6rem;
+    }
+    .detail-empty { color: #8a6a4a; font-size: .9rem; padding: 1rem 0; }
+
     /* ── footer ── */
     footer { text-align: center; padding: 2rem 1rem; color: #9b7b5a; font-size: .78rem; }
     .footer-motif { display: flex; justify-content: center; gap: .8rem; margin-bottom: .6rem; }
@@ -695,6 +710,102 @@
     ];
   }
 
+  function ppoChartSVG(t) {
+    // Gather all active listings that have a parseable weight + price + date
+    const pts = [];
+    for (const sz of (t.sizes || [])) {
+      const grams = weightGrams(sz.quantity);
+      if (grams <= 0) continue;
+      const oz = grams / 28.3495;
+      for (const m of (sz.members || [])) {
+        if (!ACTIVE_SOURCES.has(m.source)) continue;
+        if (!m.first_seen) continue;
+        const price = parseMoney(m.price);
+        if (price == null) continue;
+        pts.push({ ms: new Date(m.first_seen).getTime(), ppo: price / oz });
+      }
+    }
+    if (pts.length < 2) return "";
+    pts.sort((a, b) => a.ms - b.ms);
+
+    const W = 500, H = 160;
+    const PL = 54, PR = 12, PT = 12, PB = 36;
+    const plotW = W - PL - PR, plotH = H - PT - PB;
+
+    const minMs = pts[0].ms, maxMs = pts[pts.length - 1].ms;
+    const msRange = maxMs - minMs || 1;
+    const ppoVals = pts.map(p => p.ppo);
+    const rawMin = Math.min(...ppoVals), rawMax = Math.max(...ppoVals);
+    const pad = (rawMax - rawMin) * 0.15 || rawMax * 0.15 || 1;
+    const minPpo = rawMin - pad, maxPpo = rawMax + pad;
+    const ppoRange = maxPpo - minPpo;
+
+    const toX = ms  => PL + ((ms  - minMs)  / msRange)  * plotW;
+    const toY = ppo => PT + plotH - ((ppo - minPpo) / ppoRange) * plotH;
+
+    // Nice y-axis ticks
+    function niceStep(range, n) {
+      const rough = range / n;
+      const mag = Math.pow(10, Math.floor(Math.log10(rough || 1)));
+      for (const m of [1, 2, 2.5, 5, 10]) { if (m * mag >= rough) return m * mag; }
+      return mag * 10;
+    }
+    const yStep  = niceStep(rawMax - rawMin || rawMax * 0.5 || 1, 3);
+    const yStart = Math.ceil(rawMin / yStep) * yStep;
+    const yTicks = [];
+    for (let v = yStart; v <= rawMax + yStep * 0.01; v += yStep) yTicks.push(v);
+
+    // x-axis ticks (up to 5 evenly spaced dates)
+    const xCount = Math.min(5, pts.length);
+    const xTicks = Array.from({ length: xCount }, (_, i) =>
+      minMs + (msRange * i) / Math.max(xCount - 1, 1));
+
+    function fmtTick(ms) {
+      return new Date(ms).toLocaleDateString("en-US", { month: "short", year: "2-digit" });
+    }
+
+    // Build grid + y labels
+    const grid = yTicks.map(v => {
+      const y = toY(v).toFixed(1);
+      return `<line x1="${PL}" y1="${y}" x2="${W - PR}" y2="${y}" stroke="#e8dcc8" stroke-width="1"/>
+        <text x="${PL - 5}" y="${y}" text-anchor="end" dominant-baseline="middle" fill="#8a6a4a" font-size="10">$${v.toFixed(2)}</text>`;
+    }).join("");
+
+    // x labels
+    const xLabels = xTicks.map(ms => {
+      const x = toX(ms).toFixed(1);
+      return `<text x="${x}" y="${(PT + plotH + 18).toFixed(1)}" text-anchor="middle" fill="#8a6a4a" font-size="10">${fmtTick(ms)}</text>`;
+    }).join("");
+
+    // Trend line: average $/oz per unique date
+    const byDate = {};
+    for (const p of pts) {
+      const key = new Date(p.ms).toISOString().slice(0, 10);
+      if (!byDate[key]) byDate[key] = { ms: p.ms, sum: 0, n: 0 };
+      byDate[key].sum += p.ppo; byDate[key].n++;
+    }
+    const avgPts = Object.values(byDate)
+      .map(g => ({ ms: g.ms, ppo: g.sum / g.n }))
+      .sort((a, b) => a.ms - b.ms);
+    const lineCoords = avgPts.map(p => `${toX(p.ms).toFixed(1)},${toY(p.ppo).toFixed(1)}`).join(" ");
+    const trendLine = avgPts.length > 1
+      ? `<polyline points="${lineCoords}" fill="none" stroke="#d8b483" stroke-width="1.5" stroke-linejoin="round"/>`
+      : "";
+
+    // Individual dots
+    const dots = pts.map(p =>
+      `<circle cx="${toX(p.ms).toFixed(1)}" cy="${toY(p.ppo).toFixed(1)}" r="3.5" fill="#cf8a73" fill-opacity=".8"/>`
+    ).join("");
+
+    return `<svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:auto;display:block;overflow:visible">
+      ${grid}
+      ${trendLine}
+      ${dots}
+      <line x1="${PL}" y1="${PT + plotH}" x2="${W - PR}" y2="${PT + plotH}" stroke="#d8b483" stroke-width="1"/>
+      ${xLabels}
+    </svg>`;
+  }
+
   function renderDetailContent(t) {
     const sizeSections = (t.sizes || []).map(sz => {
       const members = sz.members
@@ -729,15 +840,19 @@
       ? `${totalCount}`
       : `${activeCount} of ${totalCount}`;
     const activeSrcs = (t.sources || []).filter(s => ACTIVE_SOURCES.has(s));
+    const ppoLabel = tinPricePerOzLabel(t);
+    const chart = ppoChartSVG(t);
 
     detailContent.innerHTML = `
       <div class="detail-card">
         <div class="detail-name">${t.display_name}</div>
         <div class="detail-meta">
           <span class="lbl">Price</span><span class="val detail-price">${tinPriceLabel(t)}</span>
+          <span class="lbl">Avg $/oz</span><span class="val">${ppoLabel}</span>
           <span class="lbl">Listings</span><span class="val">${listingsLabel}${t.years && t.years.length ? " · " + t.years.join(", ") : ""}</span>
           <span class="lbl">Sources</span><span class="val">${activeSrcs.join(", ") || "—"}</span>
         </div>
+        ${chart ? `<div class="ppo-chart-section"><div class="ppo-chart-label">$/oz over time</div>${chart}</div>` : ""}
         ${sizeSections || '<p class="detail-empty">No listings match the current source filters.</p>'}
       </div>`;
   }
