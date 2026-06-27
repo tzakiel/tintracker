@@ -143,7 +143,17 @@ entries = [(t['brand'], t['blend'], sum(len(s['members']) for s in t['sizes'])) 
 def norm(s):
     return re.sub(r"[^a-z0-9]", "", s.lower())
 
-# 1. Near-duplicate blends within same brand (ratio >= 0.85)
+# 1. Near-duplicate brand names (catches "A & C Petersen" vs "A&C Petersen" etc.)
+all_brands = sorted({brand for brand, _, _ in entries})
+brand_dupes = []
+for a, b in combinations(all_brands, 2):
+    ratio = difflib.SequenceMatcher(None, norm(a), norm(b)).ratio()
+    if ratio >= 0.85 and norm(a) != norm(b):
+        ca = sum(cnt for br, _, cnt in entries if br == a)
+        cb = sum(cnt for br, _, cnt in entries if br == b)
+        brand_dupes.append((ratio, a, ca, b, cb))
+
+# 2. Near-duplicate blends within same brand (ratio >= 0.85)
 by_brand = {}
 for brand, blend, cnt in entries:
     by_brand.setdefault(brand, []).append((blend, cnt))
@@ -158,7 +168,7 @@ for brand, blends in sorted(by_brand.items()):
             cb = next(c for x, c in blends if x == b)
             near_dupes.append((ratio, brand, a, ca, b, cb))
 
-# 2. Same blend name, different brand (possible mis-brand)
+# 3. Same blend name, different brand (possible mis-brand)
 by_blend = {}
 for brand, blend, cnt in entries:
     by_blend.setdefault(norm(blend), []).append((brand, blend, cnt))
@@ -167,7 +177,11 @@ cross_brand = [(g[0][1], [(br, cnt) for br, _, cnt in g])
                for g in by_blend.values()
                if len({br for br, _, _ in g}) > 1]
 
-print("=== NEAR-DUPLICATE BLENDS (same brand, similarity >= 0.85) ===")
+print("=== NEAR-DUPLICATE BRAND NAMES ===")
+for ratio, a, ca, b, cb in sorted(brand_dupes, reverse=True):
+    print(f"[{ratio:.2f}] '{a}' ({ca}x total) vs '{b}' ({cb}x total)")
+
+print("\n=== NEAR-DUPLICATE BLENDS (same brand, similarity >= 0.85) ===")
 for ratio, brand, a, ca, b, cb in sorted(near_dupes, reverse=True):
     print(f"[{ratio:.2f}] {brand}: '{a}' ({ca}x) vs '{b}' ({cb}x)")
 
