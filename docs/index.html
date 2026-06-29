@@ -422,7 +422,8 @@
       color: #8a6a4a;
       margin-bottom: .6rem;
     }
-    .ppo-chart-section svg { max-width: 420px; }
+    .ppo-chart-host { width: 100%; }
+    .ppo-chart-section svg { width: 100%; height: auto; display: block; }
     .ppo-dot { cursor: pointer; transition: r .1s, fill-opacity .1s; }
     .ppo-dot:hover { fill-opacity: 1; }
     .ppo-tooltip {
@@ -744,7 +745,10 @@
     ];
   }
 
-  function ppoChartSVG(t) {
+  function ppoChartSVG(t, cw) {
+    // `cw` is the host's pixel width. The SVG's viewBox uses those same pixel
+    // units (1 unit = 1px), so font-size/radius values render at their literal
+    // px size regardless of screen width — re-rendered on resize.
     // Plot $/oz (y) against the tin year (x). The tin year is the real
     // driver of price spread, so putting it on the axis turns the old
     // confound into the subject. Listings with no parseable year fall into a
@@ -768,8 +772,8 @@
     const pts = known.concat(unknown);
     if (pts.length < 1) return "";
 
-    const W = 500, H = 88;
-    const PL = 46, PR = 12, PT = 6, PB = 20;
+    const W = Math.max(320, Math.round(cw || 500)), H = 170;
+    const PL = 54, PR = 16, PT = 14, PB = 30;
     const plotW = W - PL - PR, plotH = H - PT - PB;
 
     // ── x domain: vintage years (+ optional "Current?" column) ──
@@ -826,12 +830,12 @@
     const grid = yTicks.map(v => {
       const y = toY(v).toFixed(1);
       return `<line x1="${PL}" y1="${y}" x2="${W - PR}" y2="${y}" stroke="#e8dcc8" stroke-width="1"/>
-        <text x="${PL - 4}" y="${y}" text-anchor="end" dominant-baseline="middle" fill="#8a6a4a" font-size="5">$${v.toFixed(2)}</text>`;
+        <text x="${PL - 6}" y="${y}" text-anchor="end" dominant-baseline="middle" fill="#8a6a4a" font-size="12">$${v.toFixed(2)}</text>`;
     }).join("");
 
     const xLabels = xTicks.map(tk => {
       const x = toX(tk.x).toFixed(1);
-      return `<text x="${x}" y="${(PT + plotH + 11).toFixed(1)}" text-anchor="middle" fill="#8a6a4a" font-size="5">${esc(tk.label)}</text>`;
+      return `<text x="${x}" y="${(PT + plotH + 18).toFixed(1)}" text-anchor="middle" fill="#8a6a4a" font-size="12">${esc(tk.label)}</text>`;
     }).join("");
 
     // ── median $/oz per column: short dash, no connecting line (a line would
@@ -845,12 +849,12 @@
         const mid = Math.floor(s.length / 2);
         const med = s.length % 2 ? s[mid] : (s[mid - 1] + s[mid]) / 2;
         const cx = toX(Number(x));
-        return `<line x1="${(cx - 5.5).toFixed(1)}" y1="${toY(med).toFixed(1)}" x2="${(cx + 5.5).toFixed(1)}" y2="${toY(med).toFixed(1)}" stroke="#FF69AF" stroke-width="0.9" stroke-opacity=".55"/>`;
+        return `<line x1="${(cx - 13).toFixed(1)}" y1="${toY(med).toFixed(1)}" x2="${(cx + 13).toFixed(1)}" y2="${toY(med).toFixed(1)}" stroke="#FF69AF" stroke-width="2" stroke-opacity=".55"/>`;
       }).join("");
 
     // Individual dots — carry listing data for tooltip
     const dots = pts.map(p =>
-      `<circle cx="${toX(p.x).toFixed(1)}" cy="${toY(p.ppo).toFixed(1)}" r="2.6"
+      `<circle cx="${toX(p.x).toFixed(1)}" cy="${toY(p.ppo).toFixed(1)}" r="5"
         fill="#FF69AF" fill-opacity=".85" class="ppo-dot"
         data-ppo="${p.ppo.toFixed(2)}"
         data-price="${esc(p.price)}" data-source="${esc(p.source)}"
@@ -940,7 +944,6 @@
       : `${activeCount} of ${totalCount}`;
     const activeSrcs = (t.sources || []).filter(s => ACTIVE_SOURCES.has(s));
     const ppoLabel = tinPricePerOzLabel(t);
-    const chart = ppoChartSVG(t);
 
     detailContent.innerHTML = `
       <div class="detail-card">
@@ -951,11 +954,36 @@
           <span class="lbl">Listings</span><span class="val">${listingsLabel}${t.years && t.years.length ? " · " + t.years.join(", ") : ""}</span>
           <span class="lbl">Sources</span><span class="val">${activeSrcs.join(", ") || "—"}</span>
         </div>
-        ${chart ? `<div class="ppo-chart-section"><div class="ppo-chart-label">$/oz by tin year</div>${chart}<div class="ppo-tooltip" hidden></div></div>` : ""}
+        <div class="ppo-chart-section"><div class="ppo-chart-label">$/oz by tin year</div><div class="ppo-chart-host"></div><div class="ppo-tooltip" hidden></div></div>
         ${sizeSections || '<p class="detail-empty">No listings match the current source filters.</p>'}
       </div>`;
+    // Measure on the next frame, once the detail view is visible, so the chart
+    // can be drawn at its true pixel width (1 SVG unit = 1px → real 12px text).
+    requestAnimationFrame(() => renderChartInto(t));
+  }
+
+  // Build the SVG at the host's current pixel width and attach interactions.
+  function renderChartInto(t) {
+    const section = detailContent.querySelector('.ppo-chart-section');
+    if (!section) return;
+    const host = section.querySelector('.ppo-chart-host');
+    const cw = host.clientWidth || section.clientWidth || 500;
+    const svg = ppoChartSVG(t, cw);
+    if (!svg) { section.remove(); return; }   // no plottable listings
+    host.innerHTML = svg;
     attachChartListeners();
   }
+
+  // Redraw the open chart on resize so text/dots keep their literal px size.
+  let _chartResizeRAF = null;
+  window.addEventListener('resize', () => {
+    if (_chartResizeRAF) cancelAnimationFrame(_chartResizeRAF);
+    _chartResizeRAF = requestAnimationFrame(() => {
+      if (detailView.style.display !== 'none' && currentDetailTin && !currentDetailTin._easter) {
+        renderChartInto(currentDetailTin);
+      }
+    });
+  });
 
   let _chartDismiss = null;
   function attachChartListeners() {
