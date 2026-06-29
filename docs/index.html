@@ -1148,8 +1148,8 @@
       .sort((a, b) => byName({ name: a.display_name }, { name: b.display_name }));
     TINS.forEach(t => { if (!t.sources) t.sources = t.source ? [t.source] : []; });
 
-    // 1-in-100 chance: slip in a special listing
-    if (Math.random() < 0.01 || location.hash === '#longbottom') {
+    // 1-in-20 chance: slip in a special listing
+    if (Math.random() < 0.05 || location.hash === '#longbottom') {
       TINS.push({
         id: "easteregg|pouchoflongbottomleaf",
         brand: "Easter Egg",
