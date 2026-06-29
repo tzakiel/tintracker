@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-29T19:16:17.112627+00:00",
+  "generated": "2026-06-29T23:04:58.556876+00:00",
   "stats": {
     "total_listings": 3186,
     "excluded_multipacks": 1264,
-    "total_tins": 883,
+    "total_tins": 884,
     "multi_member_tins": 350,
     "listings_in_groups": 1277,
     "cross_source_tins": 190
@@ -50886,6 +50886,42 @@
       "source": "Speak-Easy.Club"
     },
     {
+      "id": "tsuge|kagayaki",
+      "brand": "Tsuge",
+      "blend": "Kagayaki",
+      "display_name": "Tsuge Kagayaki",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Kagayaki",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/selling-a-chunk-of-my-cellar.44637/",
+              "price": "$35.00",
+              "last_updated": "2026-06-27T20:00:39.387042+00:00",
+              "first_seen": "2026-06-13T00:39:45+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$35.00",
+                  "date": "2026-06-13T00:39:45+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Speak-Easy.Club"
+    },
+    {
       "id": "twofriends|redwood",
       "brand": "Two Friends",
       "blend": "Redwood",
@@ -54227,6 +54263,7 @@
     "Half and Half": "halfandhalf|halfandhalf",
     "Velvet": "velvet|velvet",
     "Cringle Flake (Sweated)": "sutliff|cringleflakesweated",
+    "Kagayaki": "tsuge|kagayaki",
     "Old Dominion": "watchcity|olddominion",
     "Bell’s Three Nuns": "bells|threenuns",
     "C&D XXV Dusk": "cornelldiehl|xxvdusk",

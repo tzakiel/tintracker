@@ -263,6 +263,14 @@ def _table_to_lines(table):
          if any(k in h for k in ("item", "blend", "tobacco", "name", "desc"))),
         0,
     )
+    # A separate brand/maker column is common in cellar tables (Brand | Blend |
+    # … | Price). The blend cell alone ("Kagayaki") has no maker, so prepend the
+    # brand cell ("Tsuge") when present and distinct from the name column.
+    brand_col = next(
+        (i for i, h in enumerate(headers)
+         if any(k in h for k in ("brand", "maker", "manufacturer"))),
+        None,
+    )
 
     lines = []
     for row in rows[data_start:]:
@@ -272,6 +280,10 @@ def _table_to_lines(table):
         name = cells[name_col].get_text(strip=True) if name_col < len(cells) else ""
         if not name:
             continue
+        if brand_col is not None and brand_col != name_col and brand_col < len(cells):
+            brand = cells[brand_col].get_text(strip=True)
+            if brand and brand.lower() not in name.lower():
+                name = f"{brand} {name}".strip()
         price_text = (
             cells[price_col].get_text(strip=True)
             if price_col is not None and price_col < len(cells)
