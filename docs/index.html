@@ -416,12 +416,13 @@
       margin-bottom: 1.5rem;
     }
     .ppo-chart-label {
-      font-size: .78rem;
+      font-size: .72rem;
       text-transform: uppercase;
       letter-spacing: .07em;
       color: #8a6a4a;
       margin-bottom: .6rem;
     }
+    .ppo-chart-section svg { max-width: 420px; }
     .ppo-dot { cursor: pointer; transition: r .1s, fill-opacity .1s; }
     .ppo-dot:hover { fill-opacity: 1; }
     .ppo-tooltip {
@@ -825,12 +826,12 @@
     const grid = yTicks.map(v => {
       const y = toY(v).toFixed(1);
       return `<line x1="${PL}" y1="${y}" x2="${W - PR}" y2="${y}" stroke="#e8dcc8" stroke-width="1"/>
-        <text x="${PL - 5}" y="${y}" text-anchor="end" dominant-baseline="middle" fill="#8a6a4a" font-size="7">$${v.toFixed(2)}</text>`;
+        <text x="${PL - 5}" y="${y}" text-anchor="end" dominant-baseline="middle" fill="#8a6a4a" font-size="6">$${v.toFixed(2)}</text>`;
     }).join("");
 
     const xLabels = xTicks.map(tk => {
       const x = toX(tk.x).toFixed(1);
-      return `<text x="${x}" y="${(PT + plotH + 13).toFixed(1)}" text-anchor="middle" fill="#8a6a4a" font-size="7">${esc(tk.label)}</text>`;
+      return `<text x="${x}" y="${(PT + plotH + 13).toFixed(1)}" text-anchor="middle" fill="#8a6a4a" font-size="6">${esc(tk.label)}</text>`;
     }).join("");
 
     // ── median $/oz per column: short dash, no connecting line (a line would
@@ -844,12 +845,12 @@
         const mid = Math.floor(s.length / 2);
         const med = s.length % 2 ? s[mid] : (s[mid - 1] + s[mid]) / 2;
         const cx = toX(Number(x));
-        return `<line x1="${(cx - 10).toFixed(1)}" y1="${toY(med).toFixed(1)}" x2="${(cx + 10).toFixed(1)}" y2="${toY(med).toFixed(1)}" stroke="#FF69AF" stroke-width="1.5" stroke-opacity=".55"/>`;
+        return `<line x1="${(cx - 7).toFixed(1)}" y1="${toY(med).toFixed(1)}" x2="${(cx + 7).toFixed(1)}" y2="${toY(med).toFixed(1)}" stroke="#FF69AF" stroke-width="1" stroke-opacity=".55"/>`;
       }).join("");
 
     // Individual dots — carry listing data for tooltip
     const dots = pts.map(p =>
-      `<circle cx="${toX(p.x).toFixed(1)}" cy="${toY(p.ppo).toFixed(1)}" r="5"
+      `<circle cx="${toX(p.x).toFixed(1)}" cy="${toY(p.ppo).toFixed(1)}" r="3.5"
         fill="#FF69AF" fill-opacity=".85" class="ppo-dot"
         data-ppo="${p.ppo.toFixed(2)}"
         data-price="${esc(p.price)}" data-source="${esc(p.source)}"
