@@ -538,7 +538,7 @@
   let TINS = [];                    // consolidated tins
   let ENRICH = {};                  // raw name -> { weight, year } from canonical
   let SORT = { key: "updated", dir: "desc" };
-  let DETAIL_SORT = { key: "year", dir: "desc" };
+  let DETAIL_SORT = { key: "date", dir: "desc" };
   let ACTIVE_SOURCES = new Set();   // sources currently shown (empty = none)
   let lastListState = null; // remembers what was showing before detail
   let currentDetailTin = null;      // tin currently shown in detail view
