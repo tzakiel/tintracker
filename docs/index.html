@@ -1301,16 +1301,37 @@
     if (mobileSort) mobileSort.value = `${SORT.key}:${SORT.dir}`;
   }
 
-  // Sources on by default, in display order (others follow, alphabetical, off).
-  const DEFAULT_ON = ["Speak-Easy.Club"];
+  // Display order for source chips; all start on by default.
+  const SOURCE_ORDER = [
+    "Speak-Easy.Club",
+    "pipestud.com",
+    "Tinbids Auction (Sold)",
+    "Treasured Smokes",
+    "4noggins.com",
+  ];
+
+  // Hash → single-source filter URLs (e.g. index.html#speakeasy)
+  const HASH_TO_SOURCE = {
+    "speakeasy":      "Speak-Easy.Club",
+    "pipestud":       "pipestud.com",
+    "tinbids":        "Tinbids Auction (Sold)",
+    "treasuredsmokes":"Treasured Smokes",
+    "4noggins":       "4noggins.com",
+  };
 
   function buildSourceFilters() {
     const present = new Set(TINS.flatMap(t => t.sources || []));
-    const leading = DEFAULT_ON.filter(s => present.has(s));
-    const rest = [...present].filter(s => !DEFAULT_ON.includes(s)).sort();
+    const leading = SOURCE_ORDER.filter(s => present.has(s));
+    const rest = [...present].filter(s => !SOURCE_ORDER.includes(s)).sort();
     const sources = [...leading, ...rest];
 
-    ACTIVE_SOURCES = new Set(leading);  // only the defaults start on
+    // Hash URL → only that one source active; otherwise all sources on.
+    const hash = location.hash.slice(1).toLowerCase();
+    const hashSource = HASH_TO_SOURCE[hash];
+    ACTIVE_SOURCES = (hashSource && present.has(hashSource))
+      ? new Set([hashSource])
+      : new Set(sources);
+
     const wrap = document.getElementById("source-filters");
     wrap.innerHTML = "";
     sources.forEach(src => {
