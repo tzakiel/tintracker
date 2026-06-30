@@ -1075,7 +1075,7 @@
 
   function showGroupDetail(t) {
     currentDetailTin = t;
-    DETAIL_SORT = { key: "year", dir: "desc" };
+    DETAIL_SORT = { key: "date", dir: "desc" };
     history.pushState({ detail: t.id }, "", "");
     renderDetailContent(t);
     mainView.style.display = "none";
