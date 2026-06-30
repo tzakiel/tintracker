@@ -1,0 +1,108 @@
+/* ─────────────────────────────────────────────
+   TinTracker · Design Tokens v2
+   Single source of truth for both index.html and admin.html
+   ───────────────────────────────────────────── */
+
+:root {
+  /* ── Surfaces ── */
+  --bg-page:        #f5f0e8;
+  --bg-card:        #ffffff;
+  --bg-surface:     #fdfbf8;
+  --bg-header:      #1a0e06;
+  --bg-row-alt:     #fdfbf8;
+  --bg-row-hover:   #fdf0eb;
+  --bg-chip:        #ffffff;
+  --bg-chip-active: #d45d35;
+  --bg-dropdown:    #ffffff;
+  --bg-tooltip:     #1a0e06;
+  --bg-positive:    #daf0d2;
+
+  /* ── Text ── */
+  --text-primary:     #1a0f08;
+  --text-strong:      #3d2810;
+  --text-link:        #5c3820;
+  --text-muted:       #7a5a3c;
+  --text-soft:        #7a5a3c;
+  --text-faint:       #a88060;
+  --text-placeholder: #c4a07e;
+  --text-header:      #fdf0e2;
+  --text-header-sub:  #c4a07e;
+  --text-header-link: #e8c888;
+  --text-accent:      #d45d35;
+  --text-label:       #a88060;
+  --text-tooltip:     #fdf0e2;
+  --text-positive:    #2a7018;
+
+  /* ── Borders ── */
+  --border-default: #e5d5be;
+  --border-card:    #f2eae0;
+  --border-subtle:  #f2eae0;
+  --border-focus:   #d45d35;
+
+  /* ── Accent ── */
+  --accent:       #d45d35;
+  --accent-hover: #b84a22;
+  --accent-dark:  #8f3518;
+  --accent-chart: #FF69AF;
+
+  /* ── Fonts ── */
+  --font-body:       "Work Sans", Helvetica, Arial, sans-serif;
+  --font-display:    "Young Serif", Georgia, serif;
+  --font-decorative: "Uncial Antiqua", serif;
+
+  /* ── Type scale ── */
+  --text-2xs:  0.65rem;
+  --text-xs:   0.70rem;
+  --text-sm:   0.78rem;
+  --text-base: 0.82rem;
+  --text-md:   0.90rem;
+  --text-rg:   1.00rem;
+  --text-lg:   1.15rem;
+  --text-xl:   1.20rem;
+  --text-2xl:  1.40rem;
+  --text-3xl:  1.70rem;
+  --text-hero: 2.50rem;
+
+  /* ── Weights ── */
+  --weight-normal:   400;
+  --weight-medium:   500;
+  --weight-semibold: 600;
+  --weight-bold:     700;
+
+  /* ── Letter spacing ── */
+  --tracking-wide:    0.03em;
+  --tracking-wider:   0.05em;
+  --tracking-widest:  0.07em;
+
+  /* ── Border radius ── */
+  --radius-xs:   4px;
+  --radius-sm:   6px;
+  --radius-md:   10px;
+  --radius-lg:   16px;
+  --radius-xl:   18px;
+  --radius-pill: 999px;
+
+  /* ── Shadows (brown-tinted, v2 two-layer) ── */
+  --shadow-header:      0 4px 14px rgba(18,8,4,.40);
+  --shadow-card:        0 1px 3px rgba(26,15,8,.04), 0 4px 18px rgba(26,15,8,.10);
+  --shadow-card-lg:     0 2px 6px rgba(26,15,8,.06), 0 8px 28px rgba(26,15,8,.11);
+  --shadow-input:       0 2px 10px rgba(26,15,8,.07);
+  --shadow-dropdown:    0 8px 24px rgba(26,15,8,.16);
+  --shadow-mobile-card: 0 1px 3px rgba(26,15,8,.05), 0 2px 10px rgba(26,15,8,.08);
+  --shadow-tooltip:     0 4px 14px rgba(0,0,0,.28);
+
+  /* ── Focus ring (terracotta) ── */
+  --focus-ring: 0 0 0 3px rgba(212,93,53,.18);
+
+  /* ── Page dot grid (subtle v2) ── */
+  --bg-dot-gradient: radial-gradient(rgba(150,110,60,.08) 1px, transparent 1.5px);
+  --bg-dot-size: 22px 22px;
+
+  /* ── Spacing (semantic) ── */
+  --padding-header:   1.4rem 1.5rem 1.6rem;
+  --padding-input:    0.75rem 1.15rem;
+  --padding-chip:     0.38rem 0.9rem;
+  --padding-cell:     0.65rem 1rem;
+  --padding-card:     1.6rem 1.85rem;
+  --padding-card-sm:  1.2rem 1.3rem;
+}
