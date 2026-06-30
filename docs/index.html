@@ -461,10 +461,10 @@
       box-shadow: var(--shadow-card-lg);
     }
     .detail-hero {
-      background: linear-gradient(140deg, #120904 0%, #231408 55%, #3a2010 100%);
+      background: #DCAE90;
       border-radius: 18px;
       padding: 2rem 2.2rem;
-      color: #fdf0e2;
+      color: #1a0f08;
       margin-bottom: 1.5rem;
     }
     .detail-name {
@@ -472,18 +472,18 @@
       font-size: 1.55rem;
       line-height: 1.3;
       margin-bottom: 1.2rem;
-      color: #fdf0e2;
+      color: #1a0f08;
     }
     .detail-price {
       font-size: 2.4rem;
       font-weight: 700;
       line-height: 1;
       margin-bottom: 0.3rem;
-      color: #fdf0e2;
+      color: #1a0f08;
     }
     .detail-ppo {
       font-size: 0.95rem;
-      color: #c4a07e;
+      color: #5c3820;
     }
     .detail-meta {
       display: grid;
@@ -507,7 +507,18 @@
       padding-top: 1rem;
     }
     .history-table { box-shadow: none; border-radius: var(--radius-sm); overflow: hidden; }
-    .history-table thead { background: var(--bg-header); }
+    .history-table thead { background: var(--bg-card); }
+    .history-table thead tr { border-bottom: 1.5px solid #ede5d8; }
+    .history-table thead th {
+      font-family: 'Work Sans', sans-serif;
+      font-size: 0.67rem;
+      font-weight: 700;
+      letter-spacing: 0.10em;
+      text-transform: uppercase;
+      color: #a88060;
+      white-space: nowrap;
+    }
+    .history-table thead th:hover { color: #7a5a3c; }
     .history-table td, .history-table th { padding: .5rem .85rem; font-size: var(--text-sm); }
     .history-table td { overflow-wrap: break-word; }
 
