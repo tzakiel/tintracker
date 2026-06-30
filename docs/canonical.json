@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-30T15:14:16.394494+00:00",
+  "generated": "2026-06-30T16:09:30.795409+00:00",
   "stats": {
-    "total_listings": 3273,
-    "excluded_multipacks": 1290,
+    "total_listings": 3291,
+    "excluded_multipacks": 1291,
     "total_tins": 919,
     "multi_member_tins": 382,
     "listings_in_groups": 1411,
@@ -25116,15 +25116,19 @@
             {
               "name": "Germain Medium Flake 2015 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/195512/",
-              "price": "$108.00",
-              "last_updated": "2026-06-23T16:00:46.765633+00:00",
+              "url": "https://tinbids.com/auction/198051/",
+              "price": "$92.00",
+              "last_updated": "2026-06-30T16:00:51.219994+00:00",
               "first_seen": "2026-06-23T16:00:46.765633+00:00",
               "year": "2015",
               "price_history": [
                 {
                   "price": "$108.00",
                   "date": "2026-06-23T16:00:46.765633+00:00"
+                },
+                {
+                  "price": "$92.00",
+                  "date": "2026-06-30T16:00:51.219994+00:00"
                 }
               ]
             }
@@ -32029,15 +32033,19 @@
             {
               "name": "MacBaren Stockton Spun Cut Limited Edition 2020 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/195513/",
-              "price": "$62.00",
-              "last_updated": "2026-06-23T16:00:46.765633+00:00",
+              "url": "https://tinbids.com/auction/198055/",
+              "price": "$63.00",
+              "last_updated": "2026-06-30T16:00:51.219994+00:00",
               "first_seen": "2026-06-23T16:00:46.765633+00:00",
               "year": "2020",
               "price_history": [
                 {
                   "price": "$62.00",
                   "date": "2026-06-23T16:00:46.765633+00:00"
+                },
+                {
+                  "price": "$63.00",
+                  "date": "2026-06-30T16:00:51.219994+00:00"
                 }
               ]
             }
@@ -57547,6 +57555,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|darkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Germain Medium Flake 2015 NR": "jfgermain|mediumflake",
+    "MacBaren Stockton Spun Cut Limited Edition 2020 NR": "macbaren|stocktonspuncut",
     "Esoterica Tobacciana Butera’s Margate 8 oz. Sealed Pipe Tobacco Germain & Son, UK": "esoterica|margate",
     "Very Nice Sealed 2018 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
     "Esoterica Dorchester 2oz Tin Released 2025": "esoterica|dorchester",
@@ -57735,8 +57745,6 @@
     "Germain Century 2016 NR": "jfgermain|century",
     "Germain ‘BRIDGE: Old Brown Flake 2017 NR": "jfgermain|bridgeoldbrownflake",
     "Germain King Charles Smoking Mixture 2015 NR": "jfgermain|kingcharlesmixture",
-    "Germain Medium Flake 2015 NR": "jfgermain|mediumflake",
-    "MacBaren Stockton Spun Cut Limited Edition 2020 NR": "macbaren|stocktonspuncut",
     "John Cotton’s Smyrna 2016 NR": "johncottons|smyrna",
     "Dunhill My Mixture No. 965, c. 1954–1958 Sealed 4oz Knife-Lid Tin, Pressure-Bulging Late King George VI Era Survivor": "dunhill|mymixtureno965",
     "John Cotton’s Number 1 2016 NR": "johncottons|number1",
