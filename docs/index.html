@@ -172,6 +172,45 @@
        narrow desktop window, scroll the table rather than breaking the page. */
     #results { overflow-x: auto; }
 
+    /* ── pagination ── */
+    .pagination {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      gap: .35rem;
+      margin: 1.25rem 0 .25rem;
+    }
+    .page-info {
+      width: 100%;
+      text-align: center;
+      color: #8a6a4a;
+      font-size: .78rem;
+      font-style: italic;
+      margin-bottom: .15rem;
+    }
+    .page-btn {
+      min-width: 2.1rem;
+      padding: .38rem .6rem;
+      font: inherit;
+      font-size: .82rem;
+      border: 2px solid #d8b483;
+      border-radius: 999px;
+      background: #fffdf8;
+      color: #9b7b5a;
+      cursor: pointer;
+      transition: background .12s, color .12s, border-color .12s;
+    }
+    .page-btn:hover:not(:disabled):not(.active) { border-color: #cf8a73; color: #b06a50; }
+    .page-btn.active {
+      background: #cf8a73;
+      border-color: #cf8a73;
+      color: #fff;
+      cursor: default;
+    }
+    .page-btn:disabled { opacity: .4; cursor: default; }
+    .page-ellipsis { color: #b89a78; padding: 0 .15rem; user-select: none; }
+
     /* ── mobile cards ── */
     @media (max-width: 600px) {
       header h1 { font-size: 1.3rem; }
@@ -539,6 +578,10 @@
   let ENRICH = {};                  // raw name -> { weight, year } from canonical
   let SORT = { key: "updated", dir: "desc" };
   let DETAIL_SORT = { key: "date", dir: "desc" };
+  const PAGE_SIZE = 50;             // max rows per page (both views)
+  let PAGE = 1;                     // current page, main list view
+  let DETAIL_PAGE = 1;              // current page, detail listings table
+  let _mainCtx = null;              // last main-view render args, for page nav
   let ACTIVE_SOURCES = new Set();   // sources currently shown (empty = none)
   let lastListState = null; // remembers what was showing before detail
   let currentDetailTin = null;      // tin currently shown in detail view
@@ -636,8 +679,15 @@
       { key: "source", label: "Source" },
       { key: "date",   label: "Date"   },
     ];
+    // ── paginate (50 max per page) ──
+    const totalPages = Math.max(1, Math.ceil(sorted.length / PAGE_SIZE));
+    if (DETAIL_PAGE > totalPages) DETAIL_PAGE = totalPages;
+    if (DETAIL_PAGE < 1) DETAIL_PAGE = 1;
+    const pageStart = (DETAIL_PAGE - 1) * PAGE_SIZE;
+    const pageRows = sorted.slice(pageStart, pageStart + PAGE_SIZE);
+
     const head = cols.map(c => `<th data-key="${c.key}">${c.label} ${arrow(c.key)}</th>`).join("");
-    const body = sorted.map(m => {
+    const body = pageRows.map(m => {
       const src = m.url
         ? `<a href="${m.url}" target="_blank" rel="noopener">${esc(m.source || "link")}</a>`
         : esc(m.source || "—");
@@ -670,13 +720,15 @@
       <table class="history-table">
         <thead><tr>${head}</tr></thead>
         <tbody>${body}</tbody>
-      </table>`;
+      </table>
+      ${pagerHTML(DETAIL_PAGE, totalPages, pageRows.length, n, n === 1 ? "listing" : "listings")}`;
 
     const detailSortSel = container.querySelector(".detail-mobile-sort");
     detailSortSel.value = `${DETAIL_SORT.key}:${DETAIL_SORT.dir}`;
     detailSortSel.addEventListener("change", () => {
       const [k, d] = detailSortSel.value.split(":");
       DETAIL_SORT.key = k; DETAIL_SORT.dir = d;
+      DETAIL_PAGE = 1;   // re-sorting returns to the first page
       renderDetailTable(t, container);
     });
 
@@ -685,7 +737,17 @@
         const k = th.dataset.key;
         if (DETAIL_SORT.key === k) DETAIL_SORT.dir = DETAIL_SORT.dir === "asc" ? "desc" : "asc";
         else { DETAIL_SORT.key = k; DETAIL_SORT.dir = "asc"; }
+        DETAIL_PAGE = 1;   // re-sorting returns to the first page
         renderDetailTable(t, container);
+      });
+    });
+
+    container.querySelectorAll(".page-btn[data-page]").forEach(b => {
+      b.addEventListener("click", () => {
+        if (b.disabled) return;
+        DETAIL_PAGE = parseInt(b.dataset.page, 10);
+        renderDetailTable(t, container);
+        window.scrollTo(0, 0);
       });
     });
   }
@@ -712,6 +774,38 @@
     window.scrollTo(0, 0);
   }
 
+  /* ── pagination helpers ── */
+  // Page numbers to show: always first & last, plus a ±2 window around current,
+  // with "…" gaps collapsed in between.
+  function pageList(cur, total) {
+    const want = new Set([1, total, cur - 2, cur - 1, cur, cur + 1, cur + 2]);
+    const pages = [...want].filter(p => p >= 1 && p <= total).sort((a, b) => a - b);
+    const out = [];
+    let prev = 0;
+    for (const p of pages) {
+      if (p - prev > 1) out.push("…");
+      out.push(p);
+      prev = p;
+    }
+    return out;
+  }
+
+  // Build the pager bar (range info + Prev / numbers / Next). Empty when ≤1 page.
+  function pagerHTML(cur, total, shown, totalRows, noun) {
+    if (total <= 1) return "";
+    const lo = (cur - 1) * PAGE_SIZE + 1;
+    const hi = lo + shown - 1;
+    const info = `<div class="page-info">Showing ${lo}–${hi} of ${totalRows} ${noun}</div>`;
+    const btn = (p, label, { active = false, disabled = false } = {}) =>
+      `<button class="page-btn${active ? " active" : ""}" data-page="${p}"${disabled ? " disabled" : ""}>${label}</button>`;
+    const parts = [btn(cur - 1, "‹ Prev", { disabled: cur === 1 })];
+    for (const p of pageList(cur, total)) {
+      parts.push(p === "…" ? `<span class="page-ellipsis">…</span>` : btn(p, String(p), { active: p === cur }));
+    }
+    parts.push(btn(cur + 1, "Next ›", { disabled: cur === total }));
+    return `<div class="pagination">${info}${parts.join("")}</div>`;
+  }
+
   /* ── generic sortable table (drives both views) ── */
   function sortRows(rows, columns) {
     const col = columns.find(c => c.key === SORT.key) || columns[0];
@@ -724,15 +818,25 @@
   }
 
   function renderSortableTable(rows, columns, onRowClick, label) {
+    _mainCtx = { rows, columns, onRowClick, label };
     statusEl.textContent = label || "";
     if (!rows.length) { resultsEl.innerHTML = ""; return; }
     const sorted = sortRows(rows, columns);
+
+    // ── paginate (50 max per page) ──
+    const totalPages = Math.max(1, Math.ceil(sorted.length / PAGE_SIZE));
+    if (PAGE > totalPages) PAGE = totalPages;
+    if (PAGE < 1) PAGE = 1;
+    const start = (PAGE - 1) * PAGE_SIZE;
+    const pageRows = sorted.slice(start, start + PAGE_SIZE);
+
     const arrow = k => SORT.key === k ? `<span class="sort-ind">${SORT.dir === "asc" ? "▲" : "▼"}</span>` : "";
     const head = columns.map(c => `<th data-key="${c.key}">${c.label} ${arrow(c.key)}</th>`).join("");
-    const body = sorted.map(r =>
+    const body = pageRows.map(r =>
       `<tr${r._easter ? ' class="easter-egg-row"' : ''}>${columns.map(c => `<td class="${c.cls}" data-label="${c.label}">${c.cell(r)}</td>`).join("")}</tr>`
     ).join("");
-    resultsEl.innerHTML = `<table><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>`;
+    resultsEl.innerHTML = `<table><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>`
+      + pagerHTML(PAGE, totalPages, pageRows.length, sorted.length, sorted.length === 1 ? "tin" : "tins");
 
     resultsEl.querySelectorAll("thead th").forEach(th => {
       th.addEventListener("click", () => {
@@ -743,7 +847,15 @@
       });
     });
     resultsEl.querySelectorAll("tbody tr").forEach((tr, i) => {
-      tr.addEventListener("click", () => onRowClick(sorted[i]));
+      tr.addEventListener("click", () => onRowClick(pageRows[i]));
+    });
+    resultsEl.querySelectorAll(".page-btn[data-page]").forEach(b => {
+      b.addEventListener("click", () => {
+        if (b.disabled) return;
+        PAGE = parseInt(b.dataset.page, 10);
+        renderSortableTable(_mainCtx.rows, _mainCtx.columns, _mainCtx.onRowClick, _mainCtx.label);
+        window.scrollTo(0, 0);
+      });
     });
   }
 
@@ -960,6 +1072,7 @@
   }
 
   function renderDetailContent(t) {
+    DETAIL_PAGE = 1;   // opening a tin or changing source filters resets to page 1
     if (t._easter) {
       detailContent.innerHTML = `
         <div class="detail-card">
@@ -1086,6 +1199,7 @@
   // Render search results if there's a query, otherwise the full list —
   // always filtered by the active sources, in the current view mode.
   function render() {
+    PAGE = 1;   // any filter/search/sort change returns to the first page
     const q = qEl.value.trim().toLowerCase();
     let list = TINS.filter(tinActive);
     if (q) list = list.filter(t =>
