@@ -401,6 +401,13 @@
       .history-table .listing-name { max-width: none; margin-top: .2rem; }
 
       #mobile-sort, .detail-mobile-sort { display: block; }
+
+      /* main view only: pull the pill closer to the search bar's own spacing,
+         then tuck it right up against the listings — #meta is an empty spacer
+         whose margin would otherwise collapse through and re-open the gap below */
+      .search-wrap { margin-bottom: 2.25rem; }
+      #mobile-sort { margin-bottom: .35rem; }
+      #meta { margin-bottom: 0; }
     }
 
 
