@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-30T19:16:14.265702+00:00",
+  "generated": "2026-07-01T04:08:17.115995+00:00",
   "stats": {
-    "total_listings": 3291,
-    "excluded_multipacks": 1291,
+    "total_listings": 3325,
+    "excluded_multipacks": 1292,
     "total_tins": 919,
     "multi_member_tins": 382,
     "listings_in_groups": 1411,
@@ -2614,9 +2614,9 @@
             {
               "name": "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 2003",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/196440/",
-              "price": "$194.00",
-              "last_updated": "2026-06-26T04:00:26.274584+00:00",
+              "url": "https://tinbids.com/auction/198303/",
+              "price": "$202.00",
+              "last_updated": "2026-07-01T04:00:37.972075+00:00",
               "first_seen": "2026-06-22T13:53:20.063064+00:00",
               "year": "2003",
               "price_history": [
@@ -2627,6 +2627,10 @@
                 {
                   "price": "$194.00",
                   "date": "2026-06-26T04:00:26.274584+00:00"
+                },
+                {
+                  "price": "$202.00",
+                  "date": "2026-07-01T04:00:37.972075+00:00"
                 }
               ]
             },
@@ -32576,15 +32580,19 @@
             {
               "name": "McClelland’s 3 Oaks Original Syrian Latakia English Blend Sealed 50g Pipe Tobacco Tin 2012",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/196483/",
-              "price": "$125.00",
-              "last_updated": "2026-06-26T04:00:26.274584+00:00",
+              "url": "https://tinbids.com/auction/198351/",
+              "price": "$145.67",
+              "last_updated": "2026-07-01T04:00:37.972075+00:00",
               "first_seen": "2026-06-25T20:22:17+00:00",
               "year": "2012",
               "price_history": [
                 {
                   "price": "$125.00",
                   "date": "2026-06-25T20:22:17+00:00"
+                },
+                {
+                  "price": "$145.67",
+                  "date": "2026-07-01T04:00:37.972075+00:00"
                 }
               ]
             }
@@ -38095,15 +38103,19 @@
             {
               "name": "Tobacco Tin Mc Clelland Syrian Super Balkan 2004 Out of Production",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/196477/",
-              "price": "$115.00",
-              "last_updated": "2026-06-26T04:00:26.274584+00:00",
+              "url": "https://tinbids.com/auction/198345/",
+              "price": "$90.00",
+              "last_updated": "2026-07-01T04:00:37.972075+00:00",
               "first_seen": "2026-06-25T20:19:53+00:00",
               "year": "2004",
               "price_history": [
                 {
                   "price": "$115.00",
                   "date": "2026-06-25T20:19:53+00:00"
+                },
+                {
+                  "price": "$90.00",
+                  "date": "2026-07-01T04:00:37.972075+00:00"
                 }
               ]
             }
@@ -57571,6 +57583,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|darkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 2003": "butera|pelican",
+    "Tobacco Tin Mc Clelland Syrian Super Balkan 2004 Out of Production": "mcclelland|syriansuperbalkan",
+    "McClelland’s 3 Oaks Original Syrian Latakia English Blend Sealed 50g Pipe Tobacco Tin 2012": "mcclelland|3oakssyrian",
     "Germain Medium Flake 2015 NR": "jfgermain|mediumflake",
     "MacBaren Stockton Spun Cut Limited Edition 2020 NR": "macbaren|stocktonspuncut",
     "Esoterica Tobacciana Butera’s Margate 8 oz. Sealed Pipe Tobacco Germain & Son, UK": "esoterica|margate",
@@ -57686,7 +57701,6 @@
     "2016 Frog Morton Across The Pond with Syrian Latakia by McClelland 10 Years of Age": "mcclelland|frogmortonacrossthepond",
     "Bell’s Three Nuns 1.75oz tin by Mac Baren from Jul 2017 with 9 years of age on it": "bells|threenuns",
     "2017 Frog Morton on the log 50 gram": "mcclelland|frogmorton",
-    "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 2003": "butera|pelican",
     "McClelland Grand Orientals - Yenidje Highlander": "mcclelland|grandorientalsyenidjehighlander",
     "McClelland Grand Orientals - Yenidje Supreme": "mcclelland|grandorientalsyenidjesupreme",
     "McClelland - Rose of Latakia": "mcclelland|roseoflatakia",
@@ -57709,8 +57723,6 @@
     "Dunhill My Mixture BB1938 1.76 oz’s Pipe Tobacco Sealed Tin Made in Denmark 2018": "dunhill|mymixturebb1938",
     "Collectible G.L. Pease Jack Knife Ready Rubbed 50g Sealed Pipe Tobacco Tin 2020": "glpease|jackknifereadyrubbed",
     "Germain & Son Esoterica DUNBAR 8oz Sealed Bag": "esoterica|dunbar",
-    "Tobacco Tin Mc Clelland Syrian Super Balkan 2004 Out of Production": "mcclelland|syriansuperbalkan",
-    "McClelland’s 3 Oaks Original Syrian Latakia English Blend Sealed 50g Pipe Tobacco Tin 2012": "mcclelland|3oakssyrian",
     "33 yrs Levin Pipes International 3 Oaks English Blend Sealed 50g Pipe Tobacco Tin ‘93": "mcclelland|3oaksoriginalblend",
     "R & L Robert Lewis Wingfield Mixture Sealed Tin 50g Pipe Tobacco 2012": "robertlewis|wingfieldmixture",
     "22 Year Vintage ~ E. Hoffman Company Spilman Mixture 7 ozo Tin.": "ehoffmancompany|spilmanmixture",
