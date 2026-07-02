@@ -408,6 +408,15 @@
       .search-wrap { margin-bottom: 2.25rem; }
       #mobile-sort { margin-bottom: .35rem; }
       #meta { margin-bottom: 0; }
+      /* #status also sits empty on the default (no-search) view — its
+         reserved min-height/margin was re-opening the gap #meta closed */
+      #status:empty { min-height: 0; margin-bottom: 0; }
+
+      /* iOS Safari zooms the whole page in on focus for any input/select
+         with a computed font-size under 16px, which is what made the layout
+         feel "unlocked" and horizontally swipeable on phones */
+      .search-wrap input,
+      #mobile-sort, .detail-mobile-sort { font-size: var(--text-rg); }
     }
 
 
