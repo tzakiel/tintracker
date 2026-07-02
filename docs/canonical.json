@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-02T15:14:16.457457+00:00",
+  "generated": "2026-07-02T16:07:55.383175+00:00",
   "stats": {
-    "total_listings": 3398,
-    "excluded_multipacks": 1320,
+    "total_listings": 3410,
+    "excluded_multipacks": 1323,
     "total_tins": 938,
     "multi_member_tins": 393,
     "listings_in_groups": 1472,
@@ -6430,15 +6430,19 @@
             {
               "name": "Cornell & Diehl KAJUN KAKE 2024 - 8 oz TIN",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/200112/",
-              "price": "$55.00",
-              "last_updated": "2026-07-01T04:00:37.972075+00:00",
+              "url": "https://tinbids.com/auction/200471/",
+              "price": "$46.00",
+              "last_updated": "2026-07-02T16:00:35.884159+00:00",
               "first_seen": "2026-07-01T02:22:22+00:00",
               "year": "2024",
               "price_history": [
                 {
                   "price": "$55.00",
                   "date": "2026-07-01T02:22:22+00:00"
+                },
+                {
+                  "price": "$46.00",
+                  "date": "2026-07-02T16:00:35.884159+00:00"
                 }
               ]
             }
@@ -7454,7 +7458,7 @@
             {
               "name": "Cornell & Diehl Palmetto Balkan - 1 Tin BIN $100",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/199924/",
+              "url": "https://tinbids.com/auction/201345/",
               "price": "$100.00",
               "last_updated": "2026-06-28T16:00:29.276414+00:00",
               "first_seen": "2026-06-28T13:55:26+00:00",
@@ -60146,6 +60150,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|darkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Cornell & Diehl KAJUN KAKE 2024 - 8 oz TIN": "cornelldiehl|kajunkake",
     "Butera’s Royal Vintage Latakia No.1 Sealed 50g Pipe Tobacco Tin 1996": "butera|royalvintagelatakiano1",
     "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 2003": "butera|pelican",
     "Tobacco Tin Mc Clelland Syrian Super Balkan 2004 Out of Production": "mcclelland|syriansuperbalkan",
@@ -60176,7 +60181,6 @@
     "DUNHILL (1970s) THE ROYAL YACHT MIXTURE - 50 g Painted Lid, Opened Tin": "dunhill|royalyacht",
     "McCLELLAND (for Levin Pipes) Personal Reserve Series - BRITISH WOODS Mixture (c.1990) 4 oz - Sealed Tin": "mcclelland|britishwoods",
     "Erinmore Flake 50g Tin (2014)": "erinmore|flake",
-    "Cornell & Diehl KAJUN KAKE 2024 - 8 oz TIN": "cornelldiehl|kajunkake",
     "c. Late 1970s Sealed Paladin Blackcherry 14 oz Key-Wind Pipe Tobacco Tin": "paladin|blackcherry",
     "Granger 14oz can": "granger|granger",
     "Granger Vintage 7oz sealed Can": "granger|granger",
