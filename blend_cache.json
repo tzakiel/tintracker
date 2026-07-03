@@ -18053,7 +18053,7 @@
     "confidence": 0.9
   },
   "W.Ø. Larsen": {
-    "brand": "",
+    "brand": "W.O. Larsen",
     "blend": "",
     "is_tin": true,
     "confidence": 0.4
@@ -19509,5 +19509,299 @@
     "blend": "Black Cherry",
     "is_tin": true,
     "confidence": 0.6
+  },
+  "Country Squire Blue Ribbon |  | 1.6oz": {
+    "brand": "Country Squire",
+    "blend": "Blue Ribbon",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "Country Squire Cherokee |  | 2oz": {
+    "brand": "Country Squire",
+    "blend": "Cherokee",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "Country Squire Cordial Friends |  | 3.7oz": {
+    "brand": "Country Squire",
+    "blend": "Cordial Friends",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "Country Squire Cowboy Coffee | 2020 | 3.6oz": {
+    "brand": "Country Squire",
+    "blend": "Cowboy Coffee",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "Country Squire Figgy Pudding |  | 3.3oz": {
+    "brand": "Country Squire",
+    "blend": "Figgy Pudding",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "Country Squire Flour De Lis |  | 0.8oz": {
+    "brand": "Country Squire",
+    "blend": "Fleur De Lis",
+    "is_tin": true,
+    "confidence": 0.8
+  },
+  "Country Squire Green Dragon | 2020 | 1.5oz": {
+    "brand": "Country Squire",
+    "blend": "Green Dragon",
+    "is_tin": true,
+    "confidence": 0.7
+  },
+  "Country Squire Rivendell |  | 2.2oz": {
+    "brand": "Country Squire",
+    "blend": "Rivendell",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "Country Squire Tobac Du Chocolat |  | 1oz": {
+    "brand": "Country Squire",
+    "blend": "Tabac du Chocolat",
+    "is_tin": true,
+    "confidence": 0.8
+  },
+  "Country Squire Trumpeter |  | 2.2oz": {
+    "brand": "Country Squire",
+    "blend": "Trumpeter (Black Cherry)",
+    "is_tin": true,
+    "confidence": 0.8
+  },
+  "Dunhill Early Morning Pipe | 2016 | 1.3oz": {
+    "brand": "Dunhill",
+    "blend": "Early Morning Pipe",
+    "is_tin": true,
+    "confidence": 0.95
+  },
+  "G&H Bright CR Flake | 2020 | 3.59oz": {
+    "brand": "Gawith, Hoggarth & Co.",
+    "blend": "Bright CR Flake",
+    "is_tin": true,
+    "confidence": 0.95
+  },
+  "Gatlinbulier Burliers blend | 2022 | 5.4oz": {
+    "brand": "Gatlin-Burlier",
+    "blend": "Gatlin-Burley",
+    "is_tin": true,
+    "confidence": 0.45
+  },
+  "HH Arcadian Perique | 2015 | 2oz": {
+    "brand": "Mac Baren",
+    "blend": "HH Acadian Perique",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "L.J. Peretti No 8 Slice | 2017 | 1.3oz": {
+    "brand": "L.J. Peretti",
+    "blend": "No. 8 Slice",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "L.J. Peretti Park Square | 2017 | 1.4oz": {
+    "brand": "L.J. Peretti",
+    "blend": "Park Square",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "L.J. Peretti Thanksgiving Day | 2024? | 3.7oz": {
+    "brand": "L.J. Peretti",
+    "blend": "Thanksgiving Day",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "McClelland Raspberries in Cream |  | 1.9oz": {
+    "brand": "McClelland",
+    "blend": "No. 715 Raspberries in Cream",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "Stokkabye Black & Tan |  | 1.7oz": {
+    "brand": "Peter Stokkebye",
+    "blend": "Black and Tan",
+    "is_tin": true,
+    "confidence": 0.8
+  },
+  "Unknown Aromatic |  | 2.5oz": {
+    "brand": "",
+    "blend": "",
+    "is_tin": true,
+    "confidence": 0.3
+  },
+  "100G Orlik Golden Sliced 2016": {
+    "brand": "Orlik",
+    "blend": "Golden Sliced",
+    "is_tin": true,
+    "confidence": 0.95
+  },
+  "1980's Dunhill Standard Mixture Medium 100 Gram Tin": {
+    "brand": "Dunhill",
+    "blend": "Standard Mixture Medium",
+    "is_tin": true,
+    "confidence": 0.95
+  },
+  "2002 Smokers Haven Christmas Cheer 100g": {
+    "brand": "",
+    "blend": "",
+    "is_tin": true,
+    "confidence": 0.3
+  },
+  "2003 Smokers Haven Cognac 8oz": {
+    "brand": "Smokers' Haven",
+    "blend": "Cognac Blend",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "2004 Smokers Haven Exotique, 8oz": {
+    "brand": "Smokers' Haven",
+    "blend": "Exotique Mixture",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "2005 Rattrays Marlin flake 100g": {
+    "brand": "Rattray's",
+    "blend": "Marlin Flake",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "2005-2010 RATTRAY'S 3 NOGGINS --- ALMOST FULL OPENED TIN": {
+    "brand": "Rattray's",
+    "blend": "3 Noggins",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "2007 G.L. Pease Westminster- First Year of Production": {
+    "brand": "G.L. Pease",
+    "blend": "Westminster",
+    "is_tin": true,
+    "confidence": 0.95
+  },
+  "2011 G.L. PEASE ODYSSEY approx. 1.9 ounces": {
+    "brand": "G.L. Pease",
+    "blend": "Odyssey",
+    "is_tin": true,
+    "confidence": 0.95
+  },
+  "2013 McCLELLAND GRAND ORIENTALS BLACK SEA SOKHOUM approx. 1.9 ounces": {
+    "brand": "McClelland",
+    "blend": "Grand Orientals Black Sea Sokhoum",
+    "is_tin": true,
+    "confidence": 0.95
+  },
+  "2014 Balkan Sobranie": {
+    "brand": "J.F. Germain",
+    "blend": "Balkan Sobranie",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "2016 Cellared Dunhill lot": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false,
+    "confidence": 0.9
+  },
+  "2018 Mike and Russ The Mind Meld 50g tin Full Latakia Pipe Tobacco Mixture from 2018": {
+    "brand": "Mike & Russ",
+    "blend": "The Mind Meld Full Latakia",
+    "is_tin": true,
+    "confidence": 0.6
+  },
+  "8oz bag of Margate 2024": {
+    "brand": "Esoterica",
+    "blend": "Margate",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "BALKAN SOBRANIE 50g RARE": {
+    "brand": "J.F. Germain",
+    "blend": "Balkan Sobranie",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "Balkan Sobranie and Penzance Tins": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false,
+    "confidence": 0.85
+  },
+  "Butera’s Royal Vintage Latakia No.2 Sealed 50g Pipe Tobacco Tin 2016": {
+    "brand": "Butera",
+    "blend": "Royal Vintage Latakia No. 2",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "C&D Small Batch From Beyond 2025": {
+    "brand": "Cornell & Diehl",
+    "blend": "From Beyond",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "CARTER HALL and PRINCE ALBERT'S Pipe Tobacco - 1 1/2 OZ. Sealed Boxes": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false,
+    "confidence": 0.85
+  },
+  "CONWAY'S PRIVATE BLEND Pipe Mixture (1970s) 1 1/2 OZS. Sealed Box": {
+    "brand": "",
+    "blend": "",
+    "is_tin": true,
+    "confidence": 0.3
+  },
+  "Capstan Flake 2016": {
+    "brand": "Mac Baren",
+    "blend": "",
+    "is_tin": true,
+    "confidence": 0.4
+  },
+  "Capstan Ready Rubbed 2013": {
+    "brand": "Mac Baren",
+    "blend": "",
+    "is_tin": true,
+    "confidence": 0.4
+  },
+  "Collectible G.L. Pease Spark Plug 50g Sealed Pipe Tobacco Tin 2020": {
+    "brand": "G.L. Pease",
+    "blend": "Spark Plug",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Davidoff Flake Medallions 2016": {
+    "brand": "Davidoff",
+    "blend": "Flake Medallions",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Dorchester, Balkan Sobranie and Margate Tins": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false,
+    "confidence": 0.85
+  },
+  "Dorchester, Pembroke and And So To Bed Tins": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false,
+    "confidence": 0.85
+  },
+  "Dunhill Collector’s Lot of Seven x 1.75oz tins from 2017 and 2018": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false,
+    "confidence": 0.9
+  },
+  "Dunhill Durbar 50g tin from 2017. Rare, Hard to Find, and Discontinued Tobacco": {
+    "brand": "Dunhill",
+    "blend": "Durbar",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Dunhill Flake 2016 NR": {
+    "brand": "Dunhill",
+    "blend": "Flake",
+    "is_tin": true,
+    "confidence": 0.9
   }
 }
