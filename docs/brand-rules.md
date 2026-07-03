@@ -59,7 +59,7 @@ Note: "H&H Anniversary Flake" = Hearth & Home (not Mac Baren). "HH Anniversary K
 | "Va Slices" without brand | Sutliff | Virginia Slices |
 | "Rustica" alone | Mac Baren | HH Rustica (0.65 confidence; could also be SG Rustica Flake) |
 | "SPC PP Special Res." | Seattle Pipe Club | Plum Pudding Special Reserve |
-| "Oaks original English" | McClelland | 3 Oaks Original |
+| "Oaks original English" | McClelland | 3 Oaks Original Blend |
 | "Reiner Golden" | Reiner | Blend No. 71 |
 | "GH Best Brown Flake" / "Best Brown" | Gawith, Hoggarth & Co. | Best Brown Flake |
 
@@ -123,7 +123,7 @@ Note: "H&H Anniversary Flake" = Hearth & Home (not Mac Baren). "HH Anniversary K
 - **Mac Baren** — also makes: "HH Anniversary Kake", "Capstan Blue", "Capstan Yellow", "Navy Flake", "Pure Virginia", "Mixture Scottish Blend", "Brunello Flake", "Presbyterian Mixture", "Presbyterian Ordained", "St. Bruno Ready Rubbed", "St. Bruno Flake". Capstan blends: brand = "Mac Baren", blend = "Capstan Blue" or "Capstan Yellow" (full blend name, not just color).
 - **Samuel Gawith** — also makes: "Hansom Flake" (correct spelling, not "Hansome"), "Balkan Flake", "Bothy Flake", "Chocolate Flake", "Commonwealth", "Perfection", "Best Brown Flake", "SJ Plug", "Skiff Mixture", "Navy Flake"
 - **Gawith, Hoggarth & Co.** — also makes: "Curly Cut Deluxe", "Rum Twist Rope", "Whiskey Rope", "Brown Slice", "Dark Plug", "Grasmere Flake", "Latakie Medium Cut", "Rich Dark Honeydew", "Revor Plug", "Sliced Brown Twist"
-- **McClelland** — also makes: "Navy Cavendish", "No. 27", "2015", "Tudor Castle", "Blackwoods Flake", "St. James Woods", "No. 24 Ribbon", "3 Oaks Original", "3 Oaks English Blend", "3 Oaks Syrian", "Stave Aged", "Tawny Flake", "Virginia Woods", "Dominican Glory", "Christmas Cheer", "Dark Star", "Beacon Extra", "Balkan Blue". brand=McClelland for all "3 Oaks" variants; do NOT use "3 Oaks" as the brand.
+- **McClelland** — also makes: "Navy Cavendish", "No. 27", "2015", "Tudor Castle", "Blackwoods Flake", "St. James Woods", "No. 24 Ribbon", "3 Oaks Original Blend", "3 Oaks Syrian", "Stave Aged", "Tawny Flake", "Virginia Woods", "Dominican Glory", "Christmas Cheer", "Dark Star", "Beacon Extra", "Balkan Blue". brand=McClelland for all "3 Oaks" variants; do NOT use "3 Oaks" as the brand. "3 Oaks English Blend" is NOT a separate blend — it's the same product as "3 Oaks Original Blend" (McClelland's Grand Orientals-adjacent English-style Virginia/Latakia blend); always normalize to "3 Oaks Original Blend".
 - **McCranie's** — "RR" = Red Ribbon; "1983 Crop" = Red Flake (1983 crop Virginia)
 - **Rattray's** — also makes: "Stirling Flake", "Accountant's Mixture", "40 Virginia", "Black Mallory", "Hal O' The Wynd", "Red Rapparee", "Black Virginia", "Old Gowrie", "Professional Mixture", "Bagpiper's Dream", "Brown Clunee", "Jock's Mixture"
 - **Dan Tobacco** (canonical name; "Dan" alone = Dan Tobacco) — also makes: "Devil's Holiday", "Hamborger Veermaster", "Salty Dog", "Dan Milonga", "The Mallard", "Midnight Ride", "Tordenskjold Virginia Slices", "Gordon Pym"
