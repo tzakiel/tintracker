@@ -3,10 +3,28 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Tin Tracker</title>
+  <title>Tin Tracker — Pipe Tobacco Tin Prices &amp; Resale Values</title>
+  <meta name="description" content="Track resale prices of collectible pipe tobacco tins. Search 900+ blends with price history, tin years and $/oz across Speak-Easy, Tinbids, pipestud, 4noggins and Treasured Smokes." />
+  <link rel="canonical" href="https://tintracker.xyz/" />
   <link rel="icon" type="image/png" href="favicon.png" />
   <link rel="apple-touch-icon" href="favicon.png" />
   <meta name="theme-color" content="#1a0e06" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Tin Tracker" />
+  <meta property="og:title" content="Tin Tracker — Pipe Tobacco Tin Prices &amp; Resale Values" />
+  <meta property="og:description" content="Track resale prices of collectible pipe tobacco tins. Search 900+ blends with price history, tin years and $/oz." />
+  <meta property="og:url" content="https://tintracker.xyz/" />
+  <meta property="og:image" content="https://tintracker.xyz/favicon.png" />
+  <meta name="twitter:card" content="summary" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Tin Tracker",
+    "url": "https://tintracker.xyz/",
+    "description": "Tracks the resale value of collectible pipe tobacco tins across auction and retail sources."
+  }
+  </script>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Work+Sans:wght@400;500;600;700&family=Uncial+Antiqua&display=swap" rel="stylesheet" />
@@ -649,6 +667,11 @@
   </select>
   <div id="meta"></div>
   <div id="status">Loading catalog…</div>
+  <noscript>
+    <p>This tracker needs JavaScript to search and chart prices. A static,
+    browsable index of every tracked tin is available at
+    <a href="/tin/">the tin index</a>.</p>
+  </noscript>
   <div id="results"></div>
 </div>
 
@@ -714,8 +737,17 @@
   const detailView= document.getElementById("detail-view");
   const detailContent = document.getElementById("detail-content");
 
+  const BASE_TITLE = document.title;
+
+  // URL slug for a tin — mirrors generate_seo.tin_slug (id is "brand|blend").
+  function tinSlug(id) { return String(id || "").replace(/\|/g, "-"); }
+
   document.getElementById("back-btn").addEventListener("click", showMain);
-  window.addEventListener("popstate", () => { if (detailView.style.display !== "none") showMain(false); });
+  window.addEventListener("popstate", (e) => {
+    const t = e.state && e.state.detail ? TINS.find(x => x.id === e.state.detail) : null;
+    if (t) openDetail(t);
+    else if (detailView.style.display !== "none") showMain(false);
+  });
 
   /* ── formatting ── */
   function fmt(iso) {
@@ -856,6 +888,7 @@
     if (pushState) history.back();
     mainView.style.display = "";
     detailView.style.display = "none";
+    document.title = BASE_TITLE;
     window.scrollTo(0, 0);
   }
 
@@ -870,6 +903,7 @@
     history.replaceState(null, "", location.pathname);
     mainView.style.display = "";
     detailView.style.display = "none";
+    document.title = BASE_TITLE;
     render();
     window.scrollTo(0, 0);
   }
@@ -1289,14 +1323,21 @@
     document.addEventListener('click', _chartDismiss);
   }
 
-  function showGroupDetail(t) {
+  // Render a tin's detail view without touching history (popstate/deep-link path).
+  function openDetail(t) {
     currentDetailTin = t;
     DETAIL_SORT = { key: "date", dir: "desc" };
-    history.pushState({ detail: t.id }, "", "");
     renderDetailContent(t);
     mainView.style.display = "none";
     detailView.style.display = "block";
+    document.title = `${t.display_name} — ${BASE_TITLE}`;
     window.scrollTo(0, 0);
+  }
+
+  function showGroupDetail(t) {
+    // Shareable, crawlable URL per tin; the static mirror lives at /tin/<slug>.html.
+    history.pushState({ detail: t.id }, "", "?tin=" + tinSlug(t.id));
+    openDetail(t);
   }
 
   // Render search results if there's a query, otherwise the full list —
@@ -1415,6 +1456,16 @@
     buildSourceFilters();
     syncMobileSort();
     render();
+
+    // ?tin=<slug> deep link (shared URLs + the static /tin/ pages' CTA).
+    // Replace the current entry with the clean home URL first, so the in-app
+    // Back button (history.back) lands on the list instead of leaving the site.
+    const tinParam = new URLSearchParams(location.search).get("tin");
+    if (tinParam) {
+      history.replaceState(null, "", location.pathname);
+      const t = TINS.find(x => tinSlug(x.id) === tinParam || x.id === tinParam);
+      if (t) showGroupDetail(t);
+    }
   }
 
   /* ── mobile sort (table headers are hidden on phones) ── */
