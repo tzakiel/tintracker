@@ -1,0 +1,14 @@
+# tintracker.xyz — allow all pages; keep raw data files and admin out of the index.
+User-agent: *
+Disallow: /admin.html
+Disallow: /canonical.json
+Disallow: /products.json
+Disallow: /products_4noggins.json
+Disallow: /products_speakeasy.json
+Disallow: /products_tinbids.json
+Disallow: /products_treasuredsmokes.json
+Disallow: /excluded.log
+Disallow: /unmatched.log
+Disallow: /brand-rules.md
+
+Sitemap: https://tintracker.xyz/sitemap.xml

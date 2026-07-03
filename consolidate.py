@@ -311,6 +311,11 @@ def main():
             print(f"  {total:>2}x  {g['display_name']}  [{sizes_str}]  "
                   f"[{', '.join(g['sources'])}]")
 
+    # Regenerate the static SEO pages + sitemap from the canonical data we just
+    # wrote, so docs/tin/ never drifts from canonical.json.
+    import generate_seo
+    generate_seo.generate(out)
+
 
 if __name__ == "__main__":
     main()
