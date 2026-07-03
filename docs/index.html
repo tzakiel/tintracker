@@ -604,6 +604,10 @@
 
     /* ── footer ── */
     footer { text-align: center; padding: 2rem 1rem; color: var(--text-faint); font-size: var(--text-sm); }
+    /* crawl path to the static per-tin pages — deliberately quiet, but kept
+       visible/legible: fully hidden links violate search-engine spam policies */
+    .footer-tin-index { display: block; margin-top: .8rem; font-size: var(--text-2xs); color: var(--text-placeholder); opacity: .55; text-decoration: none; }
+    .footer-tin-index:hover { opacity: 1; text-decoration: underline; }
     .footer-motif { display: flex; justify-content: center; gap: .8rem; margin-bottom: .6rem; }
     .footer-motif svg { width: 20px; height: 20px; color: #c9a06f; opacity: .8; }
   .easter-egg-row td {
@@ -694,6 +698,7 @@
     </svg>
   </div>
   Prices collected automatically. ALPHA release — expect bugs &amp; inaccuracies.
+  <a class="footer-tin-index" href="/tin/">Tin index</a>
 </footer>
 
 <script>
