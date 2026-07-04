@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-04T17:15:47.119848+00:00",
+  "generated": "2026-07-04T18:33:01.000938+00:00",
   "stats": {
     "total_listings": 3566,
-    "excluded_multipacks": 1356,
-    "total_tins": 964,
-    "multi_member_tins": 401,
-    "listings_in_groups": 1532,
-    "cross_source_tins": 234
+    "excluded_multipacks": 1368,
+    "total_tins": 968,
+    "multi_member_tins": 416,
+    "listings_in_groups": 1636,
+    "cross_source_tins": 255
   },
   "tins": [
     {
@@ -429,6 +429,7 @@
       "blend": "Artisan's Blend",
       "display_name": "Ashton Artisan's Blend",
       "sources": [
+        "pipestud.com",
         "Speak-Easy.Club"
       ],
       "sizes": [
@@ -474,6 +475,21 @@
               ]
             },
             {
+              "name": "Ashton Syr. Latakia Artisan’s Blend 50g tins – Year 2015",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/ashton-syr-latakia-artisans-blend-50g-tins-year-2015-2/",
+              "price": "$65.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2015",
+              "price_history": [
+                {
+                  "price": "$65.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
+            {
               "name": "Ashton Artisan's Blend 50g tin 01/2020",
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/sealed-bulk-random-tin-weirdness.44469/",
@@ -490,6 +506,7 @@
             }
           ],
           "sources": [
+            "pipestud.com",
             "Speak-Easy.Club"
           ]
         },
@@ -578,10 +595,11 @@
         }
       ],
       "years": [
+        "2015",
         "2016",
         "2020"
       ],
-      "source": "Speak-Easy.Club"
+      "source": "Multiple sources"
     },
     {
       "id": "ashton|blackparrot",
@@ -1450,9 +1468,25 @@
                   "date": "2026-06-22T13:53:20.063064+00:00"
                 }
               ]
+            },
+            {
+              "name": "Bell’s Three Nuns 50g tin – Year 2015",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/bells-three-nuns-50g-tin-year-2015/",
+              "price": "$50.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2015",
+              "price_history": [
+                {
+                  "price": "$50.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
             }
           ],
           "sources": [
+            "pipestud.com",
             "Tinbids Auction (Sold)"
           ]
         },
@@ -1506,6 +1540,7 @@
       "years": [
         "1980",
         "2014",
+        "2015",
         "2017"
       ],
       "source": "Multiple sources"
@@ -2163,12 +2198,28 @@
       "blend": "Bluebill Drake Decoy",
       "display_name": "Bufflehead Bluebill Drake Decoy",
       "sources": [
+        "pipestud.com",
         "4noggins.com"
       ],
       "sizes": [
         {
           "quantity": "2oz",
           "members": [
+            {
+              "name": "The Bufflehead Shop Bluebill Drake Decoy 2oz tins – Year 2005",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/the-bufflehead-shop-bluebill-drake-decoy-2oz-tins-year-2005/",
+              "price": "$85.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2005",
+              "price_history": [
+                {
+                  "price": "$85.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
             {
               "name": "Bufflehead: BLUEBILL DRAKE DECOY 2oz 2005 - C",
               "source": "4noggins.com",
@@ -2186,6 +2237,7 @@
             }
           ],
           "sources": [
+            "pipestud.com",
             "4noggins.com"
           ]
         }
@@ -2193,7 +2245,7 @@
       "years": [
         "2005"
       ],
-      "source": "4noggins.com"
+      "source": "Multiple sources"
     },
     {
       "id": "bufflehead|buffleheaddecoy",
@@ -2353,12 +2405,28 @@
       "blend": "Old Wooden Duck Decoy",
       "display_name": "Bufflehead Old Wooden Duck Decoy",
       "sources": [
+        "pipestud.com",
         "4noggins.com"
       ],
       "sizes": [
         {
           "quantity": "2oz",
           "members": [
+            {
+              "name": "The Bufflehead Shop Old Wooden Duck Decoy 2oz tins – Year 2005",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/the-bufflehead-shop-old-wooden-duck-decoy-2oz-tins-year-2005/",
+              "price": "$85.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2005",
+              "price_history": [
+                {
+                  "price": "$85.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
             {
               "name": "Bufflehead: OLD WOODEN DUCK DECOY 2oz 2005 - C",
               "source": "4noggins.com",
@@ -2376,6 +2444,7 @@
             }
           ],
           "sources": [
+            "pipestud.com",
             "4noggins.com"
           ]
         }
@@ -2383,7 +2452,7 @@
       "years": [
         "2005"
       ],
-      "source": "4noggins.com"
+      "source": "Multiple sources"
     },
     {
       "id": "butera|blendedflake",
@@ -2675,6 +2744,21 @@
           "quantity": "2oz",
           "members": [
             {
+              "name": "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/199705/",
+              "price": "$214.00",
+              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "first_seen": "2026-07-03T19:47:51+00:00",
+              "year": "1996",
+              "price_history": [
+                {
+                  "price": "$214.00",
+                  "date": "2026-07-03T19:47:51+00:00"
+                }
+              ]
+            },
+            {
               "name": "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 2003",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/198303/",
@@ -2834,6 +2918,7 @@
         }
       ],
       "years": [
+        "1996",
         "2003",
         "2013",
         "2014"
@@ -2947,6 +3032,21 @@
                   "date": "2026-07-01T16:00:42.026199+00:00"
                 }
               ]
+            },
+            {
+              "name": "Butera’s Royal Vintage Latakia No.1 Sealed 50g Pipe Tobacco Tin 2013",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/199711/",
+              "price": "$65.00",
+              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "first_seen": "2026-07-03T19:50:10+00:00",
+              "year": "2013",
+              "price_history": [
+                {
+                  "price": "$65.00",
+                  "date": "2026-07-03T19:50:10+00:00"
+                }
+              ]
             }
           ],
           "sources": [
@@ -2978,7 +3078,8 @@
         }
       ],
       "years": [
-        "1996"
+        "1996",
+        "2013"
       ],
       "source": "Multiple sources"
     },
@@ -3074,6 +3175,44 @@
       "source": "Speak-Easy.Club"
     },
     {
+      "id": "butera|royalvintagesweetcavendish",
+      "brand": "Butera",
+      "blend": "Royal Vintage Sweet Cavendish",
+      "display_name": "Butera Royal Vintage Sweet Cavendish",
+      "sources": [
+        "pipestud.com"
+      ],
+      "sizes": [
+        {
+          "quantity": "50g",
+          "members": [
+            {
+              "name": "McClelland’s Butera’s Royal Vintage Sweet Cavendish 50g tins – First Year 1992 Production",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-buteras-royal-vintage-sweet-cavendish-50g-tins-first-year-1992-production/",
+              "price": "$60.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "1992",
+              "price_history": [
+                {
+                  "price": "$60.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "pipestud.com"
+          ]
+        }
+      ],
+      "years": [
+        "1992"
+      ],
+      "source": "pipestud.com"
+    },
+    {
       "id": "cao|cherrybomb",
       "brand": "CAO",
       "blend": "Cherrybomb",
@@ -3085,6 +3224,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "CAO Cherry Bomb",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/200358/",
+              "price": "$10.00",
+              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "first_seen": "2026-07-03T22:52:25+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$10.00",
+                  "date": "2026-07-03T22:52:25+00:00"
+                }
+              ]
+            },
             {
               "name": "CAO Flavours 4-Cherrybomb",
               "source": "Tinbids Auction (Sold)",
@@ -3501,6 +3655,42 @@
       ],
       "years": [],
       "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "caseyjones|beyondbrave",
+      "brand": "Casey Jones",
+      "blend": "Beyond Brave",
+      "display_name": "Casey Jones Beyond Brave",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Casey Jones 6-Beyond Brave",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/200743/",
+              "price": "$26.00",
+              "last_updated": "2026-07-03T16:00:40.863575+00:00",
+              "first_seen": "2026-07-03T11:42:49+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$26.00",
+                  "date": "2026-07-03T11:42:49+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Tinbids Auction (Sold)"
     },
     {
       "id": "castrosbackroom|portraitblend",
@@ -4310,6 +4500,44 @@
       "source": "Speak-Easy.Club"
     },
     {
+      "id": "cornelldiehl|bayoumorningflake",
+      "brand": "Cornell & Diehl",
+      "blend": "Bayou Morning Flake",
+      "display_name": "Cornell & Diehl Bayou Morning Flake",
+      "sources": [
+        "pipestud.com"
+      ],
+      "sizes": [
+        {
+          "quantity": "2oz",
+          "members": [
+            {
+              "name": "Cornell & Diehl Bayou Morning Virginia / Perique Flake 2oz tins – Year 2005",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/cornell-diehl-bayou-morning-virginia-perique-flake-2oz-tins-year-2005/",
+              "price": "$40.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2005",
+              "price_history": [
+                {
+                  "price": "$40.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "pipestud.com"
+          ]
+        }
+      ],
+      "years": [
+        "2005"
+      ],
+      "source": "pipestud.com"
+    },
+    {
       "id": "cornelldiehl|bijou",
       "brand": "Cornell & Diehl",
       "blend": "Bijou",
@@ -4522,6 +4750,21 @@
         {
           "quantity": "2oz",
           "members": [
+            {
+              "name": "Cornell & Diehl’s Briar Fox 2oz tin – First Year 2005 Production",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/cornell-diehls-briar-fox-2oz-tin-first-year-2005-production/",
+              "price": "$60.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2005",
+              "price_history": [
+                {
+                  "price": "$60.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
             {
               "name": "Cornell & Diehl’s Briar Fox 2oz tins – First Year 2005 Production",
               "source": "pipestud.com",
@@ -7931,6 +8174,7 @@
       "blend": "Small Batch Carolina Red Flake with Perique",
       "display_name": "Cornell & Diehl Small Batch Carolina Red Flake with Perique",
       "sources": [
+        "Tinbids Auction (Sold)",
         "Speak-Easy.Club"
       ],
       "sizes": [
@@ -7956,12 +8200,36 @@
           "sources": [
             "Speak-Easy.Club"
           ]
+        },
+        {
+          "quantity": "2oz",
+          "members": [
+            {
+              "name": "2oz tin from Sep, 2021 of Cornell and Diehl's Small-Batch Carolina Red Flake w/Perique. 14,689/15,000",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/199676/",
+              "price": "$23.00",
+              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "first_seen": "2026-07-03T19:02:31+00:00",
+              "year": "2021",
+              "price_history": [
+                {
+                  "price": "$23.00",
+                  "date": "2026-07-03T19:02:31+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
         }
       ],
       "years": [
-        "2020"
+        "2020",
+        "2021"
       ],
-      "source": "Speak-Easy.Club"
+      "source": "Multiple sources"
     },
     {
       "id": "cornelldiehl|smallbatcheightstateburley",
@@ -10273,12 +10541,28 @@
       "blend": "Old Ironsides",
       "display_name": "Dan Tobacco Old Ironsides",
       "sources": [
+        "pipestud.com",
         "Speak-Easy.Club"
       ],
       "sizes": [
         {
           "quantity": "50g",
           "members": [
+            {
+              "name": "Dan Tobacco’s Old Ironsides 50g tin – Year 2004",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/dan-tobaccos-old-ironsides-50g-tin-year-2004/",
+              "price": "$50.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2004",
+              "price_history": [
+                {
+                  "price": "$50.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
             {
               "name": "Dan Tobacco Old Ironsides 50g 2018",
               "source": "Speak-Easy.Club",
@@ -10311,14 +10595,16 @@
             }
           ],
           "sources": [
+            "pipestud.com",
             "Speak-Easy.Club"
           ]
         }
       ],
       "years": [
+        "2004",
         "2018"
       ],
-      "source": "Speak-Easy.Club"
+      "source": "Multiple sources"
     },
     {
       "id": "dantobacco|patriotflake",
@@ -10721,6 +11007,7 @@
       "blend": "The Mellow Mallard",
       "display_name": "Dan Tobacco The Mellow Mallard",
       "sources": [
+        "pipestud.com",
         "Speak-Easy.Club"
       ],
       "sizes": [
@@ -10746,12 +11033,36 @@
           "sources": [
             "Speak-Easy.Club"
           ]
+        },
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Dan Tobacco’s The Mellow Mallard  – Year 2013",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/dan-tobaccos-the-mellow-mallard-year-2013/",
+              "price": "$65.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2013",
+              "price_history": [
+                {
+                  "price": "$65.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "pipestud.com"
+          ]
         }
       ],
       "years": [
+        "2013",
         "2016"
       ],
-      "source": "Speak-Easy.Club"
+      "source": "Multiple sources"
     },
     {
       "id": "dantobacco|tordenskjoldvirginiaslices",
@@ -12463,6 +12774,44 @@
       "source": "Speak-Easy.Club"
     },
     {
+      "id": "dunhill|lightflake",
+      "brand": "Dunhill",
+      "blend": "Light Flake",
+      "display_name": "Dunhill Light Flake",
+      "sources": [
+        "pipestud.com"
+      ],
+      "sizes": [
+        {
+          "quantity": "50g",
+          "members": [
+            {
+              "name": "Dunhill Light Flake 50g tins – Year 2014",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/dunhill-light-flake-50g-tins-year-2014-2/",
+              "price": "$65.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2014",
+              "price_history": [
+                {
+                  "price": "$65.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "pipestud.com"
+          ]
+        }
+      ],
+      "years": [
+        "2014"
+      ],
+      "source": "pipestud.com"
+    },
+    {
       "id": "dunhill|londonmixture",
       "brand": "Dunhill",
       "blend": "London Mixture",
@@ -12769,9 +13118,33 @@
           "sources": [
             "Tinbids Auction (Sold)"
           ]
+        },
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "DUNHILL MY MIXTURE BB1938 - 11 YEARS OLD (2015)",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/198519/",
+              "price": "$45.00",
+              "last_updated": "2026-07-04T16:00:44.406436+00:00",
+              "first_seen": "2026-07-04T07:01:13+00:00",
+              "year": "2015",
+              "price_history": [
+                {
+                  "price": "$45.00",
+                  "date": "2026-07-04T07:01:13+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
         }
       ],
       "years": [
+        "2015",
         "2018"
       ],
       "source": "Tinbids Auction (Sold)"
@@ -13250,6 +13623,7 @@
       "blend": "Ready Rubbed",
       "display_name": "Dunhill Ready Rubbed",
       "sources": [
+        "pipestud.com",
         "Tinbids Auction (Sold)",
         "Speak-Easy.Club"
       ],
@@ -13275,6 +13649,29 @@
           ],
           "sources": [
             "Speak-Easy.Club"
+          ]
+        },
+        {
+          "quantity": "50g",
+          "members": [
+            {
+              "name": "Dunhill Ready Rubbed 50g tin – Year 2014",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/dunhill-ready-rubbed-50g-tin-year-2014/",
+              "price": "$40.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2014",
+              "price_history": [
+                {
+                  "price": "$40.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "pipestud.com"
           ]
         },
         {
@@ -13318,6 +13715,7 @@
         }
       ],
       "years": [
+        "2014",
         "2015",
         "2017"
       ],
@@ -13730,6 +14128,7 @@
       "blend": "Three Years Matured Virginia",
       "display_name": "Dunhill Three Years Matured Virginia",
       "sources": [
+        "pipestud.com",
         "Tinbids Auction (Sold)",
         "4noggins.com"
       ],
@@ -13751,9 +14150,25 @@
                   "date": "2026-06-22T16:00:41.686877+00:00"
                 }
               ]
+            },
+            {
+              "name": "Dunhill Murray’s era Three Year Matured 50g tins – Year 2004",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/dunhill-murrays-era-three-year-matured-50g-tins-year-2004/",
+              "price": "$110.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2004",
+              "price_history": [
+                {
+                  "price": "$110.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
             }
           ],
           "sources": [
+            "pipestud.com",
             "Tinbids Auction (Sold)"
           ]
         },
@@ -13782,7 +14197,8 @@
         }
       ],
       "years": [
-        "1972"
+        "1972",
+        "2004"
       ],
       "source": "Multiple sources"
     },
@@ -13812,6 +14228,21 @@
                 {
                   "price": "$56.00",
                   "date": "2026-06-22T13:53:20.063064+00:00"
+                }
+              ]
+            },
+            {
+              "name": "Vintage 2017 - Dunhill Ye Olde Signe - 50g",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/199788/",
+              "price": "$74.00",
+              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "first_seen": "2026-07-04T00:00:25+00:00",
+              "year": "2017",
+              "price_history": [
+                {
+                  "price": "$74.00",
+                  "date": "2026-07-04T00:00:25+00:00"
                 }
               ]
             }
@@ -13885,7 +14316,8 @@
       ],
       "years": [
         "1972",
-        "2016"
+        "2016",
+        "2017"
       ],
       "source": "Multiple sources"
     },
@@ -14670,6 +15102,7 @@
       "blend": "Flake",
       "display_name": "Erinmore Flake",
       "sources": [
+        "pipestud.com",
         "Tinbids Auction (Sold)",
         "Speak-Easy.Club"
       ],
@@ -14701,6 +15134,21 @@
           "quantity": "50g",
           "members": [
             {
+              "name": "Erinmore Flake 50g tin – Year 2014",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/erinmore-flake-50g-tin-year-2014/",
+              "price": "$40.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2014",
+              "price_history": [
+                {
+                  "price": "$40.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
+            {
               "name": "Erinmore Flake 50g Tin (2014)",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/199367/",
@@ -14717,6 +15165,7 @@
             }
           ],
           "sources": [
+            "pipestud.com",
             "Tinbids Auction (Sold)"
           ]
         },
@@ -18869,10 +19318,34 @@
       "blend": "Cumberland",
       "display_name": "G.L. Pease Cumberland",
       "sources": [
+        "pipestud.com",
         "4noggins.com",
         "Speak-Easy.Club"
       ],
       "sizes": [
+        {
+          "quantity": "2oz",
+          "members": [
+            {
+              "name": "G.L. Pease Original Cumberland W/ The 20-year old Kentucky 2oz tin – Year 2004",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-original-cumberland-w-the-20-year-old-kentucky-2oz-tin-year-2004-2/",
+              "price": "$65.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2004",
+              "price_history": [
+                {
+                  "price": "$65.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "pipestud.com"
+          ]
+        },
         {
           "quantity": "8oz",
           "members": [
@@ -19565,6 +20038,7 @@
       "blend": "Haddo's Delight",
       "display_name": "G.L. Pease Haddo's Delight",
       "sources": [
+        "pipestud.com",
         "Treasured Smokes",
         "4noggins.com",
         "Speak-Easy.Club"
@@ -19573,6 +20047,21 @@
         {
           "quantity": "2oz",
           "members": [
+            {
+              "name": "G.L. Pease Haddo’s Delight 2oz tins – Year 2004",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-haddos-delight-2oz-tins-year-2004/",
+              "price": "$65.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2004",
+              "price_history": [
+                {
+                  "price": "$65.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
             {
               "name": "G.L. Pease: HADDO'S DELIGHT 2oz 2006 - C",
               "source": "4noggins.com",
@@ -19590,6 +20079,7 @@
             }
           ],
           "sources": [
+            "pipestud.com",
             "4noggins.com"
           ]
         },
@@ -19796,6 +20286,7 @@
         }
       ],
       "years": [
+        "2004",
         "2006",
         "2009",
         "2010"
@@ -20608,6 +21099,7 @@
       "blend": "Montgomery",
       "display_name": "G.L. Pease Montgomery",
       "sources": [
+        "pipestud.com",
         "4noggins.com",
         "Speak-Easy.Club"
       ],
@@ -20615,6 +21107,21 @@
         {
           "quantity": "2oz",
           "members": [
+            {
+              "name": "G.L. Pease Montgomery 2oz tins – First Year 2005 Production",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-montgomery-2oz-tins-first-year-2005-production/",
+              "price": "$50.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2005",
+              "price_history": [
+                {
+                  "price": "$50.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
             {
               "name": "G. L. Pease: MONTGOMERY 2oz 2005 - C",
               "source": "4noggins.com",
@@ -20632,6 +21139,7 @@
             }
           ],
           "sources": [
+            "pipestud.com",
             "4noggins.com"
           ]
         },
@@ -20749,6 +21257,29 @@
         "Speak-Easy.Club"
       ],
       "sizes": [
+        {
+          "quantity": "50g",
+          "members": [
+            {
+              "name": "Collectible G.L. Pease Odyssey 50g Sealed Pipe Tobacco Tin 2016",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/199723/",
+              "price": "$15.50",
+              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "first_seen": "2026-07-03T20:01:16+00:00",
+              "year": "2016",
+              "price_history": [
+                {
+                  "price": "$15.50",
+                  "date": "2026-07-03T20:01:16+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        },
         {
           "quantity": "2oz",
           "members": [
@@ -20930,7 +21461,8 @@
         "2004",
         "2009",
         "2011",
-        "2015"
+        "2015",
+        "2016"
       ],
       "source": "Multiple sources"
     },
@@ -20944,6 +21476,29 @@
         "Speak-Easy.Club"
       ],
       "sizes": [
+        {
+          "quantity": "2oz",
+          "members": [
+            {
+              "name": "Collectible G. L. Pease Quiet Nights 2 oz. Pipe Tobacco Sealed Tin 2016",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/199729/",
+              "price": "$27.50",
+              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "first_seen": "2026-07-03T20:03:36+00:00",
+              "year": "2016",
+              "price_history": [
+                {
+                  "price": "$27.50",
+                  "date": "2026-07-03T20:03:36+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        },
         {
           "quantity": "8oz",
           "members": [
@@ -21616,9 +22171,33 @@
       "blend": "Stratford",
       "display_name": "G.L. Pease Stratford",
       "sources": [
+        "pipestud.com",
         "Speak-Easy.Club"
       ],
       "sizes": [
+        {
+          "quantity": "2oz",
+          "members": [
+            {
+              "name": "G.L. Pease Classic Collection Stratford 2oz tin – Year 2004",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-classic-collection-stratford-2oz-tin-year-2004/",
+              "price": "$65.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2004",
+              "price_history": [
+                {
+                  "price": "$65.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "pipestud.com"
+          ]
+        },
         {
           "quantity": "8oz",
           "members": [
@@ -21644,9 +22223,10 @@
         }
       ],
       "years": [
+        "2004",
         "2021"
       ],
-      "source": "Speak-Easy.Club"
+      "source": "Multiple sources"
     },
     {
       "id": "glpease|telegraphhill",
@@ -21654,6 +22234,7 @@
       "blend": "Telegraph Hill",
       "display_name": "G.L. Pease Telegraph Hill",
       "sources": [
+        "pipestud.com",
         "4noggins.com",
         "Speak-Easy.Club"
       ],
@@ -21661,6 +22242,21 @@
         {
           "quantity": "2oz",
           "members": [
+            {
+              "name": "G.L. Pease Telegraph Hill 2oz tin – First Year 2005 Production",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-telegraph-hill-2oz-tin-first-year-2005-production/",
+              "price": "$50.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2005",
+              "price_history": [
+                {
+                  "price": "$50.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
             {
               "name": "G. L. Pease: TELEGRAPH HILL 2005 - C",
               "source": "4noggins.com",
@@ -21678,6 +22274,7 @@
             }
           ],
           "sources": [
+            "pipestud.com",
             "4noggins.com"
           ]
         },
@@ -21739,6 +22336,7 @@
       "blend": "Temple Bar",
       "display_name": "G.L. Pease Temple Bar",
       "sources": [
+        "pipestud.com",
         "Speak-Easy.Club"
       ],
       "sizes": [
@@ -21763,6 +22361,29 @@
           ],
           "sources": [
             "Speak-Easy.Club"
+          ]
+        },
+        {
+          "quantity": "2oz",
+          "members": [
+            {
+              "name": "G.L. Pease Old London Series Temple Bar 2oz tin – First Year 2016 Production",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-old-london-series-temple-bar-2oz-tin-first-year-2016-production/",
+              "price": "$40.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2016",
+              "price_history": [
+                {
+                  "price": "$40.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "pipestud.com"
           ]
         },
         {
@@ -21805,9 +22426,10 @@
         }
       ],
       "years": [
+        "2016",
         "2017"
       ],
-      "source": "Speak-Easy.Club"
+      "source": "Multiple sources"
     },
     {
       "id": "glpease|tribute",
@@ -24150,9 +24772,33 @@
       "blend": "Revor Plug",
       "display_name": "Gawith, Hoggarth & Co. Revor Plug",
       "sources": [
+        "pipestud.com",
         "Speak-Easy.Club"
       ],
       "sizes": [
+        {
+          "quantity": "50g",
+          "members": [
+            {
+              "name": "Gawith & Hoggarth Revor Plug Factory sealed 50g Pouches – Year 2012",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/gawith-hoggarth-revor-plug-factory-sealed-50g-pouches-year-2012/",
+              "price": "$25.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2012",
+              "price_history": [
+                {
+                  "price": "$25.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "pipestud.com"
+          ]
+        },
         {
           "quantity": "",
           "members": [
@@ -24177,8 +24823,10 @@
           ]
         }
       ],
-      "years": [],
-      "source": "Speak-Easy.Club"
+      "years": [
+        "2012"
+      ],
+      "source": "Multiple sources"
     },
     {
       "id": "gawithhoggarthco|richdarkhoneydew",
@@ -25943,12 +26591,28 @@
       "blend": "Magnum Opus",
       "display_name": "Hearth & Home Magnum Opus",
       "sources": [
+        "Tinbids Auction (Sold)",
         "Speak-Easy.Club"
       ],
       "sizes": [
         {
           "quantity": "",
           "members": [
+            {
+              "name": "Hearth & Home Magnum Opus - 1 Tin NR BIN $60",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/202056/",
+              "price": "$60.00",
+              "last_updated": "2026-07-04T16:00:44.406436+00:00",
+              "first_seen": "2026-07-04T15:08:49+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$60.00",
+                  "date": "2026-07-04T15:08:49+00:00"
+                }
+              ]
+            },
             {
               "name": "Hearth & HomeMagnum Opus",
               "source": "Speak-Easy.Club",
@@ -25966,12 +26630,13 @@
             }
           ],
           "sources": [
+            "Tinbids Auction (Sold)",
             "Speak-Easy.Club"
           ]
         }
       ],
       "years": [],
-      "source": "Speak-Easy.Club"
+      "source": "Multiple sources"
     },
     {
       "id": "hearthhome|oldkinderhook",
@@ -26379,10 +27044,10 @@
       "source": "Multiple sources"
     },
     {
-      "id": "hutobacco|ausdemkrater",
+      "id": "hutobacco|ausdemkrater1",
       "brand": "HU Tobacco",
-      "blend": "Aus dem Krater",
-      "display_name": "HU Tobacco Aus dem Krater",
+      "blend": "Aus dem Krater #1",
+      "display_name": "HU Tobacco Aus dem Krater #1",
       "sources": [
         "Speak-Easy.Club"
       ],
@@ -26404,30 +27069,7 @@
                   "date": "2026-06-24T02:02:09.029335+00:00"
                 }
               ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "hutobacco|ausdemkrater1",
-      "brand": "HU Tobacco",
-      "blend": "Aus dem Krater #1",
-      "display_name": "HU Tobacco Aus dem Krater #1",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "",
-          "members": [
+            },
             {
               "name": "x 2020 HU Aus den krater #1",
               "source": "Speak-Easy.Club",
@@ -27343,6 +27985,21 @@
               ]
             },
             {
+              "name": "Early 2010's Balkan Sobranie - 1 Tin NR BIN $175",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/202045/",
+              "price": "$175.00",
+              "last_updated": "2026-07-04T16:00:44.406436+00:00",
+              "first_seen": "2026-07-04T15:04:44+00:00",
+              "year": "2010",
+              "price_history": [
+                {
+                  "price": "$175.00",
+                  "date": "2026-07-04T15:04:44+00:00"
+                }
+              ]
+            },
+            {
               "name": "2014 Balkan Sobranie",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/198602/",
@@ -27396,6 +28053,7 @@
       ],
       "years": [
         "2005",
+        "2010",
         "2014",
         "2016",
         "2017",
@@ -27663,6 +28321,7 @@
       "blend": "Eighteen Twenty",
       "display_name": "J.F. Germain Eighteen Twenty",
       "sources": [
+        "pipestud.com",
         "4noggins.com"
       ],
       "sizes": [
@@ -27683,15 +28342,33 @@
                   "date": "2026-06-21T02:45:17.226279+00:00"
                 }
               ]
+            },
+            {
+              "name": "Germain’s Eighteen Twenty Smoking Mixture 50g tins – Year 2009",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/germains-eighteen-twenty-smoking-mixture-50g-tins-year-2009/",
+              "price": "$75.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2009",
+              "price_history": [
+                {
+                  "price": "$75.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
             }
           ],
           "sources": [
+            "pipestud.com",
             "4noggins.com"
           ]
         }
       ],
-      "years": [],
-      "source": "4noggins.com"
+      "years": [
+        "2009"
+      ],
+      "source": "Multiple sources"
     },
     {
       "id": "jfgermain|fulllatakia",
@@ -28227,6 +28904,7 @@
       "blend": "Royal Jersey Latakia",
       "display_name": "J.F. Germain Royal Jersey Latakia",
       "sources": [
+        "pipestud.com",
         "Tinbids Auction (Sold)",
         "4noggins.com"
       ],
@@ -28234,6 +28912,21 @@
         {
           "quantity": "50g",
           "members": [
+            {
+              "name": "Germain’s Royal Jersey Original Latakia Mixture 50g tins – Year 2008",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/germains-royal-jersey-original-latakia-mixture-50g-tins-year-2008/",
+              "price": "$75.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2008",
+              "price_history": [
+                {
+                  "price": "$75.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
             {
               "name": "J.F. Germain: ROYAL JERSEY w-LATAKIA 50g 2016 - C",
               "source": "4noggins.com",
@@ -28251,6 +28944,7 @@
             }
           ],
           "sources": [
+            "pipestud.com",
             "4noggins.com"
           ]
         },
@@ -28279,6 +28973,7 @@
         }
       ],
       "years": [
+        "2008",
         "2016",
         "2024"
       ],
@@ -28386,6 +29081,7 @@
       "blend": "Special Latakia Flake",
       "display_name": "J.F. Germain Special Latakia Flake",
       "sources": [
+        "pipestud.com",
         "4noggins.com",
         "Speak-Easy.Club"
       ],
@@ -28422,9 +29118,25 @@
                   "date": "2026-06-21T02:45:17.226279+00:00"
                 }
               ]
+            },
+            {
+              "name": "Germain’s Special Latakia Flake 50g tin – Year 2016",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/germains-special-latakia-flake-50g-tin-year-2016/",
+              "price": "$75.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2016",
+              "price_history": [
+                {
+                  "price": "$75.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
             }
           ],
           "sources": [
+            "pipestud.com",
             "4noggins.com"
           ]
         },
@@ -28468,7 +29180,8 @@
         }
       ],
       "years": [
-        "2015"
+        "2015",
+        "2016"
       ],
       "source": "Multiple sources"
     },
@@ -28877,9 +29590,33 @@
       "blend": "Sir John's Flake Virginia",
       "display_name": "John Aylesbury Sir John's Flake Virginia",
       "sources": [
+        "pipestud.com",
         "Speak-Easy.Club"
       ],
       "sizes": [
+        {
+          "quantity": "50g",
+          "members": [
+            {
+              "name": "John Aylesbury Sir John’s Flake Virginia 50g tin – Year 2013 & Made by Planta",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/john-aylesbury-sir-johns-flake-virginia-50g-tin-year-2013-made-by-planta/",
+              "price": "$45.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2013",
+              "price_history": [
+                {
+                  "price": "$45.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "pipestud.com"
+          ]
+        },
         {
           "quantity": "",
           "members": [
@@ -28935,9 +29672,10 @@
         }
       ],
       "years": [
+        "2013",
         "2020"
       ],
-      "source": "Speak-Easy.Club"
+      "source": "Multiple sources"
     },
     {
       "id": "johncottons|creme",
@@ -31369,6 +32107,7 @@
       "blend": "Capstan Blue",
       "display_name": "Mac Baren Capstan Blue",
       "sources": [
+        "pipestud.com",
         "4noggins.com",
         "Speak-Easy.Club"
       ],
@@ -31413,9 +32152,25 @@
                   "date": "2026-06-21T02:45:17.226279+00:00"
                 }
               ]
+            },
+            {
+              "name": "Capstan Blue Navy Cut Flake 50g tin – Year 2013 Mac Baren’s Production",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/capstan-blue-navy-cut-flake-50g-tin-year-2013-mac-barens-production-2/",
+              "price": "$50.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2013",
+              "price_history": [
+                {
+                  "price": "$50.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
             }
           ],
           "sources": [
+            "pipestud.com",
             "4noggins.com"
           ]
         },
@@ -34015,6 +34770,7 @@
       "blend": "HH Pure Virginia",
       "display_name": "Mac Baren HH Pure Virginia",
       "sources": [
+        "pipestud.com",
         "4noggins.com",
         "Speak-Easy.Club"
       ],
@@ -34046,6 +34802,21 @@
           "quantity": "50g",
           "members": [
             {
+              "name": "Mac Baren’s HH Pure Virginia 50g tin – Year 2015",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mac-barens-hh-pure-virginia-50g-tin-year-2015/",
+              "price": "$45.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2015",
+              "price_history": [
+                {
+                  "price": "$45.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
+            {
               "name": "x 50g hh pure va 2018",
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/blownout-sale.43411/",
@@ -34062,6 +34833,7 @@
             }
           ],
           "sources": [
+            "pipestud.com",
             "Speak-Easy.Club"
           ]
         },
@@ -34173,6 +34945,7 @@
         }
       ],
       "years": [
+        "2015",
         "2018",
         "2019",
         "2020",
@@ -34921,6 +35694,7 @@
       "blend": "Presbyterian Mixture",
       "display_name": "Mac Baren Presbyterian Mixture",
       "sources": [
+        "pipestud.com",
         "Speak-Easy.Club"
       ],
       "sizes": [
@@ -34946,12 +35720,36 @@
           "sources": [
             "Speak-Easy.Club"
           ]
+        },
+        {
+          "quantity": "50g",
+          "members": [
+            {
+              "name": "Presbyterian Mixture Early Production Painted Label 50g tin – Year 2006",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/presbyterian-mixture-early-production-painted-label-50g-tin-year-2006/",
+              "price": "$65.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2006",
+              "price_history": [
+                {
+                  "price": "$65.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "pipestud.com"
+          ]
         }
       ],
       "years": [
+        "2006",
         "2019"
       ],
-      "source": "Speak-Easy.Club"
+      "source": "Multiple sources"
     },
     {
       "id": "macbaren|presbyterianordained",
@@ -35498,6 +36296,7 @@
       "blend": "Stockton Spun Cut",
       "display_name": "Mac Baren Stockton Spun Cut",
       "sources": [
+        "pipestud.com",
         "Tinbids Auction (Sold)"
       ],
       "sizes": [
@@ -35518,9 +36317,25 @@
                   "date": "2026-06-29T23:18:53+00:00"
                 }
               ]
+            },
+            {
+              "name": "Mac Baren’s Stockton Spun Cut 100g  tins – Year 2023",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mac-barens-stockton-spun-cut-100g-tins-year-2023/",
+              "price": "$50.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2023",
+              "price_history": [
+                {
+                  "price": "$50.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
             }
           ],
           "sources": [
+            "pipestud.com",
             "Tinbids Auction (Sold)"
           ]
         },
@@ -35553,9 +36368,10 @@
         }
       ],
       "years": [
-        "2020"
+        "2020",
+        "2023"
       ],
-      "source": "Tinbids Auction (Sold)"
+      "source": "Multiple sources"
     },
     {
       "id": "macbaren|uncutnavyflakeplug",
@@ -35943,6 +36759,7 @@
       "blend": "3 Oaks Original Blend",
       "display_name": "McClelland 3 Oaks Original Blend",
       "sources": [
+        "pipestud.com",
         "Tinbids Auction (Sold)",
         "Speak-Easy.Club"
       ],
@@ -35966,6 +36783,21 @@
               ]
             },
             {
+              "name": "McClelland’s 3 Oaks Original Cyprian Latakia English Blend Sealed 50g Pipe Tobacco Tin 2014",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/199756/",
+              "price": "$125.67",
+              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "first_seen": "2026-07-03T20:18:48+00:00",
+              "year": "2014",
+              "price_history": [
+                {
+                  "price": "$125.67",
+                  "date": "2026-07-03T20:18:48+00:00"
+                }
+              ]
+            },
+            {
               "name": "(ThreeOne) 2014 3 Oaks English Blend 50g Tin",
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/mcclelland-tinned-tobaccos.43697/",
@@ -35984,6 +36816,29 @@
           "sources": [
             "Tinbids Auction (Sold)",
             "Speak-Easy.Club"
+          ]
+        },
+        {
+          "quantity": "4oz",
+          "members": [
+            {
+              "name": "The Bufflehead Shop 3 Oaks 4oz tin – Year 2005",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/the-bufflehead-shop-3-oaks-4oz-tin-year-2005/",
+              "price": "$150.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2005",
+              "price_history": [
+                {
+                  "price": "$150.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "pipestud.com"
           ]
         },
         {
@@ -36057,6 +36912,7 @@
         }
       ],
       "years": [
+        "2005",
         "2014"
       ],
       "source": "Multiple sources"
@@ -36091,6 +36947,21 @@
                   "date": "2026-07-01T04:00:37.972075+00:00"
                 }
               ]
+            },
+            {
+              "name": "McClelland’s 3 Oaks Original Syrian Latakia English Blend Sealed 50g Pipe Tobacco Tin 2014",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/199762/",
+              "price": "$112.70",
+              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "first_seen": "2026-07-03T20:22:41+00:00",
+              "year": "2014",
+              "price_history": [
+                {
+                  "price": "$112.70",
+                  "date": "2026-07-03T20:22:41+00:00"
+                }
+              ]
             }
           ],
           "sources": [
@@ -36122,7 +36993,8 @@
         }
       ],
       "years": [
-        "2012"
+        "2012",
+        "2014"
       ],
       "source": "Tinbids Auction (Sold)"
     },
@@ -37216,6 +38088,44 @@
       "source": "Treasured Smokes"
     },
     {
+      "id": "mcclelland|bluemountain",
+      "brand": "McClelland",
+      "blend": "Blue Mountain",
+      "display_name": "McClelland Blue Mountain",
+      "sources": [
+        "pipestud.com"
+      ],
+      "sizes": [
+        {
+          "quantity": "50g",
+          "members": [
+            {
+              "name": "McClelland’s Award Winning Blue Mountain 50g tins – First Year 2011 Production",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-award-winning-blue-mountain-50g-tins-first-year-2011-production/",
+              "price": "$85.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2011",
+              "price_history": [
+                {
+                  "price": "$85.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "pipestud.com"
+          ]
+        }
+      ],
+      "years": [
+        "2011"
+      ],
+      "source": "pipestud.com"
+    },
+    {
       "id": "mcclelland|bombaycourt",
       "brand": "McClelland",
       "blend": "Bombay Court",
@@ -37694,6 +38604,21 @@
                 {
                   "price": "$120.00",
                   "date": "2026-06-20T16:28:47.877864+00:00"
+                }
+              ]
+            },
+            {
+              "name": "McClelland’s Christmas Cheer 100g tins – Year 2016",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-christmas-cheer-100g-tins-year-2016-2/",
+              "price": "$115.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2016",
+              "price_history": [
+                {
+                  "price": "$115.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
                 }
               ]
             },
@@ -38711,6 +39636,21 @@
           "quantity": "50g",
           "members": [
             {
+              "name": "50 Gram Tin Of McClelland Frog Morton Pipe Tobacco",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/199794/",
+              "price": "$94.00",
+              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "first_seen": "2026-07-04T00:23:28+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$94.00",
+                  "date": "2026-07-04T00:23:28+00:00"
+                }
+              ]
+            },
+            {
               "name": "McClelland’s Original Frog Morton 50g tin – First Year 1993 Production",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-original-frog-morton-50g-tin-first-year-1993-production/",
@@ -38722,6 +39662,21 @@
                 {
                   "price": "$85.00",
                   "date": "2026-06-27T19:29:21.362652+00:00"
+                }
+              ]
+            },
+            {
+              "name": "McClelland’s Original Frog Morton 50g tins – Years 2007 & 2009",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-original-frog-morton-50g-tins-years-2007-2009/",
+              "price": "$75.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2007",
+              "price_history": [
+                {
+                  "price": "$75.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
                 }
               ]
             },
@@ -38792,6 +39747,36 @@
         {
           "quantity": "100g",
           "members": [
+            {
+              "name": "McClelland’s Original Frog Morton 100g tins – Years 1999 & 2002",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-original-frog-morton-100g-tins-years-1999-2002/",
+              "price": "$135.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "1999",
+              "price_history": [
+                {
+                  "price": "$135.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
+            {
+              "name": "McClelland’s Original Frog Morton 100g tins – Years 2007 & 2009",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-original-frog-morton-100g-tins-years-2007-2009/",
+              "price": "$125.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2007",
+              "price_history": [
+                {
+                  "price": "$125.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
             {
               "name": "McClelland’s Original Frog Morton 100g tin – Year 2017 & Released in 2018",
               "source": "pipestud.com",
@@ -38869,6 +39854,8 @@
       ],
       "years": [
         "1993",
+        "1999",
+        "2007",
         "2015",
         "2017"
       ],
@@ -38880,10 +39867,49 @@
       "blend": "Frog Morton Across the Pond",
       "display_name": "McClelland Frog Morton Across the Pond",
       "sources": [
+        "pipestud.com",
         "Tinbids Auction (Sold)",
         "Speak-Easy.Club"
       ],
       "sizes": [
+        {
+          "quantity": "100g",
+          "members": [
+            {
+              "name": "McClelland’s Syr. Latakia Frog Morton Across the Pond 100g tin – Year 2005",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-syr-latakia-frog-morton-across-the-pond-100g-tin-year-2005/",
+              "price": "$165.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2005",
+              "price_history": [
+                {
+                  "price": "$165.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
+            {
+              "name": "McClelland’s Syr. Latakia Frog Morton Across the Pond 100g tin – Year 2013",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-syr-latakia-frog-morton-across-the-pond-100g-tin-year-2013/",
+              "price": "$150.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2013",
+              "price_history": [
+                {
+                  "price": "$150.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "pipestud.com"
+          ]
+        },
         {
           "quantity": "",
           "members": [
@@ -38899,6 +39925,21 @@
                 {
                   "price": "$60",
                   "date": "2024-10-06T22:24:57+00:00"
+                }
+              ]
+            },
+            {
+              "name": "McClelland’s Frog Morton Across the Pond – First Year 2004 Production",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-frog-morton-across-the-pond-first-year-2004-production/",
+              "price": "$90.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2004",
+              "price_history": [
+                {
+                  "price": "$90.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
                 }
               ]
             },
@@ -38923,12 +39964,16 @@
             }
           ],
           "sources": [
+            "pipestud.com",
             "Tinbids Auction (Sold)",
             "Speak-Easy.Club"
           ]
         }
       ],
       "years": [
+        "2004",
+        "2005",
+        "2013",
         "2016"
       ],
       "source": "Multiple sources"
@@ -38963,6 +40008,21 @@
               ]
             },
             {
+              "name": "McClelland’s Frog Morton On the Bayou 50g tin – Year 2002",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-frog-morton-on-the-bayou-50g-tin-year-2002/",
+              "price": "$80.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2002",
+              "price_history": [
+                {
+                  "price": "$80.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
+            {
               "name": "McClelland’s Frog Morton On the Bayou 50g tins – First Year 2003 Production",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-frog-morton-on-the-bayou-50g-tins-first-year-2003-production/",
@@ -38991,6 +40051,21 @@
                   "date": "2026-06-29T00:03:21+00:00"
                 }
               ]
+            },
+            {
+              "name": "McClelland’s Frog Morton On the Bayou 50g tin – Year 2013",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-frog-morton-on-the-bayou-50g-tin-year-2013/",
+              "price": "$70.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2013",
+              "price_history": [
+                {
+                  "price": "$70.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
             }
           ],
           "sources": [
@@ -39002,6 +40077,21 @@
         {
           "quantity": "100g",
           "members": [
+            {
+              "name": "McClelland’s Frog Morton On the Bayou 100g tin – Year 2003",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-frog-morton-on-the-bayou-100g-tin-year-2003/",
+              "price": "$125.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2003",
+              "price_history": [
+                {
+                  "price": "$125.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
             {
               "name": "McClelland’s Frog Morton On the Bayou 100g tin – Year 2017",
               "source": "pipestud.com",
@@ -39115,8 +40205,10 @@
         }
       ],
       "years": [
+        "2002",
         "2003",
         "2006",
+        "2013",
         "2017"
       ],
       "source": "Multiple sources"
@@ -39127,6 +40219,7 @@
       "blend": "Frog Morton on the Town",
       "display_name": "McClelland Frog Morton on the Town",
       "sources": [
+        "pipestud.com",
         "Tinbids Auction (Sold)",
         "Speak-Easy.Club"
       ],
@@ -39158,6 +40251,21 @@
           "quantity": "100g",
           "members": [
             {
+              "name": "McClelland’s Frog Morton On the Town 100g tin – Year 2006",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-frog-morton-on-the-town-100g-tin-year-2006/",
+              "price": "$125.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2006",
+              "price_history": [
+                {
+                  "price": "$125.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
+            {
               "name": "Very Nice Sealed 2017 McClelland's Frog Morton on the Town 100g. Tin",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/198840/",
@@ -39174,6 +40282,7 @@
             }
           ],
           "sources": [
+            "pipestud.com",
             "Tinbids Auction (Sold)"
           ]
         },
@@ -39270,6 +40379,7 @@
         }
       ],
       "years": [
+        "2006",
         "2008",
         "2017"
       ],
@@ -39290,6 +40400,21 @@
           "quantity": "50g",
           "members": [
             {
+              "name": "McClelland’s Frog Morton Cellar 50g tin – First Year 2012 Production",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-frog-morton-cellar-50g-tin-first-year-2012-production/",
+              "price": "$75.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2012",
+              "price_history": [
+                {
+                  "price": "$75.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
+            {
               "name": "McClelland: FROG MORTON'S CELLAR 50g 2013 - C",
               "source": "4noggins.com",
               "url": "https://www.4noggins.com/products/copy-of-mcclelland-frog-mortons-cellar-50g-2016-c",
@@ -39306,12 +40431,28 @@
             }
           ],
           "sources": [
+            "pipestud.com",
             "4noggins.com"
           ]
         },
         {
           "quantity": "100g",
           "members": [
+            {
+              "name": "McClelland’s Frog Morton Cellar 100g tins – First Year 2012 Production",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-frog-morton-cellar-100g-tins-first-year-2012-production/",
+              "price": "$135.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2012",
+              "price_history": [
+                {
+                  "price": "$135.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
             {
               "name": "McClelland’s Frog Morton Cellar 100g tins – Second Year 2013 Production",
               "source": "pipestud.com",
@@ -39471,6 +40612,7 @@
         }
       ],
       "years": [
+        "2012",
         "2013",
         "2018"
       ],
@@ -39819,6 +40961,21 @@
           "quantity": "50g",
           "members": [
             {
+              "name": "McClelland Yenidje HIghlander Smoking Mixture 50g Sealed Tin 2007 Out of Production",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/199750/",
+              "price": "$100.00",
+              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "first_seen": "2026-07-03T20:15:24+00:00",
+              "year": "2007",
+              "price_history": [
+                {
+                  "price": "$100.00",
+                  "date": "2026-07-03T20:15:24+00:00"
+                }
+              ]
+            },
+            {
               "name": "McClelland: YENIDJE HIGHLANDER 2011 50g - C",
               "source": "4noggins.com",
               "url": "https://www.4noggins.com/products/mcclelland-yenidje-highlander-2011-50g-c",
@@ -39850,6 +41007,7 @@
             }
           ],
           "sources": [
+            "Tinbids Auction (Sold)",
             "4noggins.com"
           ]
         },
@@ -39901,6 +41059,7 @@
         }
       ],
       "years": [
+        "2007",
         "2011",
         "2012"
       ],
@@ -40231,6 +41390,7 @@
       "blend": "Legends",
       "display_name": "McClelland Legends",
       "sources": [
+        "Tinbids Auction (Sold)",
         "Speak-Easy.Club"
       ],
       "sizes": [
@@ -40253,6 +41413,21 @@
               ]
             },
             {
+              "name": "McClelland Legends Smoking Mixture 50g Sealed Tin 2014 Out of Production",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/199744/",
+              "price": "$104.00",
+              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "first_seen": "2026-07-03T20:11:18+00:00",
+              "year": "2014",
+              "price_history": [
+                {
+                  "price": "$104.00",
+                  "date": "2026-07-03T20:11:18+00:00"
+                }
+              ]
+            },
+            {
               "name": "Legends 50g Tin from 2017",
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/few-mcclelland-tins.41050/",
@@ -40269,15 +41444,17 @@
             }
           ],
           "sources": [
+            "Tinbids Auction (Sold)",
             "Speak-Easy.Club"
           ]
         }
       ],
       "years": [
         "2011",
+        "2014",
         "2017"
       ],
-      "source": "Speak-Easy.Club"
+      "source": "Multiple sources"
     },
     {
       "id": "mcclelland|mellowapple",
@@ -41234,6 +42411,44 @@
       ],
       "years": [],
       "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "mcclelland|redblack",
+      "brand": "McClelland",
+      "blend": "Red & Black",
+      "display_name": "McClelland Red & Black",
+      "sources": [
+        "pipestud.com"
+      ],
+      "sizes": [
+        {
+          "quantity": "50g",
+          "members": [
+            {
+              "name": "McClelland’s Red & Black 50g tin – First Year 2015 Production",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-red-black-50g-tin-first-year-2015-production-3/",
+              "price": "$75.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2015",
+              "price_history": [
+                {
+                  "price": "$75.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "pipestud.com"
+          ]
+        }
+      ],
+      "years": [
+        "2015"
+      ],
+      "source": "pipestud.com"
     },
     {
       "id": "mcclelland|redandblack",
@@ -42370,11 +43585,50 @@
       "source": "Tinbids Auction (Sold)"
     },
     {
+      "id": "mcclelland|traveler",
+      "brand": "McClelland",
+      "blend": "Traveler",
+      "display_name": "McClelland Traveler",
+      "sources": [
+        "pipestud.com"
+      ],
+      "sizes": [
+        {
+          "quantity": "50g",
+          "members": [
+            {
+              "name": "McClelland’s Syr. Latakia UPCA Traveler 50g tin – Year 2015",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-syr-latakia-upca-traveler-50g-tin-year-2015/",
+              "price": "$85.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2015",
+              "price_history": [
+                {
+                  "price": "$85.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "pipestud.com"
+          ]
+        }
+      ],
+      "years": [
+        "2015"
+      ],
+      "source": "pipestud.com"
+    },
+    {
       "id": "mcclelland|tudorcastle",
       "brand": "McClelland",
       "blend": "Tudor Castle",
       "display_name": "McClelland Tudor Castle",
       "sources": [
+        "pipestud.com",
         "Tinbids Auction (Sold)",
         "4noggins.com",
         "Speak-Easy.Club"
@@ -42383,6 +43637,21 @@
         {
           "quantity": "50g",
           "members": [
+            {
+              "name": "McClelland’s Syr. Latakia Tudor Castle Arcade 50g tin – Year 2009",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-syr-latakia-tudor-castle-arcade-50g-tin-year-2009/",
+              "price": "$85.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2009",
+              "price_history": [
+                {
+                  "price": "$85.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
             {
               "name": "- 50g 2015 McClelland's Tudor Castle (IYKYK)",
               "source": "Speak-Easy.Club",
@@ -42430,6 +43699,7 @@
             }
           ],
           "sources": [
+            "pipestud.com",
             "4noggins.com",
             "Speak-Easy.Club"
           ]
@@ -42475,6 +43745,7 @@
         }
       ],
       "years": [
+        "2009",
         "2015",
         "2017"
       ],
@@ -42719,6 +43990,21 @@
               ]
             },
             {
+              "name": "1999 McCrannies Prime 1983 Red Virginia -50g",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/199650/",
+              "price": "$152.00",
+              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "first_seen": "2026-07-03T17:31:01+00:00",
+              "year": "1999",
+              "price_history": [
+                {
+                  "price": "$152.00",
+                  "date": "2026-07-03T17:31:01+00:00"
+                }
+              ]
+            },
+            {
               "name": "Very Nice Sealed 2012 McCranie's Red Flake Prime 2008 Red Virginia 50g. Tin",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/195852/",
@@ -42787,6 +44073,21 @@
                   "date": "2026-06-24T02:02:09.029335+00:00"
                 }
               ]
+            },
+            {
+              "name": "1999 McCrannies Prime 1983 Red Virginia",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/199147/",
+              "price": "$152.00",
+              "last_updated": "2026-07-03T16:00:40.863575+00:00",
+              "first_seen": "2026-07-02T17:32:09+00:00",
+              "year": "1999",
+              "price_history": [
+                {
+                  "price": "$152.00",
+                  "date": "2026-07-02T17:32:09+00:00"
+                }
+              ]
             }
           ],
           "sources": [
@@ -42798,6 +44099,7 @@
       "years": [
         "1983",
         "1994",
+        "1999",
         "2012"
       ],
       "source": "Multiple sources"
@@ -43434,6 +44736,44 @@
       "source": "Tinbids Auction (Sold)"
     },
     {
+      "id": "murrays|warriorplug",
+      "brand": "Murray's",
+      "blend": "Warrior Plug",
+      "display_name": "Murray's Warrior Plug",
+      "sources": [
+        "pipestud.com"
+      ],
+      "sizes": [
+        {
+          "quantity": "50g",
+          "members": [
+            {
+              "name": "Murray’s Warrior Plug 50g Pouch – Year 2012",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/murrays-warrior-plug-50g-pouch-year-2012/",
+              "price": "$25.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2012",
+              "price_history": [
+                {
+                  "price": "$25.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "pipestud.com"
+          ]
+        }
+      ],
+      "years": [
+        "2012"
+      ],
+      "source": "pipestud.com"
+    },
+    {
       "id": "natsherman|536",
       "brand": "Nat Sherman",
       "blend": "536",
@@ -43608,6 +44948,7 @@
       "blend": "Hunter Blend Pointer",
       "display_name": "Nording Hunter Blend Pointer",
       "sources": [
+        "Tinbids Auction (Sold)",
         "4noggins.com"
       ],
       "sizes": [
@@ -43633,22 +44974,7 @@
           "sources": [
             "4noggins.com"
           ]
-        }
-      ],
-      "years": [
-        "2017"
-      ],
-      "source": "4noggins.com"
-    },
-    {
-      "id": "nrding|pointer",
-      "brand": "Nørding",
-      "blend": "Pointer",
-      "display_name": "Nørding Pointer",
-      "sources": [
-        "Tinbids Auction (Sold)"
-      ],
-      "sizes": [
+        },
         {
           "quantity": "",
           "members": [
@@ -43673,14 +44999,16 @@
           ]
         }
       ],
-      "years": [],
-      "source": "Tinbids Auction (Sold)"
+      "years": [
+        "2017"
+      ],
+      "source": "Multiple sources"
     },
     {
-      "id": "nrding|retriever",
-      "brand": "Nørding",
-      "blend": "Retriever",
-      "display_name": "Nørding Retriever",
+      "id": "nording|hunterblendretriever",
+      "brand": "Nording",
+      "blend": "Hunter Blend Retriever",
+      "display_name": "Nording Hunter Blend Retriever",
       "sources": [
         "Tinbids Auction (Sold)"
       ],
@@ -43888,6 +45216,29 @@
           ]
         },
         {
+          "quantity": "50g",
+          "members": [
+            {
+              "name": "Orlik Golden Sliced 2024 (50g)",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/200360/",
+              "price": "$30.00",
+              "last_updated": "2026-07-04T16:00:44.406436+00:00",
+              "first_seen": "2026-07-03T22:54:04+00:00",
+              "year": "2024",
+              "price_history": [
+                {
+                  "price": "$30.00",
+                  "date": "2026-07-03T22:54:04+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        },
+        {
           "quantity": "100g",
           "members": [
             {
@@ -43951,7 +45302,8 @@
       ],
       "years": [
         "2016",
-        "2020"
+        "2020",
+        "2024"
       ],
       "source": "Multiple sources"
     },
@@ -45033,6 +46385,7 @@
       "blend": "Luxury Navy Flake",
       "display_name": "Peter Stokkebye Luxury Navy Flake",
       "sources": [
+        "pipestud.com",
         "Speak-Easy.Club"
       ],
       "sizes": [
@@ -45104,13 +46457,37 @@
           "sources": [
             "Speak-Easy.Club"
           ]
+        },
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Peter Stokkebye PS Luxury Navy Flake 1-1/2 Pound box – Year 2011",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/peter-stokkebye-ps-luxury-navy-flake-1-1-2-pound-box-year-2011/",
+              "price": "$285.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2011",
+              "price_history": [
+                {
+                  "price": "$285.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "pipestud.com"
+          ]
         }
       ],
       "years": [
+        "2011",
         "2017",
         "2024"
       ],
-      "source": "Speak-Easy.Club"
+      "source": "Multiple sources"
     },
     {
       "id": "peterstokkebye|luxurytwistflake",
@@ -45442,6 +46819,21 @@
                   "date": "2026-06-20T16:28:47.877864+00:00"
                 }
               ]
+            },
+            {
+              "name": "Peterson’s Irish Flake 50g tins – Year 2016",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/petersons-irish-flake-50g-tins-year-2016/",
+              "price": "$40.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2016",
+              "price_history": [
+                {
+                  "price": "$40.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
             }
           ],
           "sources": [
@@ -45489,6 +46881,7 @@
       ],
       "years": [
         "2010",
+        "2016",
         "2020",
         "2023"
       ],
@@ -46284,6 +47677,7 @@
       "blend": "University Flake",
       "display_name": "Peterson University Flake",
       "sources": [
+        "pipestud.com",
         "Treasured Smokes",
         "4noggins.com",
         "Speak-Easy.Club"
@@ -46316,6 +47710,36 @@
           "quantity": "50g",
           "members": [
             {
+              "name": "Peterson’s Murray’s era University Flake 50g tin – Year 2002",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/petersons-murrays-era-university-flake-50g-tin-year-2002/",
+              "price": "$75.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2002",
+              "price_history": [
+                {
+                  "price": "$75.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
+            {
+              "name": "Peterson’s University Flake 50g tin – Year 2014",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/petersons-university-flake-50g-tin-year-2014/",
+              "price": "$45.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2014",
+              "price_history": [
+                {
+                  "price": "$45.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
+            {
               "name": "Peterson: UNIVERSITY FLAKE 50g 2015 - C",
               "source": "4noggins.com",
               "url": "https://www.4noggins.com/products/peterson-university-flake-50g-2007-c",
@@ -46347,6 +47771,7 @@
             }
           ],
           "sources": [
+            "pipestud.com",
             "Treasured Smokes",
             "4noggins.com"
           ]
@@ -46452,7 +47877,9 @@
         }
       ],
       "years": [
+        "2002",
         "2007",
+        "2014",
         "2015",
         "2017",
         "2019",
@@ -49925,6 +51352,21 @@
               ]
             },
             {
+              "name": "Samuel Gawith 1792 Flake 50g tins – Year 2016",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/samuel-gawith-1792-flake-50g-tins-year-2016/",
+              "price": "$40.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2016",
+              "price_history": [
+                {
+                  "price": "$40.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
+            {
               "name": "Samuel Gawith: 1792 FLAKE 50g 2016 - C",
               "source": "4noggins.com",
               "url": "https://www.4noggins.com/products/samuel-gawith-1792-flake-50g-1",
@@ -50576,6 +52018,21 @@
               ]
             },
             {
+              "name": "Samuel Gawith Brown No. 4 Kendal Twist 50g tins – Year 2017",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/samuel-gawith-brown-no-4-kendal-twist-50g-tins-year-2017/",
+              "price": "$35.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2017",
+              "price_history": [
+                {
+                  "price": "$35.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
+            {
               "name": "Samuel Gawith Brown No. 4 in 50g tins – Year 2017",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/samuel-gawith-brown-no-4-in-50g-tins-year-2017/",
@@ -50742,6 +52199,7 @@
       "blend": "Cabbie's Mixture",
       "display_name": "Samuel Gawith Cabbie's Mixture",
       "sources": [
+        "pipestud.com",
         "Tinbids Auction (Sold)",
         "4noggins.com",
         "Speak-Easy.Club"
@@ -50781,6 +52239,21 @@
               ]
             },
             {
+              "name": "Samuel Gawith Cabbie’s Mixture 50g tin – Year 2016",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/samuel-gawith-cabbies-mixture-50g-tin-year-2016-2/",
+              "price": "$50.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2016",
+              "price_history": [
+                {
+                  "price": "$50.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
+            {
               "name": "Samuel Gawith: CABBIE'S MIXTURE 50g 2018 - C",
               "source": "4noggins.com",
               "url": "https://www.4noggins.com/products/samuel-gawith-cabbies-mixture-50g-c",
@@ -50812,6 +52285,7 @@
             }
           ],
           "sources": [
+            "pipestud.com",
             "4noggins.com",
             "Speak-Easy.Club"
           ]
@@ -52553,6 +54027,7 @@
       "blend": "RB Plug",
       "display_name": "Samuel Gawith RB Plug",
       "sources": [
+        "pipestud.com",
         "Speak-Easy.Club"
       ],
       "sizes": [
@@ -52578,10 +54053,35 @@
           "sources": [
             "Speak-Easy.Club"
           ]
+        },
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Samuel Gawith R.B. Plug One Pound Boxes in Factory Sealed Mylar bags- Year 2006",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/samuel-gawith-r-b-plug-one-pound-boxes-in-factory-sealed-mylar-bags-year-2006/",
+              "price": "$225.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2006",
+              "price_history": [
+                {
+                  "price": "$225.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "pipestud.com"
+          ]
         }
       ],
-      "years": [],
-      "source": "Speak-Easy.Club"
+      "years": [
+        "2006"
+      ],
+      "source": "Multiple sources"
     },
     {
       "id": "samuelgawith|samsflake",
@@ -53072,6 +54572,7 @@
       "blend": "Squadron Leader with Perique",
       "display_name": "Samuel Gawith Squadron Leader with Perique",
       "sources": [
+        "pipestud.com",
         "4noggins.com",
         "Speak-Easy.Club"
       ],
@@ -53093,9 +54594,25 @@
                   "date": "2026-06-21T02:45:17.226279+00:00"
                 }
               ]
+            },
+            {
+              "name": "Samuel Gawith Special Edition Squadron Leader W/ Perique 50g tins – Year 2015",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/samuel-gawith-special-edition-squadron-leader-w-perique-50g-tins-year-2015/",
+              "price": "$55.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2015",
+              "price_history": [
+                {
+                  "price": "$55.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
             }
           ],
           "sources": [
+            "pipestud.com",
             "4noggins.com"
           ]
         },
@@ -53124,6 +54641,7 @@
         }
       ],
       "years": [
+        "2015",
         "2019"
       ],
       "source": "Multiple sources"
@@ -55218,6 +56736,21 @@
               ]
             },
             {
+              "name": "Germain’s Smoker’s Haven 20th Anniversary Mixture 2oz tins – Year 2013",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/germains-smokers-haven-20th-anniversary-mixture-2oz-tins-year-2013/",
+              "price": "$65.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2013",
+              "price_history": [
+                {
+                  "price": "$65.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
+            {
               "name": "Germain’s Smoker’s Haven 20th Anniversary Mixture 2oz tin – Year 2013",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/germains-smokers-haven-20th-anniversary-mixture-2oz-tin-year-2013/",
@@ -55351,6 +56884,7 @@
       "blend": "Exotique Mixture",
       "display_name": "Smokers' Haven Exotique Mixture",
       "sources": [
+        "pipestud.com",
         "Tinbids Auction (Sold)",
         "4noggins.com"
       ],
@@ -55374,6 +56908,21 @@
               ]
             },
             {
+              "name": "Germain’s Smoker’s Haven Exotique 2oz tin – Year 2013",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/germains-smokers-haven-exotique-2oz-tin-year-2013-2/",
+              "price": "$85.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2013",
+              "price_history": [
+                {
+                  "price": "$85.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
+            {
               "name": "Smokers' Haven: EXOTIQUE MIXTURE 2oz 2018 - C",
               "source": "4noggins.com",
               "url": "https://www.4noggins.com/products/smokers-haven-exotique-mixture-2oz-2018-c",
@@ -55390,6 +56939,7 @@
             }
           ],
           "sources": [
+            "pipestud.com",
             "Tinbids Auction (Sold)",
             "4noggins.com"
           ]
@@ -55397,6 +56947,21 @@
         {
           "quantity": "8oz",
           "members": [
+            {
+              "name": "2003 Smokers Haven Exotique, 8oz",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/199617/",
+              "price": "$560.00",
+              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "first_seen": "2026-07-03T17:12:10+00:00",
+              "year": "2003",
+              "price_history": [
+                {
+                  "price": "$560.00",
+                  "date": "2026-07-03T17:12:10+00:00"
+                }
+              ]
+            },
             {
               "name": "2004 Smokers Haven Exotique, 8oz",
               "source": "Tinbids Auction (Sold)",
@@ -55419,7 +56984,9 @@
         }
       ],
       "years": [
+        "2003",
         "2004",
+        "2013",
         "2018"
       ],
       "source": "Multiple sources"
@@ -55430,6 +56997,7 @@
       "blend": "In-B-Tween Mixture",
       "display_name": "Smokers' Haven In-B-Tween Mixture",
       "sources": [
+        "pipestud.com",
         "Tinbids Auction (Sold)",
         "4noggins.com"
       ],
@@ -55437,6 +57005,21 @@
         {
           "quantity": "2oz",
           "members": [
+            {
+              "name": "Germain’s Smoker’s Haven IN – B-TWEEN Mixture 2oz tins – Years  2013, 2014 & 2015",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/germains-smokers-haven-in-b-tween-mixture-2oz-tins-years-2013-2014-2015/",
+              "price": "$65.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2013",
+              "price_history": [
+                {
+                  "price": "$65.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
             {
               "name": "Smoker's Haven: IN-B-TWEEN MIXTURE 2oz 2018 - C",
               "source": "4noggins.com",
@@ -55454,6 +57037,7 @@
             }
           ],
           "sources": [
+            "pipestud.com",
             "4noggins.com"
           ]
         },
@@ -55482,6 +57066,7 @@
         }
       ],
       "years": [
+        "2013",
         "2018"
       ],
       "source": "Multiple sources"
@@ -55523,6 +57108,21 @@
         {
           "quantity": "2oz",
           "members": [
+            {
+              "name": "Smokers Haven Our Best Blend-2oz",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/199623/",
+              "price": "$102.00",
+              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "first_seen": "2026-07-03T17:15:44+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$102.00",
+                  "date": "2026-07-03T17:15:44+00:00"
+                }
+              ]
+            },
             {
               "name": "Excellent Sealed 2016 Our Best Blend by Smokers Haven 2oz. Tin",
               "source": "Tinbids Auction (Sold)",
@@ -55720,6 +57320,7 @@
       "blend": "Aged Burley Flake 656",
       "display_name": "Solani Aged Burley Flake 656",
       "sources": [
+        "pipestud.com",
         "Tinbids Auction (Sold)",
         "4noggins.com",
         "Speak-Easy.Club"
@@ -55763,6 +57364,21 @@
                 {
                   "price": "$140.00",
                   "date": "2026-06-21T02:45:17.226279+00:00"
+                }
+              ]
+            },
+            {
+              "name": "Solani Aged Burley Flake 50g tin – Year 2014",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/solani-aged-burley-flake-50g-tin-year-2014-2/",
+              "price": "$40.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2014",
+              "price_history": [
+                {
+                  "price": "$40.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
                 }
               ]
             },
@@ -55813,6 +57429,7 @@
             }
           ],
           "sources": [
+            "pipestud.com",
             "Tinbids Auction (Sold)",
             "4noggins.com"
           ]
@@ -55820,6 +57437,7 @@
       ],
       "years": [
         "2011",
+        "2014",
         "2018",
         "2024"
       ],
@@ -56919,6 +58537,7 @@
       "blend": "Bengal Slices",
       "display_name": "Sutliff Bengal Slices",
       "sources": [
+        "pipestud.com",
         "Tinbids Auction (Sold)",
         "Speak-Easy.Club"
       ],
@@ -57003,6 +58622,21 @@
               ]
             },
             {
+              "name": "Hearth & Home’s Bengal Slices 50g tins – Year 2016",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/hearth-homes-bengal-slices-50g-tins-year-2016-2/",
+              "price": "$50.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2016",
+              "price_history": [
+                {
+                  "price": "$50.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
+            {
               "name": "50g Bengal Slices- A Sutliff Tobacco Blend From 2016!",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/195059/",
@@ -57034,6 +58668,7 @@
             }
           ],
           "sources": [
+            "pipestud.com",
             "Tinbids Auction (Sold)"
           ]
         },
@@ -57118,6 +58753,44 @@
       ],
       "years": [
         "2019"
+      ],
+      "source": "Tinbids Auction (Sold)"
+    },
+    {
+      "id": "sutliff|berkshire",
+      "brand": "Sutliff",
+      "blend": "Berkshire",
+      "display_name": "Sutliff Berkshire",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "2016 Sutliff Private Stock, \"Berkshire\".",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/200362/",
+              "price": "$60.00",
+              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "first_seen": "2026-07-03T22:56:32+00:00",
+              "year": "2016",
+              "price_history": [
+                {
+                  "price": "$60.00",
+                  "date": "2026-07-03T22:56:32+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [
+        "2016"
       ],
       "source": "Tinbids Auction (Sold)"
     },
@@ -57690,6 +59363,21 @@
                 {
                   "price": "$20",
                   "date": "2026-06-24T02:02:09.029335+00:00"
+                }
+              ]
+            },
+            {
+              "name": "Sutliff Cringle Flake 2020 (No Reserve)",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/200352/",
+              "price": "$40.00",
+              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "first_seen": "2026-07-03T22:49:21+00:00",
+              "year": "2020",
+              "price_history": [
+                {
+                  "price": "$40.00",
+                  "date": "2026-07-03T22:49:21+00:00"
                 }
               ]
             },
@@ -58501,6 +60189,42 @@
       "source": "Speak-Easy.Club"
     },
     {
+      "id": "sutliff|heinesblend",
+      "brand": "Sutliff",
+      "blend": "Heine's Blend",
+      "display_name": "Sutliff Heine's Blend",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "1.5oz",
+          "members": [
+            {
+              "name": "HEINE'S BLEND Smoking Tobacco (1980s) 1.5 OZ. Sealed Box",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/199320/",
+              "price": "$37.00",
+              "last_updated": "2026-07-03T16:00:40.863575+00:00",
+              "first_seen": "2026-07-03T01:26:42+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$37.00",
+                  "date": "2026-07-03T01:26:42+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Tinbids Auction (Sold)"
+    },
+    {
       "id": "sutliff|j4burley",
       "brand": "Sutliff",
       "blend": "J4 Burley",
@@ -58768,9 +60492,33 @@
       "blend": "Mixture No. 79",
       "display_name": "Sutliff Mixture No. 79",
       "sources": [
+        "Tinbids Auction (Sold)",
         "Speak-Easy.Club"
       ],
       "sizes": [
+        {
+          "quantity": "1.5oz",
+          "members": [
+            {
+              "name": "MIXTURE No. 79 Smoking Tobacco (1970s-1980s?) 1.5 OZ. Sealed Box",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/199322/",
+              "price": "$37.00",
+              "last_updated": "2026-07-03T16:00:40.863575+00:00",
+              "first_seen": "2026-07-03T01:27:29+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$37.00",
+                  "date": "2026-07-03T01:27:29+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        },
         {
           "quantity": "7.87oz",
           "members": [
@@ -58798,7 +60546,7 @@
       "years": [
         "2024"
       ],
-      "source": "Speak-Easy.Club"
+      "source": "Multiple sources"
     },
     {
       "id": "sutliff|moltodolce",
@@ -58844,6 +60592,7 @@
       "blend": "No. 6 Phantom",
       "display_name": "Sutliff No. 6 Phantom",
       "sources": [
+        "Tinbids Auction (Sold)",
         "Speak-Easy.Club"
       ],
       "sizes": [
@@ -58874,6 +60623,21 @@
           "quantity": "",
           "members": [
             {
+              "name": "Sutliff Phantom Privateer Barrel Aged Crumble Cake No 6",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/198437/",
+              "price": "$43.00",
+              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "first_seen": "2026-07-04T00:07:51+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$43.00",
+                  "date": "2026-07-04T00:07:51+00:00"
+                }
+              ]
+            },
+            {
               "name": "Phantom Privateer x1Dencoan",
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/next-batch-of-tins.44567/",
@@ -58890,6 +60654,7 @@
             }
           ],
           "sources": [
+            "Tinbids Auction (Sold)",
             "Speak-Easy.Club"
           ]
         }
@@ -58897,7 +60662,7 @@
       "years": [
         "2022"
       ],
-      "source": "Speak-Easy.Club"
+      "source": "Multiple sources"
     },
     {
       "id": "sutliff|paradoxical",
@@ -59601,6 +61366,7 @@
       "blend": "Virginia Slices",
       "display_name": "Sutliff Virginia Slices",
       "sources": [
+        "Tinbids Auction (Sold)",
         "Speak-Easy.Club"
       ],
       "sizes": [
@@ -59682,17 +61448,34 @@
                   "date": "2025-01-25T23:38:59+00:00"
                 }
               ]
+            },
+            {
+              "name": "Sutliff 507c Virginia Slices 2024",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/200817/",
+              "price": "$75.00",
+              "last_updated": "2026-07-03T16:00:40.863575+00:00",
+              "first_seen": "2026-07-03T13:26:15+00:00",
+              "year": "2024",
+              "price_history": [
+                {
+                  "price": "$75.00",
+                  "date": "2026-07-03T13:26:15+00:00"
+                }
+              ]
             }
           ],
           "sources": [
+            "Tinbids Auction (Sold)",
             "Speak-Easy.Club"
           ]
         }
       ],
       "years": [
-        "2021"
+        "2021",
+        "2024"
       ],
-      "source": "Speak-Easy.Club"
+      "source": "Multiple sources"
     },
     {
       "id": "sutliff|voodooqueen",
@@ -59736,10 +61519,34 @@
       "blend": "War Horse Bar",
       "display_name": "Sutliff War Horse Bar",
       "sources": [
+        "pipestud.com",
         "Tinbids Auction (Sold)",
         "Speak-Easy.Club"
       ],
       "sizes": [
+        {
+          "quantity": "50g",
+          "members": [
+            {
+              "name": "Standard Tobacco Co. War Horse 50g tin – Year 2015",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/standard-tobacco-co-war-horse-50g-tin-year-2015/",
+              "price": "$45.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2015",
+              "price_history": [
+                {
+                  "price": "$45.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "pipestud.com"
+          ]
+        },
         {
           "quantity": "",
           "members": [
@@ -59795,7 +61602,9 @@
           ]
         }
       ],
-      "years": [],
+      "years": [
+        "2015"
+      ],
       "source": "Multiple sources"
     },
     {
@@ -61851,6 +63660,7 @@
       "blend": "Brigade Campaign Dark Flake",
       "display_name": "Wessex Brigade Campaign Dark Flake",
       "sources": [
+        "pipestud.com",
         "4noggins.com",
         "Speak-Easy.Club"
       ],
@@ -61858,6 +63668,36 @@
         {
           "quantity": "50g",
           "members": [
+            {
+              "name": "Wessex Dark Flake 50g tin – Year 2009",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/wessex-dark-flake-50g-tin-year-2009/",
+              "price": "$50.00",
+              "last_updated": "2026-06-27T17:13:32.918058+00:00",
+              "first_seen": "2026-06-27T17:13:32.918058+00:00",
+              "year": "2009",
+              "price_history": [
+                {
+                  "price": "$50.00",
+                  "date": "2026-06-27T17:13:32.918058+00:00"
+                }
+              ]
+            },
+            {
+              "name": "Wessex Dark Flake 50g tins – Year 2012",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/wessex-dark-flake-50g-tins-year-2012/",
+              "price": "$45.00",
+              "last_updated": "2026-06-20T16:28:47.877864+00:00",
+              "first_seen": "2026-06-20T16:28:47.877864+00:00",
+              "year": "2012",
+              "price_history": [
+                {
+                  "price": "$45.00",
+                  "date": "2026-06-20T16:28:47.877864+00:00"
+                }
+              ]
+            },
             {
               "name": "Wessex: BRIGADE CAMPAIGN DARK FLAKE 50g 2016 - C",
               "source": "4noggins.com",
@@ -61872,9 +63712,25 @@
                   "date": "2026-06-21T02:45:17.226279+00:00"
                 }
               ]
+            },
+            {
+              "name": "Wessex Dark Flake 50g tins – Year 2017",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/wessex-dark-flake-50g-tins-year-2017/",
+              "price": "$40.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2017",
+              "price_history": [
+                {
+                  "price": "$40.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
             }
           ],
           "sources": [
+            "pipestud.com",
             "4noggins.com"
           ]
         },
@@ -61997,7 +63853,10 @@
         }
       ],
       "years": [
-        "2016"
+        "2009",
+        "2012",
+        "2016",
+        "2017"
       ],
       "source": "Multiple sources"
     },
@@ -62007,9 +63866,34 @@
       "blend": "Brigade Sovereign Curly Cut",
       "display_name": "Wessex Brigade Sovereign Curly Cut",
       "sources": [
-        "4noggins.com"
+        "Tinbids Auction (Sold)",
+        "4noggins.com",
+        "Speak-Easy.Club"
       ],
       "sizes": [
+        {
+          "quantity": "1.76oz",
+          "members": [
+            {
+              "name": "*SOLD* 2021 Wessex Sovereign 1.76oz",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/remaining-random-aged-tins-kbv-pouches-as-a-lot-or-individuals.41334/",
+              "price": "$15",
+              "last_updated": "2026-06-25T20:46:10.923480+00:00",
+              "first_seen": "2024-11-11T20:54:27+00:00",
+              "year": "2021",
+              "price_history": [
+                {
+                  "price": "$15",
+                  "date": "2024-11-11T20:54:27+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        },
         {
           "quantity": "50g",
           "members": [
@@ -62032,50 +63916,53 @@
           "sources": [
             "4noggins.com"
           ]
-        }
-      ],
-      "years": [
-        "2018"
-      ],
-      "source": "4noggins.com"
-    },
-    {
-      "id": "wessex|brownvaflake",
-      "brand": "Wessex",
-      "blend": "Brown Va Flake",
-      "display_name": "Wessex Brown Va Flake",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
+        },
         {
           "quantity": "",
           "members": [
             {
-              "name": "x Wessex brown Va flake (2020)",
+              "name": "Brigade Sovereign",
               "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/blownout-sale.43411/",
+              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
               "price": "$20",
-              "last_updated": "2026-06-24T02:02:09.029335+00:00",
-              "first_seen": "2025-11-14T21:52:44+00:00",
-              "year": "2020",
+              "last_updated": "2026-06-27T20:00:39.387042+00:00",
+              "first_seen": "2024-10-06T22:24:57+00:00",
+              "year": "",
               "price_history": [
                 {
                   "price": "$20",
-                  "date": "2026-06-24T02:02:09.029335+00:00"
+                  "date": "2024-10-06T22:24:57+00:00"
+                }
+              ]
+            },
+            {
+              "name": "Early 2000’s -Vintage - Wessex Sovereign Curly Cut. Exquisite!",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/198235/",
+              "price": "$69.00",
+              "last_updated": "2026-07-01T04:00:37.972075+00:00",
+              "first_seen": "2026-06-30T16:08:28+00:00",
+              "year": "2000",
+              "price_history": [
+                {
+                  "price": "$69.00",
+                  "date": "2026-06-30T16:08:28+00:00"
                 }
               ]
             }
           ],
           "sources": [
+            "Tinbids Auction (Sold)",
             "Speak-Easy.Club"
           ]
         }
       ],
       "years": [
-        "2020"
+        "2000",
+        "2018",
+        "2021"
       ],
-      "source": "Speak-Easy.Club"
+      "source": "Multiple sources"
     },
     {
       "id": "wessex|brownvirginiaflake",
@@ -62160,6 +64047,21 @@
               ]
             },
             {
+              "name": "Wessex Brown Virginia Flake 50g tins – Year 2017",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/wessex-brown-virginia-flake-50g-tins-year-2017/",
+              "price": "$40.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2017",
+              "price_history": [
+                {
+                  "price": "$40.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
+            {
               "name": "Wessex Brown Virginia Flake 50g 2021",
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/getting-rid-of-tins-and-mylar.44365/",
@@ -62180,11 +64082,36 @@
             "4noggins.com",
             "Speak-Easy.Club"
           ]
+        },
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "x Wessex brown Va flake (2020)",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/blownout-sale.43411/",
+              "price": "$20",
+              "last_updated": "2026-06-24T02:02:09.029335+00:00",
+              "first_seen": "2025-11-14T21:52:44+00:00",
+              "year": "2020",
+              "price_history": [
+                {
+                  "price": "$20",
+                  "date": "2026-06-24T02:02:09.029335+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
         }
       ],
       "years": [
         "2008",
         "2012",
+        "2017",
+        "2020",
         "2021"
       ],
       "source": "Multiple sources"
@@ -62366,65 +64293,26 @@
               ]
             },
             {
+              "name": "Wessex Curley Cut Virginia & Perique 50g tin – Year 2012",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/wessex-curley-cut-virginia-perique-50g-tin-year-2012/",
+              "price": "$45.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2012",
+              "price_history": [
+                {
+                  "price": "$45.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            },
+            {
               "name": "Wessex Curley Cut Virginia & Perique 50g tin – Years 2012",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/wessex-curley-cut-virginia-perique-50g-tin-years-2012/",
               "price": "$45.00",
               "last_updated": "2026-06-21T03:15:02.754777+00:00",
-              "first_seen": "2026-06-20T16:28:47.877864+00:00",
-              "year": "2012",
-              "price_history": [
-                {
-                  "price": "$45.00",
-                  "date": "2026-06-20T16:28:47.877864+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "pipestud.com"
-          ]
-        }
-      ],
-      "years": [
-        "2009",
-        "2012"
-      ],
-      "source": "pipestud.com"
-    },
-    {
-      "id": "wessex|darkflake",
-      "brand": "Wessex",
-      "blend": "Dark Flake",
-      "display_name": "Wessex Dark Flake",
-      "sources": [
-        "pipestud.com"
-      ],
-      "sizes": [
-        {
-          "quantity": "50g",
-          "members": [
-            {
-              "name": "Wessex Dark Flake 50g tin – Year 2009",
-              "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/wessex-dark-flake-50g-tin-year-2009/",
-              "price": "$50.00",
-              "last_updated": "2026-06-27T17:13:32.918058+00:00",
-              "first_seen": "2026-06-27T17:13:32.918058+00:00",
-              "year": "2009",
-              "price_history": [
-                {
-                  "price": "$50.00",
-                  "date": "2026-06-27T17:13:32.918058+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Wessex Dark Flake 50g tins – Year 2012",
-              "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/wessex-dark-flake-50g-tins-year-2012/",
-              "price": "$45.00",
-              "last_updated": "2026-06-20T16:28:47.877864+00:00",
               "first_seen": "2026-06-20T16:28:47.877864+00:00",
               "year": "2012",
               "price_history": [
@@ -62566,6 +64454,7 @@
       "blend": "Gold Slice",
       "display_name": "Wessex Gold Slice",
       "sources": [
+        "pipestud.com",
         "4noggins.com",
         "Speak-Easy.Club"
       ],
@@ -62606,6 +64495,29 @@
           ],
           "sources": [
             "4noggins.com"
+          ]
+        },
+        {
+          "quantity": "50g",
+          "members": [
+            {
+              "name": "Wessex Gold Slice 50g tins – Year 2017",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/wessex-gold-slice-50g-tins-year-2017/",
+              "price": "$35.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2017",
+              "price_history": [
+                {
+                  "price": "$35.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "pipestud.com"
           ]
         },
         {
@@ -62766,44 +64678,6 @@
       "source": "pipestud.com"
     },
     {
-      "id": "wessex|redvaflake",
-      "brand": "Wessex",
-      "blend": "Red Va Flake",
-      "display_name": "Wessex Red Va Flake",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "x Wessex red Va flake 2021",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/blownout-sale.43411/",
-              "price": "$20",
-              "last_updated": "2026-06-24T02:02:09.029335+00:00",
-              "first_seen": "2025-11-14T21:52:44+00:00",
-              "year": "2021",
-              "price_history": [
-                {
-                  "price": "$20",
-                  "date": "2026-06-24T02:02:09.029335+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [
-        "2021"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
       "id": "wessex|redvirginiaflake",
       "brand": "Wessex",
       "blend": "Red Virginia Flake",
@@ -62829,94 +64703,32 @@
                   "date": "2024-10-06T22:24:57+00:00"
                 }
               ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "wessex|sovereigncurlycut",
-      "brand": "Wessex",
-      "blend": "Sovereign Curly Cut",
-      "display_name": "Wessex Sovereign Curly Cut",
-      "sources": [
-        "Tinbids Auction (Sold)",
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "1.76oz",
-          "members": [
+            },
             {
-              "name": "*SOLD* 2021 Wessex Sovereign 1.76oz",
+              "name": "x Wessex red Va flake 2021",
               "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/remaining-random-aged-tins-kbv-pouches-as-a-lot-or-individuals.41334/",
-              "price": "$15",
-              "last_updated": "2026-06-25T20:46:10.923480+00:00",
-              "first_seen": "2024-11-11T20:54:27+00:00",
+              "url": "https://speak-easy.club/threads/blownout-sale.43411/",
+              "price": "$20",
+              "last_updated": "2026-06-24T02:02:09.029335+00:00",
+              "first_seen": "2025-11-14T21:52:44+00:00",
               "year": "2021",
               "price_history": [
                 {
-                  "price": "$15",
-                  "date": "2024-11-11T20:54:27+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        },
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Brigade Sovereign",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
-              "price": "$20",
-              "last_updated": "2026-06-27T20:00:39.387042+00:00",
-              "first_seen": "2024-10-06T22:24:57+00:00",
-              "year": "",
-              "price_history": [
-                {
                   "price": "$20",
-                  "date": "2024-10-06T22:24:57+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Early 2000’s -Vintage - Wessex Sovereign Curly Cut. Exquisite!",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/198235/",
-              "price": "$69.00",
-              "last_updated": "2026-07-01T04:00:37.972075+00:00",
-              "first_seen": "2026-06-30T16:08:28+00:00",
-              "year": "2000",
-              "price_history": [
-                {
-                  "price": "$69.00",
-                  "date": "2026-06-30T16:08:28+00:00"
+                  "date": "2026-06-24T02:02:09.029335+00:00"
                 }
               ]
             }
           ],
           "sources": [
-            "Tinbids Auction (Sold)",
             "Speak-Easy.Club"
           ]
         }
       ],
       "years": [
-        "2000",
         "2021"
       ],
-      "source": "Multiple sources"
+      "source": "Speak-Easy.Club"
     },
     {
       "id": "whitehall|whitehall",
@@ -62962,6 +64774,72 @@
     "Ashton Type 5 in 50g tins – 1990s era & Made in Denmark by Orlik": "ashton|type5",
     "Charatan’s Original Black Aromatic – 1970’s era & Made by Dunhill": "charatans|originalblackaromatic",
     "McClelland’s Christmas Cheer 100g tins – Year 2010": "mcclelland|christmascheer",
+    "Wessex Curley Cut Virginia & Perique 50g tin – Year 2012": "wessex|curlycutvirginiaperique",
+    "Mac Baren’s Stockton Spun Cut 100g  tins – Year 2023": "macbaren|stocktonspuncut",
+    "G.L. Pease Classic Collection Stratford 2oz tin – Year 2004": "glpease|stratford",
+    "G.L. Pease Original Cumberland W/ The 20-year old Kentucky 2oz tin – Year 2004": "glpease|cumberland",
+    "G.L. Pease Montgomery 2oz tins – First Year 2005 Production": "glpease|montgomery",
+    "G.L. Pease Haddo’s Delight 2oz tins – Year 2004": "glpease|haddosdelight",
+    "G.L. Pease Telegraph Hill 2oz tin – First Year 2005 Production": "glpease|telegraphhill",
+    "Dunhill Murray’s era Three Year Matured 50g tins – Year 2004": "dunhill|threeyearsmaturedvirginia",
+    "Cornell & Diehl Bayou Morning Virginia / Perique Flake 2oz tins – Year 2005": "cornelldiehl|bayoumorningflake",
+    "Samuel Gawith 1792 Flake 50g tins – Year 2016": "samuelgawith|1792flake",
+    "Dan Tobacco’s Old Ironsides 50g tin – Year 2004": "dantobacco|oldironsides",
+    "Samuel Gawith Brown No. 4 Kendal Twist 50g tins – Year 2017": "samuelgawith|brownno4",
+    "Peter Stokkebye PS Luxury Navy Flake 1-1/2 Pound box – Year 2011": "peterstokkebye|luxurynavyflake",
+    "Wessex Gold Slice 50g tins – Year 2017": "wessex|goldslice",
+    "Murray’s Warrior Plug 50g Pouch – Year 2012": "murrays|warriorplug",
+    "Gawith & Hoggarth Revor Plug Factory sealed 50g Pouches – Year 2012": "gawithhoggarthco|revorplug",
+    "Peterson’s Murray’s era University Flake 50g tin – Year 2002": "peterson|universityflake",
+    "Peterson’s Irish Flake 50g tins – Year 2016": "peterson|irishflake",
+    "Samuel Gawith Special Edition Squadron Leader W/ Perique 50g tins – Year 2015": "samuelgawith|squadronleaderwithperique",
+    "Peterson’s University Flake 50g tin – Year 2014": "peterson|universityflake",
+    "McClelland’s Frog Morton Cellar 100g tins – First Year 2012 Production": "mcclelland|frogmortonscellar",
+    "G.L. Pease Old London Series Temple Bar 2oz tin – First Year 2016 Production": "glpease|templebar",
+    "McClelland’s Frog Morton Cellar 50g tin – First Year 2012 Production": "mcclelland|frogmortonscellar",
+    "McClelland’s Original Frog Morton 100g tins – Years 2007 & 2009": "mcclelland|frogmorton",
+    "McClelland’s Original Frog Morton 100g tins – Years 1999 & 2002": "mcclelland|frogmorton",
+    "McClelland’s Original Frog Morton 50g tins – Years 2007 & 2009": "mcclelland|frogmorton",
+    "McClelland’s Syr. Latakia Frog Morton Across the Pond 100g tin – Year 2013": "mcclelland|frogmortonacrossthepond",
+    "McClelland’s Syr. Latakia Frog Morton Across the Pond 100g tin – Year 2005": "mcclelland|frogmortonacrossthepond",
+    "McClelland’s Frog Morton On the Town 100g tin – Year 2006": "mcclelland|frogmortononthetown",
+    "McClelland’s Frog Morton Across the Pond – First Year 2004 Production": "mcclelland|frogmortonacrossthepond",
+    "McClelland’s Frog Morton On the Bayou 100g tin – Year 2003": "mcclelland|frogmortononthebayou",
+    "McClelland’s Frog Morton On the Bayou 50g tin – Year 2002": "mcclelland|frogmortononthebayou",
+    "McClelland’s Frog Morton On the Bayou 50g tin – Year 2013": "mcclelland|frogmortononthebayou",
+    "McClelland’s Award Winning Blue Mountain 50g tins – First Year 2011 Production": "mcclelland|bluemountain",
+    "McClelland’s Syr. Latakia UPCA Traveler 50g tin – Year 2015": "mcclelland|traveler",
+    "McClelland’s Syr. Latakia Tudor Castle Arcade 50g tin – Year 2009": "mcclelland|tudorcastle",
+    "Germain’s Smoker’s Haven IN – B-TWEEN Mixture 2oz tins – Years  2013, 2014 & 2015": "smokershaven|inbtweenmixture",
+    "Germain’s Smoker’s Haven 20th Anniversary Mixture 2oz tins – Year 2013": "smokershaven|20thanniversarymixture",
+    "Germain’s Smoker’s Haven Exotique 2oz tin – Year 2013": "smokershaven|exotiquemixture",
+    "Dan Tobacco’s The Mellow Mallard  – Year 2013": "dantobacco|themellowmallard",
+    "The Bufflehead Shop 3 Oaks 4oz tin – Year 2005": "mcclelland|3oaksoriginalblend",
+    "The Bufflehead Shop Bluebill Drake Decoy 2oz tins – Year 2005": "bufflehead|bluebilldrakedecoy",
+    "The Bufflehead Shop Old Wooden Duck Decoy 2oz tins – Year 2005": "bufflehead|oldwoodenduckdecoy",
+    "McClelland’s Christmas Cheer 100g tins – Year 2016": "mcclelland|christmascheer",
+    "Hearth & Home’s Bengal Slices 50g tins – Year 2016": "sutliff|bengalslices",
+    "Dunhill Light Flake 50g tins – Year 2014": "dunhill|lightflake",
+    "Germain’s Special Latakia Flake 50g tin – Year 2016": "jfgermain|speciallatakiaflake",
+    "Samuel Gawith Cabbie’s Mixture 50g tin – Year 2016": "samuelgawith|cabbiesmixture",
+    "Standard Tobacco Co. War Horse 50g tin – Year 2015": "sutliff|warhorsebar",
+    "Bell’s Three Nuns 50g tin – Year 2015": "bells|threenuns",
+    "Dunhill Ready Rubbed 50g tin – Year 2014": "dunhill|readyrubbed",
+    "John Aylesbury Sir John’s Flake Virginia 50g tin – Year 2013 & Made by Planta": "johnaylesbury|sirjohnsflakevirginia",
+    "Capstan Blue Navy Cut Flake 50g tin – Year 2013 Mac Baren’s Production": "macbaren|capstanblue",
+    "Erinmore Flake 50g tin – Year 2014": "erinmore|flake",
+    "Mac Baren’s HH Pure Virginia 50g tin – Year 2015": "macbaren|hhpurevirginia",
+    "Solani Aged Burley Flake 50g tin – Year 2014": "solani|agedburleyflake656",
+    "McClelland’s Butera’s Royal Vintage Sweet Cavendish 50g tins – First Year 1992 Production": "butera|royalvintagesweetcavendish",
+    "Ashton Syr. Latakia Artisan’s Blend 50g tins – Year 2015": "ashton|artisansblend",
+    "Presbyterian Mixture Early Production Painted Label 50g tin – Year 2006": "macbaren|presbyterianmixture",
+    "Germain’s Eighteen Twenty Smoking Mixture 50g tins – Year 2009": "jfgermain|eighteentwenty",
+    "Germain’s Royal Jersey Original Latakia Mixture 50g tins – Year 2008": "jfgermain|royaljerseylatakia",
+    "Wessex Brown Virginia Flake 50g tins – Year 2017": "wessex|brownvirginiaflake",
+    "Wessex Dark Flake 50g tins – Year 2017": "wessex|brigadecampaigndarkflake",
+    "Samuel Gawith R.B. Plug One Pound Boxes in Factory Sealed Mylar bags- Year 2006": "samuelgawith|rbplug",
+    "McClelland’s Red & Black 50g tin – First Year 2015 Production": "mcclelland|redblack",
+    "Cornell & Diehl’s Briar Fox 2oz tin – First Year 2005 Production": "cornelldiehl|briarfox",
     "Savinelli Punto Oro Cavendish 50g tins – 1980’s era and Made by Mac Baren": "savinelli|puntoorocavendish",
     "Savinelli Special 50g tins – 1980’s era and Made by Mac Baren": "savinelli|special",
     "Savinelli English Mixture 50g tins – 1980’s era and Made by Mac Baren": "savinelli|englishmixture",
@@ -63006,7 +64884,7 @@
     "McClelland’s Original Frog Morton 100g tin – Year 2017 & Released in 2018": "mcclelland|frogmorton",
     "McClelland’s Christmas Cheer 100g tin – Year 2015": "mcclelland|christmascheer",
     "Samuel Gawith Brown No. 4 in 50g tins – Year 2017": "samuelgawith|brownno4",
-    "Wessex Dark Flake 50g tin – Year 2009": "wessex|darkflake",
+    "Wessex Dark Flake 50g tin – Year 2009": "wessex|brigadecampaigndarkflake",
     "Germain’s Esoterica Dunbar 2oz tins – Year 1999": "esoterica|dunbar",
     "Mac Baren’s Dark Twist Roll Cake 3.5oz tin – Year 2007 Swisher Import era": "macbaren|darktwistrollcake",
     "Wessex Curley Cut Virginia & Perique 50g tin – Year 2009": "wessex|curlycutvirginiaperique",
@@ -63083,15 +64961,42 @@
     "Brindley’s English Mixture 1-3/4 oz tins – 1970’s era": "brindley|englishmixture",
     "Sillem’s Copenhagen Blend 50g tin – Year 2014": "sillems|copenhagenblend",
     "Wellauer’s 100% Syr. Latakia 3-1/2oz tins – Year 2015": "wellauers|100syrianlatakia",
-    "Wessex Dark Flake 50g tins – Year 2012": "wessex|darkflake",
+    "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Orlik Golden Sliced 2024 (50g)": "orlik|goldensliced",
+    "DUNHILL MY MIXTURE BB1938 - 11 YEARS OLD (2015)": "dunhill|mymixturebb1938",
+    "Early 2010's Balkan Sobranie - 1 Tin NR BIN $175": "jfgermain|balkansobranie",
+    "Hearth & Home Magnum Opus - 1 Tin NR BIN $60": "hearthhome|magnumopus",
     "Tobacco Tin Mc Clelland Syrian Super Balkan 2004 Out of Production": "mcclelland|syriansuperbalkan",
     "Esoterica Tobacciana Butera’s Margate 8 oz. Sealed Pipe Tobacco Germain & Son, UK": "esoterica|margate",
     "2016 Frog Morton Across The Pond with Syrian Latakia by McClelland 10 Years of Age": "mcclelland|frogmortonacrossthepond",
     "Dunhill My Mixture BB1938 1.76 oz’s Pipe Tobacco Sealed Tin Made in Denmark 2018": "dunhill|mymixturebb1938",
     "R & L Robert Lewis Wingfield Mixture Sealed Tin 50g Pipe Tobacco 2012": "robertlewis|wingfieldmixture",
     "Dunhill London Mixture, Painted Tin, 50g": "dunhill|londonmixture",
+    "2003 Smokers Haven Exotique, 8oz": "smokershaven|exotiquemixture",
+    "Smokers Haven Our Best Blend-2oz": "smokershaven|ourbestblend",
+    "1999 McCrannies Prime 1983 Red Virginia -50g": "mccranies|redflake",
+    "2oz tin from Sep, 2021 of Cornell and Diehl's Small-Batch Carolina Red Flake w/Perique. 14,689/15,000": "cornelldiehl|smallbatchcarolinaredflakewithperique",
+    "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996": "butera|pelican",
+    "Butera’s Royal Vintage Latakia No.1 Sealed 50g Pipe Tobacco Tin 2013": "butera|royalvintagelatakiano1",
+    "Collectible G.L. Pease Odyssey 50g Sealed Pipe Tobacco Tin 2016": "glpease|odyssey",
+    "Collectible G. L. Pease Quiet Nights 2 oz. Pipe Tobacco Sealed Tin 2016": "glpease|quietnights",
+    "McClelland Legends Smoking Mixture 50g Sealed Tin 2014 Out of Production": "mcclelland|legends",
+    "McClelland Yenidje HIghlander Smoking Mixture 50g Sealed Tin 2007 Out of Production": "mcclelland|grandorientalsyenidjehighlander",
+    "McClelland’s 3 Oaks Original Cyprian Latakia English Blend Sealed 50g Pipe Tobacco Tin 2014": "mcclelland|3oaksoriginalblend",
+    "McClelland’s 3 Oaks Original Syrian Latakia English Blend Sealed 50g Pipe Tobacco Tin 2014": "mcclelland|3oakssyrian",
+    "Sutliff Cringle Flake 2020 (No Reserve)": "sutliff|cringleflake",
+    "CAO Cherry Bomb": "cao|cherrybomb",
+    "2016 Sutliff Private Stock, \"Berkshire\".": "sutliff|berkshire",
+    "Vintage 2017 - Dunhill Ye Olde Signe - 50g": "dunhill|yeoldesigne",
+    "Sutliff Phantom Privateer Barrel Aged Crumble Cake No 6": "sutliff|no6phantom",
+    "50 Gram Tin Of McClelland Frog Morton Pipe Tobacco": "mcclelland|frogmorton",
+    "1999 McCrannies Prime 1983 Red Virginia": "mccranies|redflake",
+    "HEINE'S BLEND Smoking Tobacco (1980s) 1.5 OZ. Sealed Box": "sutliff|heinesblend",
+    "MIXTURE No. 79 Smoking Tobacco (1970s-1980s?) 1.5 OZ. Sealed Box": "sutliff|mixtureno79",
+    "Casey Jones 6-Beyond Brave": "caseyjones|beyondbrave",
+    "Sutliff 507c Virginia Slices 2024": "sutliff|virginiaslices",
     "McClelland Blakeney’s Best: Tawny Flake 2006 NR": "mcclelland|blakeneysbesttawnyflake",
     "McClelland 221B Series: Honeydew 2015 NR": "mcclelland|221bhoneydew",
     "Germain Royal Jersey: Perique Mixture 2009 NR": "jfgermain|royaljerseyperiquemixture",
@@ -63117,8 +65022,8 @@
     "McClelland English Blend 3 Oaks": "mcclelland|3oaksoriginalblend",
     "McClelland - Royal Cajun Special": "mcclelland|royalcajunspecial",
     "McClelland - Royal Cajun Dark": "mcclelland|royalcajundark",
-    "Erik Nording's Hunter Blend - Retriever": "nrding|retriever",
-    "Erik Nording's Hunter Blend - Pointer": "nrding|pointer",
+    "Erik Nording's Hunter Blend - Retriever": "nording|hunterblendretriever",
+    "Erik Nording's Hunter Blend - Pointer": "nording|hunterblendpointer",
     "McClelland - Tudor Castle": "mcclelland|tudorcastle",
     "HU Tobacco ENGLISH BREAKFAST 2024 - 100g": "hutobacco|englishbreakfast",
     "Dunhill The “Royal Yacht “ Mixture 2016 NR": "dunhill|royalyacht",
@@ -63161,7 +65066,7 @@
     "Vintage McClelland PERIQUE 50g Sealed Tin": "mcclelland|perique",
     "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 2003": "butera|pelican",
     "McClelland’s 3 Oaks Original Syrian Latakia English Blend Sealed 50g Pipe Tobacco Tin 2012": "mcclelland|3oakssyrian",
-    "Early 2000’s -Vintage - Wessex Sovereign Curly Cut. Exquisite!": "wessex|sovereigncurlycut",
+    "Early 2000’s -Vintage - Wessex Sovereign Curly Cut. Exquisite!": "wessex|brigadesovereigncurlycut",
     "2018 Solani Aged Burley Flake 656 50g Pipe Tobacco Tin - New Sealed": "solani|agedburleyflake656",
     "2011* Vintage *Samuel Gawith Best Brown Flake": "samuelgawith|bestbrownflake",
     "2011 Dunhill The Royal Yacht Mixture 50g Pipe Tobacco Tin - New Sealed": "dunhill|royalyacht",
@@ -63983,7 +65888,7 @@
     "Scottish Autumn Flake": "samuelgawith|scottishautumnflake",
     "Crumble Kake Barrel Aged No. 2": "sutliff|crumblekakebarrelagedno2",
     "Brigade Campaign Dark Flake": "wessex|brigadecampaigndarkflake",
-    "Brigade Sovereign": "wessex|sovereigncurlycut",
+    "Brigade Sovereign": "wessex|brigadesovereigncurlycut",
     "Gold Slice": "wessex|goldslice",
     "Red Virginia Flake": "wessex|redvirginiaflake",
     "AshtonArtisan’s Blend": "ashton|artisansblend",
@@ -64360,7 +66265,7 @@
     "Ashton Artisan's Blend 1.76oz": "ashton|artisansblend",
     "C&D Small Batch Sansepolcro 2oz": "cornelldiehl|smallbatchsansepolcro",
     "*SOLD* 2019 Sutliff Crumble Kake Red Virginia 50g": "sutliff|crumblekakeredvirginias",
-    "*SOLD* 2021 Wessex Sovereign 1.76oz": "wessex|sovereigncurlycut",
+    "*SOLD* 2021 Wessex Sovereign 1.76oz": "wessex|brigadesovereigncurlycut",
     "*SOLD* 2022 Solani 633 Virginia Flake with Perique 1.76oz": "solani|633",
     "*SOLD* 2020 Robert McConnell Original Red Virginia 1.76oz": "robertmcconnell|redvirginia",
     "*SOLD*  2020 Astley's No 44 1.76oz": "astleys|no44darkvirginiaflake",
@@ -64594,7 +66499,7 @@
     "x mallard 100 g": "dantobacco|themallard",
     "x McB mature Virginia": "macbaren|hhmaturevirginia",
     "x cut blended plug 2020": "fribourgtreyer|cutblendedplug",
-    "x aus dem krater 2020": "hutobacco|ausdemkrater",
+    "x aus dem krater 2020": "hutobacco|ausdemkrater1",
     "x torgenskjold 2020": "dantobacco|tordenskjoldvirginiaslices",
     "x krumble kake vaper": "sutliff|crumblekakevirginiaperique",
     "x viprati": "hearthhome|viprati",
@@ -64750,13 +66655,13 @@
     "Scottish cake 2022": "robertmcconnell|scottishcake",
     "F&T cut blended (2020)": "fribourgtreyer|cutblendedplug",
     "x F&T golden mixture 2020 (": "fribourgtreyer|goldenmixture",
-    "x Wessex red Va flake 2021": "wessex|redvaflake",
+    "x Wessex red Va flake 2021": "wessex|redvirginiaflake",
     "x Balkan Sasieni (2019)": "stg|balkansasieni",
     "x Wessex gold Va flake": "wessex|goldvaflake",
     "x F&T cut Va plug (2020)": "fribourgtreyer|cutvirginiaplug",
     "x Wessex (2020) classic Va": "wessex|classicva",
     "x Wessex original (2020)": "wessex|original",
-    "x Wessex brown Va flake (2020)": "wessex|brownvaflake",
+    "x Wessex brown Va flake (2020)": "wessex|brownvirginiaflake",
     "x Ashton artisian (2016) Syrian": "ashton|artisansblend",
     "x Peterson university (2019)": "peterson|universityflake",
     "x Peterson Irish flake (19-20)": "peterson|irishflake",
