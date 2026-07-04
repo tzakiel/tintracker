@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-04T18:26:43.641271+00:00",
+  "generated": "2026-07-04T18:33:01.000938+00:00",
   "stats": {
     "total_listings": 3566,
     "excluded_multipacks": 1368,
-    "total_tins": 974,
-    "multi_member_tins": 414,
-    "listings_in_groups": 1628,
-    "cross_source_tins": 254
+    "total_tins": 968,
+    "multi_member_tins": 416,
+    "listings_in_groups": 1636,
+    "cross_source_tins": 255
   },
   "tins": [
     {
@@ -27044,10 +27044,10 @@
       "source": "Multiple sources"
     },
     {
-      "id": "hutobacco|ausdemkrater",
+      "id": "hutobacco|ausdemkrater1",
       "brand": "HU Tobacco",
-      "blend": "Aus dem Krater",
-      "display_name": "HU Tobacco Aus dem Krater",
+      "blend": "Aus dem Krater #1",
+      "display_name": "HU Tobacco Aus dem Krater #1",
       "sources": [
         "Speak-Easy.Club"
       ],
@@ -27069,30 +27069,7 @@
                   "date": "2026-06-24T02:02:09.029335+00:00"
                 }
               ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "hutobacco|ausdemkrater1",
-      "brand": "HU Tobacco",
-      "blend": "Aus dem Krater #1",
-      "display_name": "HU Tobacco Aus dem Krater #1",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "",
-          "members": [
+            },
             {
               "name": "x 2020 HU Aus den krater #1",
               "source": "Speak-Easy.Club",
@@ -44971,6 +44948,7 @@
       "blend": "Hunter Blend Pointer",
       "display_name": "Nording Hunter Blend Pointer",
       "sources": [
+        "Tinbids Auction (Sold)",
         "4noggins.com"
       ],
       "sizes": [
@@ -44996,22 +44974,7 @@
           "sources": [
             "4noggins.com"
           ]
-        }
-      ],
-      "years": [
-        "2017"
-      ],
-      "source": "4noggins.com"
-    },
-    {
-      "id": "nrding|pointer",
-      "brand": "Nørding",
-      "blend": "Pointer",
-      "display_name": "Nørding Pointer",
-      "sources": [
-        "Tinbids Auction (Sold)"
-      ],
-      "sizes": [
+        },
         {
           "quantity": "",
           "members": [
@@ -45036,14 +44999,16 @@
           ]
         }
       ],
-      "years": [],
-      "source": "Tinbids Auction (Sold)"
+      "years": [
+        "2017"
+      ],
+      "source": "Multiple sources"
     },
     {
-      "id": "nrding|retriever",
-      "brand": "Nørding",
-      "blend": "Retriever",
-      "display_name": "Nørding Retriever",
+      "id": "nording|hunterblendretriever",
+      "brand": "Nording",
+      "blend": "Hunter Blend Retriever",
+      "display_name": "Nording Hunter Blend Retriever",
       "sources": [
         "Tinbids Auction (Sold)"
       ],
@@ -63695,6 +63660,7 @@
       "blend": "Brigade Campaign Dark Flake",
       "display_name": "Wessex Brigade Campaign Dark Flake",
       "sources": [
+        "pipestud.com",
         "4noggins.com",
         "Speak-Easy.Club"
       ],
@@ -63702,6 +63668,36 @@
         {
           "quantity": "50g",
           "members": [
+            {
+              "name": "Wessex Dark Flake 50g tin – Year 2009",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/wessex-dark-flake-50g-tin-year-2009/",
+              "price": "$50.00",
+              "last_updated": "2026-06-27T17:13:32.918058+00:00",
+              "first_seen": "2026-06-27T17:13:32.918058+00:00",
+              "year": "2009",
+              "price_history": [
+                {
+                  "price": "$50.00",
+                  "date": "2026-06-27T17:13:32.918058+00:00"
+                }
+              ]
+            },
+            {
+              "name": "Wessex Dark Flake 50g tins – Year 2012",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/wessex-dark-flake-50g-tins-year-2012/",
+              "price": "$45.00",
+              "last_updated": "2026-06-20T16:28:47.877864+00:00",
+              "first_seen": "2026-06-20T16:28:47.877864+00:00",
+              "year": "2012",
+              "price_history": [
+                {
+                  "price": "$45.00",
+                  "date": "2026-06-20T16:28:47.877864+00:00"
+                }
+              ]
+            },
             {
               "name": "Wessex: BRIGADE CAMPAIGN DARK FLAKE 50g 2016 - C",
               "source": "4noggins.com",
@@ -63716,9 +63712,25 @@
                   "date": "2026-06-21T02:45:17.226279+00:00"
                 }
               ]
+            },
+            {
+              "name": "Wessex Dark Flake 50g tins – Year 2017",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/wessex-dark-flake-50g-tins-year-2017/",
+              "price": "$40.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2017",
+              "price_history": [
+                {
+                  "price": "$40.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
             }
           ],
           "sources": [
+            "pipestud.com",
             "4noggins.com"
           ]
         },
@@ -63841,7 +63853,10 @@
         }
       ],
       "years": [
-        "2016"
+        "2009",
+        "2012",
+        "2016",
+        "2017"
       ],
       "source": "Multiple sources"
     },
@@ -63851,9 +63866,34 @@
       "blend": "Brigade Sovereign Curly Cut",
       "display_name": "Wessex Brigade Sovereign Curly Cut",
       "sources": [
-        "4noggins.com"
+        "Tinbids Auction (Sold)",
+        "4noggins.com",
+        "Speak-Easy.Club"
       ],
       "sizes": [
+        {
+          "quantity": "1.76oz",
+          "members": [
+            {
+              "name": "*SOLD* 2021 Wessex Sovereign 1.76oz",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/remaining-random-aged-tins-kbv-pouches-as-a-lot-or-individuals.41334/",
+              "price": "$15",
+              "last_updated": "2026-06-25T20:46:10.923480+00:00",
+              "first_seen": "2024-11-11T20:54:27+00:00",
+              "year": "2021",
+              "price_history": [
+                {
+                  "price": "$15",
+                  "date": "2024-11-11T20:54:27+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        },
         {
           "quantity": "50g",
           "members": [
@@ -63876,50 +63916,53 @@
           "sources": [
             "4noggins.com"
           ]
-        }
-      ],
-      "years": [
-        "2018"
-      ],
-      "source": "4noggins.com"
-    },
-    {
-      "id": "wessex|brownvaflake",
-      "brand": "Wessex",
-      "blend": "Brown Va Flake",
-      "display_name": "Wessex Brown Va Flake",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
+        },
         {
           "quantity": "",
           "members": [
             {
-              "name": "x Wessex brown Va flake (2020)",
+              "name": "Brigade Sovereign",
               "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/blownout-sale.43411/",
+              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
               "price": "$20",
-              "last_updated": "2026-06-24T02:02:09.029335+00:00",
-              "first_seen": "2025-11-14T21:52:44+00:00",
-              "year": "2020",
+              "last_updated": "2026-06-27T20:00:39.387042+00:00",
+              "first_seen": "2024-10-06T22:24:57+00:00",
+              "year": "",
               "price_history": [
                 {
                   "price": "$20",
-                  "date": "2026-06-24T02:02:09.029335+00:00"
+                  "date": "2024-10-06T22:24:57+00:00"
+                }
+              ]
+            },
+            {
+              "name": "Early 2000’s -Vintage - Wessex Sovereign Curly Cut. Exquisite!",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/198235/",
+              "price": "$69.00",
+              "last_updated": "2026-07-01T04:00:37.972075+00:00",
+              "first_seen": "2026-06-30T16:08:28+00:00",
+              "year": "2000",
+              "price_history": [
+                {
+                  "price": "$69.00",
+                  "date": "2026-06-30T16:08:28+00:00"
                 }
               ]
             }
           ],
           "sources": [
+            "Tinbids Auction (Sold)",
             "Speak-Easy.Club"
           ]
         }
       ],
       "years": [
-        "2020"
+        "2000",
+        "2018",
+        "2021"
       ],
-      "source": "Speak-Easy.Club"
+      "source": "Multiple sources"
     },
     {
       "id": "wessex|brownvirginiaflake",
@@ -64039,12 +64082,36 @@
             "4noggins.com",
             "Speak-Easy.Club"
           ]
+        },
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "x Wessex brown Va flake (2020)",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/blownout-sale.43411/",
+              "price": "$20",
+              "last_updated": "2026-06-24T02:02:09.029335+00:00",
+              "first_seen": "2025-11-14T21:52:44+00:00",
+              "year": "2020",
+              "price_history": [
+                {
+                  "price": "$20",
+                  "date": "2026-06-24T02:02:09.029335+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
         }
       ],
       "years": [
         "2008",
         "2012",
         "2017",
+        "2020",
         "2021"
       ],
       "source": "Multiple sources"
@@ -64264,76 +64331,6 @@
       "years": [
         "2009",
         "2012"
-      ],
-      "source": "pipestud.com"
-    },
-    {
-      "id": "wessex|darkflake",
-      "brand": "Wessex",
-      "blend": "Dark Flake",
-      "display_name": "Wessex Dark Flake",
-      "sources": [
-        "pipestud.com"
-      ],
-      "sizes": [
-        {
-          "quantity": "50g",
-          "members": [
-            {
-              "name": "Wessex Dark Flake 50g tin – Year 2009",
-              "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/wessex-dark-flake-50g-tin-year-2009/",
-              "price": "$50.00",
-              "last_updated": "2026-06-27T17:13:32.918058+00:00",
-              "first_seen": "2026-06-27T17:13:32.918058+00:00",
-              "year": "2009",
-              "price_history": [
-                {
-                  "price": "$50.00",
-                  "date": "2026-06-27T17:13:32.918058+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Wessex Dark Flake 50g tins – Year 2012",
-              "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/wessex-dark-flake-50g-tins-year-2012/",
-              "price": "$45.00",
-              "last_updated": "2026-06-20T16:28:47.877864+00:00",
-              "first_seen": "2026-06-20T16:28:47.877864+00:00",
-              "year": "2012",
-              "price_history": [
-                {
-                  "price": "$45.00",
-                  "date": "2026-06-20T16:28:47.877864+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Wessex Dark Flake 50g tins – Year 2017",
-              "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/wessex-dark-flake-50g-tins-year-2017/",
-              "price": "$40.00",
-              "last_updated": "2026-07-04T17:13:42.317217+00:00",
-              "first_seen": "2026-07-04T17:13:42.317217+00:00",
-              "year": "2017",
-              "price_history": [
-                {
-                  "price": "$40.00",
-                  "date": "2026-07-04T17:13:42.317217+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "pipestud.com"
-          ]
-        }
-      ],
-      "years": [
-        "2009",
-        "2012",
-        "2017"
       ],
       "source": "pipestud.com"
     },
@@ -64681,44 +64678,6 @@
       "source": "pipestud.com"
     },
     {
-      "id": "wessex|redvaflake",
-      "brand": "Wessex",
-      "blend": "Red Va Flake",
-      "display_name": "Wessex Red Va Flake",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "x Wessex red Va flake 2021",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/blownout-sale.43411/",
-              "price": "$20",
-              "last_updated": "2026-06-24T02:02:09.029335+00:00",
-              "first_seen": "2025-11-14T21:52:44+00:00",
-              "year": "2021",
-              "price_history": [
-                {
-                  "price": "$20",
-                  "date": "2026-06-24T02:02:09.029335+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [
-        "2021"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
       "id": "wessex|redvirginiaflake",
       "brand": "Wessex",
       "blend": "Red Virginia Flake",
@@ -64744,94 +64703,32 @@
                   "date": "2024-10-06T22:24:57+00:00"
                 }
               ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "wessex|sovereigncurlycut",
-      "brand": "Wessex",
-      "blend": "Sovereign Curly Cut",
-      "display_name": "Wessex Sovereign Curly Cut",
-      "sources": [
-        "Tinbids Auction (Sold)",
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "1.76oz",
-          "members": [
+            },
             {
-              "name": "*SOLD* 2021 Wessex Sovereign 1.76oz",
+              "name": "x Wessex red Va flake 2021",
               "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/remaining-random-aged-tins-kbv-pouches-as-a-lot-or-individuals.41334/",
-              "price": "$15",
-              "last_updated": "2026-06-25T20:46:10.923480+00:00",
-              "first_seen": "2024-11-11T20:54:27+00:00",
+              "url": "https://speak-easy.club/threads/blownout-sale.43411/",
+              "price": "$20",
+              "last_updated": "2026-06-24T02:02:09.029335+00:00",
+              "first_seen": "2025-11-14T21:52:44+00:00",
               "year": "2021",
               "price_history": [
                 {
-                  "price": "$15",
-                  "date": "2024-11-11T20:54:27+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        },
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Brigade Sovereign",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
-              "price": "$20",
-              "last_updated": "2026-06-27T20:00:39.387042+00:00",
-              "first_seen": "2024-10-06T22:24:57+00:00",
-              "year": "",
-              "price_history": [
-                {
                   "price": "$20",
-                  "date": "2024-10-06T22:24:57+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Early 2000’s -Vintage - Wessex Sovereign Curly Cut. Exquisite!",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/198235/",
-              "price": "$69.00",
-              "last_updated": "2026-07-01T04:00:37.972075+00:00",
-              "first_seen": "2026-06-30T16:08:28+00:00",
-              "year": "2000",
-              "price_history": [
-                {
-                  "price": "$69.00",
-                  "date": "2026-06-30T16:08:28+00:00"
+                  "date": "2026-06-24T02:02:09.029335+00:00"
                 }
               ]
             }
           ],
           "sources": [
-            "Tinbids Auction (Sold)",
             "Speak-Easy.Club"
           ]
         }
       ],
       "years": [
-        "2000",
         "2021"
       ],
-      "source": "Multiple sources"
+      "source": "Speak-Easy.Club"
     },
     {
       "id": "whitehall|whitehall",
@@ -64939,7 +64836,7 @@
     "Germain’s Eighteen Twenty Smoking Mixture 50g tins – Year 2009": "jfgermain|eighteentwenty",
     "Germain’s Royal Jersey Original Latakia Mixture 50g tins – Year 2008": "jfgermain|royaljerseylatakia",
     "Wessex Brown Virginia Flake 50g tins – Year 2017": "wessex|brownvirginiaflake",
-    "Wessex Dark Flake 50g tins – Year 2017": "wessex|darkflake",
+    "Wessex Dark Flake 50g tins – Year 2017": "wessex|brigadecampaigndarkflake",
     "Samuel Gawith R.B. Plug One Pound Boxes in Factory Sealed Mylar bags- Year 2006": "samuelgawith|rbplug",
     "McClelland’s Red & Black 50g tin – First Year 2015 Production": "mcclelland|redblack",
     "Cornell & Diehl’s Briar Fox 2oz tin – First Year 2005 Production": "cornelldiehl|briarfox",
@@ -64987,7 +64884,7 @@
     "McClelland’s Original Frog Morton 100g tin – Year 2017 & Released in 2018": "mcclelland|frogmorton",
     "McClelland’s Christmas Cheer 100g tin – Year 2015": "mcclelland|christmascheer",
     "Samuel Gawith Brown No. 4 in 50g tins – Year 2017": "samuelgawith|brownno4",
-    "Wessex Dark Flake 50g tin – Year 2009": "wessex|darkflake",
+    "Wessex Dark Flake 50g tin – Year 2009": "wessex|brigadecampaigndarkflake",
     "Germain’s Esoterica Dunbar 2oz tins – Year 1999": "esoterica|dunbar",
     "Mac Baren’s Dark Twist Roll Cake 3.5oz tin – Year 2007 Swisher Import era": "macbaren|darktwistrollcake",
     "Wessex Curley Cut Virginia & Perique 50g tin – Year 2009": "wessex|curlycutvirginiaperique",
@@ -65064,7 +64961,7 @@
     "Brindley’s English Mixture 1-3/4 oz tins – 1970’s era": "brindley|englishmixture",
     "Sillem’s Copenhagen Blend 50g tin – Year 2014": "sillems|copenhagenblend",
     "Wellauer’s 100% Syr. Latakia 3-1/2oz tins – Year 2015": "wellauers|100syrianlatakia",
-    "Wessex Dark Flake 50g tins – Year 2012": "wessex|darkflake",
+    "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
     "Orlik Golden Sliced 2024 (50g)": "orlik|goldensliced",
@@ -65125,8 +65022,8 @@
     "McClelland English Blend 3 Oaks": "mcclelland|3oaksoriginalblend",
     "McClelland - Royal Cajun Special": "mcclelland|royalcajunspecial",
     "McClelland - Royal Cajun Dark": "mcclelland|royalcajundark",
-    "Erik Nording's Hunter Blend - Retriever": "nrding|retriever",
-    "Erik Nording's Hunter Blend - Pointer": "nrding|pointer",
+    "Erik Nording's Hunter Blend - Retriever": "nording|hunterblendretriever",
+    "Erik Nording's Hunter Blend - Pointer": "nording|hunterblendpointer",
     "McClelland - Tudor Castle": "mcclelland|tudorcastle",
     "HU Tobacco ENGLISH BREAKFAST 2024 - 100g": "hutobacco|englishbreakfast",
     "Dunhill The “Royal Yacht “ Mixture 2016 NR": "dunhill|royalyacht",
@@ -65169,7 +65066,7 @@
     "Vintage McClelland PERIQUE 50g Sealed Tin": "mcclelland|perique",
     "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 2003": "butera|pelican",
     "McClelland’s 3 Oaks Original Syrian Latakia English Blend Sealed 50g Pipe Tobacco Tin 2012": "mcclelland|3oakssyrian",
-    "Early 2000’s -Vintage - Wessex Sovereign Curly Cut. Exquisite!": "wessex|sovereigncurlycut",
+    "Early 2000’s -Vintage - Wessex Sovereign Curly Cut. Exquisite!": "wessex|brigadesovereigncurlycut",
     "2018 Solani Aged Burley Flake 656 50g Pipe Tobacco Tin - New Sealed": "solani|agedburleyflake656",
     "2011* Vintage *Samuel Gawith Best Brown Flake": "samuelgawith|bestbrownflake",
     "2011 Dunhill The Royal Yacht Mixture 50g Pipe Tobacco Tin - New Sealed": "dunhill|royalyacht",
@@ -65991,7 +65888,7 @@
     "Scottish Autumn Flake": "samuelgawith|scottishautumnflake",
     "Crumble Kake Barrel Aged No. 2": "sutliff|crumblekakebarrelagedno2",
     "Brigade Campaign Dark Flake": "wessex|brigadecampaigndarkflake",
-    "Brigade Sovereign": "wessex|sovereigncurlycut",
+    "Brigade Sovereign": "wessex|brigadesovereigncurlycut",
     "Gold Slice": "wessex|goldslice",
     "Red Virginia Flake": "wessex|redvirginiaflake",
     "AshtonArtisan’s Blend": "ashton|artisansblend",
@@ -66368,7 +66265,7 @@
     "Ashton Artisan's Blend 1.76oz": "ashton|artisansblend",
     "C&D Small Batch Sansepolcro 2oz": "cornelldiehl|smallbatchsansepolcro",
     "*SOLD* 2019 Sutliff Crumble Kake Red Virginia 50g": "sutliff|crumblekakeredvirginias",
-    "*SOLD* 2021 Wessex Sovereign 1.76oz": "wessex|sovereigncurlycut",
+    "*SOLD* 2021 Wessex Sovereign 1.76oz": "wessex|brigadesovereigncurlycut",
     "*SOLD* 2022 Solani 633 Virginia Flake with Perique 1.76oz": "solani|633",
     "*SOLD* 2020 Robert McConnell Original Red Virginia 1.76oz": "robertmcconnell|redvirginia",
     "*SOLD*  2020 Astley's No 44 1.76oz": "astleys|no44darkvirginiaflake",
@@ -66602,7 +66499,7 @@
     "x mallard 100 g": "dantobacco|themallard",
     "x McB mature Virginia": "macbaren|hhmaturevirginia",
     "x cut blended plug 2020": "fribourgtreyer|cutblendedplug",
-    "x aus dem krater 2020": "hutobacco|ausdemkrater",
+    "x aus dem krater 2020": "hutobacco|ausdemkrater1",
     "x torgenskjold 2020": "dantobacco|tordenskjoldvirginiaslices",
     "x krumble kake vaper": "sutliff|crumblekakevirginiaperique",
     "x viprati": "hearthhome|viprati",
@@ -66758,13 +66655,13 @@
     "Scottish cake 2022": "robertmcconnell|scottishcake",
     "F&T cut blended (2020)": "fribourgtreyer|cutblendedplug",
     "x F&T golden mixture 2020 (": "fribourgtreyer|goldenmixture",
-    "x Wessex red Va flake 2021": "wessex|redvaflake",
+    "x Wessex red Va flake 2021": "wessex|redvirginiaflake",
     "x Balkan Sasieni (2019)": "stg|balkansasieni",
     "x Wessex gold Va flake": "wessex|goldvaflake",
     "x F&T cut Va plug (2020)": "fribourgtreyer|cutvirginiaplug",
     "x Wessex (2020) classic Va": "wessex|classicva",
     "x Wessex original (2020)": "wessex|original",
-    "x Wessex brown Va flake (2020)": "wessex|brownvaflake",
+    "x Wessex brown Va flake (2020)": "wessex|brownvirginiaflake",
     "x Ashton artisian (2016) Syrian": "ashton|artisansblend",
     "x Peterson university (2019)": "peterson|universityflake",
     "x Peterson Irish flake (19-20)": "peterson|irishflake",
