@@ -1475,12 +1475,15 @@
     if (mobileSort) mobileSort.value = `${SORT.key}:${SORT.dir}`;
   }
 
-  // Source chips grouped by category; all start on by default.
+  // Source chips grouped by category.
   const SOURCE_GROUPS = [
     { name: "Fair Prices",        sources: ["Speak-Easy.Club", "pipestud.com"] },
     { name: "Desperate Bidders",  sources: ["Tinbids Auction (Sold)"] },
     { name: "Overpriced Gaugers", sources: ["Treasured Smokes", "4noggins.com"] },
   ];
+
+  // Sources active on first load (no hash filter): only the Fair Prices group.
+  const DEFAULT_SOURCES = ["Speak-Easy.Club", "pipestud.com"];
 
   // Hash → single-source filter URLs (e.g. index.html#speakeasy)
   const HASH_TO_SOURCE = {
@@ -1501,12 +1504,14 @@
     if (rest.length) groups.push({ name: "Other", sources: rest });
     const sources = groups.flatMap(g => g.sources);
 
-    // Hash URL → only that one source active; otherwise all sources on.
+    // Hash URL → only that one source active; otherwise the default (Fair
+    // Prices) sources on, falling back to all sources if none are present.
     const hash = location.hash.slice(1).toLowerCase();
     const hashSource = HASH_TO_SOURCE[hash];
+    const defaults = DEFAULT_SOURCES.filter(s => present.has(s));
     ACTIVE_SOURCES = (hashSource && present.has(hashSource))
       ? new Set([hashSource])
-      : new Set(sources);
+      : new Set(defaults.length ? defaults : sources);
 
     ALL_SOURCES = sources;
     buildChipFilters(groups);
