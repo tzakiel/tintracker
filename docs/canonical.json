@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-04T19:16:13.389107+00:00",
+  "generated": "2026-07-05T04:07:09.965401+00:00",
   "stats": {
-    "total_listings": 3566,
-    "excluded_multipacks": 1368,
+    "total_listings": 3594,
+    "excluded_multipacks": 1376,
     "total_tins": 968,
     "multi_member_tins": 416,
     "listings_in_groups": 1636,
@@ -41339,7 +41339,7 @@
             {
               "name": "1998 McClelland Iwan Ries Anniversary Blend Gourmet English 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/198539/",
+              "url": "https://tinbids.com/auction/201533/",
               "price": "$100.00",
               "last_updated": "2026-06-21T05:37:17.147469+00:00",
               "first_seen": "2026-06-21T05:37:17.147469+00:00",
@@ -57431,15 +57431,19 @@
             {
               "name": "2024 - Solani Aged Burley Flake - 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/194984/",
-              "price": "$39.00",
-              "last_updated": "2026-06-22T16:00:41.686877+00:00",
+              "url": "https://tinbids.com/auction/200049/",
+              "price": "$45.00",
+              "last_updated": "2026-07-05T04:00:46.011214+00:00",
               "first_seen": "2026-06-22T16:00:41.686877+00:00",
               "year": "2024",
               "price_history": [
                 {
                   "price": "$39.00",
                   "date": "2026-06-22T16:00:41.686877+00:00"
+                },
+                {
+                  "price": "$45.00",
+                  "date": "2026-07-05T04:00:46.011214+00:00"
                 }
               ]
             }
@@ -64980,6 +64984,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "2024 - Solani Aged Burley Flake - 50g": "solani|agedburleyflake656",
     "Orlik Golden Sliced 2024 (50g)": "orlik|goldensliced",
     "DUNHILL MY MIXTURE BB1938 - 11 YEARS OLD (2015)": "dunhill|mymixturebb1938",
     "Early 2010's Balkan Sobranie - 1 Tin NR BIN $175": "jfgermain|balkansobranie",
@@ -65341,7 +65346,6 @@
     "Esoterica Pembroke (2 oz)": "esoterica|pembroke",
     "Esoterica Tilbury (2 oz)": "esoterica|tilbury",
     "Nice Sealed Dunhill Three Years Matured Virginia 50g. Tin": "dunhill|threeyearsmaturedvirginia",
-    "2024 - Solani Aged Burley Flake - 50g": "solani|agedburleyflake656",
     "Peterson 3-Sherlock Holmes": "peterson|sherlockholmes",
     "Ravenwood Eleventh Day of Christmas Bid or Buy Now": "ravenwood|eleventhdayofchristmas",
     "Drew Estates - Central Park Stroll (50g)": "drewestate|centralparkstroll",
