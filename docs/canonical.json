@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-05T15:14:14.481772+00:00",
+  "generated": "2026-07-05T16:07:49.995947+00:00",
   "stats": {
-    "total_listings": 3594,
-    "excluded_multipacks": 1376,
+    "total_listings": 3602,
+    "excluded_multipacks": 1377,
     "total_tins": 968,
     "multi_member_tins": 416,
     "listings_in_groups": 1636,
@@ -15985,15 +15985,19 @@
             {
               "name": "Esoterica Dunbar Butera Production - 1 Tin NR BIN $140",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/200145/",
-              "price": "$140.00",
-              "last_updated": "2026-06-29T16:00:32.641924+00:00",
+              "url": "https://tinbids.com/auction/202422/",
+              "price": "$135.00",
+              "last_updated": "2026-07-05T16:00:42.578621+00:00",
               "first_seen": "2026-06-29T14:02:38+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$140.00",
                   "date": "2026-06-29T14:02:38+00:00"
+                },
+                {
+                  "price": "$135.00",
+                  "date": "2026-07-05T16:00:42.578621+00:00"
                 }
               ]
             },
@@ -65432,6 +65436,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Esoterica Dunbar Butera Production - 1 Tin NR BIN $140": "esoterica|dunbar",
     "2024 - Solani Aged Burley Flake - 50g": "solani|agedburleyflake656",
     "Orlik Golden Sliced 2024 (50g)": "orlik|goldensliced",
     "DUNHILL MY MIXTURE BB1938 - 11 YEARS OLD (2015)": "dunhill|mymixturebb1938",
@@ -65606,7 +65611,6 @@
     "Esoterica Dorchester 2oz Tin Released 2025": "esoterica|dorchester",
     "Esoterica Tilbury 2oz Tin Released 2025": "esoterica|tilbury",
     "2011 \"Butera Era\" Esoterica Pembroke": "esoterica|pembroke",
-    "Esoterica Dunbar Butera Production - 1 Tin NR BIN $140": "esoterica|dunbar",
     "Esoterica Margate Butera Production - 1 Tin NR BIN $140": "esoterica|margate",
     "Cornell & Diehl Small Batch Sun Bear Navy Cask 2 oz Pipe Tobacco Tin - New Sealed": "cornelldiehl|sunbearnavycask",
     "2017 Mac Baren HH Vintage Syrian - 1 Tin NR BIN $125": "macbaren|hhvintagesyrian",
