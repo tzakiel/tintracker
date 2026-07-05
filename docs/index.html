@@ -165,7 +165,13 @@
       background: var(--border-default);
     }
     /* ── mobile source filter (grouped multi-select dropdown) ── */
-    #source-filter-mobile { display: none; position: relative; margin-bottom: 1.1rem; }
+    #source-filter-mobile {
+      display: none;
+      position: relative;
+      max-width: 1400px;
+      margin: 1.5rem auto 1.25rem;
+      padding: 0 1.5rem;
+    }
     #source-filter-toggle {
       display: flex;
       align-items: center;
@@ -190,8 +196,8 @@
       position: absolute;
       z-index: 30;
       top: calc(100% + .35rem);
-      left: 0;
-      right: 0;
+      left: 1.5rem;
+      right: 1.5rem;
       background: var(--bg-card);
       border: 1.5px solid var(--border-default);
       border-radius: var(--radius-lg);
