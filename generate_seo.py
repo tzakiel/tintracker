@@ -88,7 +88,7 @@ def _page_head(title, description, canonical, extra=""):
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 <title>{_esc(title)}</title>
 <meta name="description" content="{_esc(description)}" />
 <link rel="canonical" href="{_esc(canonical)}" />
@@ -106,7 +106,7 @@ def _page_head(title, description, canonical, extra=""):
 *,*::before,*::after{{box-sizing:border-box;margin:0;padding:0}}
 html{{-webkit-text-size-adjust:100%;text-size-adjust:100%}}
 body{{font-family:var(--font-body,sans-serif);background-color:var(--bg-page,#f5f0e8);background-image:var(--bg-dot-gradient);background-size:var(--bg-dot-size);color:var(--text-primary,#1a0f08);min-height:100vh}}
-header{{background:var(--bg-header,#1a0e06);color:var(--text-header,#fdf0e2);padding:1rem 1.5rem;text-align:center;box-shadow:var(--shadow-header)}}
+header{{background:var(--bg-header,#1a0e06);color:var(--text-header,#fdf0e2);padding:1rem 1.5rem;padding-top:calc(1rem + env(safe-area-inset-top));text-align:center;box-shadow:var(--shadow-header)}}
 header a{{color:inherit;text-decoration:none;font-family:var(--font-display,serif);font-size:1.4rem;letter-spacing:.03em}}
 main{{max-width:900px;margin:1.6rem auto 2.5rem;padding:0 1.5rem}}
 h1{{font-family:var(--font-display,serif);font-weight:400;font-size:1.7rem;color:var(--text-strong,#3d2810);margin-bottom:.4rem}}
