@@ -39,7 +39,7 @@ DATA_FILE = os.path.join(os.path.dirname(__file__), "docs", "products_speakeasy.
 PAGE_DELAY = 1.5   # seconds between forum index pages
 POST_DELAY = 1.2   # seconds between individual thread fetches
 MAX_AGE_DAYS = 2 * 365  # bootstrap lookback when no prior scrape exists
-RECHECK_DAYS = 10  # re-visit recently-seen threads to catch silent OP edits
+RECHECK_DAYS = 14  # re-visit recently-seen threads to catch silent OP edits
 
 # CLOSED threads whose title contains any of these terms are skipped — they are
 # non-sale types (trades, giveaways, etc.) that lose their original tag when closed.
