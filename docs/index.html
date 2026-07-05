@@ -164,9 +164,74 @@
       width: 1.5px;
       background: var(--border-default);
     }
+    /* ── mobile source filter (grouped multi-select dropdown) ── */
+    #source-filter-mobile { display: none; position: relative; margin-bottom: 1.1rem; }
+    #source-filter-toggle {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: .5rem;
+      width: 100%;
+      font: inherit;
+      font-size: var(--text-md);
+      font-weight: 600;
+      padding: .55rem .95rem;
+      border: 2px solid var(--border-default);
+      border-radius: var(--radius-pill);
+      background: var(--bg-card);
+      color: var(--text-strong);
+      cursor: pointer;
+      text-align: left;
+    }
+    #source-filter-toggle[aria-expanded="true"] { border-color: #d45d35; }
+    .mfilter-chevron { width: 1rem; height: 1rem; flex-shrink: 0; transition: transform .15s ease; color: var(--text-muted); }
+    #source-filter-toggle[aria-expanded="true"] .mfilter-chevron { transform: rotate(180deg); }
+    #source-filter-panel {
+      position: absolute;
+      z-index: 30;
+      top: calc(100% + .35rem);
+      left: 0;
+      right: 0;
+      background: var(--bg-card);
+      border: 1.5px solid var(--border-default);
+      border-radius: var(--radius-lg);
+      box-shadow: var(--shadow-card);
+      padding: .35rem 0;
+      max-height: 60vh;
+      overflow-y: auto;
+    }
+    #source-filter-panel[hidden] { display: none; }
+    .mfilter-group + .mfilter-group { border-top: 1px solid var(--border-default); margin-top: .25rem; padding-top: .25rem; }
+    .mfilter-group-label {
+      font-family: 'Work Sans', sans-serif;
+      font-size: 0.66rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      color: var(--text-muted);
+      padding: .4rem 1rem .15rem;
+    }
+    .mfilter-opt {
+      display: flex;
+      align-items: center;
+      gap: .6rem;
+      padding: .5rem 1rem;
+      font-family: 'Work Sans', sans-serif;
+      font-size: var(--text-md);
+      color: var(--text-strong);
+      cursor: pointer;
+    }
+    .mfilter-opt:active { background: #fdf0eb; }
+    .mfilter-opt input {
+      width: 1.05rem;
+      height: 1.05rem;
+      accent-color: #d45d35;
+      flex-shrink: 0;
+      cursor: pointer;
+    }
     @media (max-width: 600px) {
-      #source-filters { flex-direction: column; align-items: stretch; }
-      .chip-divider { display: none; }
+      #source-filters { display: none; }
+      #source-filter-mobile { display: block; }
     }
     .chip {
       display: inline-flex;
@@ -673,8 +738,15 @@
     <a href="https://buymeacoffee.com/vandal_heart" target="_blank" rel="noopener">buy me a coffee<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 9h11v5a4 4 0 0 1-4 4H9a4 4 0 0 1-4-4z"/><path d="M16 10h2.5a2.2 2.2 0 0 1 0 4.4H16"/><path d="M8 2.6q1 1.2 0 2.6M11 2.6q1 1.2 0 2.6M14 2.6q1 1.2 0 2.6"/><path d="M5 21h12"/></svg></a>.</p>
 </header>
 
-<!-- Persistent source filter chips (shown on both main and detail views) -->
+<!-- Persistent source filter (chips on desktop, grouped multi-select on mobile) -->
 <div id="source-filters"></div>
+<div id="source-filter-mobile">
+  <button type="button" id="source-filter-toggle" aria-expanded="false" aria-controls="source-filter-panel">
+    <span id="source-filter-summary">All sources</span>
+    <svg class="mfilter-chevron" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="4 6 8 10 12 6"/></svg>
+  </button>
+  <div id="source-filter-panel" hidden></div>
+</div>
 
 <!-- Main list view -->
 <div id="main-view">
@@ -744,6 +816,7 @@
   let DETAIL_PAGE = 1;              // current page, detail listings table
   let _mainCtx = null;              // last main-view render args, for page nav
   let ACTIVE_SOURCES = new Set();   // sources currently shown (empty = none)
+  let ALL_SOURCES = [];             // every selectable source, in display order
   let lastListState = null; // remembers what was showing before detail
   let currentDetailTin = null;      // tin currently shown in detail view
 
@@ -1429,6 +1502,41 @@
       ? new Set([hashSource])
       : new Set(sources);
 
+    ALL_SOURCES = sources;
+    buildChipFilters(groups);
+    buildMobileFilter(groups);
+    syncFilterUI();
+  }
+
+  // Toggle a source on/off, keeping desktop chips and the mobile dropdown in sync.
+  function toggleSource(src) {
+    if (ACTIVE_SOURCES.has(src)) ACTIVE_SOURCES.delete(src);
+    else ACTIVE_SOURCES.add(src);
+    syncFilterUI();
+    if (detailView.style.display !== "none" && currentDetailTin) {
+      renderDetailContent(currentDetailTin);
+    }
+    render();
+  }
+
+  // Reflect ACTIVE_SOURCES into both filter UIs (chips + mobile checkboxes + summary).
+  function syncFilterUI() {
+    document.querySelectorAll("#source-filters .chip").forEach(btn => {
+      btn.classList.toggle("on", ACTIVE_SOURCES.has(btn.dataset.src));
+    });
+    document.querySelectorAll("#source-filter-panel input[type=checkbox]").forEach(cb => {
+      cb.checked = ACTIVE_SOURCES.has(cb.value);
+    });
+    const summary = document.getElementById("source-filter-summary");
+    if (summary) {
+      const n = ACTIVE_SOURCES.size, total = ALL_SOURCES.length;
+      summary.textContent = n === 0 ? "No sources"
+        : n === total ? "All sources"
+        : `${n} of ${total} sources`;
+    }
+  }
+
+  function buildChipFilters(groups) {
     const wrap = document.getElementById("source-filters");
     wrap.innerHTML = "";
     groups.forEach((group, i) => {
@@ -1446,23 +1554,40 @@
       const row = document.createElement("div");
       row.className = "chip-row";
       group.sources.forEach(src => {
-        const on = ACTIVE_SOURCES.has(src);
         const btn = document.createElement("button");
-        btn.className = on ? "chip on" : "chip";
+        btn.className = "chip";
+        btn.dataset.src = src;
         btn.textContent = src;
-        btn.addEventListener("click", () => {
-          if (ACTIVE_SOURCES.has(src)) ACTIVE_SOURCES.delete(src);
-          else ACTIVE_SOURCES.add(src);
-          btn.classList.toggle("on");
-          if (detailView.style.display !== "none" && currentDetailTin) {
-            renderDetailContent(currentDetailTin);
-          }
-          render();
-        });
+        btn.addEventListener("click", () => toggleSource(src));
         row.appendChild(btn);
       });
       groupEl.appendChild(row);
       wrap.appendChild(groupEl);
+    });
+  }
+
+  function buildMobileFilter(groups) {
+    const panel = document.getElementById("source-filter-panel");
+    panel.innerHTML = "";
+    groups.forEach(group => {
+      const groupEl = document.createElement("div");
+      groupEl.className = "mfilter-group";
+      const label = document.createElement("div");
+      label.className = "mfilter-group-label";
+      label.textContent = group.name;
+      groupEl.appendChild(label);
+      group.sources.forEach(src => {
+        const opt = document.createElement("label");
+        opt.className = "mfilter-opt";
+        const cb = document.createElement("input");
+        cb.type = "checkbox";
+        cb.value = src;
+        cb.addEventListener("change", () => toggleSource(src));
+        opt.appendChild(cb);
+        opt.appendChild(document.createTextNode(src));
+        groupEl.appendChild(opt);
+      });
+      panel.appendChild(groupEl);
     });
   }
 
@@ -1471,6 +1596,21 @@
 
   qEl.addEventListener("input", () => { closeDropdown(); render(); });
   qEl.addEventListener("blur", () => setTimeout(closeDropdown, 150));
+
+  /* ── mobile source-filter dropdown open/close ── */
+  const filterToggle = document.getElementById("source-filter-toggle");
+  const filterPanel  = document.getElementById("source-filter-panel");
+  function setFilterOpen(open) {
+    filterPanel.hidden = !open;
+    filterToggle.setAttribute("aria-expanded", open ? "true" : "false");
+  }
+  filterToggle.addEventListener("click", e => {
+    e.stopPropagation();
+    setFilterOpen(filterPanel.hidden);
+  });
+  filterPanel.addEventListener("click", e => e.stopPropagation());
+  document.addEventListener("click", () => setFilterOpen(false));
+  document.addEventListener("keydown", e => { if (e.key === "Escape") setFilterOpen(false); });
 
   /* ── load ── */
   async function loadData() {
