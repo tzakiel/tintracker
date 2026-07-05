@@ -20757,5 +20757,173 @@
     "blend": "Gold Slice",
     "is_tin": true,
     "confidence": 0.9
+  },
+  "2 Aromatics - 2023 Virginia Cream and 2024 Golden Days of Yore": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false,
+    "confidence": 1.0
+  },
+  "2 Classic Navy Blends - 2021 Black Frigate and 2021 Windjammer": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false,
+    "confidence": 1.0
+  },
+  "2014 McClelland’s Frog Morton - 1 Tin NR BIN $225": {
+    "brand": "McClelland",
+    "blend": "Frog Morton",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "2017 Mac Baren HH Old Dark Fired 1.75 ounce - 1 Tin NR BIN $80": {
+    "brand": "Mac Baren",
+    "blend": "HH Old Dark Fired",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "2020 SUTLIFF CRUMBLE KAKE VA PERIQUE": {
+    "brand": "Sutliff",
+    "blend": "Crumble Kake Virginia Perique",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "2022 Sutliff Crumble Kake #2": {
+    "brand": "Sutliff",
+    "blend": "Crumble Kake Barrel Aged No. 2",
+    "is_tin": true,
+    "confidence": 0.8
+  },
+  "4 for THE FOURTH OF JULY **ONE DAY SPECIAL **": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false,
+    "confidence": 1.0
+  },
+  "8oz Chocolate Flake & 8oz Chocolate Flake Burnt Ends": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false,
+    "confidence": 1.0
+  },
+  "8oz Full Virginia Flake & 8oz Full Virginia Flake Burnt Ends": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false,
+    "confidence": 1.0
+  },
+  "Cobblestone - Spiced Rum - 50g": {
+    "brand": "Cobblestone",
+    "blend": "Spiced Rum",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "Cornell & Diehl Speakeasy (2017)": {
+    "brand": "Cornell & Diehl",
+    "blend": "Speakeasy Navy Blend",
+    "is_tin": true,
+    "confidence": 0.8
+  },
+  "Esoterica Dunbar - 01/2016- 4 oz- BIN $160": {
+    "brand": "Esoterica",
+    "blend": "Dunbar",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Esoterica Penzance, Margate, And So To Bed 2 oz Sealed Tins": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false,
+    "confidence": 1.0
+  },
+  "Esoterica lot": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false,
+    "confidence": 1.0
+  },
+  "Esoterica — Dorchester — 8oz": {
+    "brand": "Esoterica",
+    "blend": "Dorchester",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Esoterica — St. Ives — 8oz": {
+    "brand": "Esoterica",
+    "blend": "St. Ives",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "GL Pease 25th Anniversary Silver Jubilee": {
+    "brand": "G.L. Pease",
+    "blend": "25th Anniversary",
+    "is_tin": true,
+    "confidence": 0.75
+  },
+  "GL Pease Gaslight (2019)": {
+    "brand": "G.L. Pease",
+    "blend": "Gaslight",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "GL Pease Robusto (2017)": {
+    "brand": "G.L. Pease",
+    "blend": "Robusto",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Germain/Esoterica Lot": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false,
+    "confidence": 1.0
+  },
+  "McClelland 40th Anniversary 100g unopened tin": {
+    "brand": "McClelland",
+    "blend": "40th Anniversary",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "McClelland CPCC Rich Virginia Ribbon 50g unopened tin": {
+    "brand": "McClelland",
+    "blend": "CPCC Rich Virginia Ribbon",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "New Limited Edition Benedictine Abbey by Briarshire": {
+    "brand": "Briarshire",
+    "blend": "Benedictine Abbey",
+    "is_tin": true,
+    "confidence": 0.8
+  },
+  "Vintage - Ashton Golden Flake  - 1994": {
+    "brand": "Ashton",
+    "blend": "Golden Flake",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Vintage - Charatan's Original Mild Ready Rubbed made by Dunhill - 1978": {
+    "brand": "Charatan's",
+    "blend": "Original Mild Ready Rubbed",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "Vintage - Dunhill Early 1st year Murray's Era - Three Year Matured 50g - 1980": {
+    "brand": "Dunhill",
+    "blend": "Three Years Matured Virginia",
+    "is_tin": true,
+    "confidence": 0.8
+  },
+  "c. 1970s GBD Black Cavendish Mixture 50g Full Unopened English Pipe Tobacco Tin": {
+    "brand": "GBD",
+    "blend": "Black Cavendish Mixture",
+    "is_tin": true,
+    "confidence": 0.7
+  },
+  "Sherlock Holmes Pipe Club of Boston Great Hiatus 2oz tins – Year 2009 & Blended by Russ Ouellette": {
+    "brand": "SHPC",
+    "blend": "Great Hiatus",
+    "is_tin": true,
+    "confidence": 0.7
   }
 }
