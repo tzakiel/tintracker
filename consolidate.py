@@ -206,6 +206,26 @@ def main():
             # This fires after cache/overrides so no stale entry can roll back a fix.
             blend = aliases.get(brand, {}).get(blend, blend)
 
+            # Seattle Pipe Club brand separation (see docs/brand-rules.md).
+            # SPC's blends were manufactured by Sutliff through 2024 and by
+            # Cornell & Diehl from 2025 on. Keep the blend under an "SPC " prefix
+            # and set the brand to the actual manufacturer, decided per listing:
+            # an explicit Sutliff / C&D mention in the title wins; otherwise the
+            # tin year decides (>=2025 -> C&D), unknown years default to Sutliff.
+            if _norm(brand) == "seattlepipeclub":
+                if blend and not blend.startswith("SPC "):
+                    blend = f"SPC {blend}"
+                low = name.lower()
+                spc_year = _year(name)
+                if "cornell" in low or "diehl" in low or re.search(r"\bc\s*&\s*d\b", low):
+                    brand = "Cornell & Diehl"
+                elif "sutliff" in low:
+                    brand = "Sutliff"
+                elif spc_year.isdigit() and int(spc_year) >= 2025:
+                    brand = "Cornell & Diehl"
+                else:
+                    brand = "Sutliff"
+
             # Drop anything that isn't a single tin. Two gates: the LLM's is_tin
             # flag (catches multi-blend sets, bundles, cigars — things regex can't
             # read), and a deterministic regex backstop for obvious multi-tin
