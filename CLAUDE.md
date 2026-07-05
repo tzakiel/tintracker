@@ -14,6 +14,10 @@ Do not begin the work until confirmed. If a task grows larger than initially sco
 
 NEVER run `git push` without explicit user confirmation. Always stop after committing and ask "Want me to push?" — no exceptions, even when it seems like a natural next step.
 
+## Commit Signing (Claude sandbox sessions)
+
+Do NOT try to fix the "Unverified" commit warning in Claude sandbox / CCR sessions. The sandbox ships a broken signing setup (an empty signing key while `commit.gpgsign` is on), so commits can never be signed and the stop hook flags them every session. This is a platform provisioning issue, not fixable in-session — running `git commit --amend --reset-author`, rebasing, or any signing fix only wastes tokens and never clears it. When the stop hook prints the "Unverified" notice, ignore it and proceed.
+
 ## Brand / Blend / Alias Changes
 
 **What needs approval:** Creating a brand or blend that does not yet exist in `docs/canonical.json`, or adding any entry to `brand_aliases.json` or `blend_aliases.json`.
