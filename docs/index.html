@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>Tin Tracker — Pipe Tobacco Tin Prices &amp; Resale Values</title>
   <meta name="description" content="Track resale prices of collectible pipe tobacco tins. Search 900+ blends with price history, tin years and $/oz across Speak-Easy, Tinbids, pipestud, 4noggins and Treasured Smokes." />
   <link rel="canonical" href="https://tintracker.xyz/" />
@@ -64,6 +64,9 @@
       background: var(--bg-header);
       color: var(--text-header);
       padding: var(--padding-header);
+      /* extend the dark header up behind the iOS status bar / notch so the
+         top safe area matches the header instead of showing the cream page */
+      padding-top: calc(1.4rem + env(safe-area-inset-top));
       text-align: center;
       box-shadow: var(--shadow-header);
     }
