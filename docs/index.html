@@ -297,7 +297,24 @@
     }
     @media (max-width: 600px) {
       #source-filters { display: none; }
-      #source-filter-mobile { display: block; }
+      #mobile-controls-row {
+        display: flex;
+        align-items: center;
+        gap: .6rem;
+        max-width: 1400px;
+        margin: 1.5rem auto 1.25rem;
+        padding: 0 1.5rem;
+      }
+      #source-filter-mobile {
+        display: block;
+        flex: 1 1 auto;
+        min-width: 0;
+        margin: 0;
+        padding: 0;
+      }
+      #source-filter-panel { left: 0; right: 0; }
+      #settings-menu { flex: none; margin: 0; padding: 0; }
+      #settings-panel { right: 0; }
     }
     .chip {
       display: inline-flex;
@@ -806,6 +823,7 @@
 
 <!-- Persistent source filter (chips on desktop, grouped multi-select on mobile) -->
 <div id="source-filters"></div>
+<div id="mobile-controls-row">
 <div id="source-filter-mobile">
   <button type="button" id="source-filter-toggle" aria-expanded="false" aria-controls="source-filter-panel">
     <span id="source-filter-summary">All sources</span>
@@ -828,6 +846,7 @@
       <span>Hide extreme price outliers</span>
     </label>
   </div>
+</div>
 </div>
 
 <!-- Main list view -->
