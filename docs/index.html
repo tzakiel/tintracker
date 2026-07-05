@@ -136,8 +136,33 @@
     #source-filters {
       display: flex;
       flex-wrap: wrap;
-      gap: .5rem;
+      align-items: center;
+      gap: .6rem .8rem;
       margin-bottom: 1.1rem;
+    }
+    .chip-group {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: .5rem;
+    }
+    .chip-group-label {
+      font-family: 'Work Sans', sans-serif;
+      font-size: 0.68rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: .07em;
+      color: var(--text-muted);
+      white-space: nowrap;
+    }
+    .chip-divider {
+      align-self: stretch;
+      width: 1.5px;
+      background: var(--border-default);
+    }
+    @media (max-width: 600px) {
+      #source-filters { flex-direction: column; align-items: stretch; }
+      .chip-divider { width: auto; height: 1.5px; }
     }
     .chip {
       display: inline-flex;
@@ -1367,13 +1392,11 @@
     if (mobileSort) mobileSort.value = `${SORT.key}:${SORT.dir}`;
   }
 
-  // Display order for source chips; all start on by default.
-  const SOURCE_ORDER = [
-    "Speak-Easy.Club",
-    "pipestud.com",
-    "Tinbids Auction (Sold)",
-    "Treasured Smokes",
-    "4noggins.com",
+  // Source chips grouped by category; all start on by default.
+  const SOURCE_GROUPS = [
+    { name: "Fair Prices",        sources: ["Speak-Easy.Club", "pipestud.com"] },
+    { name: "Desperate Bidders",  sources: ["Tinbids Auction (Sold)"] },
+    { name: "Overpriced Gaugers", sources: ["Treasured Smokes", "4noggins.com"] },
   ];
 
   // Hash → single-source filter URLs (e.g. index.html#speakeasy)
@@ -1387,9 +1410,13 @@
 
   function buildSourceFilters() {
     const present = new Set(TINS.flatMap(t => t.sources || []));
-    const leading = SOURCE_ORDER.filter(s => present.has(s));
-    const rest = [...present].filter(s => !SOURCE_ORDER.includes(s)).sort();
-    const sources = [...leading, ...rest];
+    const known = new Set(SOURCE_GROUPS.flatMap(g => g.sources));
+    const rest = [...present].filter(s => !known.has(s)).sort();
+    const groups = SOURCE_GROUPS
+      .map(g => ({ name: g.name, sources: g.sources.filter(s => present.has(s)) }))
+      .filter(g => g.sources.length);
+    if (rest.length) groups.push({ name: "Other", sources: rest });
+    const sources = groups.flatMap(g => g.sources);
 
     // Hash URL → only that one source active; otherwise all sources on.
     const hash = location.hash.slice(1).toLowerCase();
@@ -1400,21 +1427,35 @@
 
     const wrap = document.getElementById("source-filters");
     wrap.innerHTML = "";
-    sources.forEach(src => {
-      const on = ACTIVE_SOURCES.has(src);
-      const btn = document.createElement("button");
-      btn.className = on ? "chip on" : "chip";
-      btn.textContent = src;
-      btn.addEventListener("click", () => {
-        if (ACTIVE_SOURCES.has(src)) ACTIVE_SOURCES.delete(src);
-        else ACTIVE_SOURCES.add(src);
-        btn.classList.toggle("on");
-        if (detailView.style.display !== "none" && currentDetailTin) {
-          renderDetailContent(currentDetailTin);
-        }
-        render();
+    groups.forEach((group, i) => {
+      if (i > 0) {
+        const divider = document.createElement("div");
+        divider.className = "chip-divider";
+        wrap.appendChild(divider);
+      }
+      const groupEl = document.createElement("div");
+      groupEl.className = "chip-group";
+      const label = document.createElement("span");
+      label.className = "chip-group-label";
+      label.textContent = group.name;
+      groupEl.appendChild(label);
+      group.sources.forEach(src => {
+        const on = ACTIVE_SOURCES.has(src);
+        const btn = document.createElement("button");
+        btn.className = on ? "chip on" : "chip";
+        btn.textContent = src;
+        btn.addEventListener("click", () => {
+          if (ACTIVE_SOURCES.has(src)) ACTIVE_SOURCES.delete(src);
+          else ACTIVE_SOURCES.add(src);
+          btn.classList.toggle("on");
+          if (detailView.style.display !== "none" && currentDetailTin) {
+            renderDetailContent(currentDetailTin);
+          }
+          render();
+        });
+        groupEl.appendChild(btn);
       });
-      wrap.appendChild(btn);
+      wrap.appendChild(groupEl);
     });
   }
 
