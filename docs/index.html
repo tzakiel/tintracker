@@ -2,17 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Tin Tracker — Pipe Tobacco Tin Prices &amp; Resale Values</title>
   <meta name="description" content="Track resale prices of collectible pipe tobacco tins. Search 900+ blends with price history, tin years and $/oz across Speak-Easy, Tinbids, pipestud, 4noggins and Treasured Smokes." />
   <link rel="canonical" href="https://tintracker.xyz/" />
   <link rel="icon" type="image/png" href="favicon.png" />
   <link rel="apple-touch-icon" href="favicon.png" />
   <meta name="theme-color" content="#1a0e06" />
-  <!-- Home Screen (standalone) status bar: transparent so the dark header shows
-       behind it. iOS ignores theme-color in standalone mode, hence these. -->
-  <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Tin Tracker" />
   <meta property="og:title" content="Tin Tracker — Pipe Tobacco Tin Prices &amp; Resale Values" />
@@ -45,9 +41,6 @@
          was rendering larger than the tagline on iPhone because of this) */
       -webkit-text-size-adjust: 100%;
       text-size-adjust: 100%;
-      /* dark root so the iOS status-bar strip (which Safari paints from the
-         page's root background) matches the header instead of the cream body */
-      background-color: var(--bg-header);
     }
 
     body {
@@ -71,9 +64,6 @@
       background: var(--bg-header);
       color: var(--text-header);
       padding: var(--padding-header);
-      /* extend the dark header up behind the iOS status bar / notch so the
-         top safe area matches the header instead of showing the cream page */
-      padding-top: calc(1.4rem + env(safe-area-inset-top));
       text-align: center;
       box-shadow: var(--shadow-header);
     }
@@ -1641,7 +1631,7 @@
   const SOURCE_GROUPS = [
     { name: "Fair Prices",        sources: ["Speak-Easy.Club", "pipestud.com"] },
     { name: "Desperate Bidders",  sources: ["Tinbids Auction (Sold)"] },
-    { name: "Overpriced Gougers", sources: ["Treasured Smokes", "4noggins.com"] },
+    { name: "Overpriced Gaugers", sources: ["Treasured Smokes", "4noggins.com"] },
   ];
 
   // Sources active on first load (no hash filter): only the Fair Prices group.
