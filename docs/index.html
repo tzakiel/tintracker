@@ -78,7 +78,14 @@
 
 
     /* ── layout ── */
-    #source-filters { max-width: 1400px; margin: 2rem auto 0; padding: 0 1.5rem; }
+    #controls-row {
+      max-width: 1400px;
+      margin: 2rem auto 1.1rem;
+      padding: 0 1.5rem;
+      display: flex;
+      align-items: flex-start;
+      gap: 1.1rem;
+    }
     #main-view, #detail-view { max-width: 1400px; margin: 0 auto 2rem; padding: 0 1.5rem; }
     #detail-view { display: none; }
 
@@ -134,11 +141,12 @@
 
     /* ── source filter chips ── */
     #source-filters {
+      flex: 1 1 auto;
+      min-width: 0;
       display: flex;
       flex-wrap: wrap;
       align-items: flex-start;
       gap: .9rem 1.1rem;
-      margin-bottom: 1.1rem;
     }
     .chip-group {
       display: flex;
@@ -167,11 +175,9 @@
     /* ── display settings (gear menu) ── */
     #settings-menu {
       position: relative;
-      max-width: 1400px;
-      margin: 1rem auto 0;
-      padding: 0 1.5rem;
+      flex: none;
       display: flex;
-      justify-content: flex-end;
+      align-items: center;
     }
     #settings-toggle {
       display: inline-flex;
@@ -193,7 +199,7 @@
     #settings-panel {
       position: absolute;
       top: calc(100% + .4rem);
-      right: 1.5rem;
+      right: 0;
       z-index: 40;
       min-width: 250px;
       padding: .45rem;
@@ -297,13 +303,10 @@
     }
     @media (max-width: 600px) {
       #source-filters { display: none; }
-      #mobile-controls-row {
-        display: flex;
+      #controls-row {
         align-items: center;
         gap: .6rem;
-        max-width: 1400px;
         margin: 1.5rem auto 1.25rem;
-        padding: 0 1.5rem;
       }
       #source-filter-mobile {
         display: block;
@@ -313,8 +316,6 @@
         padding: 0;
       }
       #source-filter-panel { left: 0; right: 0; }
-      #settings-menu { flex: none; margin: 0; padding: 0; }
-      #settings-panel { right: 0; }
     }
     .chip {
       display: inline-flex;
@@ -822,8 +823,8 @@
 </header>
 
 <!-- Persistent source filter (chips on desktop, grouped multi-select on mobile) -->
+<div id="controls-row">
 <div id="source-filters"></div>
-<div id="mobile-controls-row">
 <div id="source-filter-mobile">
   <button type="button" id="source-filter-toggle" aria-expanded="false" aria-controls="source-filter-panel">
     <span id="source-filter-summary">All sources</span>
