@@ -164,6 +164,21 @@
       width: 1.5px;
       background: var(--border-default);
     }
+    /* ── extreme price-outlier toggle ── */
+    #outlier-toggle {
+      display: flex;
+      align-items: center;
+      gap: .5rem;
+      max-width: 1400px;
+      margin: 1rem auto 0;
+      padding: 0 1.5rem;
+      font-size: var(--text-md);
+      font-weight: 600;
+      color: var(--text-strong);
+      cursor: pointer;
+      user-select: none;
+    }
+    #outlier-toggle input { cursor: pointer; width: 1rem; height: 1rem; }
     /* ── mobile source filter (grouped multi-select dropdown) ── */
     #source-filter-mobile {
       display: none;
@@ -753,6 +768,10 @@
   </button>
   <div id="source-filter-panel" hidden></div>
 </div>
+<label id="outlier-toggle" title="Ignore lone super-collectible listings when computing prices">
+  <input type="checkbox" id="outlier-cb" checked />
+  Hide extreme price outliers
+</label>
 
 <!-- Main list view -->
 <div id="main-view">
@@ -825,6 +844,7 @@
   let ALL_SOURCES = [];             // every selectable source, in display order
   let lastListState = null; // remembers what was showing before detail
   let currentDetailTin = null;      // tin currently shown in detail view
+  let REMOVE_OUTLIERS = true;       // hide extreme high-price outliers (on by default)
 
   // tin weight as grams, for numeric size sorting ("2oz" -> ~56.7, "50g" -> 50)
   function weightGrams(q) {
@@ -1119,9 +1139,54 @@
     return (t.sizes || []).reduce((n, sz) => n + (sz.members || []).length, 0);
   }
 
+  // ── extreme price-outlier removal ──────────────────────────────────────
+  // Trims only the HIGH tail (a lone super-collectible listing dragging the
+  // numbers up), and only when a tin has enough comparable listings to tell
+  // signal from noise. Detection runs on $/oz — so different tin sizes are
+  // comparable — across the currently ACTIVE sources. A listing is dropped
+  // only when it is BOTH statistically far from the pack (robust modified
+  // z-score > 5, built on median + MAD) AND at least 2× the median, so a
+  // tightly-clustered tin can never manufacture a false outlier.
+  const _EMPTY = new Set();
+  function median(nums) {
+    if (!nums.length) return null;
+    const s = [...nums].sort((a, b) => a - b), i = s.length >> 1;
+    return s.length % 2 ? s[i] : (s[i - 1] + s[i]) / 2;
+  }
+  // Returns the set of member objects to exclude from a tin's price stats.
+  function outlierMembers(t) {
+    if (!REMOVE_OUTLIERS) return _EMPTY;
+    const rows = [];
+    for (const sz of (t.sizes || [])) {
+      const grams = weightGrams(sz.quantity);
+      if (grams <= 0) continue;
+      const oz = grams / 28.3495;
+      for (const m of (sz.members || [])) {
+        if (!ACTIVE_SOURCES.has(m.source)) continue;
+        const price = parseMoney(m.price);
+        if (price == null) continue;
+        rows.push({ m, ppo: price / oz });
+      }
+    }
+    if (rows.length < 4) return _EMPTY;                 // too few to judge
+    const vals = rows.map(r => r.ppo);
+    const med = median(vals);
+    const mad = median(vals.map(v => Math.abs(v - med)));
+    const drop = new Set();
+    for (const r of rows) {
+      const big = med > 0 && r.ppo >= 2 * med;
+      const far = mad > 0 ? (0.6745 * (r.ppo - med) / mad) > 5
+                          : (med > 0 && r.ppo > 3 * med);   // MAD==0 fallback
+      if (big && far) drop.add(r.m);
+    }
+    return drop;
+  }
+
   // Price for a tin: single value or a min–max range across its active listings.
   function tinPrice(t) {
-    const nums = activeMembers(t).map(m => parseMoney(m.price)).filter(n => n != null);
+    const excl = outlierMembers(t);
+    const nums = activeMembers(t).filter(m => !excl.has(m))
+      .map(m => parseMoney(m.price)).filter(n => n != null);
     if (!nums.length) return null;
     return { lo: Math.min(...nums), hi: Math.max(...nums) };
   }
@@ -1149,6 +1214,7 @@
   // Returns avg $/oz across all active listings that have a parseable weight+price.
   // Grams and oz are both supported via the existing weightGrams() helper.
   function tinPricePerOzNum(t) {
+    const excl = outlierMembers(t);
     const samples = [];
     for (const sz of (t.sizes || [])) {
       const grams = weightGrams(sz.quantity);
@@ -1156,6 +1222,7 @@
       const oz = grams / 28.3495;
       for (const m of (sz.members || [])) {
         if (!ACTIVE_SOURCES.has(m.source)) continue;
+        if (excl.has(m)) continue;
         const price = parseMoney(m.price);
         if (price == null) continue;
         samples.push(price / oz);
@@ -1205,6 +1272,7 @@
     // driver of price spread, so putting it on the axis turns the old
     // confound into the subject. Listings with no parseable year fall into a
     // separate "unknown" bucket pinned to the right edge.
+    const excl = outlierMembers(t);
     const known = [], unknown = [];
     for (const sz of (t.sizes || [])) {
       const grams = weightGrams(sz.quantity);
@@ -1212,6 +1280,7 @@
       const oz = grams / 28.3495;
       for (const m of (sz.members || [])) {
         if (!ACTIVE_SOURCES.has(m.source)) continue;
+        if (excl.has(m)) continue;
         const price = parseMoney(m.price);
         if (price == null) continue;
         const yr = parseInt(m.year, 10);
@@ -1681,6 +1750,15 @@
   mobileSort.addEventListener("change", () => {
     const [k, d] = mobileSort.value.split(":");
     SORT.key = k; SORT.dir = d;
+    render();
+  });
+
+  const outlierCb = document.getElementById("outlier-cb");
+  outlierCb.addEventListener("change", () => {
+    REMOVE_OUTLIERS = outlierCb.checked;
+    if (detailView.style.display !== "none" && currentDetailTin) {
+      renderDetailContent(currentDetailTin);
+    }
     render();
   });
 
