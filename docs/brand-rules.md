@@ -32,7 +32,7 @@ Update this file whenever a new brand rule or correction is learned during a `/p
 | OGS | Orlik Golden Sliced |
 | LTF | Peter Stokkebye Luxury Twist Flake |
 | LNF | Peter Stokkebye Luxury Navy Flake |
-| SPC PP | Seattle Pipe Club Plum Pudding |
+| SPC PP | Seattle Pipe Club Plum Pudding (see Seattle Pipe Club Brand Separation) |
 | GdO Flake | Savinelli Giubileo d'Oro Flake (confidence 0.78) |
 | KBV | Ken Byron Ventures |
 | NM403 | Newminster No. 403 |
@@ -100,7 +100,7 @@ Note: "H&H Anniversary Flake" = Hearth & Home (not Mac Baren). "HH Anniversary K
 
 - **Watch City** — blends: "Rouxgaroux", "Simply Red", "Old Black Magic", "Strange Magic", "Deluxe Crumb Cut", "Rhythm and Blues", "Mistletoe Jam", "Old Dominion", "Bostonian Rhapsody", "Flake #558"
 - **Country Squire** — Mississippi pipe shop; house blends: "Old Toby", "Faulkner Flake"
-- **Seattle Pipe Club** — also makes: "Plum Pudding Special Reserve"
+- **Seattle Pipe Club** — also makes: "Plum Pudding Special Reserve". Classify SPC listings with brand `Seattle Pipe Club` and the plain blend name (no "SPC " prefix). `consolidate.py` handles the manufacturer split and adds the prefix — see Seattle Pipe Club Brand Separation below.
 - **L.J. Peretti** — Boston tobacconist; house blends include "Thanksgiving Day"
 - **Robert Lewis** — London tobacconist; blend: "Tree Mixture"
 - **F & K** — St. Louis private-label brand (founded 1926); blend: "Lancer Slices"
@@ -167,6 +167,31 @@ Note: "H&H Anniversary Flake" = Hearth & Home (not Mac Baren). "HH Anniversary K
 - **HU** → HU Tobacco (German brand), NOT Hermit Umbra
 - **"Escudo" bare** → always expand to brand: "STG", blend: "Escudo Navy Deluxe"; never leave as just "Escudo"
 - **"Paradoxical"** → always brand: "Sutliff", blend: "Paradoxical" — including titles that say "Birds of a Feather", "Bird Blends", or "Per Jensen"/"Per Georg Jensen" (that's the series/designer name, not the brand; Sutliff manufactures and sells it). NOT Cornell & Diehl, NOT "Per Jensen" as brand (user confirmed 2026-07-01, reversing an earlier attempt to split it into two brands).
+
+---
+
+## Seattle Pipe Club Brand Separation
+
+Seattle Pipe Club does not blend its own tobacco — it contracts a manufacturer, and
+that manufacturer changed. SPC tins are split into two brands by **tin year**
+(user confirmed 2026-07-05):
+
+- **Sutliff** — tins from **2024 and earlier**.
+- **Cornell & Diehl** — tins from **2025 and later**.
+- **Unknown year** → default to **Sutliff** for now; going forward rely on context or
+  the tin year.
+- If a listing explicitly names one of these two manufacturers (e.g. "SPC Plum Pudding
+  (Sutliff)", "Cornell & Diehl … Mississippi River"), that stated brand wins over the
+  year rule.
+
+The blend keeps an **`SPC ` prefix** so its origin stays visible: brand `Sutliff`, blend
+`SPC Plum Pudding` → display "Sutliff SPC Plum Pudding". Every SPC blend gets the prefix
+(SPC Plum Pudding, SPC Mississippi River, SPC Potlatch, …).
+
+**Where this is applied:** `consolidate.py` performs the split deterministically using the
+per-listing parsed year. When classifying into `blend_cache.json` / `overrides.json`, keep
+`brand: "Seattle Pipe Club"` and the plain blend name (no prefix) — do NOT pre-split or
+pre-prefix in the cache; consolidate does it.
 
 ---
 

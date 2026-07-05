@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-05T19:16:19.366421+00:00",
+  "generated": "2026-07-05T21:19:29.084580+00:00",
   "stats": {
     "total_listings": 3602,
     "excluded_multipacks": 1385,
@@ -56632,804 +56632,6 @@
       "source": "Speak-Easy.Club"
     },
     {
-      "id": "seattlepipeclub|downyonder",
-      "brand": "Seattle Pipe Club",
-      "blend": "Down Yonder",
-      "display_name": "Seattle Pipe Club Down Yonder",
-      "sources": [
-        "Tinbids Auction (Sold)"
-      ],
-      "sizes": [
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Seattle Pipe Club - Down Yonder (2023) (Original)",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/198080/",
-              "price": "$30.00",
-              "last_updated": "2026-06-28T16:00:29.276414+00:00",
-              "first_seen": "2026-06-28T05:43:03+00:00",
-              "year": "2023",
-              "price_history": [
-                {
-                  "price": "$30.00",
-                  "date": "2026-06-28T05:43:03+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Tinbids Auction (Sold)"
-          ]
-        }
-      ],
-      "years": [
-        "2023"
-      ],
-      "source": "Tinbids Auction (Sold)"
-    },
-    {
-      "id": "seattlepipeclub|gallopinggertie",
-      "brand": "Seattle Pipe Club",
-      "blend": "Galloping Gertie",
-      "display_name": "Seattle Pipe Club Galloping Gertie",
-      "sources": [
-        "Tinbids Auction (Sold)",
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Galloping Gertie",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
-              "price": "$17",
-              "last_updated": "2026-06-27T20:00:39.387042+00:00",
-              "first_seen": "2024-10-06T22:24:57+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$17",
-                  "date": "2024-10-06T22:24:57+00:00"
-                }
-              ]
-            },
-            {
-              "name": "2020 SEATTLE PIPE CLUB GALLOPING GERTIE",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/197112/",
-              "price": "$40.00",
-              "last_updated": "2026-06-28T04:00:29.871882+00:00",
-              "first_seen": "2026-06-27T18:48:53+00:00",
-              "year": "2020",
-              "price_history": [
-                {
-                  "price": "$40.00",
-                  "date": "2026-06-27T18:48:53+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Tinbids Auction (Sold)",
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Multiple sources"
-    },
-    {
-      "id": "seattlepipeclub|hoodcanal",
-      "brand": "Seattle Pipe Club",
-      "blend": "Hood Canal",
-      "display_name": "Seattle Pipe Club Hood Canal",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Club Hood Canal",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
-              "price": "$35",
-              "last_updated": "2026-06-27T20:00:39.387042+00:00",
-              "first_seen": "2024-10-06T22:24:57+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$35",
-                  "date": "2024-10-06T22:24:57+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "seattlepipeclub|mississippiriver",
-      "brand": "Seattle Pipe Club",
-      "blend": "Mississippi River",
-      "display_name": "Seattle Pipe Club Mississippi River",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "8oz",
-          "members": [
-            {
-              "name": "Mississippi River 8oz 6/2019",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/mississippi-river-john-cotton-mcclelland-bundle.43194/",
-              "price": "$80",
-              "last_updated": "2026-06-24T02:02:09.029335+00:00",
-              "first_seen": "2025-10-17T19:30:19+00:00",
-              "year": "2019",
-              "price_history": [
-                {
-                  "price": "$80",
-                  "date": "2026-06-24T02:02:09.029335+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        },
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Seattle Pipe Club Mississippi River",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/selling-a-chunk-of-my-cellar.44637/",
-              "price": "$65.00",
-              "last_updated": "2026-06-29T23:33:11.991005+00:00",
-              "first_seen": "2026-06-13T00:39:45+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$65.00",
-                  "date": "2026-06-13T00:39:45+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Mississippi River",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/selling-a-chunk-of-my-cellar.44637/",
-              "price": "$65.00",
-              "last_updated": "2026-06-27T20:00:39.387042+00:00",
-              "first_seen": "2026-06-13T00:39:45+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$65.00",
-                  "date": "2026-06-13T00:39:45+00:00"
-                }
-              ]
-            },
-            {
-              "name": "SPC Mississippi River 2016 – 1 tins",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/aged-tins-for-sale.41896/",
-              "price": "$18",
-              "last_updated": "2026-06-25T20:46:10.923480+00:00",
-              "first_seen": "2025-02-20T04:00:27+00:00",
-              "year": "2016",
-              "price_history": [
-                {
-                  "price": "$18",
-                  "date": "2025-02-20T04:00:27+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [
-        "2016",
-        "2019"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "seattlepipeclub|mississippiriverrumbarrelaged",
-      "brand": "Seattle Pipe Club",
-      "blend": "Mississippi River Rum Barrel Aged",
-      "display_name": "Seattle Pipe Club Mississippi River Rum Barrel Aged",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Mississippi River Rum Barrel Aged",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
-              "price": "$21",
-              "last_updated": "2026-06-27T20:00:39.387042+00:00",
-              "first_seen": "2024-10-06T22:24:57+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$21",
-                  "date": "2024-10-06T22:24:57+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "seattlepipeclub|mississippiriverspecialreserve",
-      "brand": "Seattle Pipe Club",
-      "blend": "Mississippi River Special Reserve",
-      "display_name": "Seattle Pipe Club Mississippi River Special Reserve",
-      "sources": [
-        "Tinbids Auction (Sold)",
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "4oz",
-          "members": [
-            {
-              "name": "Seattle Pipe Club Mississippi River Special Reserve 4oz can from 2017",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/198636/",
-              "price": "$33.00",
-              "last_updated": "2026-07-01T16:00:42.026199+00:00",
-              "first_seen": "2026-07-01T15:16:52+00:00",
-              "year": "2017",
-              "price_history": [
-                {
-                  "price": "$33.00",
-                  "date": "2026-07-01T15:16:52+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Tinbids Auction (Sold)"
-          ]
-        },
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Mississippi River Special Reserve",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
-              "price": "$37",
-              "last_updated": "2026-06-27T20:00:39.387042+00:00",
-              "first_seen": "2024-10-06T22:24:57+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$37",
-                  "date": "2024-10-06T22:24:57+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [
-        "2017"
-      ],
-      "source": "Multiple sources"
-    },
-    {
-      "id": "seattlepipeclub|plumpudding",
-      "brand": "Seattle Pipe Club",
-      "blend": "Plum Pudding",
-      "display_name": "Seattle Pipe Club Plum Pudding",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "2oz",
-          "members": [
-            {
-              "name": "Original Sutliff made SPC Plum Pudding 2oz",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/moving-sale-tobacco.44160/",
-              "price": "$15",
-              "last_updated": "2026-06-25T20:46:10.923480+00:00",
-              "first_seen": "2026-03-14T23:32:53+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$15",
-                  "date": "2026-03-14T23:32:53+00:00"
-                }
-              ]
-            },
-            {
-              "name": "2oz SPC PP",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/it-all-has-got-to-go-closed.41401/",
-              "price": "$15",
-              "last_updated": "2026-06-25T20:46:10.923480+00:00",
-              "first_seen": "2024-11-24T23:44:37+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$15",
-                  "date": "2024-11-24T23:44:37+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        },
-        {
-          "quantity": "8oz",
-          "members": [
-            {
-              "name": "8oz SPC PP",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/it-all-has-got-to-go-closed.41401/",
-              "price": "$40",
-              "last_updated": "2026-06-25T20:46:10.923480+00:00",
-              "first_seen": "2024-11-24T23:44:37+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$40",
-                  "date": "2024-11-24T23:44:37+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        },
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "SPC Plum Pudding (Sutliff)",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/little-cellar-sale.44647/unread",
-              "price": "$40",
-              "last_updated": "2026-06-27T20:00:39.387042+00:00",
-              "first_seen": "2026-06-14T20:50:09+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$40",
-                  "date": "2026-06-14T20:50:09+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "seattlepipeclub|plumpuddingbourbonbarrelaged",
-      "brand": "Seattle Pipe Club",
-      "blend": "Plum Pudding Bourbon Barrel Aged",
-      "display_name": "Seattle Pipe Club Plum Pudding Bourbon Barrel Aged",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Plum Pudding Bourbon Barrel Aged",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
-              "price": "$21",
-              "last_updated": "2026-06-27T20:00:39.387042+00:00",
-              "first_seen": "2024-10-06T22:24:57+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$21",
-                  "date": "2024-10-06T22:24:57+00:00"
-                }
-              ]
-            },
-            {
-              "name": "SOLD Plum Pudding Bourbon Barrel Aged 11/2020",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/mississippi-river-john-cotton-mcclelland-bundle.43194/",
-              "price": "$30",
-              "last_updated": "2026-06-24T02:02:09.029335+00:00",
-              "first_seen": "2025-10-17T19:30:19+00:00",
-              "year": "2020",
-              "price_history": [
-                {
-                  "price": "$30",
-                  "date": "2026-06-24T02:02:09.029335+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [
-        "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "seattlepipeclub|plumpuddingspecialreserve",
-      "brand": "Seattle Pipe Club",
-      "blend": "Plum Pudding Special Reserve",
-      "display_name": "Seattle Pipe Club Plum Pudding Special Reserve",
-      "sources": [
-        "Tinbids Auction (Sold)",
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "4oz",
-          "members": [
-            {
-              "name": "Plum pudding special reserve 4oz",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/197998/",
-              "price": "$30.00",
-              "last_updated": "2026-06-28T04:00:29.871882+00:00",
-              "first_seen": "2026-06-28T03:09:24+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$30.00",
-                  "date": "2026-06-28T03:09:24+00:00"
-                }
-              ]
-            },
-            {
-              "name": "SPC Plum Pudding Special Reserve 2016 4oz",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/treat-yo-self-latakia-edition.41446/",
-              "price": "$50",
-              "last_updated": "2026-06-25T20:46:10.923480+00:00",
-              "first_seen": "2024-12-02T22:21:08+00:00",
-              "year": "2016",
-              "price_history": [
-                {
-                  "price": "$50",
-                  "date": "2024-12-02T22:21:08+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Seattle Pipe Club Plum Pudding Special Reserve 4oz can from 2017",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/198637/",
-              "price": "$47.00",
-              "last_updated": "2026-07-02T04:00:37.105804+00:00",
-              "first_seen": "2026-07-01T15:17:12+00:00",
-              "year": "2017",
-              "price_history": [
-                {
-                  "price": "$47.00",
-                  "date": "2026-07-01T15:17:12+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Tinbids Auction (Sold)",
-            "Speak-Easy.Club"
-          ]
-        },
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Plum Pudding Special Reserve",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
-              "price": "$37",
-              "last_updated": "2026-06-27T20:00:39.387042+00:00",
-              "first_seen": "2024-10-06T22:24:57+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$37",
-                  "date": "2024-10-06T22:24:57+00:00"
-                }
-              ]
-            },
-            {
-              "name": "2016? SPC PP Special Res.",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/it-all-has-got-to-go-closed.41401/",
-              "price": "$40",
-              "last_updated": "2026-06-25T20:46:10.923480+00:00",
-              "first_seen": "2024-11-24T23:44:37+00:00",
-              "year": "2016",
-              "price_history": [
-                {
-                  "price": "$40",
-                  "date": "2024-11-24T23:44:37+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [
-        "2016",
-        "2017"
-      ],
-      "source": "Multiple sources"
-    },
-    {
-      "id": "seattlepipeclub|plumpuddingspecialreserveflake",
-      "brand": "Seattle Pipe Club",
-      "blend": "Plum Pudding Special Reserve Flake",
-      "display_name": "Seattle Pipe Club Plum Pudding Special Reserve Flake",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Plum Pudding Special Reserve Flake",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
-              "price": "$25",
-              "last_updated": "2026-06-27T20:00:39.387042+00:00",
-              "first_seen": "2024-10-06T22:24:57+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$25",
-                  "date": "2024-10-06T22:24:57+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "seattlepipeclub|potlatch",
-      "brand": "Seattle Pipe Club",
-      "blend": "Potlatch",
-      "display_name": "Seattle Pipe Club Potlatch",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Potlatch",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
-              "price": "$17",
-              "last_updated": "2026-06-27T20:00:39.387042+00:00",
-              "first_seen": "2024-10-06T22:24:57+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$17",
-                  "date": "2024-10-06T22:24:57+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "seattlepipeclub|rainierlevant",
-      "brand": "Seattle Pipe Club",
-      "blend": "Rainier Levant",
-      "display_name": "Seattle Pipe Club Rainier Levant",
-      "sources": [
-        "Tinbids Auction (Sold)"
-      ],
-      "sizes": [
-        {
-          "quantity": "2oz",
-          "members": [
-            {
-              "name": "Seattle Pipe Club Rainier Levant 2oz can from 2017",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/198922/",
-              "price": "$20.50",
-              "last_updated": "2026-07-02T04:00:37.105804+00:00",
-              "first_seen": "2026-07-02T02:43:09+00:00",
-              "year": "2017",
-              "price_history": [
-                {
-                  "price": "$20.50",
-                  "date": "2026-07-02T02:43:09+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Tinbids Auction (Sold)"
-          ]
-        }
-      ],
-      "years": [
-        "2017"
-      ],
-      "source": "Tinbids Auction (Sold)"
-    },
-    {
-      "id": "seattlepipeclub|seattleevening",
-      "brand": "Seattle Pipe Club",
-      "blend": "Seattle Evening",
-      "display_name": "Seattle Pipe Club Seattle Evening",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Seattle Evening",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
-              "price": "$17",
-              "last_updated": "2026-06-27T20:00:39.387042+00:00",
-              "first_seen": "2024-10-06T22:24:57+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$17",
-                  "date": "2024-10-06T22:24:57+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "seattlepipeclub|virginiajazz",
-      "brand": "Seattle Pipe Club",
-      "blend": "Virginia Jazz",
-      "display_name": "Seattle Pipe Club Virginia Jazz",
-      "sources": [
-        "Tinbids Auction (Sold)"
-      ],
-      "sizes": [
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Seattle Pipe Club 2023 Virginia Jazz",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/200289/",
-              "price": "$50.00",
-              "last_updated": "2026-07-02T04:00:37.105804+00:00",
-              "first_seen": "2026-07-01T19:50:31+00:00",
-              "year": "2023",
-              "price_history": [
-                {
-                  "price": "$50.00",
-                  "date": "2026-07-01T19:50:31+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Tinbids Auction (Sold)"
-          ]
-        }
-      ],
-      "years": [
-        "2023"
-      ],
-      "source": "Tinbids Auction (Sold)"
-    },
-    {
-      "id": "seattlepipeclub|wildman",
-      "brand": "Seattle Pipe Club",
-      "blend": "Wild Man",
-      "display_name": "Seattle Pipe Club Wild Man",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Wild Man",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
-              "price": "$17",
-              "last_updated": "2026-06-27T20:00:39.387042+00:00",
-              "first_seen": "2024-10-06T22:24:57+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$17",
-                  "date": "2024-10-06T22:24:57+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [],
-      "source": "Speak-Easy.Club"
-    },
-    {
       "id": "shpc|greathiatus",
       "brand": "SHPC",
       "blend": "Great Hiatus",
@@ -61979,6 +61181,804 @@
       "source": "Speak-Easy.Club"
     },
     {
+      "id": "sutliff|spcdownyonder",
+      "brand": "Sutliff",
+      "blend": "SPC Down Yonder",
+      "display_name": "Sutliff SPC Down Yonder",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Seattle Pipe Club - Down Yonder (2023) (Original)",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/198080/",
+              "price": "$30.00",
+              "last_updated": "2026-06-28T16:00:29.276414+00:00",
+              "first_seen": "2026-06-28T05:43:03+00:00",
+              "year": "2023",
+              "price_history": [
+                {
+                  "price": "$30.00",
+                  "date": "2026-06-28T05:43:03+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [
+        "2023"
+      ],
+      "source": "Tinbids Auction (Sold)"
+    },
+    {
+      "id": "sutliff|spcgallopinggertie",
+      "brand": "Sutliff",
+      "blend": "SPC Galloping Gertie",
+      "display_name": "Sutliff SPC Galloping Gertie",
+      "sources": [
+        "Tinbids Auction (Sold)",
+        "Speak-Easy.Club"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Galloping Gertie",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
+              "price": "$17",
+              "last_updated": "2026-06-27T20:00:39.387042+00:00",
+              "first_seen": "2024-10-06T22:24:57+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$17",
+                  "date": "2024-10-06T22:24:57+00:00"
+                }
+              ]
+            },
+            {
+              "name": "2020 SEATTLE PIPE CLUB GALLOPING GERTIE",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/197112/",
+              "price": "$40.00",
+              "last_updated": "2026-06-28T04:00:29.871882+00:00",
+              "first_seen": "2026-06-27T18:48:53+00:00",
+              "year": "2020",
+              "price_history": [
+                {
+                  "price": "$40.00",
+                  "date": "2026-06-27T18:48:53+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)",
+            "Speak-Easy.Club"
+          ]
+        }
+      ],
+      "years": [
+        "2020"
+      ],
+      "source": "Multiple sources"
+    },
+    {
+      "id": "sutliff|spchoodcanal",
+      "brand": "Sutliff",
+      "blend": "SPC Hood Canal",
+      "display_name": "Sutliff SPC Hood Canal",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Club Hood Canal",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
+              "price": "$35",
+              "last_updated": "2026-06-27T20:00:39.387042+00:00",
+              "first_seen": "2024-10-06T22:24:57+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$35",
+                  "date": "2024-10-06T22:24:57+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "sutliff|spcmississippiriver",
+      "brand": "Sutliff",
+      "blend": "SPC Mississippi River",
+      "display_name": "Sutliff SPC Mississippi River",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "sizes": [
+        {
+          "quantity": "8oz",
+          "members": [
+            {
+              "name": "Mississippi River 8oz 6/2019",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/mississippi-river-john-cotton-mcclelland-bundle.43194/",
+              "price": "$80",
+              "last_updated": "2026-06-24T02:02:09.029335+00:00",
+              "first_seen": "2025-10-17T19:30:19+00:00",
+              "year": "2019",
+              "price_history": [
+                {
+                  "price": "$80",
+                  "date": "2026-06-24T02:02:09.029335+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        },
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Seattle Pipe Club Mississippi River",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/selling-a-chunk-of-my-cellar.44637/",
+              "price": "$65.00",
+              "last_updated": "2026-06-29T23:33:11.991005+00:00",
+              "first_seen": "2026-06-13T00:39:45+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$65.00",
+                  "date": "2026-06-13T00:39:45+00:00"
+                }
+              ]
+            },
+            {
+              "name": "Mississippi River",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/selling-a-chunk-of-my-cellar.44637/",
+              "price": "$65.00",
+              "last_updated": "2026-06-27T20:00:39.387042+00:00",
+              "first_seen": "2026-06-13T00:39:45+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$65.00",
+                  "date": "2026-06-13T00:39:45+00:00"
+                }
+              ]
+            },
+            {
+              "name": "SPC Mississippi River 2016 – 1 tins",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/aged-tins-for-sale.41896/",
+              "price": "$18",
+              "last_updated": "2026-06-25T20:46:10.923480+00:00",
+              "first_seen": "2025-02-20T04:00:27+00:00",
+              "year": "2016",
+              "price_history": [
+                {
+                  "price": "$18",
+                  "date": "2025-02-20T04:00:27+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        }
+      ],
+      "years": [
+        "2016",
+        "2019"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "sutliff|spcmississippiriverrumbarrelaged",
+      "brand": "Sutliff",
+      "blend": "SPC Mississippi River Rum Barrel Aged",
+      "display_name": "Sutliff SPC Mississippi River Rum Barrel Aged",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Mississippi River Rum Barrel Aged",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
+              "price": "$21",
+              "last_updated": "2026-06-27T20:00:39.387042+00:00",
+              "first_seen": "2024-10-06T22:24:57+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$21",
+                  "date": "2024-10-06T22:24:57+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "sutliff|spcmississippiriverspecialreserve",
+      "brand": "Sutliff",
+      "blend": "SPC Mississippi River Special Reserve",
+      "display_name": "Sutliff SPC Mississippi River Special Reserve",
+      "sources": [
+        "Tinbids Auction (Sold)",
+        "Speak-Easy.Club"
+      ],
+      "sizes": [
+        {
+          "quantity": "4oz",
+          "members": [
+            {
+              "name": "Seattle Pipe Club Mississippi River Special Reserve 4oz can from 2017",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/198636/",
+              "price": "$33.00",
+              "last_updated": "2026-07-01T16:00:42.026199+00:00",
+              "first_seen": "2026-07-01T15:16:52+00:00",
+              "year": "2017",
+              "price_history": [
+                {
+                  "price": "$33.00",
+                  "date": "2026-07-01T15:16:52+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        },
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Mississippi River Special Reserve",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
+              "price": "$37",
+              "last_updated": "2026-06-27T20:00:39.387042+00:00",
+              "first_seen": "2024-10-06T22:24:57+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$37",
+                  "date": "2024-10-06T22:24:57+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        }
+      ],
+      "years": [
+        "2017"
+      ],
+      "source": "Multiple sources"
+    },
+    {
+      "id": "sutliff|spcplumpudding",
+      "brand": "Sutliff",
+      "blend": "SPC Plum Pudding",
+      "display_name": "Sutliff SPC Plum Pudding",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "sizes": [
+        {
+          "quantity": "2oz",
+          "members": [
+            {
+              "name": "Original Sutliff made SPC Plum Pudding 2oz",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/moving-sale-tobacco.44160/",
+              "price": "$15",
+              "last_updated": "2026-06-25T20:46:10.923480+00:00",
+              "first_seen": "2026-03-14T23:32:53+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$15",
+                  "date": "2026-03-14T23:32:53+00:00"
+                }
+              ]
+            },
+            {
+              "name": "2oz SPC PP",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/it-all-has-got-to-go-closed.41401/",
+              "price": "$15",
+              "last_updated": "2026-06-25T20:46:10.923480+00:00",
+              "first_seen": "2024-11-24T23:44:37+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$15",
+                  "date": "2024-11-24T23:44:37+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        },
+        {
+          "quantity": "8oz",
+          "members": [
+            {
+              "name": "8oz SPC PP",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/it-all-has-got-to-go-closed.41401/",
+              "price": "$40",
+              "last_updated": "2026-06-25T20:46:10.923480+00:00",
+              "first_seen": "2024-11-24T23:44:37+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$40",
+                  "date": "2024-11-24T23:44:37+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        },
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "SPC Plum Pudding (Sutliff)",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/little-cellar-sale.44647/unread",
+              "price": "$40",
+              "last_updated": "2026-06-27T20:00:39.387042+00:00",
+              "first_seen": "2026-06-14T20:50:09+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$40",
+                  "date": "2026-06-14T20:50:09+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "sutliff|spcplumpuddingbourbonbarrelaged",
+      "brand": "Sutliff",
+      "blend": "SPC Plum Pudding Bourbon Barrel Aged",
+      "display_name": "Sutliff SPC Plum Pudding Bourbon Barrel Aged",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Plum Pudding Bourbon Barrel Aged",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
+              "price": "$21",
+              "last_updated": "2026-06-27T20:00:39.387042+00:00",
+              "first_seen": "2024-10-06T22:24:57+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$21",
+                  "date": "2024-10-06T22:24:57+00:00"
+                }
+              ]
+            },
+            {
+              "name": "SOLD Plum Pudding Bourbon Barrel Aged 11/2020",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/mississippi-river-john-cotton-mcclelland-bundle.43194/",
+              "price": "$30",
+              "last_updated": "2026-06-24T02:02:09.029335+00:00",
+              "first_seen": "2025-10-17T19:30:19+00:00",
+              "year": "2020",
+              "price_history": [
+                {
+                  "price": "$30",
+                  "date": "2026-06-24T02:02:09.029335+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        }
+      ],
+      "years": [
+        "2020"
+      ],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "sutliff|spcplumpuddingspecialreserve",
+      "brand": "Sutliff",
+      "blend": "SPC Plum Pudding Special Reserve",
+      "display_name": "Sutliff SPC Plum Pudding Special Reserve",
+      "sources": [
+        "Tinbids Auction (Sold)",
+        "Speak-Easy.Club"
+      ],
+      "sizes": [
+        {
+          "quantity": "4oz",
+          "members": [
+            {
+              "name": "Plum pudding special reserve 4oz",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/197998/",
+              "price": "$30.00",
+              "last_updated": "2026-06-28T04:00:29.871882+00:00",
+              "first_seen": "2026-06-28T03:09:24+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$30.00",
+                  "date": "2026-06-28T03:09:24+00:00"
+                }
+              ]
+            },
+            {
+              "name": "SPC Plum Pudding Special Reserve 2016 4oz",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/treat-yo-self-latakia-edition.41446/",
+              "price": "$50",
+              "last_updated": "2026-06-25T20:46:10.923480+00:00",
+              "first_seen": "2024-12-02T22:21:08+00:00",
+              "year": "2016",
+              "price_history": [
+                {
+                  "price": "$50",
+                  "date": "2024-12-02T22:21:08+00:00"
+                }
+              ]
+            },
+            {
+              "name": "Seattle Pipe Club Plum Pudding Special Reserve 4oz can from 2017",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/198637/",
+              "price": "$47.00",
+              "last_updated": "2026-07-02T04:00:37.105804+00:00",
+              "first_seen": "2026-07-01T15:17:12+00:00",
+              "year": "2017",
+              "price_history": [
+                {
+                  "price": "$47.00",
+                  "date": "2026-07-01T15:17:12+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)",
+            "Speak-Easy.Club"
+          ]
+        },
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Plum Pudding Special Reserve",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
+              "price": "$37",
+              "last_updated": "2026-06-27T20:00:39.387042+00:00",
+              "first_seen": "2024-10-06T22:24:57+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$37",
+                  "date": "2024-10-06T22:24:57+00:00"
+                }
+              ]
+            },
+            {
+              "name": "2016? SPC PP Special Res.",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/it-all-has-got-to-go-closed.41401/",
+              "price": "$40",
+              "last_updated": "2026-06-25T20:46:10.923480+00:00",
+              "first_seen": "2024-11-24T23:44:37+00:00",
+              "year": "2016",
+              "price_history": [
+                {
+                  "price": "$40",
+                  "date": "2024-11-24T23:44:37+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        }
+      ],
+      "years": [
+        "2016",
+        "2017"
+      ],
+      "source": "Multiple sources"
+    },
+    {
+      "id": "sutliff|spcplumpuddingspecialreserveflake",
+      "brand": "Sutliff",
+      "blend": "SPC Plum Pudding Special Reserve Flake",
+      "display_name": "Sutliff SPC Plum Pudding Special Reserve Flake",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Plum Pudding Special Reserve Flake",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
+              "price": "$25",
+              "last_updated": "2026-06-27T20:00:39.387042+00:00",
+              "first_seen": "2024-10-06T22:24:57+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$25",
+                  "date": "2024-10-06T22:24:57+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "sutliff|spcpotlatch",
+      "brand": "Sutliff",
+      "blend": "SPC Potlatch",
+      "display_name": "Sutliff SPC Potlatch",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Potlatch",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
+              "price": "$17",
+              "last_updated": "2026-06-27T20:00:39.387042+00:00",
+              "first_seen": "2024-10-06T22:24:57+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$17",
+                  "date": "2024-10-06T22:24:57+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "sutliff|spcrainierlevant",
+      "brand": "Sutliff",
+      "blend": "SPC Rainier Levant",
+      "display_name": "Sutliff SPC Rainier Levant",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "2oz",
+          "members": [
+            {
+              "name": "Seattle Pipe Club Rainier Levant 2oz can from 2017",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/198922/",
+              "price": "$20.50",
+              "last_updated": "2026-07-02T04:00:37.105804+00:00",
+              "first_seen": "2026-07-02T02:43:09+00:00",
+              "year": "2017",
+              "price_history": [
+                {
+                  "price": "$20.50",
+                  "date": "2026-07-02T02:43:09+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [
+        "2017"
+      ],
+      "source": "Tinbids Auction (Sold)"
+    },
+    {
+      "id": "sutliff|spcseattleevening",
+      "brand": "Sutliff",
+      "blend": "SPC Seattle Evening",
+      "display_name": "Sutliff SPC Seattle Evening",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Seattle Evening",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
+              "price": "$17",
+              "last_updated": "2026-06-27T20:00:39.387042+00:00",
+              "first_seen": "2024-10-06T22:24:57+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$17",
+                  "date": "2024-10-06T22:24:57+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "sutliff|spcvirginiajazz",
+      "brand": "Sutliff",
+      "blend": "SPC Virginia Jazz",
+      "display_name": "Sutliff SPC Virginia Jazz",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Seattle Pipe Club 2023 Virginia Jazz",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/200289/",
+              "price": "$50.00",
+              "last_updated": "2026-07-02T04:00:37.105804+00:00",
+              "first_seen": "2026-07-01T19:50:31+00:00",
+              "year": "2023",
+              "price_history": [
+                {
+                  "price": "$50.00",
+                  "date": "2026-07-01T19:50:31+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [
+        "2023"
+      ],
+      "source": "Tinbids Auction (Sold)"
+    },
+    {
+      "id": "sutliff|spcwildman",
+      "brand": "Sutliff",
+      "blend": "SPC Wild Man",
+      "display_name": "Sutliff SPC Wild Man",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Wild Man",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
+              "price": "$17",
+              "last_updated": "2026-06-27T20:00:39.387042+00:00",
+              "first_seen": "2024-10-06T22:24:57+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$17",
+                  "date": "2024-10-06T22:24:57+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Speak-Easy.Club"
+    },
+    {
       "id": "sutliff|sweated",
       "brand": "Sutliff",
       "blend": "Sweated",
@@ -65971,7 +65971,7 @@
     "Re-listed ~ SUPER! Rare! Dobie's Four Square Medium Navy (Light Blue)": "dobies|foursquare",
     "Vintage Erinmore Tin - 1 Tin NR BIN $125": "erinmore|flake",
     "2018 Mike and Russ The Mind Meld 50g tin Full Latakia Pipe Tobacco Mixture from 2018": "mikeruss|themindmeldfulllatakia",
-    "Seattle Pipe Club Plum Pudding Special Reserve 4oz can from 2017": "seattlepipeclub|plumpuddingspecialreserve",
+    "Seattle Pipe Club Plum Pudding Special Reserve 4oz can from 2017": "sutliff|spcplumpuddingspecialreserve",
     "Penzance 8 ounce Bag": "esoterica|penzance",
     "Mcelland Balkan Beauty 2016": "mcclelland|balkanbeauty",
     "Sealed Mac Baren HH Acadian Perique 1.75oz. Tin from 2020. Rare, Hard to Find, and Discontinued Tobacco": "macbaren|hhacadianperique",
@@ -65982,14 +65982,14 @@
     "Large tin Plum cake Navy Blend 2016": "macbaren|plumcake",
     "Vintage - 2017 Dunhill Elizabethan Mixture - 50g": "dunhill|elizabethanmixture",
     "Vintage - 2018 Dunhill The Royal Yacht Mixture - 50g": "dunhill|royalyacht",
-    "Seattle Pipe Club 2023 Virginia Jazz": "seattlepipeclub|virginiajazz",
+    "Seattle Pipe Club 2023 Virginia Jazz": "sutliff|spcvirginiajazz",
     "Dunhill Durbar 50g tin from 2017. Rare, Hard to Find, and Discontinued Tobacco": "dunhill|durbar",
     "C&D Small Batch From Beyond 2025": "cornelldiehl|frombeyond",
     "8oz bag of Margate 2024": "esoterica|margate",
     "2005-2010 RATTRAY'S 3 NOGGINS --- ALMOST FULL OPENED TIN": "rattrays|3noggins",
     "2011 G.L. PEASE ODYSSEY approx. 1.9 ounces": "glpease|odyssey",
     "Peter Heinrichs Golden Sliced 200g Bid or Buy Now": "peterheinrichs|goldensliced",
-    "Seattle Pipe Club Rainier Levant 2oz can from 2017": "seattlepipeclub|rainierlevant",
+    "Seattle Pipe Club Rainier Levant 2oz can from 2017": "sutliff|spcrainierlevant",
     "Butera’s Royal Vintage Latakia No.1 Sealed 50g Pipe Tobacco Tin 1996": "butera|royalvintagelatakiano1",
     "Butera’s Royal Vintage Latakia No.2 Sealed 50g Pipe Tobacco Tin 2016": "butera|royalvintagelatakiano2",
     "Collectible G.L. Pease Spark Plug 50g Sealed Pipe Tobacco Tin 2020": "glpease|sparkplug",
@@ -65999,7 +65999,7 @@
     "1980's Dunhill Standard Mixture Medium 100 Gram Tin": "dunhill|standardmixturemedium",
     "2007 G.L. Pease Westminster- First Year of Production": "glpease|westminster",
     "Stonehaven Esoterica  8ozs Almost sealed and cellared Cream Bag": "esoterica|stonehaven",
-    "Seattle Pipe Club Mississippi River Special Reserve 4oz can from 2017": "seattlepipeclub|mississippiriverspecialreserve",
+    "Seattle Pipe Club Mississippi River Special Reserve 4oz can from 2017": "sutliff|spcmississippiriverspecialreserve",
     "Vintage McClelland PERIQUE 50g Sealed Tin": "mcclelland|perique",
     "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 2003": "butera|pelican",
     "McClelland’s 3 Oaks Original Syrian Latakia English Blend Sealed 50g Pipe Tobacco Tin 2012": "mcclelland|3oakssyrian",
@@ -66106,7 +66106,7 @@
     "Fribourg & Treyer - Golden Mixture (2018)": "fribourgtreyer|goldenmixture",
     "Sutliff - Crumble Kake Barrel Aged Series No.1 (2020) Limited Edition": "sutliff|crumblekakebarrelagedno1",
     "Astleys - No.109 Medium Flake (2020) (Discontinued)": "astleys|no109mediumvirginiaflake",
-    "Seattle Pipe Club - Down Yonder (2023) (Original)": "seattlepipeclub|downyonder",
+    "Seattle Pipe Club - Down Yonder (2023) (Original)": "sutliff|spcdownyonder",
     "Germain's B.K. Flake - 1 Tin NR BIN $80": "jfgermain|bkflake",
     "Cornell & Diehl Palmetto Balkan - 1 Tin BIN $100": "cornelldiehl|palmettobalkan",
     "2017 McClelland’s Christmas Cheer - 1 tin NR BIN $225": "mcclelland|christmascheer",
@@ -66119,7 +66119,7 @@
     "Mac Baren Plumcake Navy Blend 2022 100g": "macbaren|plumcake",
     "Germain's Royal Jersey Dark Cavendish - 50g": "jfgermain|royaljerseydarkcavendish",
     "Cornell & Diehl - The Beast (2021)": "cornelldiehl|thebeast",
-    "2020 SEATTLE PIPE CLUB GALLOPING GERTIE": "seattlepipeclub|gallopinggertie",
+    "2020 SEATTLE PIPE CLUB GALLOPING GERTIE": "sutliff|spcgallopinggertie",
     "Cornell & Diehl - Sun Bear (2020) The Original Release": "cornelldiehl|sunbear",
     "2015 MAC BAREN HH BOLD KENTUCKY": "macbaren|hhboldkentucky",
     "Ken Byron Ventures - Byronic Slices (2021)": "kenbyronventures|byronicslices",
@@ -66145,7 +66145,7 @@
     "Samuel Gawith - Full Virginia Flake (2017)": "samuelgawith|fullvirginiaflake",
     "Mac Baren - HH Rustica 3.5oz. (2020) Original Release": "macbaren|hhrustica",
     "Samuel Gawith - St. James Flake (2018)": "samuelgawith|stjamesflake",
-    "Plum pudding special reserve 4oz": "seattlepipeclub|plumpuddingspecialreserve",
+    "Plum pudding special reserve 4oz": "sutliff|spcplumpuddingspecialreserve",
     "Esoterica Tobacciana - Dunbar": "esoterica|dunbar",
     "Esoterica Tobacciana - Dorchester": "esoterica|dorchester",
     "Kentucky Club 14oz sealed": "kentuckyclub|kentuckyclub",
@@ -66758,7 +66758,7 @@
     "Sam Gawith Skiff Mixture": "samuelgawith|skiffmixture",
     "Sam Gawith Squadron Leader": "samuelgawith|squadronleader",
     "Sam Gawith Squadron Leader SE w/ Perique": "samuelgawith|squadronleaderspecialedition",
-    "Seattle Pipe Club Mississippi River": "seattlepipeclub|mississippiriver",
+    "Seattle Pipe Club Mississippi River": "sutliff|spcmississippiriver",
     "STG Half and Half": "halfandhalf|halfandhalf",
     "STG Velvet": "velvet|velvet",
     "Sutliff Cringle Flake (Sweated)": "sutliff|cringleflakesweated",
@@ -66849,16 +66849,16 @@
     "Giubileo d’Oro": "savinelli|giubileodoro",
     "Janus": "savinelli|janus",
     "Jupiter": "savinelli|jupiter",
-    "Galloping Gertie": "seattlepipeclub|gallopinggertie",
-    "Club Hood Canal": "seattlepipeclub|hoodcanal",
-    "Mississippi River Rum Barrel Aged": "seattlepipeclub|mississippiriverrumbarrelaged",
-    "Mississippi River Special Reserve": "seattlepipeclub|mississippiriverspecialreserve",
-    "Plum Pudding Bourbon Barrel Aged": "seattlepipeclub|plumpuddingbourbonbarrelaged",
-    "Plum Pudding Special Reserve": "seattlepipeclub|plumpuddingspecialreserve",
-    "Plum Pudding Special Reserve Flake": "seattlepipeclub|plumpuddingspecialreserveflake",
-    "Potlatch": "seattlepipeclub|potlatch",
-    "Seattle Evening": "seattlepipeclub|seattleevening",
-    "Wild Man": "seattlepipeclub|wildman",
+    "Galloping Gertie": "sutliff|spcgallopinggertie",
+    "Club Hood Canal": "sutliff|spchoodcanal",
+    "Mississippi River Rum Barrel Aged": "sutliff|spcmississippiriverrumbarrelaged",
+    "Mississippi River Special Reserve": "sutliff|spcmississippiriverspecialreserve",
+    "Plum Pudding Bourbon Barrel Aged": "sutliff|spcplumpuddingbourbonbarrelaged",
+    "Plum Pudding Special Reserve": "sutliff|spcplumpuddingspecialreserve",
+    "Plum Pudding Special Reserve Flake": "sutliff|spcplumpuddingspecialreserveflake",
+    "Potlatch": "sutliff|spcpotlatch",
+    "Seattle Evening": "sutliff|spcseattleevening",
+    "Wild Man": "sutliff|spcwildman",
     "Silver Flake 660": "solani|silver660",
     "Cloud Hopper": "warped|cloudhopper",
     "Kings Stride": "warped|kingsstride",
@@ -66879,7 +66879,7 @@
     "Wallace Flake": "rattrays|wallaceflake",
     "Kendall Plug": "samuelgawith|kendalplug",
     "Squadron Leader SE w/ Perique": "samuelgawith|squadronleaderspecialedition",
-    "Mississippi River": "seattlepipeclub|mississippiriver",
+    "Mississippi River": "sutliff|spcmississippiriver",
     "Half and Half": "halfandhalf|halfandhalf",
     "Velvet": "velvet|velvet",
     "Cringle Flake (Sweated)": "sutliff|cringleflakesweated",
@@ -66894,7 +66894,7 @@
     "Mac Baren HH Pure Virginia": "macbaren|hhpurevirginia",
     "Rattrays Bagpiper’s Dream": "rattrays|bagpipersdream",
     "SG Full Virginia Flake": "samuelgawith|fullvirginiaflake",
-    "SPC Plum Pudding (Sutliff)": "seattlepipeclub|plumpudding",
+    "SPC Plum Pudding (Sutliff)": "sutliff|spcplumpudding",
     "Sutliff Ready Rubbed Match": "sutliff|matchreadyrubbed",
     "WC Simply Orange": "watchcity|simplyorangevirginia",
     "Mallard with Perique": "dantobacco|themallardflakeplusperique",
@@ -67031,7 +67031,7 @@
     "Sutliff RL-BD - 1lb": "sutliff|rlbd",
     "Sutliff 600 - 4oz or just shy": "sutliff|600",
     "Country Squire Old Toby - 2oz": "countrysquire|oldtoby",
-    "Original Sutliff made SPC Plum Pudding 2oz": "seattlepipeclub|plumpudding",
+    "Original Sutliff made SPC Plum Pudding 2oz": "sutliff|spcplumpudding",
     "C&D Haunted Bookshop Cake 2oz": "cornelldiehl|hauntedbookshopcake",
     "Savinelli Brunello Flake 100g x 1": "savinelli|brunelloflake",
     "Savinelli Doblone d'Oro 100g": "savinelli|doblonedoro",
@@ -67152,7 +67152,7 @@
     "Hearth and Home Cerberus 2015 – 1 tins": "hearthhome|cerberus",
     "SG Commonwealth 2017 – 1 tin": "samuelgawith|commonwealthmixture",
     "SG Navy Flake – 2015 – 1 tin": "samuelgawith|navyflake",
-    "SPC Mississippi River 2016 – 1 tins": "seattlepipeclub|mississippiriver",
+    "SPC Mississippi River 2016 – 1 tins": "sutliff|spcmississippiriver",
     "Sutliff Private Stock Maple 1.5 oz 2016 – 1 tin": "sutliff|privatestockmaple",
     "MacBaren HH Latakia Flake 3.5 oz. 2020 - 1 tin": "macbaren|hhlatakiaflake",
     "oz. Sutliff VA Slices (Date 12/22) Jarred since purchase": "sutliff|virginiaslices",
@@ -67175,7 +67175,7 @@
     "Eso Margate - 2024 - 50g": "esoterica|margate",
     "Mac Baren HH Vintage Syrian 2015 3.5 oz": "macbaren|hhvintagesyrian",
     "Balkan by Brebbia 40% Syrian Lat 2012 50g": "brebbia|balkanmixtureno10",
-    "SPC Plum Pudding Special Reserve 2016 4oz": "seattlepipeclub|plumpuddingspecialreserve",
+    "SPC Plum Pudding Special Reserve 2016 4oz": "sutliff|spcplumpuddingspecialreserve",
     "Robert Lewis Tree Mixture - pre-2018": "robertlewis|treemixture",
     "SG Bothy Flake 2016": "samuelgawith|bothyflake",
     "Rattray's Red Rapparee 2016": "rattrays|redrapparee",
@@ -67185,9 +67185,9 @@
     "Esoterica Margate 2017 2oz": "esoterica|margate",
     "Balkan Sobranie 2017 2oz": "jfgermain|balkansobranie",
     "GLP Caravan": "glpease|caravan",
-    "2016? SPC PP Special Res.": "seattlepipeclub|plumpuddingspecialreserve",
-    "8oz SPC PP": "seattlepipeclub|plumpudding",
-    "2oz SPC PP": "seattlepipeclub|plumpudding",
+    "2016? SPC PP Special Res.": "sutliff|spcplumpuddingspecialreserve",
+    "8oz SPC PP": "sutliff|spcplumpudding",
+    "2oz SPC PP": "sutliff|spcplumpudding",
     "Pouch Capt. Black Gold": "captainblack|gold",
     "KBV Full Metal Balkanist 2oz pouch": "kenbyronventures|fullmetalbalkanist",
     "KBV Notorious 2oz pouch": "kenbyronventures|notorious",
@@ -67636,7 +67636,7 @@
     "Speakeasy 50g": "glpease|speakeasy",
     "night train": "cornelldiehl|nighttrain",
     "Montgomery": "glpease|montgomery",
-    "Mississippi River 8oz 6/2019": "seattlepipeclub|mississippiriver",
+    "Mississippi River 8oz 6/2019": "sutliff|spcmississippiriver",
     "SOLD Annie Kake": "hearthhome|anniversarycake",
     "SOLD Crumble Kake": "sutliff|crumblekake",
     "Sold War Horse": "sutliff|warhorsebar",
@@ -67644,7 +67644,7 @@
     "Sold Classic Flake": "macbaren|classicflake",
     "Sold Westminster (small dent on bottom corner, seal is fine)": "glpease|westminster",
     "SOLD Telegraph Hill": "glpease|telegraphhill",
-    "SOLD Plum Pudding Bourbon Barrel Aged 11/2020": "seattlepipeclub|plumpuddingbourbonbarrelaged",
+    "SOLD Plum Pudding Bourbon Barrel Aged 11/2020": "sutliff|spcplumpuddingbourbonbarrelaged",
     "x 2006 McC Dominican glory 50g": "mcclelland|dominicanglory",
     "x 2013 McC Dominican Glory 50g": "mcclelland|dominicanglory",
     "H&H AJ’s Vaper  2017": "hearthhome|ajsvaper",
