@@ -136,24 +136,28 @@
     #source-filters {
       display: flex;
       flex-wrap: wrap;
-      align-items: center;
-      gap: .6rem .8rem;
+      align-items: flex-start;
+      gap: .9rem 1.1rem;
       margin-bottom: 1.1rem;
     }
     .chip-group {
       display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-      gap: .5rem;
+      flex-direction: column;
+      gap: .45rem;
     }
     .chip-group-label {
       font-family: 'Work Sans', sans-serif;
-      font-size: 0.68rem;
-      font-weight: 600;
+      font-size: 0.66rem;
+      font-weight: 700;
       text-transform: uppercase;
-      letter-spacing: .07em;
+      letter-spacing: .08em;
       color: var(--text-muted);
       white-space: nowrap;
+    }
+    .chip-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .45rem;
     }
     .chip-divider {
       align-self: stretch;
@@ -162,7 +166,7 @@
     }
     @media (max-width: 600px) {
       #source-filters { flex-direction: column; align-items: stretch; }
-      .chip-divider { width: auto; height: 1.5px; }
+      .chip-divider { display: none; }
     }
     .chip {
       display: inline-flex;
@@ -1439,6 +1443,8 @@
       label.className = "chip-group-label";
       label.textContent = group.name;
       groupEl.appendChild(label);
+      const row = document.createElement("div");
+      row.className = "chip-row";
       group.sources.forEach(src => {
         const on = ACTIVE_SOURCES.has(src);
         const btn = document.createElement("button");
@@ -1453,8 +1459,9 @@
           }
           render();
         });
-        groupEl.appendChild(btn);
+        row.appendChild(btn);
       });
+      groupEl.appendChild(row);
       wrap.appendChild(groupEl);
     });
   }
