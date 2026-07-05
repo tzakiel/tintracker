@@ -987,12 +987,14 @@
   /* ── detail page ── */
 
   function renderDetailTable(t, container) {
+    const excl = outlierMembers(t);   // hidden when the outlier toggle is on
     const rows = [];
     for (const sz of (t.sizes || [])) {
       const grams = weightGrams(sz.quantity);
       const oz = grams > 0 ? grams / 28.3495 : null;
       for (const m of (sz.members || [])) {
         if (!ACTIVE_SOURCES.has(m.source)) continue;
+        if (excl.has(m)) continue;
         const price = parseMoney(m.price);
         rows.push({ ...m, weight: sz.quantity || null, ppo: (oz && price != null) ? price / oz : null });
       }
@@ -1513,7 +1515,8 @@
       return;
     }
 
-    const activeCount = activeMembers(t).length;
+    const excl = outlierMembers(t);
+    const activeCount = activeMembers(t).filter(m => !excl.has(m)).length;
     const totalCount = totalMembers(t);
     const listingsLabel = activeCount === totalCount
       ? `${totalCount}`
