@@ -9,6 +9,10 @@
   <link rel="icon" type="image/png" href="favicon.png" />
   <link rel="apple-touch-icon" href="favicon.png" />
   <meta name="theme-color" content="#1a0e06" />
+  <!-- Home Screen (standalone) status bar: transparent so the dark header shows
+       behind it. iOS ignores theme-color in standalone mode, hence these. -->
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Tin Tracker" />
   <meta property="og:title" content="Tin Tracker — Pipe Tobacco Tin Prices &amp; Resale Values" />
@@ -41,6 +45,9 @@
          was rendering larger than the tagline on iPhone because of this) */
       -webkit-text-size-adjust: 100%;
       text-size-adjust: 100%;
+      /* dark root so the iOS status-bar strip (which Safari paints from the
+         page's root background) matches the header instead of the cream body */
+      background-color: var(--bg-header);
     }
 
     body {
