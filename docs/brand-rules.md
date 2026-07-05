@@ -94,6 +94,7 @@ Note: "H&H Anniversary Flake" = Hearth & Home (not Mac Baren). "HH Anniversary K
 - **Cult** — tobacco brand; blend: "Abacus"
 - **Strauss** — tobacco brand; blend: "Sleepy Hollow"
 - **Whitehall** — brand and blend name are identical ("Whitehall")
+- **Briarshire** — small-batch brand (blended by Ravenwood Fine Provisions, sold via TinBids / pipe shows); blend: "Benedictine Abbey"
 
 ### Shop house blends
 
@@ -103,6 +104,7 @@ Note: "H&H Anniversary Flake" = Hearth & Home (not Mac Baren). "HH Anniversary K
 - **L.J. Peretti** — Boston tobacconist; house blends include "Thanksgiving Day"
 - **Robert Lewis** — London tobacconist; blend: "Tree Mixture"
 - **F & K** — St. Louis private-label brand (founded 1926); blend: "Lancer Slices"
+- **SHPC** — Sherlock Holmes Pipe Club (of Boston); club blend "Great Hiatus" (English mixture, made by Pipes & Cigars / Russ Ouellette). Brand = "SHPC" per TobaccoReviews.
 
 ### German / European brands
 
@@ -141,6 +143,8 @@ Note: "H&H Anniversary Flake" = Hearth & Home (not Mac Baren). "HH Anniversary K
 - **Newminster** — brand for "No. 403 Superior Round Slices"
 - **Butera** — tobacco brand; blends: "Dark Stoved", "Pelican"
 - **Russ Ouellette** — brand; blend: "Acadian Gold"
+- **Cobblestone** — brand; "High Spirits" spirits-themed aromatics → blend name = flavor only, e.g. "Spiced Rum", "Plum Rum"
+- **GBD** — better known as a pipe maker, but also sold vintage pipe tobacco tins; blends: "Original Mixture", "Black Cavendish Mixture". A GBD *tobacco tin* is is_tin: true (distinct from GBD pipes → see pipe signals)
 - **GH / Gawith Hoggarth** — same as Gawith, Hoggarth & Co.; canonical form: "Gawith, Hoggarth & Co."
 - **St. Bruno disambiguation** — "St. Bruno Ready Rubbed" and "St. Bruno Flake" → brand: "Mac Baren"; "Ogden St. Bruno" (or "St. Bruno" without further qualifier in Ogden's context) → brand: "Ogden's", blend: "St. Bruno"
 - **Samuel Gawith blend names** — strip weights/sizes from blend names; e.g. "Full Virginia Flake 50g" → blend: "Full Virginia Flake" (not "Full Virginia Flake 50g")

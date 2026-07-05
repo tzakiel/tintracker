@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-05T16:07:49.995947+00:00",
+  "generated": "2026-07-05T18:42:57.750891+00:00",
   "stats": {
     "total_listings": 3602,
-    "excluded_multipacks": 1377,
-    "total_tins": 968,
-    "multi_member_tins": 416,
-    "listings_in_groups": 1636,
-    "cross_source_tins": 255
+    "excluded_multipacks": 1385,
+    "total_tins": 972,
+    "multi_member_tins": 421,
+    "listings_in_groups": 1657,
+    "cross_source_tins": 262
   },
   "tins": [
     {
@@ -911,6 +911,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "Vintage - Ashton Golden Flake  - 1994",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/200038/",
+              "price": "$85.00",
+              "last_updated": "2026-07-05T04:00:46.011214+00:00",
+              "first_seen": "2026-07-05T00:23:09+00:00",
+              "year": "1994",
+              "price_history": [
+                {
+                  "price": "$85.00",
+                  "date": "2026-07-05T00:23:09+00:00"
+                }
+              ]
+            },
             {
               "name": "Vintage 1994 - Ashton Golden Flake",
               "source": "Tinbids Auction (Sold)",
@@ -1889,6 +1904,42 @@
       ],
       "years": [],
       "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "briarshire|benedictineabbey",
+      "brand": "Briarshire",
+      "blend": "Benedictine Abbey",
+      "display_name": "Briarshire Benedictine Abbey",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "New Limited Edition Benedictine Abbey by Briarshire",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/191692/",
+              "price": "$29.99",
+              "last_updated": "2026-07-05T04:00:46.011214+00:00",
+              "first_seen": "2026-07-04T17:22:36+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$29.99",
+                  "date": "2026-07-04T17:22:36+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Tinbids Auction (Sold)"
     },
     {
       "id": "briarworks|countrylawyer",
@@ -3898,7 +3949,8 @@
       "blend": "Original Mild Ready Rubbed",
       "display_name": "Charatan's Original Mild Ready Rubbed",
       "sources": [
-        "pipestud.com"
+        "pipestud.com",
+        "Tinbids Auction (Sold)"
       ],
       "sizes": [
         {
@@ -3918,17 +3970,34 @@
                   "date": "2026-06-27T19:29:21.362652+00:00"
                 }
               ]
+            },
+            {
+              "name": "Vintage - Charatan's Original Mild Ready Rubbed made by Dunhill - 1978",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/200041/",
+              "price": "$95.00",
+              "last_updated": "2026-07-05T04:00:46.011214+00:00",
+              "first_seen": "2026-07-05T00:24:15+00:00",
+              "year": "1978",
+              "price_history": [
+                {
+                  "price": "$95.00",
+                  "date": "2026-07-05T00:24:15+00:00"
+                }
+              ]
             }
           ],
           "sources": [
-            "pipestud.com"
+            "pipestud.com",
+            "Tinbids Auction (Sold)"
           ]
         }
       ],
       "years": [
-        "1970"
+        "1970",
+        "1978"
       ],
-      "source": "pipestud.com"
+      "source": "Multiple sources"
     },
     {
       "id": "charlesfairmorn|lancersslices",
@@ -4001,6 +4070,42 @@
       ],
       "years": [],
       "source": "Treasured Smokes"
+    },
+    {
+      "id": "cobblestone|spicedrum",
+      "brand": "Cobblestone",
+      "blend": "Spiced Rum",
+      "display_name": "Cobblestone Spiced Rum",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "50g",
+          "members": [
+            {
+              "name": "Cobblestone - Spiced Rum - 50g",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/199958/",
+              "price": "$30.00",
+              "last_updated": "2026-07-05T04:00:46.011214+00:00",
+              "first_seen": "2026-07-04T17:03:01+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$30.00",
+                  "date": "2026-07-04T17:03:01+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Tinbids Auction (Sold)"
     },
     {
       "id": "comoys|caskno4",
@@ -8506,6 +8611,7 @@
       "blend": "Speakeasy Navy Blend",
       "display_name": "Cornell & Diehl Speakeasy Navy Blend",
       "sources": [
+        "Tinbids Auction (Sold)",
         "Speak-Easy.Club"
       ],
       "sizes": [
@@ -8531,12 +8637,35 @@
           "sources": [
             "Speak-Easy.Club"
           ]
+        },
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Cornell & Diehl Speakeasy (2017)",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/200026/",
+              "price": "$30.00",
+              "last_updated": "2026-07-05T04:00:46.011214+00:00",
+              "first_seen": "2026-07-04T21:24:39+00:00",
+              "year": "2017",
+              "price_history": [
+                {
+                  "price": "$30.00",
+                  "date": "2026-07-04T21:24:39+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
         }
       ],
       "years": [
         "2017"
       ],
-      "source": "Speak-Easy.Club"
+      "source": "Multiple sources"
     },
     {
       "id": "cornelldiehl|staroftheeast",
@@ -14192,6 +14321,21 @@
               ]
             },
             {
+              "name": "Vintage - Dunhill Early 1st year Murray's Era - Three Year Matured 50g - 1980",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/200040/",
+              "price": "$230.00",
+              "last_updated": "2026-07-05T04:00:46.011214+00:00",
+              "first_seen": "2026-07-05T00:23:51+00:00",
+              "year": "1980",
+              "price_history": [
+                {
+                  "price": "$230.00",
+                  "date": "2026-07-05T00:23:51+00:00"
+                }
+              ]
+            },
+            {
               "name": "Dunhill Murray’s era Three Year Matured 50g tins – Year 2004",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/dunhill-murrays-era-three-year-matured-50g-tins-year-2004/",
@@ -14238,6 +14382,7 @@
       ],
       "years": [
         "1972",
+        "1980",
         "2004"
       ],
       "source": "Multiple sources"
@@ -15744,6 +15889,21 @@
           "quantity": "8oz",
           "members": [
             {
+              "name": "Esoterica — Dorchester — 8oz",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/200013/",
+              "price": "$400.00",
+              "last_updated": "2026-07-05T04:00:46.011214+00:00",
+              "first_seen": "2026-07-04T20:04:31+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$400.00",
+                  "date": "2026-07-04T20:04:31+00:00"
+                }
+              ]
+            },
+            {
               "name": "Esoterica - Dorchester - 8oz",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/197245/",
@@ -15910,6 +16070,29 @@
           ]
         },
         {
+          "quantity": "4oz",
+          "members": [
+            {
+              "name": "Esoterica Dunbar - 01/2016- 4 oz- BIN $160",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/200102/",
+              "price": "$155.00",
+              "last_updated": "2026-07-05T04:00:46.011214+00:00",
+              "first_seen": "2026-07-05T02:17:54+00:00",
+              "year": "2016",
+              "price_history": [
+                {
+                  "price": "$155.00",
+                  "date": "2026-07-05T02:17:54+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        },
+        {
           "quantity": "8oz",
           "members": [
             {
@@ -16040,6 +16223,7 @@
       ],
       "years": [
         "1999",
+        "2016",
         "2018",
         "2020"
       ],
@@ -17123,6 +17307,21 @@
         {
           "quantity": "8oz",
           "members": [
+            {
+              "name": "Esoterica — St. Ives — 8oz",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/200019/",
+              "price": "$400.00",
+              "last_updated": "2026-07-05T04:00:46.011214+00:00",
+              "first_seen": "2026-07-04T20:07:33+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$400.00",
+                  "date": "2026-07-04T20:07:33+00:00"
+                }
+              ]
+            },
             {
               "name": "Esoterica Tobacciana St. Ives 8 oz",
               "source": "Tinbids Auction (Sold)",
@@ -18573,12 +18772,28 @@
       "blend": "25th Anniversary",
       "display_name": "G.L. Pease 25th Anniversary",
       "sources": [
+        "Tinbids Auction (Sold)",
         "Speak-Easy.Club"
       ],
       "sizes": [
         {
           "quantity": "",
           "members": [
+            {
+              "name": "GL Pease 25th Anniversary Silver Jubilee",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/201519/",
+              "price": "$45.00",
+              "last_updated": "2026-07-05T04:00:46.011214+00:00",
+              "first_seen": "2026-07-04T19:07:00+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$45.00",
+                  "date": "2026-07-04T19:07:00+00:00"
+                }
+              ]
+            },
             {
               "name": "GLP 25th Anni 2025",
               "source": "Speak-Easy.Club",
@@ -18596,6 +18811,7 @@
             }
           ],
           "sources": [
+            "Tinbids Auction (Sold)",
             "Speak-Easy.Club"
           ]
         }
@@ -18603,7 +18819,7 @@
       "years": [
         "2025"
       ],
-      "source": "Speak-Easy.Club"
+      "source": "Multiple sources"
     },
     {
       "id": "glpease|abingdon",
@@ -19863,6 +20079,7 @@
       "blend": "Gaslight",
       "display_name": "G.L. Pease Gaslight",
       "sources": [
+        "Tinbids Auction (Sold)",
         "Speak-Easy.Club"
       ],
       "sizes": [
@@ -19927,6 +20144,21 @@
                 {
                   "price": "$30",
                   "date": "2026-06-24T02:02:09.029335+00:00"
+                }
+              ]
+            },
+            {
+              "name": "GL Pease Gaslight (2019)",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/200023/",
+              "price": "$20.50",
+              "last_updated": "2026-07-05T04:00:46.011214+00:00",
+              "first_seen": "2026-07-04T21:17:51+00:00",
+              "year": "2019",
+              "price_history": [
+                {
+                  "price": "$20.50",
+                  "date": "2026-07-04T21:17:51+00:00"
                 }
               ]
             },
@@ -20039,6 +20271,7 @@
             }
           ],
           "sources": [
+            "Tinbids Auction (Sold)",
             "Speak-Easy.Club"
           ]
         }
@@ -20046,9 +20279,10 @@
       "years": [
         "2014",
         "2016",
+        "2019",
         "2021"
       ],
-      "source": "Speak-Easy.Club"
+      "source": "Multiple sources"
     },
     {
       "id": "glpease|goblinweedgray",
@@ -21845,6 +22079,7 @@
       "blend": "Robusto",
       "display_name": "G.L. Pease Robusto",
       "sources": [
+        "Tinbids Auction (Sold)",
         "4noggins.com",
         "Speak-Easy.Club"
       ],
@@ -21875,6 +22110,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "GL Pease Robusto (2017)",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/200029/",
+              "price": "$25.00",
+              "last_updated": "2026-07-05T04:00:46.011214+00:00",
+              "first_seen": "2026-07-04T21:29:31+00:00",
+              "year": "2017",
+              "price_history": [
+                {
+                  "price": "$25.00",
+                  "date": "2026-07-04T21:29:31+00:00"
+                }
+              ]
+            },
             {
               "name": "Robusto 2017",
               "source": "Speak-Easy.Club",
@@ -21984,6 +22234,7 @@
             }
           ],
           "sources": [
+            "Tinbids Auction (Sold)",
             "Speak-Easy.Club"
           ]
         }
@@ -25592,6 +25843,42 @@
         "2023"
       ],
       "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "gbd|blackcavendishmixture",
+      "brand": "GBD",
+      "blend": "Black Cavendish Mixture",
+      "display_name": "GBD Black Cavendish Mixture",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "50g",
+          "members": [
+            {
+              "name": "c. 1970s GBD Black Cavendish Mixture 50g Full Unopened English Pipe Tobacco Tin",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/200075/",
+              "price": "$72.00",
+              "last_updated": "2026-07-05T04:00:46.011214+00:00",
+              "first_seen": "2026-07-05T00:58:22+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$72.00",
+                  "date": "2026-07-05T00:58:22+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Tinbids Auction (Sold)"
     },
     {
       "id": "goldentriangle|belmont",
@@ -34684,6 +34971,21 @@
               ]
             },
             {
+              "name": "2017 Mac Baren HH Old Dark Fired 1.75 ounce - 1 Tin NR BIN $80",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/202455/",
+              "price": "$75.00",
+              "last_updated": "2026-07-05T16:00:42.578621+00:00",
+              "first_seen": "2026-07-05T14:54:13+00:00",
+              "year": "2017",
+              "price_history": [
+                {
+                  "price": "$75.00",
+                  "date": "2026-07-05T14:54:13+00:00"
+                }
+              ]
+            },
+            {
               "name": "x MB ODF 1.75oz 2019",
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/mac-b-and-odds-and-ends.41736/",
@@ -34700,6 +35002,7 @@
             }
           ],
           "sources": [
+            "Tinbids Auction (Sold)",
             "Speak-Easy.Club"
           ]
         },
@@ -34882,6 +35185,7 @@
       "years": [
         "2012",
         "2015",
+        "2017",
         "2018",
         "2019",
         "2023",
@@ -37314,6 +37618,21 @@
           "quantity": "100g",
           "members": [
             {
+              "name": "McClelland 40th Anniversary 100g unopened tin",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/200196/",
+              "price": "$198.50",
+              "last_updated": "2026-07-05T16:00:42.578621+00:00",
+              "first_seen": "2026-07-05T14:36:36+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$198.50",
+                  "date": "2026-07-05T14:36:36+00:00"
+                }
+              ]
+            },
+            {
               "name": "McClelland: 40TH ANNIVERSARY 100g - C",
               "source": "4noggins.com",
               "url": "https://www.4noggins.com/products/mcclelland-40th-anniversary-100g-c",
@@ -39552,12 +39871,28 @@
       "blend": "CPCC Rich Virginia Ribbon",
       "display_name": "McClelland CPCC Rich Virginia Ribbon",
       "sources": [
+        "Tinbids Auction (Sold)",
         "4noggins.com"
       ],
       "sizes": [
         {
           "quantity": "50g",
           "members": [
+            {
+              "name": "McClelland CPCC Rich Virginia Ribbon 50g unopened tin",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/200200/",
+              "price": "$103.00",
+              "last_updated": "2026-07-05T16:00:42.578621+00:00",
+              "first_seen": "2026-07-05T14:39:58+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$103.00",
+                  "date": "2026-07-05T14:39:58+00:00"
+                }
+              ]
+            },
             {
               "name": "McClelland: CPCC RICH VIRGINIA RIBBON 50g 2015 - C",
               "source": "4noggins.com",
@@ -39575,6 +39910,7 @@
             }
           ],
           "sources": [
+            "Tinbids Auction (Sold)",
             "4noggins.com"
           ]
         }
@@ -39582,7 +39918,7 @@
       "years": [
         "2015"
       ],
-      "source": "4noggins.com"
+      "source": "Multiple sources"
     },
     {
       "id": "mcclelland|cpccscottishwoods",
@@ -40155,6 +40491,21 @@
               ]
             },
             {
+              "name": "2014 McClelland’s Frog Morton - 1 Tin NR BIN $225",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/202080/",
+              "price": "$225.00",
+              "last_updated": "2026-07-05T04:00:46.011214+00:00",
+              "first_seen": "2026-07-04T15:16:20+00:00",
+              "year": "2014",
+              "price_history": [
+                {
+                  "price": "$225.00",
+                  "date": "2026-07-04T15:16:20+00:00"
+                }
+              ]
+            },
+            {
               "name": "Frog Morton Sealed Tin from 2017",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/196206/",
@@ -40180,6 +40531,7 @@
         "1993",
         "1999",
         "2007",
+        "2014",
         "2015",
         "2017"
       ],
@@ -57062,6 +57414,44 @@
       "source": "Speak-Easy.Club"
     },
     {
+      "id": "shpc|greathiatus",
+      "brand": "SHPC",
+      "blend": "Great Hiatus",
+      "display_name": "SHPC Great Hiatus",
+      "sources": [
+        "pipestud.com"
+      ],
+      "sizes": [
+        {
+          "quantity": "2oz",
+          "members": [
+            {
+              "name": "Sherlock Holmes Pipe Club of Boston Great Hiatus 2oz tins – Year 2009 & Blended by Russ Ouellette",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/sherlock-holmes-pipe-club-of-boston-great-hiatus-2oz-tins-year-2009-blended-by-russ-ouellette/",
+              "price": "$60.00",
+              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2009",
+              "price_history": [
+                {
+                  "price": "$60.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "pipestud.com"
+          ]
+        }
+      ],
+      "years": [
+        "2009"
+      ],
+      "source": "pipestud.com"
+    },
+    {
       "id": "sillems|copenhagenblend",
       "brand": "Sillem's",
       "blend": "Copenhagen Blend",
@@ -60354,6 +60744,7 @@
       "blend": "Crumble Kake Barrel Aged No. 2",
       "display_name": "Sutliff Crumble Kake Barrel Aged No. 2",
       "sources": [
+        "Tinbids Auction (Sold)",
         "Speak-Easy.Club"
       ],
       "sizes": [
@@ -60374,15 +60765,33 @@
                   "date": "2024-10-06T22:24:57+00:00"
                 }
               ]
+            },
+            {
+              "name": "2022 Sutliff Crumble Kake #2",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/201583/",
+              "price": "$35.00",
+              "last_updated": "2026-07-05T16:00:42.578621+00:00",
+              "first_seen": "2026-07-05T12:57:12+00:00",
+              "year": "2022",
+              "price_history": [
+                {
+                  "price": "$35.00",
+                  "date": "2026-07-05T12:57:12+00:00"
+                }
+              ]
             }
           ],
           "sources": [
+            "Tinbids Auction (Sold)",
             "Speak-Easy.Club"
           ]
         }
       ],
-      "years": [],
-      "source": "Speak-Easy.Club"
+      "years": [
+        "2022"
+      ],
+      "source": "Multiple sources"
     },
     {
       "id": "sutliff|crumblekakeredvirginias",
@@ -60443,6 +60852,7 @@
       "blend": "Crumble Kake Virginia Perique",
       "display_name": "Sutliff Crumble Kake Virginia Perique",
       "sources": [
+        "Tinbids Auction (Sold)",
         "Speak-Easy.Club"
       ],
       "sizes": [
@@ -60501,17 +60911,34 @@
                   "date": "2026-06-24T02:02:09.029335+00:00"
                 }
               ]
+            },
+            {
+              "name": "2020 SUTLIFF CRUMBLE KAKE VA PERIQUE",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/200003/",
+              "price": "$35.00",
+              "last_updated": "2026-07-05T04:00:46.011214+00:00",
+              "first_seen": "2026-07-04T19:40:17+00:00",
+              "year": "2020",
+              "price_history": [
+                {
+                  "price": "$35.00",
+                  "date": "2026-07-04T19:40:17+00:00"
+                }
+              ]
             }
           ],
           "sources": [
+            "Tinbids Auction (Sold)",
             "Speak-Easy.Club"
           ]
         }
       ],
       "years": [
-        "2019"
+        "2019",
+        "2020"
       ],
-      "source": "Speak-Easy.Club"
+      "source": "Multiple sources"
     },
     {
       "id": "sutliff|eastfarthing",
@@ -65305,6 +65732,7 @@
     "McClelland’s Butera’s Royal Vintage Sweet Cavendish 50g tins – First Year 1992 Production": "butera|royalvintagesweetcavendish",
     "Ashton Syr. Latakia Artisan’s Blend 50g tins – Year 2015": "ashton|artisansblend",
     "Presbyterian Mixture Early Production Painted Label 50g tin – Year 2006": "macbaren|presbyterianmixture",
+    "Sherlock Holmes Pipe Club of Boston Great Hiatus 2oz tins – Year 2009 & Blended by Russ Ouellette": "shpc|greathiatus",
     "Germain’s Eighteen Twenty Smoking Mixture 50g tins – Year 2009": "jfgermain|eighteentwenty",
     "Germain’s Royal Jersey Original Latakia Mixture 50g tins – Year 2008": "jfgermain|royaljerseylatakia",
     "Wessex Brown Virginia Flake 50g tins – Year 2017": "wessex|brownvirginiaflake",
@@ -65437,7 +65865,26 @@
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
     "Esoterica Dunbar Butera Production - 1 Tin NR BIN $140": "esoterica|dunbar",
+    "2022 Sutliff Crumble Kake #2": "sutliff|crumblekakebarrelagedno2",
+    "McClelland 40th Anniversary 100g unopened tin": "mcclelland|40thanniversary",
+    "McClelland CPCC Rich Virginia Ribbon 50g unopened tin": "mcclelland|cpccrichvirginiaribbon",
+    "2017 Mac Baren HH Old Dark Fired 1.75 ounce - 1 Tin NR BIN $80": "macbaren|hholddarkfired",
     "2024 - Solani Aged Burley Flake - 50g": "solani|agedburleyflake656",
+    "2014 McClelland’s Frog Morton - 1 Tin NR BIN $225": "mcclelland|frogmorton",
+    "Cobblestone - Spiced Rum - 50g": "cobblestone|spicedrum",
+    "New Limited Edition Benedictine Abbey by Briarshire": "briarshire|benedictineabbey",
+    "GL Pease 25th Anniversary Silver Jubilee": "glpease|25thanniversary",
+    "2020 SUTLIFF CRUMBLE KAKE VA PERIQUE": "sutliff|crumblekakevirginiaperique",
+    "Esoterica — Dorchester — 8oz": "esoterica|dorchester",
+    "Esoterica — St. Ives — 8oz": "esoterica|stives",
+    "GL Pease Gaslight (2019)": "glpease|gaslight",
+    "Cornell & Diehl Speakeasy (2017)": "cornelldiehl|speakeasynavyblend",
+    "GL Pease Robusto (2017)": "glpease|robusto",
+    "Vintage - Ashton Golden Flake  - 1994": "ashton|goldenflake",
+    "Vintage - Dunhill Early 1st year Murray's Era - Three Year Matured 50g - 1980": "dunhill|threeyearsmaturedvirginia",
+    "Vintage - Charatan's Original Mild Ready Rubbed made by Dunhill - 1978": "charatans|originalmildreadyrubbed",
+    "c. 1970s GBD Black Cavendish Mixture 50g Full Unopened English Pipe Tobacco Tin": "gbd|blackcavendishmixture",
+    "Esoterica Dunbar - 01/2016- 4 oz- BIN $160": "esoterica|dunbar",
     "Orlik Golden Sliced 2024 (50g)": "orlik|goldensliced",
     "DUNHILL MY MIXTURE BB1938 - 11 YEARS OLD (2015)": "dunhill|mymixturebb1938",
     "Early 2010's Balkan Sobranie - 1 Tin NR BIN $175": "jfgermain|balkansobranie",
