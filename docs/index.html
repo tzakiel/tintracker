@@ -164,21 +164,66 @@
       width: 1.5px;
       background: var(--border-default);
     }
-    /* ── extreme price-outlier toggle ── */
-    #outlier-toggle {
-      display: flex;
-      align-items: center;
-      gap: .5rem;
+    /* ── display settings (gear menu) ── */
+    #settings-menu {
+      position: relative;
       max-width: 1400px;
       margin: 1rem auto 0;
       padding: 0 1.5rem;
+      display: flex;
+      justify-content: flex-end;
+    }
+    #settings-toggle {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 2.3rem;
+      height: 2.3rem;
+      padding: 0;
+      border: 2px solid var(--border-default);
+      border-radius: var(--radius-pill);
+      background: var(--bg-card);
+      color: var(--text-primary);
+      cursor: pointer;
+      transition: border-color .15s, color .15s;
+    }
+    #settings-toggle:hover { border-color: var(--text-primary); }
+    #settings-toggle svg { width: 1.2rem; height: 1.2rem; transition: transform .25s ease; }
+    #settings-toggle[aria-expanded="true"] svg { transform: rotate(35deg); }
+    #settings-panel {
+      position: absolute;
+      top: calc(100% + .4rem);
+      right: 1.5rem;
+      z-index: 40;
+      min-width: 250px;
+      padding: .45rem;
+      border: 2px solid var(--border-default);
+      border-radius: var(--radius-md);
+      background: var(--bg-card);
+      box-shadow: var(--shadow-dropdown);
+    }
+    #settings-panel .settings-heading {
+      font-size: var(--text-label);
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .04em;
+      color: var(--text-muted);
+      padding: .35rem .55rem .45rem;
+    }
+    #settings-panel .settings-opt {
+      display: flex;
+      align-items: center;
+      gap: .55rem;
+      padding: .5rem .55rem;
+      border-radius: var(--radius-sm);
       font-size: var(--text-md);
       font-weight: 600;
-      color: var(--text-strong);
+      color: var(--text-primary);
       cursor: pointer;
       user-select: none;
     }
-    #outlier-toggle input { cursor: pointer; width: 1rem; height: 1rem; }
+    #settings-panel .settings-opt:hover { background: var(--bg-row-hover); }
+    #settings-panel .settings-opt input { width: 1rem; height: 1rem; cursor: pointer; flex: none; }
     /* ── mobile source filter (grouped multi-select dropdown) ── */
     #source-filter-mobile {
       display: none;
@@ -768,10 +813,22 @@
   </button>
   <div id="source-filter-panel" hidden></div>
 </div>
-<label id="outlier-toggle" title="Ignore lone super-collectible listings when computing prices">
-  <input type="checkbox" id="outlier-cb" checked />
-  Hide extreme price outliers
-</label>
+<!-- Display settings (gear menu) -->
+<div id="settings-menu">
+  <button type="button" id="settings-toggle" aria-expanded="false" aria-controls="settings-panel" aria-label="Display settings" title="Display settings">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <circle cx="12" cy="12" r="3"/>
+      <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+    </svg>
+  </button>
+  <div id="settings-panel" role="menu" aria-label="Display settings" hidden>
+    <div class="settings-heading">Display settings</div>
+    <label class="settings-opt" title="Ignore lone super-collectible listings when computing prices, average $/oz and the chart">
+      <input type="checkbox" id="outlier-cb" checked />
+      <span>Hide extreme price outliers</span>
+    </label>
+  </div>
+</div>
 
 <!-- Main list view -->
 <div id="main-view">
@@ -1691,6 +1748,21 @@
   filterPanel.addEventListener("click", e => e.stopPropagation());
   document.addEventListener("click", () => setFilterOpen(false));
   document.addEventListener("keydown", e => { if (e.key === "Escape") setFilterOpen(false); });
+
+  // Display-settings gear menu (same open/close pattern as the filter popover).
+  const settingsToggle = document.getElementById("settings-toggle");
+  const settingsPanel  = document.getElementById("settings-panel");
+  function setSettingsOpen(open) {
+    settingsPanel.hidden = !open;
+    settingsToggle.setAttribute("aria-expanded", open ? "true" : "false");
+  }
+  settingsToggle.addEventListener("click", e => {
+    e.stopPropagation();
+    setSettingsOpen(settingsPanel.hidden);
+  });
+  settingsPanel.addEventListener("click", e => e.stopPropagation());
+  document.addEventListener("click", () => setSettingsOpen(false));
+  document.addEventListener("keydown", e => { if (e.key === "Escape") setSettingsOpen(false); });
 
   /* ── load ── */
   async function loadData() {
