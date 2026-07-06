@@ -1287,8 +1287,15 @@
     return (t.sources || []).some(s => ACTIVE_SOURCES.has(s));
   }
 
+  // Sizes that have at least one listing from a currently-active source. Keeps
+  // the Weight column in step with every other column, which is scoped to the
+  // active source filter — a weight only shows if a shown listing actually has it.
+  function activeSizes(t) {
+    return (t.sizes || []).filter(sz => (sz.members || []).some(m => ACTIVE_SOURCES.has(m.source)));
+  }
+
   function tinWeights(t) {
-    const ws = [...new Set((t.sizes || []).map(sz => sz.quantity).filter(Boolean))];
+    const ws = [...new Set(activeSizes(t).map(sz => sz.quantity).filter(Boolean))];
     if (!ws.length) return "—";
     return ws.length === 1 ? ws[0] : "Multiple";
   }
@@ -1330,7 +1337,7 @@
         sortVal: t => { const p = tinPrice(t); return p ? p.lo : -1; } },
       { key: "weight", label: "Weight",      cls: "col-meta col-weight",
         cell: t => { const w = tinWeights(t); return w && w !== "—" && w !== "Multiple" ? `<span class="pill">${w}</span>` : w; },
-        sortVal: t => Math.max(-1, ...(t.sizes || []).map(sz => weightGrams(sz.quantity))) },
+        sortVal: t => Math.max(-1, ...activeSizes(t).map(sz => weightGrams(sz.quantity))) },
       { key: "ppo",   label: "Avg $/oz",     cls: "col-ppo",
         cell: t => tinPricePerOzLabel(t),
         sortVal: t => tinPricePerOzNum(t) ?? -1 },
@@ -1522,6 +1529,10 @@
       ? `${totalCount}`
       : `${activeCount} of ${totalCount}`;
     const activeSrcs = (t.sources || []).filter(s => ACTIVE_SOURCES.has(s));
+    // Years present among active listings only — t.years is an all-source union,
+    // so using it would surface vintages from hidden sources (see Weight column).
+    const activeYears = [...new Set(activeMembers(t).map(m => m.year).filter(Boolean))]
+      .sort((a, b) => (parseInt(a) || 0) - (parseInt(b) || 0));
     const ppoLabel = tinPricePerOzLabel(t);
 
     detailContent.innerHTML = `
@@ -1532,7 +1543,7 @@
           ${ppoLabel !== "—" ? `<div class="detail-ppo">${ppoLabel}/oz avg</div>` : ""}
         </div>
         <div class="detail-meta">
-          <span class="lbl">Listings</span><span class="val">${listingsLabel}${t.years && t.years.length ? " · " + t.years.join(", ") : ""}</span>
+          <span class="lbl">Listings</span><span class="val">${listingsLabel}${activeYears.length ? " · " + activeYears.join(", ") : ""}</span>
           <span class="lbl">Sources</span><span class="val">${activeSrcs.join(", ") || "—"}</span>
         </div>
         <div class="ppo-chart-section"><div class="ppo-chart-label">$/oz by tin year</div><div class="ppo-chart-host"></div><div class="ppo-tooltip" hidden></div></div>
