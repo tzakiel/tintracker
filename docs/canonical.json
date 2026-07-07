@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07T16:10:04.712052+00:00",
+  "generated": "2026-07-07T19:16:25.723450+00:00",
   "stats": {
     "total_listings": 3711,
     "excluded_multipacks": 1402,
@@ -5841,7 +5841,7 @@
               "source": "Treasured Smokes",
               "url": "https://www.treasuredsmokes.com/product-page/cornell-diehl-exhausted-rooster-2010",
               "price": "$79.00",
-              "last_updated": "2026-07-06T19:16:15.183546+00:00",
+              "last_updated": "2026-07-07T19:16:23.420663+00:00",
               "first_seen": "2026-06-20T18:32:06.142896+00:00",
               "year": "2009",
               "price_history": [
@@ -6012,6 +6012,14 @@
                 {
                   "price": "$79.00",
                   "date": "2026-07-06T19:16:15.183546+00:00"
+                },
+                {
+                  "price": "$74.00",
+                  "date": "2026-07-07T19:16:23.420663+00:00"
+                },
+                {
+                  "price": "$79.00",
+                  "date": "2026-07-07T19:16:23.420663+00:00"
                 }
               ]
             }
@@ -20756,7 +20764,7 @@
               "source": "Treasured Smokes",
               "url": "https://www.treasuredsmokes.com/product-page/g-l-pease-haddo-s-delight-2009",
               "price": "$53.00",
-              "last_updated": "2026-07-06T19:16:15.183546+00:00",
+              "last_updated": "2026-07-07T19:16:23.420663+00:00",
               "first_seen": "2026-06-20T18:32:06.142896+00:00",
               "year": "2009",
               "price_history": [
@@ -20927,6 +20935,14 @@
                 {
                   "price": "$53.00",
                   "date": "2026-07-06T19:16:15.183546+00:00"
+                },
+                {
+                  "price": "$215.00",
+                  "date": "2026-07-07T19:16:23.420663+00:00"
+                },
+                {
+                  "price": "$53.00",
+                  "date": "2026-07-07T19:16:23.420663+00:00"
                 }
               ]
             },
