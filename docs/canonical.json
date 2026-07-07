@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-07T15:14:17.963070+00:00",
+  "generated": "2026-07-07T16:10:04.712052+00:00",
   "stats": {
-    "total_listings": 3693,
-    "excluded_multipacks": 1396,
+    "total_listings": 3711,
+    "excluded_multipacks": 1402,
     "total_tins": 972,
     "multi_member_tins": 421,
     "listings_in_groups": 1657,
@@ -12064,15 +12064,19 @@
             {
               "name": "Dunhill The Aperitif 2017 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/198023/",
-              "price": "$40.00",
-              "last_updated": "2026-06-30T16:00:51.219994+00:00",
+              "url": "https://tinbids.com/auction/200715/",
+              "price": "$54.00",
+              "last_updated": "2026-07-07T16:00:50.767711+00:00",
               "first_seen": "2026-06-30T04:19:25+00:00",
               "year": "2017",
               "price_history": [
                 {
                   "price": "$40.00",
                   "date": "2026-06-30T04:19:25+00:00"
+                },
+                {
+                  "price": "$54.00",
+                  "date": "2026-07-07T16:00:50.767711+00:00"
                 }
               ]
             }
@@ -12300,15 +12304,19 @@
             {
               "name": "Dunhill Dark Flake 2016 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/198017/",
-              "price": "$52.00",
-              "last_updated": "2026-06-30T16:00:51.219994+00:00",
+              "url": "https://tinbids.com/auction/200709/",
+              "price": "$62.00",
+              "last_updated": "2026-07-07T16:00:50.767711+00:00",
               "first_seen": "2026-06-30T04:15:38+00:00",
               "year": "2016",
               "price_history": [
                 {
                   "price": "$52.00",
                   "date": "2026-06-30T04:15:38+00:00"
+                },
+                {
+                  "price": "$62.00",
+                  "date": "2026-07-07T16:00:50.767711+00:00"
                 }
               ]
             }
@@ -12492,15 +12500,19 @@
             {
               "name": "Dunhill Durbar Mixture 2018 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/198020/",
-              "price": "$46.10",
-              "last_updated": "2026-06-30T16:00:51.219994+00:00",
+              "url": "https://tinbids.com/auction/200712/",
+              "price": "$52.00",
+              "last_updated": "2026-07-07T16:00:50.767711+00:00",
               "first_seen": "2026-06-30T04:17:25+00:00",
               "year": "2018",
               "price_history": [
                 {
                   "price": "$46.10",
                   "date": "2026-06-30T04:17:25+00:00"
+                },
+                {
+                  "price": "$52.00",
+                  "date": "2026-07-07T16:00:50.767711+00:00"
                 }
               ]
             },
@@ -13944,15 +13956,19 @@
             {
               "name": "Dunhill Ready Rubbed 2017 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/198026/",
-              "price": "$37.10",
-              "last_updated": "2026-06-30T16:00:51.219994+00:00",
+              "url": "https://tinbids.com/auction/200718/",
+              "price": "$36.00",
+              "last_updated": "2026-07-07T16:00:50.767711+00:00",
               "first_seen": "2026-06-30T04:21:19+00:00",
               "year": "2017",
               "price_history": [
                 {
                   "price": "$37.10",
                   "date": "2026-06-30T04:21:19+00:00"
+                },
+                {
+                  "price": "$36.00",
+                  "date": "2026-07-07T16:00:50.767711+00:00"
                 }
               ]
             }
@@ -14560,15 +14576,19 @@
             {
               "name": "Dunhill “Ye Olde Signe” 2016 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/198014/",
-              "price": "$43.00",
-              "last_updated": "2026-06-30T16:00:51.219994+00:00",
+              "url": "https://tinbids.com/auction/200706/",
+              "price": "$70.00",
+              "last_updated": "2026-07-07T16:00:50.767711+00:00",
               "first_seen": "2026-06-30T04:13:35+00:00",
               "year": "2016",
               "price_history": [
                 {
                   "price": "$43.00",
                   "date": "2026-06-30T04:13:35+00:00"
+                },
+                {
+                  "price": "$70.00",
+                  "date": "2026-07-07T16:00:50.767711+00:00"
                 }
               ]
             }
@@ -37541,9 +37561,9 @@
             {
               "name": "MacBaren Stockton Spun Cut Limited Edition 2020 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/198055/",
-              "price": "$63.00",
-              "last_updated": "2026-06-30T16:00:51.219994+00:00",
+              "url": "https://tinbids.com/auction/200721/",
+              "price": "$66.00",
+              "last_updated": "2026-07-07T16:00:50.767711+00:00",
               "first_seen": "2026-06-23T16:00:46.765633+00:00",
               "year": "2020",
               "price_history": [
@@ -37554,6 +37574,10 @@
                 {
                   "price": "$63.00",
                   "date": "2026-06-30T16:00:51.219994+00:00"
+                },
+                {
+                  "price": "$66.00",
+                  "date": "2026-07-07T16:00:50.767711+00:00"
                 }
               ]
             }
@@ -38711,15 +38735,19 @@
             {
               "name": "2017 Tin of Balkan Blue Pipe Tobacco by Mclelland with about 9 years of age",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/196872/",
-              "price": "$96.00",
-              "last_updated": "2026-06-27T04:00:27.886236+00:00",
+              "url": "https://tinbids.com/auction/200906/",
+              "price": "$157.99",
+              "last_updated": "2026-07-07T16:00:50.767711+00:00",
               "first_seen": "2026-06-26T19:21:06+00:00",
               "year": "2017",
               "price_history": [
                 {
                   "price": "$96.00",
                   "date": "2026-06-26T19:21:06+00:00"
+                },
+                {
+                  "price": "$157.99",
+                  "date": "2026-07-07T16:00:50.767711+00:00"
                 }
               ]
             }
@@ -66796,6 +66824,13 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "MacBaren Stockton Spun Cut Limited Edition 2020 NR": "macbaren|stocktonspuncut",
+    "Dunhill “Ye Olde Signe” 2016 NR": "dunhill|yeoldesigne",
+    "Dunhill Dark Flake 2016 NR": "dunhill|darkflake",
+    "Dunhill Durbar Mixture 2018 NR": "dunhill|durbar",
+    "Dunhill The Aperitif 2017 NR": "dunhill|aperitif",
+    "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
+    "2017 Tin of Balkan Blue Pipe Tobacco by Mclelland with about 9 years of age": "mcclelland|balkanblue",
     "Samuel Gawith - St. James Flake (2018)": "samuelgawith|stjamesflake",
     "Esoterica Dunbar Butera Production - 1 Tin NR BIN $140": "esoterica|dunbar",
     "2022 Sutliff Crumble Kake #2": "sutliff|crumblekakebarrelagedno2",
@@ -66953,13 +66988,7 @@
     "Esoterica Stonehaven 8oz Beige Bag Sealed 2011": "esoterica|stonehaven",
     "PPCA “Dulcet Two” by McClelland 50 gram 30 Year Old Sealed Tin": "pcca|dulcettwo",
     "Germain Medium Flake 2015 NR": "jfgermain|mediumflake",
-    "MacBaren Stockton Spun Cut Limited Edition 2020 NR": "macbaren|stocktonspuncut",
     "Dunhill My Mixture 221B Baker Street 2017 NR": "dunhill|mymixture221bbakerstreet",
-    "Dunhill “Ye Olde Signe” 2016 NR": "dunhill|yeoldesigne",
-    "Dunhill Dark Flake 2016 NR": "dunhill|darkflake",
-    "Dunhill Durbar Mixture 2018 NR": "dunhill|durbar",
-    "Dunhill The Aperitif 2017 NR": "dunhill|aperitif",
-    "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
     "MacBaren Capstan Gold Flake 2013 NR": "macbaren|capstangoldflake",
     "MacBaren Capstan Original Flake 2013 NR": "macbaren|capstanoriginalflake",
     "Ashton Rainy Day NR": "ashton|rainyday",
@@ -67077,7 +67106,6 @@
     "Very Nice Sealed 2005 McClelland's Syrian Full Balkan 50g. Tin": "mcclelland|syrianfullbalkan",
     "Very Nice 2012 Peterson Summertime 2012 100g. Tin": "peterson|summertime",
     "3 Oaks Pipe Tobacco with Syrian Latakia by McClelland from 2012": "mcclelland|3oakssyrian",
-    "2017 Tin of Balkan Blue Pipe Tobacco by Mclelland with about 9 years of age": "mcclelland|balkanblue",
     "Vintage 1980 - Robert McConnell's Original Scottish Blend - 50g": "robertmcconnell|scottishblend",
     "Esoterica - Dorchester - 8oz": "esoterica|dorchester",
     "Esoterica - Pembroke - 8oz": "esoterica|pembroke",
