@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-07T19:16:25.723450+00:00",
+  "generated": "2026-07-08T04:09:42.424129+00:00",
   "stats": {
-    "total_listings": 3711,
-    "excluded_multipacks": 1402,
+    "total_listings": 3738,
+    "excluded_multipacks": 1406,
     "total_tins": 972,
     "multi_member_tins": 421,
     "listings_in_groups": 1657,
@@ -13796,15 +13796,19 @@
             {
               "name": "Excellent Sealed 2018 Dunhill Nightcap 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/195465/",
-              "price": "$32.00",
-              "last_updated": "2026-06-21T05:37:17.147469+00:00",
+              "url": "https://tinbids.com/auction/201751/",
+              "price": "$40.00",
+              "last_updated": "2026-07-08T04:00:53.107133+00:00",
               "first_seen": "2026-06-21T05:37:17.147469+00:00",
               "year": "2018",
               "price_history": [
                 {
                   "price": "$32.00",
                   "date": "2026-06-21T05:37:17.147469+00:00"
+                },
+                {
+                  "price": "$40.00",
+                  "date": "2026-07-08T04:00:53.107133+00:00"
                 }
               ]
             }
@@ -19002,15 +19006,19 @@
             {
               "name": "GL Pease 25th Anniversary Silver Jubilee",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/201519/",
-              "price": "$45.00",
-              "last_updated": "2026-07-05T04:00:46.011214+00:00",
+              "url": "https://tinbids.com/auction/202645/",
+              "price": "$39.00",
+              "last_updated": "2026-07-08T04:00:53.107133+00:00",
               "first_seen": "2026-07-04T19:07:00+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$45.00",
                   "date": "2026-07-04T19:07:00+00:00"
+                },
+                {
+                  "price": "$39.00",
+                  "date": "2026-07-08T04:00:53.107133+00:00"
                 }
               ]
             },
@@ -44865,15 +44873,19 @@
             {
               "name": "McClelland - Syrian super Balkan",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/196397/",
-              "price": "$101.00",
-              "last_updated": "2026-06-26T04:00:26.274584+00:00",
+              "url": "https://tinbids.com/auction/201211/",
+              "price": "$88.00",
+              "last_updated": "2026-07-08T04:00:53.107133+00:00",
               "first_seen": "2026-06-25T16:53:36+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$101.00",
                   "date": "2026-06-25T16:53:36+00:00"
+                },
+                {
+                  "price": "$88.00",
+                  "date": "2026-07-08T04:00:53.107133+00:00"
                 }
               ]
             },
@@ -66840,6 +66852,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "GL Pease 25th Anniversary Silver Jubilee": "glpease|25thanniversary",
+    "McClelland - Syrian super Balkan": "mcclelland|syriansuperbalkan",
+    "Excellent Sealed 2018 Dunhill Nightcap 50g. Tin": "dunhill|nightcap",
     "MacBaren Stockton Spun Cut Limited Edition 2020 NR": "macbaren|stocktonspuncut",
     "Dunhill “Ye Olde Signe” 2016 NR": "dunhill|yeoldesigne",
     "Dunhill Dark Flake 2016 NR": "dunhill|darkflake",
@@ -66857,7 +66872,6 @@
     "2014 McClelland’s Frog Morton - 1 Tin NR BIN $225": "mcclelland|frogmorton",
     "Cobblestone - Spiced Rum - 50g": "cobblestone|spicedrum",
     "New Limited Edition Benedictine Abbey by Briarshire": "briarshire|benedictineabbey",
-    "GL Pease 25th Anniversary Silver Jubilee": "glpease|25thanniversary",
     "2020 SUTLIFF CRUMBLE KAKE VA PERIQUE": "sutliff|crumblekakevirginiaperique",
     "Esoterica — Dorchester — 8oz": "esoterica|dorchester",
     "Esoterica — St. Ives — 8oz": "esoterica|stives",
@@ -67149,7 +67163,6 @@
     "McClelland Grand Orientals - Classic Samsun": "mcclelland|grandorientalsclassicsamsun",
     "McClelland - Syrian full Balkan": "mcclelland|syrianfullbalkan",
     "McClelland - English blend 3 Oaks": "mcclelland|3oaksoriginalblend",
-    "McClelland - Syrian super Balkan": "mcclelland|syriansuperbalkan",
     "Peter Stokkebye Luxury Bullseye Flake (No. 403) 8oz (2017)": "peterstokkebye|luxurybullseyeflake",
     "HU Tobacco Director's Cut 100g (2021)": "hutobacco|directorscut",
     "2014 PETER STOKKEBYE NATURAL DUTCH CAVENDISH 301 approx. 2 oz jarred": "peterstokkebye|naturaldutchcavendish",
@@ -67278,7 +67291,6 @@
     "2024 Robert McConnell Oriental  - 1 Tin NR BIN $30": "robertmcconnell|oriental",
     "Very Nice Sealed 2018 Dunhill My Mixture 965 50g. Tin": "dunhill|mymixtureno965",
     "Very Nice 2021 G. L. Pease Quiet Nights 2oz. Tin": "glpease|quietnights",
-    "Excellent Sealed 2018 Dunhill Nightcap 50g. Tin": "dunhill|nightcap",
     "Very Nice Sealed 2018 Dunhill My Mixture BB1938 50g. Tin": "dunhill|mymixturebb1938",
     "Frog Morton Sealed Tin from 2017": "mcclelland|frogmorton",
     "Sutliff Pipe Force Episode V": "sutliff|pipeforceepisodev",
