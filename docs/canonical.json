@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-08T15:14:20.412040+00:00",
+  "generated": "2026-07-08T16:09:51.897548+00:00",
   "stats": {
-    "total_listings": 3774,
-    "excluded_multipacks": 1413,
+    "total_listings": 3786,
+    "excluded_multipacks": 1415,
     "total_tins": 972,
     "multi_member_tins": 421,
     "listings_in_groups": 1657,
@@ -41255,9 +41255,9 @@
             {
               "name": "2017 Frog Morton on the log 50 gram",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/198683/",
-              "price": "$102.00",
-              "last_updated": "2026-06-26T04:00:26.274584+00:00",
+              "url": "https://tinbids.com/auction/203344/",
+              "price": "$100.00",
+              "last_updated": "2026-07-08T16:00:52.356818+00:00",
               "first_seen": "2026-06-24T20:11:05+00:00",
               "year": "2017",
               "price_history": [
@@ -41268,6 +41268,10 @@
                 {
                   "price": "$102.00",
                   "date": "2026-06-26T04:00:26.274584+00:00"
+                },
+                {
+                  "price": "$100.00",
+                  "date": "2026-07-08T16:00:52.356818+00:00"
                 }
               ]
             },
@@ -45120,9 +45124,9 @@
             {
               "name": "Tobacco Tin Mc Clelland Syrian Super Balkan 2004 Out of Production",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/199735/",
-              "price": "$92.00",
-              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "url": "https://tinbids.com/auction/201420/",
+              "price": "$87.00",
+              "last_updated": "2026-07-08T16:00:52.356818+00:00",
               "first_seen": "2026-06-25T20:19:53+00:00",
               "year": "2004",
               "price_history": [
@@ -45137,6 +45141,10 @@
                 {
                   "price": "$92.00",
                   "date": "2026-07-04T04:00:42.890669+00:00"
+                },
+                {
+                  "price": "$87.00",
+                  "date": "2026-07-08T16:00:52.356818+00:00"
                 }
               ]
             }
@@ -67160,6 +67168,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Tobacco Tin Mc Clelland Syrian Super Balkan 2004 Out of Production": "mcclelland|syriansuperbalkan",
+    "2017 Frog Morton on the log 50 gram": "mcclelland|frogmorton",
     "GL Pease 25th Anniversary Silver Jubilee": "glpease|25thanniversary",
     "McClelland - Syrian super Balkan": "mcclelland|syriansuperbalkan",
     "Excellent Sealed 2018 Dunhill Nightcap 50g. Tin": "dunhill|nightcap",
@@ -67195,7 +67205,6 @@
     "DUNHILL MY MIXTURE BB1938 - 11 YEARS OLD (2015)": "dunhill|mymixturebb1938",
     "Early 2010's Balkan Sobranie - 1 Tin NR BIN $175": "jfgermain|balkansobranie",
     "Hearth & Home Magnum Opus - 1 Tin NR BIN $60": "hearthhome|magnumopus",
-    "Tobacco Tin Mc Clelland Syrian Super Balkan 2004 Out of Production": "mcclelland|syriansuperbalkan",
     "Esoterica Tobacciana Butera’s Margate 8 oz. Sealed Pipe Tobacco Germain & Son, UK": "esoterica|margate",
     "2016 Frog Morton Across The Pond with Syrian Latakia by McClelland 10 Years of Age": "mcclelland|frogmortonacrossthepond",
     "Dunhill My Mixture BB1938 1.76 oz’s Pipe Tobacco Sealed Tin Made in Denmark 2018": "dunhill|mymixturebb1938",
@@ -67461,7 +67470,6 @@
     "VINTAGE and RARE sealed 1960s Dunhill Flake 4oz": "dunhill|flake",
     "2oz tin from Sep, 2021 of Cornell and Diehl's Small-Batch Carolina Red Flake w/Perique. 14,675/15,000": "cornelldiehl|carolinaredflakewithperique",
     "Bell’s Three Nuns 1.75oz tin by Mac Baren from Jul 2017 with 9 years of age on it": "bells|threenuns",
-    "2017 Frog Morton on the log 50 gram": "mcclelland|frogmorton",
     "McClelland Grand Orientals - Yenidje Highlander": "mcclelland|grandorientalsyenidjehighlander",
     "McClelland Grand Orientals - Yenidje Supreme": "mcclelland|grandorientalsyenidjesupreme",
     "McClelland - Rose of Latakia": "mcclelland|roseoflatakia",
