@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-08T06:51:51.196648+00:00",
+  "generated": "2026-07-08T15:14:20.412040+00:00",
   "stats": {
-    "total_listings": 3771,
+    "total_listings": 3774,
     "excluded_multipacks": 1413,
     "total_tins": 972,
     "multi_member_tins": 421,
@@ -2852,7 +2852,7 @@
               "source": "4noggins.com",
               "url": "https://www.4noggins.com/products/butera-pelican-2014-2oz-c",
               "price": "$245.00",
-              "last_updated": "2026-07-07T15:14:16.638390+00:00",
+              "last_updated": "2026-07-08T15:14:18.833557+00:00",
               "first_seen": "2026-06-21T02:45:17.226279+00:00",
               "year": "2014",
               "price_history": [
@@ -2959,6 +2959,14 @@
                 {
                   "price": "$245.00",
                   "date": "2026-07-07T15:14:16.638390+00:00"
+                },
+                {
+                  "price": "$285.00",
+                  "date": "2026-07-08T15:14:18.833557+00:00"
+                },
+                {
+                  "price": "$245.00",
+                  "date": "2026-07-08T15:14:18.833557+00:00"
                 }
               ]
             }
@@ -5156,7 +5164,7 @@
             {
               "name": "Cornell & Diehl: Small Batch: CAROLINA RED FLAKE 2020 2oz - C",
               "source": "4noggins.com",
-              "url": "https://www.4noggins.com/products/cornell-diehl-small-batch-carolina-red-flake-2020-2oz-c",
+              "url": "https://www.4noggins.com/products/cornell-diehl-small-batch-carolina-red-flake-2020-2oz-c-copy",
               "price": "$125.00",
               "last_updated": "2026-06-21T02:45:17.226279+00:00",
               "first_seen": "2026-06-21T02:45:17.226279+00:00",
@@ -15587,7 +15595,7 @@
               "source": "4noggins.com",
               "url": "https://www.4noggins.com/products/esoterica-and-so-to-bed-2oz-c",
               "price": "$150.00",
-              "last_updated": "2026-07-07T15:14:16.638390+00:00",
+              "last_updated": "2026-07-08T15:14:18.833557+00:00",
               "first_seen": "2026-06-21T02:45:17.226279+00:00",
               "year": "",
               "price_history": [
@@ -15714,6 +15722,14 @@
                 {
                   "price": "$150.00",
                   "date": "2026-07-07T15:14:16.638390+00:00"
+                },
+                {
+                  "price": "$140.00",
+                  "date": "2026-07-08T15:14:18.833557+00:00"
+                },
+                {
+                  "price": "$150.00",
+                  "date": "2026-07-08T15:14:18.833557+00:00"
                 }
               ]
             },
@@ -16471,7 +16487,7 @@
               "source": "4noggins.com",
               "url": "https://www.4noggins.com/products/esoterica-margate-2oz-2015-c",
               "price": "$140.00",
-              "last_updated": "2026-07-07T15:14:16.638390+00:00",
+              "last_updated": "2026-07-08T15:14:18.833557+00:00",
               "first_seen": "2026-06-21T02:45:17.226279+00:00",
               "year": "",
               "price_history": [
@@ -16594,6 +16610,14 @@
                 {
                   "price": "$140.00",
                   "date": "2026-07-07T15:14:16.638390+00:00"
+                },
+                {
+                  "price": "$150.00",
+                  "date": "2026-07-08T15:14:18.833557+00:00"
+                },
+                {
+                  "price": "$140.00",
+                  "date": "2026-07-08T15:14:18.833557+00:00"
                 }
               ]
             },
@@ -16692,7 +16716,7 @@
               "source": "4noggins.com",
               "url": "https://www.4noggins.com/products/esoterica-margate-8oz-c-1",
               "price": "$525.00",
-              "last_updated": "2026-07-07T15:14:16.638390+00:00",
+              "last_updated": "2026-07-08T15:14:18.833557+00:00",
               "first_seen": "2026-06-21T02:45:17.226279+00:00",
               "year": "",
               "price_history": [
@@ -16811,6 +16835,14 @@
                 {
                   "price": "$525.00",
                   "date": "2026-07-07T15:14:16.638390+00:00"
+                },
+                {
+                  "price": "$475.00",
+                  "date": "2026-07-08T15:14:18.833557+00:00"
+                },
+                {
+                  "price": "$525.00",
+                  "date": "2026-07-08T15:14:18.833557+00:00"
                 }
               ]
             },
@@ -17574,7 +17606,7 @@
               "source": "4noggins.com",
               "url": "https://www.4noggins.com/products/esoterica-st-ives-8oz-c",
               "price": "$545.00",
-              "last_updated": "2026-07-07T15:14:16.638390+00:00",
+              "last_updated": "2026-07-08T15:14:18.833557+00:00",
               "first_seen": "2026-06-21T02:45:17.226279+00:00",
               "year": "",
               "price_history": [
@@ -17729,6 +17761,14 @@
                 {
                   "price": "$545.00",
                   "date": "2026-07-07T15:14:16.638390+00:00"
+                },
+                {
+                  "price": "$575.00",
+                  "date": "2026-07-08T15:14:18.833557+00:00"
+                },
+                {
+                  "price": "$545.00",
+                  "date": "2026-07-08T15:14:18.833557+00:00"
                 }
               ]
             }
@@ -28831,7 +28871,7 @@
               "source": "4noggins.com",
               "url": "https://www.4noggins.com/products/balkan-sobranie-balkan-sobranie-50g-c-1",
               "price": "$125.00",
-              "last_updated": "2026-07-07T15:14:16.638390+00:00",
+              "last_updated": "2026-07-08T15:14:18.833557+00:00",
               "first_seen": "2026-06-23T15:14:19.145115+00:00",
               "year": "",
               "price_history": [
@@ -28954,6 +28994,14 @@
                 {
                   "price": "$125.00",
                   "date": "2026-07-07T15:14:16.638390+00:00"
+                },
+                {
+                  "price": "$145.00",
+                  "date": "2026-07-08T15:14:18.833557+00:00"
+                },
+                {
+                  "price": "$125.00",
+                  "date": "2026-07-08T15:14:18.833557+00:00"
                 }
               ]
             },
