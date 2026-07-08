@@ -131,10 +131,18 @@
         {
           "price": "$150.00",
           "date": "2026-07-07T15:14:16.638390+00:00"
+        },
+        {
+          "price": "$140.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        },
+        {
+          "price": "$150.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica And So To Bed 2oz",
-      "last_updated": "2026-07-07T15:14:16.638390+00:00"
+      "last_updated": "2026-07-08T15:14:18.833557+00:00"
     },
     {
       "name": "Esoterica: MARGATE 2oz - C",
@@ -263,10 +271,18 @@
         {
           "price": "$140.00",
           "date": "2026-07-07T15:14:16.638390+00:00"
+        },
+        {
+          "price": "$150.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        },
+        {
+          "price": "$140.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Margate 2oz",
-      "last_updated": "2026-07-07T15:14:16.638390+00:00"
+      "last_updated": "2026-07-08T15:14:18.833557+00:00"
     },
     {
       "name": "Esoterica: MARGATE 8oz - C",
@@ -391,10 +407,18 @@
         {
           "price": "$525.00",
           "date": "2026-07-07T15:14:16.638390+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Margate 8oz",
-      "last_updated": "2026-07-07T15:14:16.638390+00:00"
+      "last_updated": "2026-07-08T15:14:18.833557+00:00"
     },
     {
       "name": "Esoterica: ST. IVES 8oz - C",
@@ -555,10 +579,18 @@
         {
           "price": "$545.00",
           "date": "2026-07-07T15:14:16.638390+00:00"
+        },
+        {
+          "price": "$575.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        },
+        {
+          "price": "$545.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica St Ives 8oz",
-      "last_updated": "2026-07-07T15:14:16.638390+00:00"
+      "last_updated": "2026-07-08T15:14:18.833557+00:00"
     },
     {
       "name": "Balkan Sobranie: BALKAN SOBRANIE 50g -C",
@@ -687,10 +719,18 @@
         {
           "price": "$125.00",
           "date": "2026-07-07T15:14:16.638390+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd Party Seller Balkan Sobranie 50g",
-      "last_updated": "2026-07-07T15:14:16.638390+00:00"
+      "last_updated": "2026-07-08T15:14:18.833557+00:00"
     },
     {
       "name": "Butera: PELICAN 2014 2oz - C",
@@ -803,10 +843,63 @@
         {
           "price": "$245.00",
           "date": "2026-07-07T15:14:16.638390+00:00"
+        },
+        {
+          "price": "$285.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        },
+        {
+          "price": "$245.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Butera Pelican 2oz Tin 2014 .",
-      "last_updated": "2026-07-07T15:14:16.638390+00:00"
+      "last_updated": "2026-07-08T15:14:18.833557+00:00"
+    },
+    {
+      "name": "Cornell & Diehl: Small Batch: CAROLINA RED FLAKE 2019 2oz - C",
+      "price": "$125.00",
+      "url": "https://www.4noggins.com/products/cornell-diehl-small-batch-carolina-red-flake-2019-2oz-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-07-08T15:14:18.833557+00:00",
+      "last_updated": "2026-07-08T15:14:18.833557+00:00",
+      "price_history": [
+        {
+          "price": "$125.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller. C&amp;D Small Batch Carolina Red Flake 2oz 2019"
+    },
+    {
+      "name": "Cornell & Diehl: Small Batch: SANSEPOLCRO 2019 2oz - C",
+      "price": "$125.00",
+      "url": "https://www.4noggins.com/products/cornell-diehl-small-batch-sansepolcro-2019-2oz-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-07-08T15:14:18.833557+00:00",
+      "last_updated": "2026-07-08T15:14:18.833557+00:00",
+      "price_history": [
+        {
+          "price": "$125.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller. C&amp;D Small Batch Sansepolcro 2oz 2019"
+    },
+    {
+      "name": "McClelland: BOMBAY EXTRA 100g 2002 - C",
+      "price": "$365.00",
+      "url": "https://www.4noggins.com/products/mcclelland-bombay-extra-100g-2002-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-07-08T15:14:18.833557+00:00",
+      "last_updated": "2026-07-08T15:14:18.833557+00:00",
+      "price_history": [
+        {
+          "price": "$365.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller McClelland began with Bombay Court, darkened the Virginias, added a touch of Perique and increased the Latakia, resulting in an enriched version of a unique and popular formula. A rich, full mixture for evening enjoyment. Strength: Medium to Strong Flavoring: None Detected Taste: Medium to Full Room Note: Tolerable to Strong"
     },
     {
       "name": "Astleys: No. 44 DARK VIRGINIA FLAKE 50g  2014 -C",
@@ -1783,7 +1876,7 @@
     {
       "name": "Cornell & Diehl: Small Batch: CAROLINA RED FLAKE 2020 2oz - C",
       "price": "$125.00",
-      "url": "https://www.4noggins.com/products/cornell-diehl-small-batch-carolina-red-flake-2020-2oz-c",
+      "url": "https://www.4noggins.com/products/cornell-diehl-small-batch-carolina-red-flake-2020-2oz-c-copy",
       "source": "4noggins.com",
       "first_seen": "2026-06-21T02:45:17.226279+00:00",
       "last_seen": "2026-06-23T15:14:19.145115+00:00",
@@ -1793,7 +1886,7 @@
           "date": "2026-06-21T02:45:17.226279+00:00"
         }
       ],
-      "description": "Default Title Consignment tin owned by 3rd party seller. C&amp;D Small Batch Carolina Red Flake 2oz",
+      "description": "Default Title Consignment tin owned by 3rd party seller. C&amp;D Small Batch Carolina Red Flake 2oz 2020",
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
     },
     {
@@ -4757,7 +4850,7 @@
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
     }
   ],
-  "last_scraped": "2026-07-07T15:14:16.638390+00:00",
+  "last_scraped": "2026-07-08T15:14:18.833557+00:00",
   "latest_scrape": [
     {
       "name": "A&C Peterson: PREMIER CRU - C",
@@ -4996,10 +5089,18 @@
         {
           "price": "$125.00",
           "date": "2026-07-07T15:14:16.638390+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd Party Seller Balkan Sobranie 50g",
-      "last_updated": "2026-07-07T15:14:16.638390+00:00"
+      "last_updated": "2026-07-08T15:14:18.833557+00:00"
     },
     {
       "name": "Balkan Sobranie: BALKAN SOBRANIE 50g -C",
@@ -5128,10 +5229,18 @@
         {
           "price": "$125.00",
           "date": "2026-07-07T15:14:16.638390+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd Party Seller Balkan Sobranie 50g",
-      "last_updated": "2026-07-07T15:14:16.638390+00:00"
+      "last_updated": "2026-07-08T15:14:18.833557+00:00"
     },
     {
       "name": "Brebbia: CLASSIC ENGLISH MIX No. 80 2012 50g - C",
@@ -5404,10 +5513,18 @@
         {
           "price": "$245.00",
           "date": "2026-07-07T15:14:16.638390+00:00"
+        },
+        {
+          "price": "$285.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        },
+        {
+          "price": "$245.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Butera Pelican 2oz Tin 2014 .",
-      "last_updated": "2026-07-07T15:14:16.638390+00:00"
+      "last_updated": "2026-07-08T15:14:18.833557+00:00"
     },
     {
       "name": "Butera: PELICAN 2014 2oz - C",
@@ -5520,10 +5637,18 @@
         {
           "price": "$245.00",
           "date": "2026-07-07T15:14:16.638390+00:00"
+        },
+        {
+          "price": "$285.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        },
+        {
+          "price": "$245.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Butera Pelican 2oz Tin 2014 .",
-      "last_updated": "2026-07-07T15:14:16.638390+00:00"
+      "last_updated": "2026-07-08T15:14:18.833557+00:00"
     },
     {
       "name": "CAO: MOONTRANCE 50g 2011 - C",
@@ -5606,9 +5731,24 @@
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
     },
     {
+      "name": "Cornell & Diehl: Small Batch: CAROLINA RED FLAKE 2019 2oz - C",
+      "price": "$125.00",
+      "url": "https://www.4noggins.com/products/cornell-diehl-small-batch-carolina-red-flake-2019-2oz-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-07-08T15:14:18.833557+00:00",
+      "last_updated": "2026-07-08T15:14:18.833557+00:00",
+      "price_history": [
+        {
+          "price": "$125.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller. C&amp;D Small Batch Carolina Red Flake 2oz 2019"
+    },
+    {
       "name": "Cornell & Diehl: Small Batch: CAROLINA RED FLAKE 2020 2oz - C",
       "price": "$125.00",
-      "url": "https://www.4noggins.com/products/cornell-diehl-small-batch-carolina-red-flake-2020-2oz-c",
+      "url": "https://www.4noggins.com/products/cornell-diehl-small-batch-carolina-red-flake-2020-2oz-c-copy",
       "source": "4noggins.com",
       "first_seen": "2026-06-21T02:45:17.226279+00:00",
       "last_seen": "2026-06-23T15:14:19.145115+00:00",
@@ -5618,7 +5758,23 @@
           "date": "2026-06-21T02:45:17.226279+00:00"
         }
       ],
-      "description": "Default Title Consignment tin owned by 3rd party seller. C&amp;D Small Batch Carolina Red Flake 2oz",
+      "description": "Default Title Consignment tin owned by 3rd party seller. C&amp;D Small Batch Carolina Red Flake 2oz 2020",
+      "last_updated": "2026-06-21T02:45:17.226279+00:00"
+    },
+    {
+      "name": "Cornell & Diehl: Small Batch: CAROLINA RED FLAKE 2020 2oz - C",
+      "price": "$125.00",
+      "url": "https://www.4noggins.com/products/cornell-diehl-small-batch-carolina-red-flake-2020-2oz-c-copy",
+      "source": "4noggins.com",
+      "first_seen": "2026-06-21T02:45:17.226279+00:00",
+      "last_seen": "2026-06-23T15:14:19.145115+00:00",
+      "price_history": [
+        {
+          "price": "$125.00",
+          "date": "2026-06-21T02:45:17.226279+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller. C&amp;D Small Batch Carolina Red Flake 2oz 2020",
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
     },
     {
@@ -5667,6 +5823,21 @@
       ],
       "description": "Default Title Consignment tin sold by 3rd party seller C&amp;D Carolina Red Flake 2oz 2018",
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
+    },
+    {
+      "name": "Cornell & Diehl: Small Batch: SANSEPOLCRO 2019 2oz - C",
+      "price": "$125.00",
+      "url": "https://www.4noggins.com/products/cornell-diehl-small-batch-sansepolcro-2019-2oz-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-07-08T15:14:18.833557+00:00",
+      "last_updated": "2026-07-08T15:14:18.833557+00:00",
+      "price_history": [
+        {
+          "price": "$125.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller. C&amp;D Small Batch Sansepolcro 2oz 2019"
     },
     {
       "name": "Cornell & Diehl: Small Batch: STRAIGHT UP ENGLISH 2oz 2016 -C",
@@ -6259,10 +6430,18 @@
         {
           "price": "$150.00",
           "date": "2026-07-07T15:14:16.638390+00:00"
+        },
+        {
+          "price": "$140.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        },
+        {
+          "price": "$150.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica And So To Bed 2oz",
-      "last_updated": "2026-07-07T15:14:16.638390+00:00"
+      "last_updated": "2026-07-08T15:14:18.833557+00:00"
     },
     {
       "name": "Esoterica: AND SO TO BED 2oz - C",
@@ -6395,10 +6574,18 @@
         {
           "price": "$150.00",
           "date": "2026-07-07T15:14:16.638390+00:00"
+        },
+        {
+          "price": "$140.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        },
+        {
+          "price": "$150.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica And So To Bed 2oz",
-      "last_updated": "2026-07-07T15:14:16.638390+00:00"
+      "last_updated": "2026-07-08T15:14:18.833557+00:00"
     },
     {
       "name": "Esoterica: AND SO TO BED 8oz - C",
@@ -6638,10 +6825,18 @@
         {
           "price": "$140.00",
           "date": "2026-07-07T15:14:16.638390+00:00"
+        },
+        {
+          "price": "$150.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        },
+        {
+          "price": "$140.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Margate 2oz",
-      "last_updated": "2026-07-07T15:14:16.638390+00:00"
+      "last_updated": "2026-07-08T15:14:18.833557+00:00"
     },
     {
       "name": "Esoterica: MARGATE 2oz - C",
@@ -6770,10 +6965,18 @@
         {
           "price": "$140.00",
           "date": "2026-07-07T15:14:16.638390+00:00"
+        },
+        {
+          "price": "$150.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        },
+        {
+          "price": "$140.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Margate 2oz",
-      "last_updated": "2026-07-07T15:14:16.638390+00:00"
+      "last_updated": "2026-07-08T15:14:18.833557+00:00"
     },
     {
       "name": "Esoterica: MARGATE 8oz - C",
@@ -6898,10 +7101,18 @@
         {
           "price": "$525.00",
           "date": "2026-07-07T15:14:16.638390+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Margate 8oz",
-      "last_updated": "2026-07-07T15:14:16.638390+00:00"
+      "last_updated": "2026-07-08T15:14:18.833557+00:00"
     },
     {
       "name": "Esoterica: MARGATE 8oz - C",
@@ -7026,10 +7237,18 @@
         {
           "price": "$525.00",
           "date": "2026-07-07T15:14:16.638390+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Margate 8oz",
-      "last_updated": "2026-07-07T15:14:16.638390+00:00"
+      "last_updated": "2026-07-08T15:14:18.833557+00:00"
     },
     {
       "name": "Esoterica: PEMBROKE 2oz - C",
@@ -7302,10 +7521,18 @@
         {
           "price": "$545.00",
           "date": "2026-07-07T15:14:16.638390+00:00"
+        },
+        {
+          "price": "$575.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        },
+        {
+          "price": "$545.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica St Ives 8oz",
-      "last_updated": "2026-07-07T15:14:16.638390+00:00"
+      "last_updated": "2026-07-08T15:14:18.833557+00:00"
     },
     {
       "name": "Esoterica: ST. IVES 8oz - C",
@@ -7466,10 +7693,18 @@
         {
           "price": "$545.00",
           "date": "2026-07-07T15:14:16.638390+00:00"
+        },
+        {
+          "price": "$575.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        },
+        {
+          "price": "$545.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica St Ives 8oz",
-      "last_updated": "2026-07-07T15:14:16.638390+00:00"
+      "last_updated": "2026-07-08T15:14:18.833557+00:00"
     },
     {
       "name": "Esoterica: STONEHAVEN 2oz - C",
@@ -8723,6 +8958,21 @@
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller McClelland Black Shag 50g 1999",
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
+    },
+    {
+      "name": "McClelland: BOMBAY EXTRA 100g 2002 - C",
+      "price": "$365.00",
+      "url": "https://www.4noggins.com/products/mcclelland-bombay-extra-100g-2002-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-07-08T15:14:18.833557+00:00",
+      "last_updated": "2026-07-08T15:14:18.833557+00:00",
+      "price_history": [
+        {
+          "price": "$365.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller McClelland began with Bombay Court, darkened the Virginias, added a touch of Perique and increased the Latakia, resulting in an enriched version of a unique and popular formula. A rich, full mixture for evening enjoyment. Strength: Medium to Strong Flavoring: None Detected Taste: Medium to Full Room Note: Tolerable to Strong"
     },
     {
       "name": "McClelland: BOSTON 1776 50g 2010 - C",
@@ -10217,6 +10467,13 @@
       "added": 0,
       "price_changed": 12,
       "total": 254
+    },
+    {
+      "date": "2026-07-08T15:14:18.833557+00:00",
+      "found": 250,
+      "added": 3,
+      "price_changed": 12,
+      "total": 257
     }
   ]
 }
