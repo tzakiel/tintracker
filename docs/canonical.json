@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-08T19:16:15.620646+00:00",
+  "generated": "2026-07-09T04:08:06.923087+00:00",
   "stats": {
-    "total_listings": 3786,
-    "excluded_multipacks": 1415,
+    "total_listings": 3825,
+    "excluded_multipacks": 1420,
     "total_tins": 972,
     "multi_member_tins": 421,
     "listings_in_groups": 1657,
@@ -48098,15 +48098,19 @@
             {
               "name": "Vintage-Peter Stokkebye Luxury Bullseye Flake. Jar/sealed Jan 2007",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/198298/",
-              "price": "$14.99",
-              "last_updated": "2026-07-01T04:00:37.972075+00:00",
+              "url": "https://tinbids.com/auction/201536/",
+              "price": "$20.50",
+              "last_updated": "2026-07-09T04:00:50.651164+00:00",
               "first_seen": "2026-06-30T18:21:56+00:00",
               "year": "2007",
               "price_history": [
                 {
                   "price": "$14.99",
                   "date": "2026-06-30T18:21:56+00:00"
+                },
+                {
+                  "price": "$20.50",
+                  "date": "2026-07-09T04:00:50.651164+00:00"
                 }
               ]
             }
@@ -67184,6 +67188,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Vintage-Peter Stokkebye Luxury Bullseye Flake. Jar/sealed Jan 2007": "peterstokkebye|luxurybullseyeflake",
     "Tobacco Tin Mc Clelland Syrian Super Balkan 2004 Out of Production": "mcclelland|syriansuperbalkan",
     "2017 Frog Morton on the log 50 gram": "mcclelland|frogmorton",
     "GL Pease 25th Anniversary Silver Jubilee": "glpease|25thanniversary",
@@ -67329,7 +67334,6 @@
     "Sutliff-Eastfarthing (Discontinued) Similar to Frog Morton Cellar-No longer in production.": "sutliff|eastfarthing",
     "McClelland Virginia No. 24 Ribbon 2007": "mcclelland|no24ribbon",
     "Escudo Navy De Luxe. A/C Peterson painted top Tin, Vintage 2000!": "stg|escudonavydeluxe",
-    "Vintage-Peter Stokkebye Luxury Bullseye Flake. Jar/sealed Jan 2007": "peterstokkebye|luxurybullseyeflake",
     "2009 McCLELLAND DOMINICAN GLORY MADURO approx. 2.8 ounces": "mcclelland|dominicanglory",
     "2013 RATTRAY'S MARLIN FLAKE approx. 2.8 ounces": "rattrays|marlinflake",
     "Exotique by Smoker’s Haven Sealed 2 oz. Tin Made in UK Full and Smooth": "smokershaven|exotiquemixture",
