@@ -2177,7 +2177,7 @@
   },
   "McClelland: CELEBRATED SOVEREIGN 50g 2011 - C": {
     "blend": "Celebrated Sovereign",
-    "brand": "McClelland",
+    "brand": "Ashton",
     "confidence": 0.9,
     "is_tin": true,
     "source": "llm"
@@ -18053,10 +18053,11 @@
     "confidence": 0.9
   },
   "W.Ø. Larsen": {
-    "brand": "W.O. Larsen",
     "blend": "",
+    "brand": "",
+    "confidence": 0.2,
     "is_tin": true,
-    "confidence": 0.4
+    "source": "llm"
   },
   "WC Simply Orange": {
     "brand": "Watch City",
@@ -19625,10 +19626,11 @@
     "confidence": 0.8
   },
   "Unknown Aromatic |  | 2.5oz": {
-    "brand": "",
     "blend": "",
+    "brand": "",
+    "confidence": 0.2,
     "is_tin": true,
-    "confidence": 0.3
+    "source": "llm"
   },
   "100G Orlik Golden Sliced 2016": {
     "brand": "Orlik",
@@ -19643,10 +19645,11 @@
     "confidence": 0.95
   },
   "2002 Smokers Haven Christmas Cheer 100g": {
-    "brand": "",
     "blend": "",
+    "brand": "",
+    "confidence": 0.2,
     "is_tin": true,
-    "confidence": 0.3
+    "source": "llm"
   },
   "2003 Smokers Haven Cognac 8oz": {
     "brand": "Smokers' Haven",
@@ -19745,22 +19748,25 @@
     "confidence": 0.85
   },
   "CONWAY'S PRIVATE BLEND Pipe Mixture (1970s) 1 1/2 OZS. Sealed Box": {
-    "brand": "",
     "blend": "",
+    "brand": "",
+    "confidence": 0.2,
     "is_tin": true,
-    "confidence": 0.3
+    "source": "llm"
   },
   "Capstan Flake 2016": {
-    "brand": "Mac Baren",
     "blend": "",
+    "brand": "",
+    "confidence": 0.2,
     "is_tin": true,
-    "confidence": 0.4
+    "source": "llm"
   },
   "Capstan Ready Rubbed 2013": {
-    "brand": "Mac Baren",
     "blend": "",
+    "brand": "",
+    "confidence": 0.2,
     "is_tin": true,
-    "confidence": 0.4
+    "source": "llm"
   },
   "Collectible G.L. Pease Spark Plug 50g Sealed Pipe Tobacco Tin 2020": {
     "brand": "G.L. Pease",
@@ -19883,10 +19889,11 @@
     "confidence": 0.9
   },
   "LYON'S OWN Smoking Mixture Pipe Tobacco (1960s?) 2 OZS. Sealed Box": {
-    "brand": "",
     "blend": "",
+    "brand": "",
+    "confidence": 0.3,
     "is_tin": true,
-    "confidence": 0.3
+    "source": "llm"
   },
   "Large tin Plum cake Navy Blend 2016": {
     "brand": "Mac Baren",
@@ -19907,10 +19914,11 @@
     "confidence": 0.9
   },
   "MODEL SMOKING TOBACCO (1980s) 1-3/8 OZ Sealed Box": {
-    "brand": "",
     "blend": "",
+    "brand": "",
+    "confidence": 0.3,
     "is_tin": true,
-    "confidence": 0.35
+    "source": "llm"
   },
   "Margate, Balkan Sobranie and And So To Bed  (Three) Tins": {
     "brand": "",
@@ -20159,10 +20167,11 @@
     "confidence": 0.95
   },
   "1996 - C&D Limited": {
-    "brand": "Cornell & Diehl",
     "blend": "",
+    "brand": "",
+    "confidence": 0.2,
     "is_tin": true,
-    "confidence": 0.5
+    "source": "llm"
   },
   "1999 McCrannies Prime 1983 Red Virginia": {
     "brand": "McCranie's",
@@ -20925,5 +20934,565 @@
     "blend": "Great Hiatus",
     "is_tin": true,
     "confidence": 0.7
+  },
+  "All stored in mylar.  PayPal F&F": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Dented cans picked ups while back on this forum.  All before 2019.  Syrian Latakia in the Artisan’s blend.  You sophisticated or nah?": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "If you buy at least 2 pipes (while supplies last) I will cover the shipping cost, if you'd like additional insurance above the default": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "(1) Gawith Hoggarth Louisiana Flake Burnt Ends 500g": {
+    "blend": "LA Flake Burnt Ends",
+    "brand": "Gawith, Hoggarth & Co.",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "1 Balkan Sobranie 50g Tin Sealed": {
+    "blend": "Balkan Sobranie",
+    "brand": "J.F. Germain",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "1 Sealed 50g Tin Esoterica Dunbar 2026": {
+    "blend": "Dunbar",
+    "brand": "Esoterica",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "1.5oz Sutliff (Discontinued) Top Shelf": {
+    "blend": "Top Shelf",
+    "brand": "Sutliff",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "11.2oz /317g Samuel Gawith Full Virginia Flake From 2013!": {
+    "blend": "Full Virginia Flake",
+    "brand": "Samuel Gawith",
+    "confidence": 0.95,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "12oz Sir Walter Raleigh Aromatic sealed can": {
+    "blend": "Aromatic",
+    "brand": "Sir Walter Raleigh",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "2 sealed tins of Sutliff Eastfarthing": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "2017 100g McClelland Blackwoods Flake": {
+    "blend": "Blackwoods Flake",
+    "brand": "McClelland",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "2018 Mac Baren HH Burley Flake - 1 Tin NR BIN $80": {
+    "blend": "HH Burley Flake",
+    "brand": "Mac Baren",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "2022 Mac Baren HH Burley Flake - 1 Tin NR BIN $70": {
+    "blend": "HH Burley Flake",
+    "brand": "Mac Baren",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "2023 Cornell & Diehl Wintertime Reserve Hearthside 2 oz Pipe Tobacco Tin - New Sealed": {
+    "blend": "Hearthside",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "2oz/58g Of Seattle Pipe Club Deception Pass From 2015!": {
+    "blend": "Deception Pass",
+    "brand": "Seattle Pipe Club",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "50g (Discontinued) Mac Baren HH Old Dark Fired PLUG CUT From 2019!": {
+    "blend": "HH Old Dark Fired Plug Cut",
+    "brand": "Mac Baren",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "8oz Of Hearth & Home (discontinued) ANNIVERSARY KAKE from 2013!": {
+    "blend": "HH Anniversary Kake",
+    "brand": "Mac Baren",
+    "confidence": 0.75,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Astleys - (2020) No.44  (No Longer in Production)": {
+    "blend": "No. 44 Dark Virginia Flake",
+    "brand": "Astley's",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Astleys - No.9 Medium Flake (No Longer in Production)": {
+    "blend": "No. 109 Medium Virginia Flake",
+    "brand": "Astley's",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "CORNELL & DIEHL PIRATE KAKE": {
+    "blend": "Pirate Kake",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.95,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Cornell & Diehl - (2020) Billy Bud Blonde": {
+    "blend": "Billy Budd Blonde",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Cornell & Diehl - (2020) Carolina Red Flake (Small Batch)": {
+    "blend": "Carolina Red Flake",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Cornell & Diehl - (2020) Carolina Red Flake with Perique": {
+    "blend": "Carolina Red Flake with Perique",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Cornell & Diehl - (2020) Sun Bear": {
+    "blend": "Sun Bear",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Cornell & Diehl - (2021) Carolina Red Flake w/ Perique (Small Batch)": {
+    "blend": "Carolina Red Flake with Perique",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Cornell & Diehl - (2024) Carolina Red flake (Small Batch)": {
+    "blend": "Carolina Red Flake",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Cornell & Diehl - (2025) Sun Bear": {
+    "blend": "Sun Bear",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Cornell & Diehl Muletown Mixture 2 oz Tin - 2019 Pipe Show Exclusive #152/216 - New Sealed": {
+    "blend": "Muletown Mixture",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Cornell & Diehl Small Batch The Beast from 2021.": {
+    "blend": "The Beast",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Cornell & Diehl Sun Bear Tupelo 2023 Two Sealed Tins": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Dunhill Early Morning Pipe 2014 50g Tin": {
+    "blend": "Early Morning Pipe",
+    "brand": "Dunhill",
+    "confidence": 0.95,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Dunhill Early Morning Pipe 2017 50g tin": {
+    "blend": "Early Morning Pipe",
+    "brand": "Dunhill",
+    "confidence": 0.95,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Dunhill Navy Rolls and BB1938": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "ESSENZA CIPRIOTA BY SAVINELLI": {
+    "blend": "Essenza Cipriota",
+    "brand": "Savinelli",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Esoterica Stonehaven": {
+    "blend": "Stonehaven",
+    "brand": "Esoterica",
+    "confidence": 0.95,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Esoterica Tilbury 8oz 2023": {
+    "blend": "Tilbury",
+    "brand": "Esoterica",
+    "confidence": 0.95,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Esoterica Tobacciana Tilbury Sealed Tin": {
+    "blend": "Tilbury",
+    "brand": "Esoterica",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Field and Stream 1 3/8oz. Unopened box House of Windsor": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.2,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Fribourg & Treyer - (2019) Cut Blended Plug": {
+    "blend": "Cut Blended Plug",
+    "brand": "Fribourg & Treyer",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Fribourg & Treyer - (2019) Vanners Mixture": {
+    "blend": "Vanners Mixture",
+    "brand": "Fribourg & Treyer",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Fribourg & Treyer - (2020) Vintage": {
+    "blend": "Vintage Flake",
+    "brand": "Fribourg & Treyer",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Fribourg &Treyer -  (2020) Cut Virginia Plug": {
+    "blend": "Cut Virginia Plug",
+    "brand": "Fribourg & Treyer",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "GAWITH SQUADRON LEADER": {
+    "blend": "Squadron Leader",
+    "brand": "Samuel Gawith",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "GL Pease Sealed Pipe Tobacco Tin Lot (4) – Westminster, Samarra, Meridian & Abingdon": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Gawith Hoggarth Revor Plug (2020) - 50g": {
+    "blend": "Revor Plug",
+    "brand": "Gawith, Hoggarth & Co.",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Germain’s Royal Jersey Perique Mixture 2/20 purchase date": {
+    "blend": "Royal Jersey Perique Mixture",
+    "brand": "J.F. Germain",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Germain’s Royal Jersey Perique Mixture 50g": {
+    "blend": "Royal Jersey Perique Mixture",
+    "brand": "J.F. Germain",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Honest Long Cut Tobacco 1960’s-70’s reissue": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.3,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "John Aylesbury - (2020) Luxury / Classic Flake": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.3,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "John Aylesbury - (2020) Sir John's Flake Virginia": {
+    "blend": "Sir John's Flake Virginia",
+    "brand": "John Aylesbury",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Ken Byron Ventures - (2021) Byronic Slices (Discontinued)": {
+    "blend": "Byronic Slices",
+    "brand": "Ken Byron Ventures",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Ken Byron Ventures - (2021) Count Shagula": {
+    "blend": "Count Shagula",
+    "brand": "Ken Byron Ventures",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Ken Byron Ventures - (2021) River of Deceit": {
+    "blend": "River of Deceit",
+    "brand": "Ken Byron Ventures",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Ken Byron Ventures - (2021) Sandy Row": {
+    "blend": "Sandy Row",
+    "brand": "Ken Byron Ventures",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Ken Byron Ventures - (2021) Van Gogh": {
+    "blend": "Van Gogh",
+    "brand": "Ken Byron Ventures",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Ken Byron Ventures - (2021) Your Welcome": {
+    "blend": "Your Welcome!",
+    "brand": "Ken Byron Ventures",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Mac Baren HH Vintage Syrian 2015 Sealed Tin": {
+    "blend": "HH Vintage Syrian",
+    "brand": "Mac Baren",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Margate by Esoterica - 8oz - 2017": {
+    "blend": "Margate",
+    "brand": "Esoterica",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland 2010 Celebrated Sovereign (Syrian Latakia)": {
+    "blend": "Celebrated Sovereign",
+    "brand": "Ashton",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Mixture 79 Cherry Brandy 14oz": {
+    "blend": "Mixture No. 79 Cherry & Brandy",
+    "brand": "Sutliff",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Peter Heinrichs 2024": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.3,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Peterson 3-Irish Cask, 3-Sweet Killarney": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Presbyterian Mixture 2022 and Presbyterian Ordained 2023": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Rattray’s - (2020) Hal O’ The Wynd 100g Tin": {
+    "blend": "Hal O' The Wynd",
+    "brand": "Rattray's",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Rattray’s - (2020) Old Gowrie 100g Tin": {
+    "blend": "Old Gowrie",
+    "brand": "Rattray's",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Re-List N/R Vintage & Rare Gallaher Limited Condor Long Cut (Brown)": {
+    "blend": "Long Cut",
+    "brand": "Condor",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Re-list N/R Peter Stokkebye Luxury Navy Flake. 2ozo Jar/sealed Feb 2009": {
+    "blend": "Luxury Navy Flake",
+    "brand": "Peter Stokkebye",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Samuel Gawith - (2017) Full Virginia Flake": {
+    "blend": "Full Virginia Flake",
+    "brand": "Samuel Gawith",
+    "confidence": 0.95,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Samuel Gawith - Full Virginia Mixture": {
+    "blend": "Full Virginia Mixture",
+    "brand": "Samuel Gawith",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Samuel Gawith sealed 250g box of Full Virginia Flake from 2018": {
+    "blend": "Full Virginia Flake",
+    "brand": "Samuel Gawith",
+    "confidence": 0.95,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Samuel Gawith sealed 250g box of St. James Flake from 2019": {
+    "blend": "St. James Flake",
+    "brand": "Samuel Gawith",
+    "confidence": 0.95,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Sutliff - 1 Pound of 515 RC1 Bulk (Discontinued)": {
+    "blend": "515 RC-1",
+    "brand": "Sutliff",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "The Balkan Sobranie Original Smoking Mixture Sealed Tin": {
+    "blend": "Balkan Sobranie",
+    "brand": "J.F. Germain",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Unopened Cornell & Diehl Small Batch 2021 Carolina Red Flake w/ Perique": {
+    "blend": "Carolina Red Flake with Perique",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Vintage - 2017 Erinmore Flake": {
+    "blend": "Flake",
+    "brand": "Erinmore",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Wessex - (2019) Brown Virginia Flake": {
+    "blend": "Brown Virginia Flake",
+    "brand": "Wessex",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Wessex - (2020) Campaign Dark Flake": {
+    "blend": "Brigade Campaign Dark Flake",
+    "brand": "Wessex",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Wessex - (2020) Red Virginia Flake": {
+    "blend": "Red Virginia Flake",
+    "brand": "Wessex",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Wessex - (x2) Special Brown Flake (2019&2020)": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Wessex Lot": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
   }
 }
