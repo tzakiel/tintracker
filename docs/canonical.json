@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-09T19:16:24.382399+00:00",
+  "generated": "2026-07-10T04:08:11.764329+00:00",
   "stats": {
-    "total_listings": 3848,
-    "excluded_multipacks": 1432,
+    "total_listings": 3872,
+    "excluded_multipacks": 1439,
     "total_tins": 981,
     "multi_member_tins": 429,
     "listings_in_groups": 1721,
@@ -13749,9 +13749,9 @@
             {
               "name": "Dunhill My Mixture BB1938 1.76 oz’s Pipe Tobacco Sealed Tin Made in Denmark 2018",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/199717/",
-              "price": "$32.00",
-              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "url": "https://tinbids.com/auction/201680/",
+              "price": "$27.00",
+              "last_updated": "2026-07-10T04:00:45.837853+00:00",
               "first_seen": "2026-06-25T20:13:16+00:00",
               "year": "2018",
               "price_history": [
@@ -13762,6 +13762,10 @@
                 {
                   "price": "$32.00",
                   "date": "2026-07-04T04:00:42.890669+00:00"
+                },
+                {
+                  "price": "$27.00",
+                  "date": "2026-07-10T04:00:45.837853+00:00"
                 }
               ]
             }
@@ -31409,15 +31413,19 @@
             {
               "name": "Jewel Of St James Genuine Louisiana Perique 1 OZ sealed jar",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/196929/",
-              "price": "$138.00",
-              "last_updated": "2026-06-27T04:00:27.886236+00:00",
+              "url": "https://tinbids.com/auction/201884/",
+              "price": "$72.00",
+              "last_updated": "2026-07-10T04:00:45.837853+00:00",
               "first_seen": "2026-06-26T23:39:43+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$138.00",
                   "date": "2026-06-26T23:39:43+00:00"
+                },
+                {
+                  "price": "$72.00",
+                  "date": "2026-07-10T04:00:45.837853+00:00"
                 }
               ]
             }
@@ -46246,9 +46254,9 @@
             {
               "name": "Tobacco Tin Mc Clelland Syrian Super Balkan 2004 Out of Production",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/201420/",
-              "price": "$87.00",
-              "last_updated": "2026-07-08T16:00:52.356818+00:00",
+              "url": "https://tinbids.com/auction/201686/",
+              "price": "$91.00",
+              "last_updated": "2026-07-10T04:00:45.837853+00:00",
               "first_seen": "2026-06-25T20:19:53+00:00",
               "year": "2004",
               "price_history": [
@@ -46267,6 +46275,10 @@
                 {
                   "price": "$87.00",
                   "date": "2026-07-08T16:00:52.356818+00:00"
+                },
+                {
+                  "price": "$91.00",
+                  "date": "2026-07-10T04:00:45.837853+00:00"
                 }
               ]
             }
@@ -68838,9 +68850,11 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Tobacco Tin Mc Clelland Syrian Super Balkan 2004 Out of Production": "mcclelland|syriansuperbalkan",
+    "Dunhill My Mixture BB1938 1.76 oz’s Pipe Tobacco Sealed Tin Made in Denmark 2018": "dunhill|mymixturebb1938",
+    "Jewel Of St James Genuine Louisiana Perique 1 OZ sealed jar": "jewelofstjames|perique",
     "2018 Mac Baren HH Old Dark Fired 3.5 ounce - 1 Tin NR BIN $100": "macbaren|hholddarkfired",
     "Vintage-Peter Stokkebye Luxury Bullseye Flake. Jar/sealed Jan 2007": "peterstokkebye|luxurybullseyeflake",
-    "Tobacco Tin Mc Clelland Syrian Super Balkan 2004 Out of Production": "mcclelland|syriansuperbalkan",
     "2017 Frog Morton on the log 50 gram": "mcclelland|frogmorton",
     "GL Pease 25th Anniversary Silver Jubilee": "glpease|25thanniversary",
     "McClelland - Syrian super Balkan": "mcclelland|syriansuperbalkan",
@@ -68944,7 +68958,6 @@
     "Hearth & Home Magnum Opus - 1 Tin NR BIN $60": "hearthhome|magnumopus",
     "Esoterica Tobacciana Butera’s Margate 8 oz. Sealed Pipe Tobacco Germain & Son, UK": "esoterica|margate",
     "2016 Frog Morton Across The Pond with Syrian Latakia by McClelland 10 Years of Age": "mcclelland|frogmortonacrossthepond",
-    "Dunhill My Mixture BB1938 1.76 oz’s Pipe Tobacco Sealed Tin Made in Denmark 2018": "dunhill|mymixturebb1938",
     "R & L Robert Lewis Wingfield Mixture Sealed Tin 50g Pipe Tobacco 2012": "robertlewis|wingfieldmixture",
     "Dunhill London Mixture, Painted Tin, 50g": "dunhill|londonmixture",
     "2003 Smokers Haven Exotique, 8oz": "smokershaven|exotiquemixture",
@@ -69195,7 +69208,6 @@
     "Wessex Burley Slice 50 gram": "wessex|burleyslice",
     "Gawith Hoggarth Rum Flake": "gawithhoggarthco|rumflake",
     "2017 Gawith and Hoggarth Bob's Chocolate Flake": "gawithhoggarthco|bobschocolateflake",
-    "Jewel Of St James Genuine Louisiana Perique 1 OZ sealed jar": "jewelofstjames|perique",
     "Peterson Irish Oak 50g Tin": "peterson|irishoak",
     "Vintage Dunhill My Mixture 965 (1980s-90s) Older Logo, Painted Lid (40 GRAMS) Open 50g Tin": "dunhill|mymixtureno965",
     "2013 McClelland’s British Woods - 1 Tin NR BIN $220": "mcclelland|britishwoods",
