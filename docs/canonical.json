@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-10T04:08:11.764329+00:00",
+  "generated": "2026-07-10T06:39:03.397080+00:00",
   "stats": {
-    "total_listings": 3872,
-    "excluded_multipacks": 1439,
+    "total_listings": 3888,
+    "excluded_multipacks": 1443,
     "total_tins": 981,
     "multi_member_tins": 429,
     "listings_in_groups": 1721,
@@ -25282,7 +25282,7 @@
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/save-chonkers-part-deux.44752/unread",
               "price": "$15",
-              "last_updated": "2026-07-09T06:48:17.821792+00:00",
+              "last_updated": "2026-07-10T06:38:18.226977+00:00",
               "first_seen": "2026-06-26T03:40:44+00:00",
               "year": "",
               "price_history": [
@@ -25373,6 +25373,14 @@
                 {
                   "price": "$15",
                   "date": "2026-07-09T06:48:17.821792+00:00"
+                },
+                {
+                  "price": "$16",
+                  "date": "2026-07-10T06:38:18.226977+00:00"
+                },
+                {
+                  "price": "$15",
+                  "date": "2026-07-10T06:38:18.226977+00:00"
                 }
               ]
             }
@@ -54257,7 +54265,7 @@
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/cellar-reduction-sale-all-proceeds-go-to-save-chonkers.44728/unread",
               "price": "$16",
-              "last_updated": "2026-07-09T06:48:17.821792+00:00",
+              "last_updated": "2026-07-10T06:38:18.226977+00:00",
               "first_seen": "2026-06-26T03:40:44+00:00",
               "year": "",
               "price_history": [
@@ -54440,6 +54448,18 @@
                 {
                   "price": "$16",
                   "date": "2026-07-09T06:48:17.821792+00:00"
+                },
+                {
+                  "price": "$23",
+                  "date": "2026-07-10T06:38:18.226977+00:00"
+                },
+                {
+                  "price": "$19",
+                  "date": "2026-07-10T06:38:18.226977+00:00"
+                },
+                {
+                  "price": "$16",
+                  "date": "2026-07-10T06:38:18.226977+00:00"
                 }
               ]
             },
@@ -69680,6 +69700,8 @@
     "Wessex: BURLEY SLICE 50g 2014 - C": "wessex|burleyslice",
     "Wessex: GOLD SLICE 1.5oz 2017 - C": "wessex|goldslice",
     "William Taylor Ashton:  OLD LONDON PEBBLE CUT 100g 1985- C": "ashton|oldlondonpebblecut",
+    "SG 1792 Flake 50g tin": "samuelgawith|1792flake",
+    "GH Broken Scotch Cake 50g tin": "gawithhoggarthco|brokenscotchflake",
     "Ennerdale Flake": "gawithhoggarthco|ennerdaleflake",
     "Rum Flake": "gawithhoggarthco|rumflake",
     "Cheer": "mcclelland|christmascheer",
@@ -69696,9 +69718,7 @@
     "150g 2021 Evening Flake": "erikstokkebye|eveningflake",
     "110g 2023 Evening Flake": "erikstokkebye|eveningflake",
     "65g 2021 GdO Flake": "savinelli|giubileodoroflake",
-    "SG 1792 Flake 50g tin": "samuelgawith|1792flake",
     "Sutliff Cringle Flake 2024": "sutliff|cringleflake",
-    "GH Broken Scotch Cake 50g tin": "gawithhoggarthco|brokenscotchflake",
     "Mac Baren Golden Extra": "macbaren|goldenextra",
     "Mac Baren Brunello Flake": "macbaren|brunelloflake",
     "Mac Baren HH Mature Virginia": "macbaren|hhmaturevirginia",
