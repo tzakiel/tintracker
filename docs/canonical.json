@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-11T04:07:51.436421+00:00",
+  "generated": "2026-07-11T06:39:01.058104+00:00",
   "stats": {
-    "total_listings": 3933,
+    "total_listings": 3941,
     "excluded_multipacks": 1453,
     "total_tins": 981,
     "multi_member_tins": 429,
@@ -25354,7 +25354,7 @@
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/save-chonkers-part-deux.44752/unread",
               "price": "$15",
-              "last_updated": "2026-07-10T06:38:18.226977+00:00",
+              "last_updated": "2026-07-11T06:38:16.139194+00:00",
               "first_seen": "2026-06-26T03:40:44+00:00",
               "year": "",
               "price_history": [
@@ -25453,6 +25453,14 @@
                 {
                   "price": "$15",
                   "date": "2026-07-10T06:38:18.226977+00:00"
+                },
+                {
+                  "price": "$16",
+                  "date": "2026-07-11T06:38:16.139194+00:00"
+                },
+                {
+                  "price": "$15",
+                  "date": "2026-07-11T06:38:16.139194+00:00"
                 }
               ]
             }
@@ -54357,7 +54365,7 @@
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/cellar-reduction-sale-all-proceeds-go-to-save-chonkers.44728/unread",
               "price": "$16",
-              "last_updated": "2026-07-10T06:38:18.226977+00:00",
+              "last_updated": "2026-07-11T06:38:16.139194+00:00",
               "first_seen": "2026-06-26T03:40:44+00:00",
               "year": "",
               "price_history": [
@@ -54552,6 +54560,18 @@
                 {
                   "price": "$16",
                   "date": "2026-07-10T06:38:18.226977+00:00"
+                },
+                {
+                  "price": "$23",
+                  "date": "2026-07-11T06:38:16.139194+00:00"
+                },
+                {
+                  "price": "$19",
+                  "date": "2026-07-11T06:38:16.139194+00:00"
+                },
+                {
+                  "price": "$16",
+                  "date": "2026-07-11T06:38:16.139194+00:00"
                 }
               ]
             },
