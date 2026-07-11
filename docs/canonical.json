@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-10T19:16:18.367875+00:00",
+  "generated": "2026-07-11T04:07:51.436421+00:00",
   "stats": {
-    "total_listings": 3906,
-    "excluded_multipacks": 1447,
+    "total_listings": 3933,
+    "excluded_multipacks": 1453,
     "total_tins": 981,
     "multi_member_tins": 429,
     "listings_in_groups": 1721,
@@ -42428,15 +42428,19 @@
             {
               "name": "50 Gram Tin Of McClelland Frog Morton Pipe Tobacco",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/199794/",
-              "price": "$94.00",
-              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "url": "https://tinbids.com/auction/202292/",
+              "price": "$112.00",
+              "last_updated": "2026-07-11T04:00:49.995844+00:00",
               "first_seen": "2026-07-04T00:23:28+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$94.00",
                   "date": "2026-07-04T00:23:28+00:00"
+                },
+                {
+                  "price": "$112.00",
+                  "date": "2026-07-11T04:00:49.995844+00:00"
                 }
               ]
             },
@@ -68958,6 +68962,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "50 Gram Tin Of McClelland Frog Morton Pipe Tobacco": "mcclelland|frogmorton",
     "McClelland 221B Series: Honeydew 2015 NR": "mcclelland|221bhoneydew",
     "Germain Royal Jersey: Perique Mixture 2009 NR": "jfgermain|royaljerseyperiquemixture",
     "Dunhill Standard Mixture Medium 2009 NR": "dunhill|standardmixturemedium",
@@ -69091,7 +69096,6 @@
     "2016 Sutliff Private Stock, \"Berkshire\".": "sutliff|berkshire",
     "Vintage 2017 - Dunhill Ye Olde Signe - 50g": "dunhill|yeoldesigne",
     "Sutliff Phantom Privateer Barrel Aged Crumble Cake No 6": "sutliff|no6phantom",
-    "50 Gram Tin Of McClelland Frog Morton Pipe Tobacco": "mcclelland|frogmorton",
     "1999 McCrannies Prime 1983 Red Virginia": "mccranies|redflake",
     "HEINE'S BLEND Smoking Tobacco (1980s) 1.5 OZ. Sealed Box": "sutliff|heinesblend",
     "MIXTURE No. 79 Smoking Tobacco (1970s-1980s?) 1.5 OZ. Sealed Box": "sutliff|mixtureno79",
