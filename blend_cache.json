@@ -23051,21 +23051,21 @@
   },
   "Stanislaw / Samuel Gawith Scottish Autumn Flake 2015 NR": {
     "blend": "Scottish Autumn Flake",
-    "brand": "Stanislaw",
+    "brand": "Samuel Gawith",
     "confidence": 0.7,
     "is_tin": true,
     "source": "llm"
   },
   "Stanislaw / Samuel Gawith Spring Time Flake 2015 NR": {
     "blend": "Spring Time Flake",
-    "brand": "Stanislaw",
+    "brand": "Samuel Gawith",
     "confidence": 0.7,
     "is_tin": true,
     "source": "llm"
   },
   "Stanislaw / Samuel Gawith Winter Time Flake 2015 NR": {
     "blend": "Winter Time Flake",
-    "brand": "Stanislaw",
+    "brand": "Samuel Gawith",
     "confidence": 0.7,
     "is_tin": true,
     "source": "llm"
@@ -23099,14 +23099,14 @@
     "source": "llm"
   },
   "Sutliff - Crumble Kake Barrel Aged Series No.4 Limited Edition 64/4200": {
-    "blend": "Crumble Kake Barrel Aged",
+    "blend": "Crumble Kake Barrel Aged No. 4",
     "brand": "Sutliff",
     "confidence": 0.65,
     "is_tin": true,
     "source": "llm"
   },
   "Sutliff - Crumble Kake Red Virginia": {
-    "blend": "Crumble Kake Red Virginia",
+    "blend": "Crumble Kake Red Virginias",
     "brand": "Sutliff",
     "confidence": 0.75,
     "is_tin": true,
@@ -23436,7 +23436,7 @@
   },
   "House of Craven Murray’s era Craven Mixture 50g tin – Year 1988": {
     "blend": "Craven Mixture",
-    "brand": "Craven",
+    "brand": "House of Craven",
     "confidence": 0.6,
     "is_tin": true,
     "source": "llm"
@@ -23568,7 +23568,7 @@
     "source": "llm"
   },
   "McClelland’s CPCC Rich Virginia Ribbon 50g tins – Year 2016": {
-    "blend": "Rich Virginia Ribbon",
+    "blend": "CPCC Rich Virginia Ribbon",
     "brand": "McClelland",
     "confidence": 0.6,
     "is_tin": true,

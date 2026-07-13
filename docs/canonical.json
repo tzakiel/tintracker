@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-13T17:15:04.822417+00:00",
+  "generated": "2026-07-13T17:25:42.604229+00:00",
   "stats": {
     "total_listings": 4091,
     "excluded_multipacks": 1520,
-    "total_tins": 1066,
-    "multi_member_tins": 475,
-    "listings_in_groups": 1964,
-    "cross_source_tins": 319
+    "total_tins": 1061,
+    "multi_member_tins": 477,
+    "listings_in_groups": 1971,
+    "cross_source_tins": 321
   },
   "tins": [
     {
@@ -11984,44 +11984,6 @@
       ],
       "years": [],
       "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "craven|cravenmixture",
-      "brand": "Craven",
-      "blend": "Craven Mixture",
-      "display_name": "Craven Craven Mixture",
-      "sources": [
-        "pipestud.com"
-      ],
-      "sizes": [
-        {
-          "quantity": "50g",
-          "members": [
-            {
-              "name": "House of Craven Murray’s era Craven Mixture 50g tin – Year 1988",
-              "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/house-of-craven-murrays-era-craven-mixture-50g-tin-year-1988-3/",
-              "price": "$150.00",
-              "last_updated": "2026-07-11T17:13:37.793839+00:00",
-              "first_seen": "2026-07-11T17:13:37.793839+00:00",
-              "year": "1988",
-              "price_history": [
-                {
-                  "price": "$150.00",
-                  "date": "2026-07-11T17:13:37.793839+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "pipestud.com"
-          ]
-        }
-      ],
-      "years": [
-        "1988"
-      ],
-      "source": "pipestud.com"
     },
     {
       "id": "cult|abacus",
@@ -26392,6 +26354,29 @@
       ],
       "sizes": [
         {
+          "quantity": "2oz",
+          "members": [
+            {
+              "name": "GL Pease Virginia Cream 2025 - 2 oz",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/buncha-random-tobacco-sealed-and-unsealed-2-cobs.44061/",
+              "price": "$18",
+              "last_updated": "2026-06-24T02:02:09.029335+00:00",
+              "first_seen": "2026-02-28T22:25:02+00:00",
+              "year": "2025",
+              "price_history": [
+                {
+                  "price": "$18",
+                  "date": "2026-06-24T02:02:09.029335+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        },
+        {
           "quantity": "",
           "members": [
             {
@@ -26415,7 +26400,9 @@
           ]
         }
       ],
-      "years": [],
+      "years": [
+        "2025"
+      ],
       "source": "Speak-Easy.Club"
     },
     {
@@ -26681,44 +26668,6 @@
         "2015"
       ],
       "source": "4noggins.com"
-    },
-    {
-      "id": "glpease|virginiacream",
-      "brand": "G.L. Pease",
-      "blend": "Virginia Cream",
-      "display_name": "G.L. Pease Virginia Cream",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "2oz",
-          "members": [
-            {
-              "name": "GL Pease Virginia Cream 2025 - 2 oz",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/buncha-random-tobacco-sealed-and-unsealed-2-cobs.44061/",
-              "price": "$18",
-              "last_updated": "2026-06-24T02:02:09.029335+00:00",
-              "first_seen": "2026-02-28T22:25:02+00:00",
-              "year": "2025",
-              "price_history": [
-                {
-                  "price": "$18",
-                  "date": "2026-06-24T02:02:09.029335+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [
-        "2025"
-      ],
-      "source": "Speak-Easy.Club"
     },
     {
       "id": "glpease|westminster",
@@ -31664,6 +31613,21 @@
                   "date": "2026-06-28T22:57:37+00:00"
                 }
               ]
+            },
+            {
+              "name": "House of Craven Murray’s era Craven Mixture 50g tin – Year 1988",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/house-of-craven-murrays-era-craven-mixture-50g-tin-year-1988-3/",
+              "price": "$150.00",
+              "last_updated": "2026-07-11T17:13:37.793839+00:00",
+              "first_seen": "2026-07-11T17:13:37.793839+00:00",
+              "year": "1988",
+              "price_history": [
+                {
+                  "price": "$150.00",
+                  "date": "2026-07-11T17:13:37.793839+00:00"
+                }
+              ]
             }
           ],
           "sources": [
@@ -31673,7 +31637,8 @@
         }
       ],
       "years": [
-        "1970"
+        "1970",
+        "1988"
       ],
       "source": "Multiple sources"
     },
@@ -45915,6 +45880,7 @@
       "blend": "CPCC Rich Virginia Ribbon",
       "display_name": "McClelland CPCC Rich Virginia Ribbon",
       "sources": [
+        "pipestud.com",
         "Tinbids Auction (Sold)",
         "4noggins.com"
       ],
@@ -45951,16 +45917,33 @@
                   "date": "2026-06-21T02:45:17.226279+00:00"
                 }
               ]
+            },
+            {
+              "name": "McClelland’s CPCC Rich Virginia Ribbon 50g tins – Year 2016",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-cpcc-rich-virginia-ribbon-50g-tins-year-2016/",
+              "price": "$65.00",
+              "last_updated": "2026-07-11T17:13:37.793839+00:00",
+              "first_seen": "2026-07-11T17:13:37.793839+00:00",
+              "year": "2016",
+              "price_history": [
+                {
+                  "price": "$65.00",
+                  "date": "2026-07-11T17:13:37.793839+00:00"
+                }
+              ]
             }
           ],
           "sources": [
+            "pipestud.com",
             "Tinbids Auction (Sold)",
             "4noggins.com"
           ]
         }
       ],
       "years": [
-        "2015"
+        "2015",
+        "2016"
       ],
       "source": "Multiple sources"
     },
@@ -49758,44 +49741,6 @@
         "2017"
       ],
       "source": "Multiple sources"
-    },
-    {
-      "id": "mcclelland|richvirginiaribbon",
-      "brand": "McClelland",
-      "blend": "Rich Virginia Ribbon",
-      "display_name": "McClelland Rich Virginia Ribbon",
-      "sources": [
-        "pipestud.com"
-      ],
-      "sizes": [
-        {
-          "quantity": "50g",
-          "members": [
-            {
-              "name": "McClelland’s CPCC Rich Virginia Ribbon 50g tins – Year 2016",
-              "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-cpcc-rich-virginia-ribbon-50g-tins-year-2016/",
-              "price": "$65.00",
-              "last_updated": "2026-07-11T17:13:37.793839+00:00",
-              "first_seen": "2026-07-11T17:13:37.793839+00:00",
-              "year": "2016",
-              "price_history": [
-                {
-                  "price": "$65.00",
-                  "date": "2026-07-11T17:13:37.793839+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "pipestud.com"
-          ]
-        }
-      ],
-      "years": [
-        "2016"
-      ],
-      "source": "pipestud.com"
     },
     {
       "id": "mcclelland|ringlowsyrianreserve",
@@ -63178,6 +63123,7 @@
       "blend": "Scottish Autumn Flake",
       "display_name": "Samuel Gawith Scottish Autumn Flake",
       "sources": [
+        "Tinbids Auction (Sold)",
         "Speak-Easy.Club"
       ],
       "sizes": [
@@ -63198,15 +63144,33 @@
                   "date": "2024-10-06T22:24:57+00:00"
                 }
               ]
+            },
+            {
+              "name": "Stanislaw / Samuel Gawith Scottish Autumn Flake 2015 NR",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/200734/",
+              "price": "$40.00",
+              "last_updated": "2026-07-07T16:00:50.767711+00:00",
+              "first_seen": "2026-07-07T05:00:47+00:00",
+              "year": "2015",
+              "price_history": [
+                {
+                  "price": "$40.00",
+                  "date": "2026-07-07T05:00:47+00:00"
+                }
+              ]
             }
           ],
           "sources": [
+            "Tinbids Auction (Sold)",
             "Speak-Easy.Club"
           ]
         }
       ],
-      "years": [],
-      "source": "Speak-Easy.Club"
+      "years": [
+        "2015"
+      ],
+      "source": "Multiple sources"
     },
     {
       "id": "samuelgawith|skiffmixture",
@@ -63393,6 +63357,44 @@
         "2021"
       ],
       "source": "Multiple sources"
+    },
+    {
+      "id": "samuelgawith|springtimeflake",
+      "brand": "Samuel Gawith",
+      "blend": "Spring Time Flake",
+      "display_name": "Samuel Gawith Spring Time Flake",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Stanislaw / Samuel Gawith Spring Time Flake 2015 NR",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/200728/",
+              "price": "$42.00",
+              "last_updated": "2026-07-07T16:00:50.767711+00:00",
+              "first_seen": "2026-07-07T04:56:07+00:00",
+              "year": "2015",
+              "price_history": [
+                {
+                  "price": "$42.00",
+                  "date": "2026-07-07T04:56:07+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [
+        "2015"
+      ],
+      "source": "Tinbids Auction (Sold)"
     },
     {
       "id": "samuelgawith|squadronleader",
@@ -64181,6 +64183,44 @@
         "2020"
       ],
       "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "samuelgawith|wintertimeflake",
+      "brand": "Samuel Gawith",
+      "blend": "Winter Time Flake",
+      "display_name": "Samuel Gawith Winter Time Flake",
+      "sources": [
+        "Tinbids Auction (Sold)"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Stanislaw / Samuel Gawith Winter Time Flake 2015 NR",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/200725/",
+              "price": "$40.00",
+              "last_updated": "2026-07-07T16:00:50.767711+00:00",
+              "first_seen": "2026-07-07T04:53:49+00:00",
+              "year": "2015",
+              "price_history": [
+                {
+                  "price": "$40.00",
+                  "date": "2026-07-07T04:53:49+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
+        }
+      ],
+      "years": [
+        "2015"
+      ],
+      "source": "Tinbids Auction (Sold)"
     },
     {
       "id": "savinelli|140thanniversary",
@@ -66350,120 +66390,6 @@
         "2021"
       ],
       "source": "Multiple sources"
-    },
-    {
-      "id": "stanislaw|scottishautumnflake",
-      "brand": "Stanislaw",
-      "blend": "Scottish Autumn Flake",
-      "display_name": "Stanislaw Scottish Autumn Flake",
-      "sources": [
-        "Tinbids Auction (Sold)"
-      ],
-      "sizes": [
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Stanislaw / Samuel Gawith Scottish Autumn Flake 2015 NR",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/200734/",
-              "price": "$40.00",
-              "last_updated": "2026-07-07T16:00:50.767711+00:00",
-              "first_seen": "2026-07-07T05:00:47+00:00",
-              "year": "2015",
-              "price_history": [
-                {
-                  "price": "$40.00",
-                  "date": "2026-07-07T05:00:47+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Tinbids Auction (Sold)"
-          ]
-        }
-      ],
-      "years": [
-        "2015"
-      ],
-      "source": "Tinbids Auction (Sold)"
-    },
-    {
-      "id": "stanislaw|springtimeflake",
-      "brand": "Stanislaw",
-      "blend": "Spring Time Flake",
-      "display_name": "Stanislaw Spring Time Flake",
-      "sources": [
-        "Tinbids Auction (Sold)"
-      ],
-      "sizes": [
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Stanislaw / Samuel Gawith Spring Time Flake 2015 NR",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/200728/",
-              "price": "$42.00",
-              "last_updated": "2026-07-07T16:00:50.767711+00:00",
-              "first_seen": "2026-07-07T04:56:07+00:00",
-              "year": "2015",
-              "price_history": [
-                {
-                  "price": "$42.00",
-                  "date": "2026-07-07T04:56:07+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Tinbids Auction (Sold)"
-          ]
-        }
-      ],
-      "years": [
-        "2015"
-      ],
-      "source": "Tinbids Auction (Sold)"
-    },
-    {
-      "id": "stanislaw|wintertimeflake",
-      "brand": "Stanislaw",
-      "blend": "Winter Time Flake",
-      "display_name": "Stanislaw Winter Time Flake",
-      "sources": [
-        "Tinbids Auction (Sold)"
-      ],
-      "sizes": [
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Stanislaw / Samuel Gawith Winter Time Flake 2015 NR",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/200725/",
-              "price": "$40.00",
-              "last_updated": "2026-07-07T16:00:50.767711+00:00",
-              "first_seen": "2026-07-07T04:53:49+00:00",
-              "year": "2015",
-              "price_history": [
-                {
-                  "price": "$40.00",
-                  "date": "2026-07-07T04:53:49+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Tinbids Auction (Sold)"
-          ]
-        }
-      ],
-      "years": [
-        "2015"
-      ],
-      "source": "Tinbids Auction (Sold)"
     },
     {
       "id": "stanwell|melange",
@@ -69023,42 +68949,6 @@
       "source": "Speak-Easy.Club"
     },
     {
-      "id": "sutliff|crumblekakebarrelaged",
-      "brand": "Sutliff",
-      "blend": "Crumble Kake Barrel Aged",
-      "display_name": "Sutliff Crumble Kake Barrel Aged",
-      "sources": [
-        "Tinbids Auction (Sold)"
-      ],
-      "sizes": [
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Sutliff - Crumble Kake Barrel Aged Series No.4 Limited Edition 64/4200",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/201232/",
-              "price": "$40.00",
-              "last_updated": "2026-07-08T16:00:52.356818+00:00",
-              "first_seen": "2026-07-08T03:52:16+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$40.00",
-                  "date": "2026-07-08T03:52:16+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Tinbids Auction (Sold)"
-          ]
-        }
-      ],
-      "years": [],
-      "source": "Tinbids Auction (Sold)"
-    },
-    {
       "id": "sutliff|crumblekakebarrelagedno1",
       "brand": "Sutliff",
       "blend": "Crumble Kake Barrel Aged No. 1",
@@ -69152,10 +69042,10 @@
       "source": "Multiple sources"
     },
     {
-      "id": "sutliff|crumblekakeredvirginia",
+      "id": "sutliff|crumblekakebarrelagedno4",
       "brand": "Sutliff",
-      "blend": "Crumble Kake Red Virginia",
-      "display_name": "Sutliff Crumble Kake Red Virginia",
+      "blend": "Crumble Kake Barrel Aged No. 4",
+      "display_name": "Sutliff Crumble Kake Barrel Aged No. 4",
       "sources": [
         "Tinbids Auction (Sold)"
       ],
@@ -69164,17 +69054,17 @@
           "quantity": "",
           "members": [
             {
-              "name": "Sutliff - Crumble Kake Red Virginia",
+              "name": "Sutliff - Crumble Kake Barrel Aged Series No.4 Limited Edition 64/4200",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/201233/",
-              "price": "$39.00",
+              "url": "https://tinbids.com/auction/201232/",
+              "price": "$40.00",
               "last_updated": "2026-07-08T16:00:52.356818+00:00",
-              "first_seen": "2026-07-08T03:52:50+00:00",
+              "first_seen": "2026-07-08T03:52:16+00:00",
               "year": "",
               "price_history": [
                 {
-                  "price": "$39.00",
-                  "date": "2026-07-08T03:52:50+00:00"
+                  "price": "$40.00",
+                  "date": "2026-07-08T03:52:16+00:00"
                 }
               ]
             }
@@ -69193,6 +69083,7 @@
       "blend": "Crumble Kake Red Virginias",
       "display_name": "Sutliff Crumble Kake Red Virginias",
       "sources": [
+        "Tinbids Auction (Sold)",
         "Speak-Easy.Club"
       ],
       "sizes": [
@@ -69233,12 +69124,35 @@
           "sources": [
             "Speak-Easy.Club"
           ]
+        },
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Sutliff - Crumble Kake Red Virginia",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/201233/",
+              "price": "$39.00",
+              "last_updated": "2026-07-08T16:00:52.356818+00:00",
+              "first_seen": "2026-07-08T03:52:50+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$39.00",
+                  "date": "2026-07-08T03:52:50+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)"
+          ]
         }
       ],
       "years": [
         "2019"
       ],
-      "source": "Speak-Easy.Club"
+      "source": "Multiple sources"
     },
     {
       "id": "sutliff|crumblekakevirginiaperique",
@@ -75722,7 +75636,7 @@
     "James J. Fox Original Dorisco Mixture 50g tin – Year 1998": "jamesjfox|doriscomixture",
     "James J. Fox Original Dorisco Mixture 50g tin – Year 2012": "jamesjfox|doriscomixture",
     "Wessex Premier Subtle Aroma 50g tin – 1990’s era": "wessex|premiersubtlearoma",
-    "House of Craven Murray’s era Craven Mixture 50g tin – Year 1988": "craven|cravenmixture",
+    "House of Craven Murray’s era Craven Mixture 50g tin – Year 1988": "houseofcraven|cravenmixture",
     "Robert McConnell’s Original Oriental 50g tins – Year 1996": "robertmcconnell|originaloriental",
     "Davidoff Royalty 50g tin – Year 2008": "davidoff|royalty",
     "Wessex Golden Virginia Flake 50g tins – Year 2012": "wessex|goldenvirginiaflake",
@@ -75774,7 +75688,7 @@
     "Mac Baren’s HH Old Dark Fired 50g tin – Year 2016": "macbaren|hholddarkfired",
     "McClelland’s Boston 1776 in a 50g tin – Year 2010": "mcclelland|boston1776",
     "Mac Baren’s HH Bold Kentucky 50g tin – Year 2015": "macbaren|hhboldkentucky",
-    "McClelland’s CPCC Rich Virginia Ribbon 50g tins – Year 2016": "mcclelland|richvirginiaribbon",
+    "McClelland’s CPCC Rich Virginia Ribbon 50g tins – Year 2016": "mcclelland|cpccrichvirginiaribbon",
     "McClelland’s Boston 1776 in a 50g tin – Year 2017": "mcclelland|boston1776",
     "McClelland’s Butera’s Royal Vintage Latakia No.1 in a 50g tin – Year 2010": "butera|latakiano1",
     "McClelland’s Butera’s Royal Vintage Latakia No.1 in a 50g tin – Year 1995": "butera|latakiano1",
@@ -76131,8 +76045,8 @@
     "Samuel Gawith Bracken Flake - pre-2009": "samuelgawith|brackenflake",
     "Savinelli Doblone d'Oro 100g 2018": "savinelli|doblonedoro",
     "2017 Frog Morton on the log 50 gram": "mcclelland|frogmorton",
-    "Sutliff - Crumble Kake Barrel Aged Series No.4 Limited Edition 64/4200": "sutliff|crumblekakebarrelaged",
-    "Sutliff - Crumble Kake Red Virginia": "sutliff|crumblekakeredvirginia",
+    "Sutliff - Crumble Kake Barrel Aged Series No.4 Limited Edition 64/4200": "sutliff|crumblekakebarrelagedno4",
+    "Sutliff - Crumble Kake Red Virginia": "sutliff|crumblekakeredvirginias",
     "Cornell & Diehl Midnight Orchard 2oz Pipe Tobacco": "cornelldiehl|midnightorchard",
     "1940's Three Castles": "wills|threecastles",
     "22 Years Vintage 2004 Butera Blended Flake": "butera|blendedflake",
@@ -76170,9 +76084,9 @@
     "1 Sealed 50g Tin Esoterica And So To Bed 2026": "esoterica|andsotobed",
     "Dunhill My Mixture 221B Baker St. 2017 NR": "dunhill|mymixture221bbakerstreet",
     "MacBaren Ogden’s St. Bruno Flake 2016 NR": "macbaren|stbrunoflake",
-    "Stanislaw / Samuel Gawith Winter Time Flake 2015 NR": "stanislaw|wintertimeflake",
-    "Stanislaw / Samuel Gawith Spring Time Flake 2015 NR": "stanislaw|springtimeflake",
-    "Stanislaw / Samuel Gawith Scottish Autumn Flake 2015 NR": "stanislaw|scottishautumnflake",
+    "Stanislaw / Samuel Gawith Winter Time Flake 2015 NR": "samuelgawith|wintertimeflake",
+    "Stanislaw / Samuel Gawith Spring Time Flake 2015 NR": "samuelgawith|springtimeflake",
+    "Stanislaw / Samuel Gawith Scottish Autumn Flake 2015 NR": "samuelgawith|scottishautumnflake",
     "Peterson 6-Irish Cask": "peterson|irishcask",
     "Peterson 4-Irish Cask": "peterson|irishcask",
     "Ken Byron Jupiter Slices (2020)": "kenbyronventures|jupiterslices",
@@ -77838,7 +77752,7 @@
     "Iwan Ries Three Star Blue - 7 oz": "iwanries|threestarblue",
     "Sutliff Molto Dolce 2024 - 1.5 oz": "sutliff|moltodolce",
     "Carolina Red Flake 2019 - 2 oz": "cornelldiehl|carolinaredflake",
-    "GL Pease Virginia Cream 2025 - 2 oz": "glpease|virginiacream",
+    "GL Pease Virginia Cream 2025 - 2 oz": "glpease|thevirginiacream",
     "P Jensen Port Guardian 2025 - 2 oz": "perjensen|portguardian",
     "Sutliff Blend 07 date unknown - 1.5 oz": "sutliff|blend07",
     "Erik Stokkebye 4th Generation Limited Edition 2025 100g": "erikstokkebye|4thgenerationlimitededition",
