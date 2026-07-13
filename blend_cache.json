@@ -3775,7 +3775,7 @@
     "confidence": 0.95
   },
   "100g Doblone d'Oro": {
-    "brand": "Mac Baren",
+    "brand": "Savinelli",
     "blend": "Doblone d'Oro",
     "is_tin": true,
     "confidence": 0.82
@@ -6580,8 +6580,8 @@
     "confidence": 0.98
   },
   "Sav Doblone d'Oro 100g 2019": {
-    "brand": "Mac Baren",
-    "blend": "Doblone d’Oro",
+    "brand": "Savinelli",
+    "blend": "Doblone d'Oro",
     "is_tin": true,
     "confidence": 0.88
   },
@@ -9540,7 +9540,7 @@
     "source": "llm"
   },
   "Macbaren Doblone D'oro, 3.5oz round tin + 1oz loose,": {
-    "brand": "Mac Baren",
+    "brand": "Savinelli",
     "blend": "Doblone d'Oro",
     "confidence": 0.9,
     "is_tin": true,
@@ -11543,8 +11543,8 @@
     "confidence": 0.99
   },
   "C & D Captain Earle's Ten Russians 2oz 2017": {
-    "brand": "Cornell & Diehl",
-    "blend": "Captain Earle's Ten Russians",
+    "brand": "Captain Earle's",
+    "blend": "Ten Russians",
     "is_tin": true,
     "confidence": 0.95
   },
@@ -11999,7 +11999,7 @@
     "confidence": 0.99
   },
   "Doblone doro": {
-    "brand": "Mac Baren",
+    "brand": "Savinelli",
     "blend": "Doblone d'Oro",
     "is_tin": true,
     "confidence": 0.9
@@ -15047,13 +15047,13 @@
     "confidence": 0.99
   },
   "Ten Russians 2015": {
-    "brand": "Cornell & Diehl",
+    "brand": "Captain Earle's",
     "blend": "Ten Russians",
     "is_tin": true,
     "confidence": 0.9
   },
   "Ten Russians 2016": {
-    "brand": "Cornell & Diehl",
+    "brand": "Captain Earle's",
     "blend": "Ten Russians",
     "is_tin": true,
     "confidence": 0.9
@@ -18234,7 +18234,7 @@
     "confidence": 0.9
   },
   "Mac Baren Doblone D'Oro": {
-    "brand": "Mac Baren",
+    "brand": "Savinelli",
     "blend": "Doblone d'Oro",
     "is_tin": true,
     "confidence": 0.9
@@ -22672,8 +22672,8 @@
     "source": "llm"
   },
   "Excellent Sealed 2019 C&D Captain Earle's Pressed Ten Russians 8oz. Tin": {
-    "blend": "Captain Earle's Ten Russians",
-    "brand": "Cornell & Diehl",
+    "blend": "Ten Russians",
+    "brand": "Captain Earle's",
     "confidence": 0.8,
     "is_tin": true,
     "source": "llm"

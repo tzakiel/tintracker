@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-13T17:25:42.604229+00:00",
+  "generated": "2026-07-13T17:37:07.815284+00:00",
   "stats": {
     "total_listings": 4091,
     "excluded_multipacks": 1520,
-    "total_tins": 1061,
-    "multi_member_tins": 477,
+    "total_tins": 1058,
+    "multi_member_tins": 474,
     "listings_in_groups": 1971,
-    "cross_source_tins": 321
+    "cross_source_tins": 320
   },
   "tins": [
     {
@@ -4084,15 +4084,96 @@
                   "date": "2026-06-22T13:53:20.063064+00:00"
                 }
               ]
+            },
+            {
+              "name": "C & D Captain Earle's Ten Russians 2oz 2017",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/getting-rid-of-tins-and-mylar.44365/",
+              "price": "$15",
+              "last_updated": "2026-06-25T20:46:10.923480+00:00",
+              "first_seen": "2026-04-19T17:38:27+00:00",
+              "year": "2017",
+              "price_history": [
+                {
+                  "price": "$15",
+                  "date": "2026-04-19T17:38:27+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Tinbids Auction (Sold)",
+            "Speak-Easy.Club"
+          ]
+        },
+        {
+          "quantity": "8oz",
+          "members": [
+            {
+              "name": "Excellent Sealed 2019 C&D Captain Earle's Pressed Ten Russians 8oz. Tin",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/201768/",
+              "price": "$42.00",
+              "last_updated": "2026-07-08T04:00:53.107133+00:00",
+              "first_seen": "2026-07-07T18:48:05+00:00",
+              "year": "2019",
+              "price_history": [
+                {
+                  "price": "$42.00",
+                  "date": "2026-07-07T18:48:05+00:00"
+                }
+              ]
             }
           ],
           "sources": [
             "Tinbids Auction (Sold)"
           ]
+        },
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Ten Russians 2015",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/ok-we-are-done-thanks.40508/",
+              "price": "$20",
+              "last_updated": "2026-06-25T20:46:10.923480+00:00",
+              "first_seen": "2024-06-26T04:42:53+00:00",
+              "year": "2015",
+              "price_history": [
+                {
+                  "price": "$20",
+                  "date": "2024-06-26T04:42:53+00:00"
+                }
+              ]
+            },
+            {
+              "name": "Ten Russians 2016",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/ok-we-are-done-thanks.40508/",
+              "price": "$53",
+              "last_updated": "2026-06-25T20:46:10.923480+00:00",
+              "first_seen": "2024-06-26T04:42:53+00:00",
+              "year": "2016",
+              "price_history": [
+                {
+                  "price": "$53",
+                  "date": "2024-06-26T04:42:53+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
         }
       ],
       "years": [
-        "2005"
+        "2005",
+        "2015",
+        "2016",
+        "2017",
+        "2019"
       ],
       "source": "Multiple sources"
     },
@@ -5815,69 +5896,6 @@
       "years": [
         "2018",
         "2020"
-      ],
-      "source": "Multiple sources"
-    },
-    {
-      "id": "cornelldiehl|captainearlestenrussians",
-      "brand": "Cornell & Diehl",
-      "blend": "Captain Earle's Ten Russians",
-      "display_name": "Cornell & Diehl Captain Earle's Ten Russians",
-      "sources": [
-        "Tinbids Auction (Sold)",
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "2oz",
-          "members": [
-            {
-              "name": "C & D Captain Earle's Ten Russians 2oz 2017",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/getting-rid-of-tins-and-mylar.44365/",
-              "price": "$15",
-              "last_updated": "2026-06-25T20:46:10.923480+00:00",
-              "first_seen": "2026-04-19T17:38:27+00:00",
-              "year": "2017",
-              "price_history": [
-                {
-                  "price": "$15",
-                  "date": "2026-04-19T17:38:27+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        },
-        {
-          "quantity": "8oz",
-          "members": [
-            {
-              "name": "Excellent Sealed 2019 C&D Captain Earle's Pressed Ten Russians 8oz. Tin",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/201768/",
-              "price": "$42.00",
-              "last_updated": "2026-07-08T04:00:53.107133+00:00",
-              "first_seen": "2026-07-07T18:48:05+00:00",
-              "year": "2019",
-              "price_history": [
-                {
-                  "price": "$42.00",
-                  "date": "2026-07-07T18:48:05+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Tinbids Auction (Sold)"
-          ]
-        }
-      ],
-      "years": [
-        "2017",
-        "2019"
       ],
       "source": "Multiple sources"
     },
@@ -10919,60 +10937,6 @@
       "years": [
         "2019",
         "2020"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
-      "id": "cornelldiehl|tenrussians",
-      "brand": "Cornell & Diehl",
-      "blend": "Ten Russians",
-      "display_name": "Cornell & Diehl Ten Russians",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Ten Russians 2015",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/ok-we-are-done-thanks.40508/",
-              "price": "$20",
-              "last_updated": "2026-06-25T20:46:10.923480+00:00",
-              "first_seen": "2024-06-26T04:42:53+00:00",
-              "year": "2015",
-              "price_history": [
-                {
-                  "price": "$20",
-                  "date": "2024-06-26T04:42:53+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Ten Russians 2016",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/ok-we-are-done-thanks.40508/",
-              "price": "$53",
-              "last_updated": "2026-06-25T20:46:10.923480+00:00",
-              "first_seen": "2024-06-26T04:42:53+00:00",
-              "year": "2016",
-              "price_history": [
-                {
-                  "price": "$53",
-                  "date": "2024-06-26T04:42:53+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [
-        "2015",
-        "2016"
       ],
       "source": "Speak-Easy.Club"
     },
@@ -38279,120 +38243,6 @@
       "source": "Multiple sources"
     },
     {
-      "id": "macbaren|doblonedoro",
-      "brand": "Mac Baren",
-      "blend": "Doblone d'Oro",
-      "display_name": "Mac Baren Doblone d'Oro",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "3.5oz",
-          "members": [
-            {
-              "name": "Macbaren Doblone D'oro, 3.5oz round tin + 1oz loose,",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/selling-a-chunk-of-my-cellar.44637/",
-              "price": "$40",
-              "last_updated": "2026-06-24T02:02:09.029335+00:00",
-              "first_seen": "2026-06-13T02:23:45+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$40",
-                  "date": "2026-06-24T02:02:09.029335+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        },
-        {
-          "quantity": "100g",
-          "members": [
-            {
-              "name": "100g Doblone d’Oro",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/til-brun-org-mf-hotw-cbg-baloney.40736/",
-              "price": "$20",
-              "last_updated": "2026-06-24T02:02:09.029335+00:00",
-              "first_seen": "2024-07-29T01:03:10+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$20",
-                  "date": "2026-06-24T02:02:09.029335+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Sav Doblone d’Oro 100g 2019",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/lots-of-tins.29798/",
-              "price": "$17",
-              "last_updated": "2026-06-24T02:02:09.029335+00:00",
-              "first_seen": "2020-09-24T01:30:04+00:00",
-              "year": "2019",
-              "price_history": [
-                {
-                  "price": "$17",
-                  "date": "2026-06-24T02:02:09.029335+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        },
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Mac Baren Doblone D'Oro",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/selling-a-chunk-of-my-cellar.44637/",
-              "price": "$55.00",
-              "last_updated": "2026-06-29T23:33:11.991005+00:00",
-              "first_seen": "2026-06-13T00:39:45+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$55.00",
-                  "date": "2026-06-13T00:39:45+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Doblone doro",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/i-am-once-again-asking-for-your-financial-support.44485/",
-              "price": "$15",
-              "last_updated": "2026-06-25T20:46:10.923480+00:00",
-              "first_seen": "2026-05-16T00:12:06+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$15",
-                  "date": "2026-05-16T00:12:06+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [
-        "2019"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
       "id": "macbaren|goldenextra",
       "brand": "Mac Baren",
       "blend": "Golden Extra",
@@ -64513,6 +64363,29 @@
       ],
       "sizes": [
         {
+          "quantity": "3.5oz",
+          "members": [
+            {
+              "name": "Macbaren Doblone D'oro, 3.5oz round tin + 1oz loose,",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/selling-a-chunk-of-my-cellar.44637/",
+              "price": "$40",
+              "last_updated": "2026-06-24T02:02:09.029335+00:00",
+              "first_seen": "2026-06-13T02:23:45+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$40",
+                  "date": "2026-06-24T02:02:09.029335+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        },
+        {
           "quantity": "100g",
           "members": [
             {
@@ -64531,6 +64404,21 @@
               ]
             },
             {
+              "name": "100g Doblone d’Oro",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/til-brun-org-mf-hotw-cbg-baloney.40736/",
+              "price": "$20",
+              "last_updated": "2026-06-24T02:02:09.029335+00:00",
+              "first_seen": "2024-07-29T01:03:10+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$20",
+                  "date": "2026-06-24T02:02:09.029335+00:00"
+                }
+              ]
+            },
+            {
               "name": "Savinelli Doblone d'Oro 100g 2018",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/203131/",
@@ -64544,6 +64432,21 @@
                   "date": "2026-07-09T02:45:39+00:00"
                 }
               ]
+            },
+            {
+              "name": "Sav Doblone d’Oro 100g 2019",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/lots-of-tins.29798/",
+              "price": "$17",
+              "last_updated": "2026-06-24T02:02:09.029335+00:00",
+              "first_seen": "2020-09-24T01:30:04+00:00",
+              "year": "2019",
+              "price_history": [
+                {
+                  "price": "$17",
+                  "date": "2026-06-24T02:02:09.029335+00:00"
+                }
+              ]
             }
           ],
           "sources": [
@@ -64554,6 +64457,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "Mac Baren Doblone D'Oro",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/selling-a-chunk-of-my-cellar.44637/",
+              "price": "$55.00",
+              "last_updated": "2026-06-29T23:33:11.991005+00:00",
+              "first_seen": "2026-06-13T00:39:45+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$55.00",
+                  "date": "2026-06-13T00:39:45+00:00"
+                }
+              ]
+            },
             {
               "name": "Doblone D'Oro",
               "source": "Speak-Easy.Club",
@@ -64568,6 +64486,21 @@
                   "date": "2026-06-13T00:39:45+00:00"
                 }
               ]
+            },
+            {
+              "name": "Doblone doro",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/i-am-once-again-asking-for-your-financial-support.44485/",
+              "price": "$15",
+              "last_updated": "2026-06-25T20:46:10.923480+00:00",
+              "first_seen": "2026-05-16T00:12:06+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$15",
+                  "date": "2026-05-16T00:12:06+00:00"
+                }
+              ]
             }
           ],
           "sources": [
@@ -64576,7 +64509,8 @@
         }
       ],
       "years": [
-        "2018"
+        "2018",
+        "2019"
       ],
       "source": "Multiple sources"
     },
@@ -76063,7 +75997,7 @@
     "Viking Denmark William the Conqueror 50g": "viking|williamtheconqueror",
     "Very Nice Sealed 2021 Hearth & Home Black House 50g. Tin": "hearthhome|blackhouse",
     "Very Nice Sealed 2018 Dunhill Durbar Mixture 50g. Tin": "dunhill|durbar",
-    "Excellent Sealed 2019 C&D Captain Earle's Pressed Ten Russians 8oz. Tin": "cornelldiehl|captainearlestenrussians",
+    "Excellent Sealed 2019 C&D Captain Earle's Pressed Ten Russians 8oz. Tin": "captainearles|tenrussians",
     "Very Nice Sealed 2017 McClelland's Frog Morton 100g. Tin": "mcclelland|frogmorton",
     "22 Year Vintage (2004). Orlik Tobacco Company.  Dark Kentucky": "orlik|darkstrongkentucky",
     "Barlings Tradition - 50g": "barling|tradition",
@@ -77044,7 +76978,7 @@
     "Dan Salty Dogs": "dantobacco|saltydogs",
     "Dunhill Dark Flake": "dunhill|darkflake",
     "Mac Baren Dark Twist Roll Cake": "macbaren|darktwistrollcake",
-    "Mac Baren Doblone D'Oro": "macbaren|doblonedoro",
+    "Mac Baren Doblone D'Oro": "savinelli|doblonedoro",
     "Mac Baren HH Latakia Flake": "macbaren|hhlatakiaflake",
     "Mac Baren St. Bruno Flake": "macbaren|stbrunoflake",
     "Mac Baren Vanilla Cream": "macbaren|vanillacreamflake",
@@ -77247,7 +77181,7 @@
     "Eleventh day of Christmas": "ravenwood|eleventhdayofchristmas",
     "3oz golden extra": "macbaren|goldenextra",
     "Brunello": "savinelli|brunelloflake",
-    "Doblone doro": "macbaren|doblonedoro",
+    "Doblone doro": "savinelli|doblonedoro",
     "'24 Petersons Nightcap 50g": "peterson|nightcap",
     "'24 Mac Baren Old Dark Fired 3.5oz (100g)": "macbaren|hholddarkfired",
     "'23 C&D From Beyond 2oz (56g)": "cornelldiehl|frombeyond",
@@ -77299,7 +77233,7 @@
     "H & H El Nino 50G 2016": "hearthhome|elnino",
     "John Aylesbury Classic Flake 50g 2020": "johnaylesbury|classicflake",
     "Rattray's Black Mallory 100g 2017": "rattrays|blackmallory",
-    "C & D Captain Earle's Ten Russians 2oz 2017": "cornelldiehl|captainearlestenrussians",
+    "C & D Captain Earle's Ten Russians 2oz 2017": "captainearles|tenrussians",
     "C & D Speakeasy Navy Blend 2oz 2017": "cornelldiehl|speakeasynavyblend",
     "C & D Two Friends English Chocolate 8oz 2016": "cornelldiehl|twofriendsenglishchocolate",
     "Dan Tobacco Old Ironsides 50g 2018": "dantobacco|oldironsides",
@@ -77563,9 +77497,9 @@
     "50g Mallard + Perique": "dantobacco|themallardflakeplusperique",
     "(1) SG Brown Sugar Flake": "samuelgawith|brownsugarflake",
     "JackKnife Plug 2021": "glpease|jackknifeplug",
-    "Ten Russians 2016": "cornelldiehl|tenrussians",
+    "Ten Russians 2016": "captainearles|tenrussians",
     "Capt. Earles Honor Blend  2021": "captainearles|honorblend",
-    "Ten Russians 2015": "cornelldiehl|tenrussians",
+    "Ten Russians 2015": "captainearles|tenrussians",
     "Westminster 2020": "glpease|westminster",
     "Charring Cross 2021": "glpease|charingcross",
     "Union Square 2021": "glpease|unionsquare",
@@ -77584,7 +77518,7 @@
     "Aylesbury Red, 1.76oz jar,": "johnaylesbury|red",
     "Dan Milonga, 1.76oz tin,": "dantobacco|milonga",
     "Macbaren Brunello Flake, 3.5oz square tin,": "macbaren|brunelloflake",
-    "Macbaren Doblone D'oro, 3.5oz round tin + 1oz loose,": "macbaren|doblonedoro",
+    "Macbaren Doblone D'oro, 3.5oz round tin + 1oz loose,": "savinelli|doblonedoro",
     "Macbaren Golden Extra, 6.5oz jar,": "macbaren|goldenextra",
     "Macbaren Vanilla Cream loose cut, 3.5oz jar,": "macbaren|vanillacreamflake",
     "Rattray Brown Clunee, 1.76oz round tin,": "rattrays|brownclunee",
@@ -77714,7 +77648,7 @@
     "Kendal Plug 250g 2019 in mylar": "samuelgawith|kendalplug",
     "Tilbury 8 oz. bag (bag in mylar)": "esoterica|tilbury",
     "Dunbar 8 oz bag": "esoterica|dunbar",
-    "Sav Doblone d’Oro 100g 2019": "macbaren|doblonedoro",
+    "Sav Doblone d’Oro 100g 2019": "savinelli|doblonedoro",
     "Boston 1776 50g 2010": "mcclelland|boston1776",
     "Samuel Gawith Full Virginia Plug 250g 2019 in mylar": "samuelgawith|fullvirginiaplug",
     "x light of of the universe (": "cornelldiehl|orolamlightoftheuniverse",
@@ -78168,7 +78102,7 @@
     "McClelland Royal Cajun Dark (2002):": "mcclelland|royalcajundark",
     "50g McClelland Organic Flake": "mcclelland|organicflake",
     "100g HotW": "rattrays|halothewynd",
-    "100g Doblone d’Oro": "macbaren|doblonedoro",
+    "100g Doblone d’Oro": "savinelli|doblonedoro",
     "2oz Tilbury": "esoterica|tilbury",
     "Tub o’ Captain Black Grape": "captainblack|grape",
     "100g Marlin Flake": "rattrays|marlinflake",
