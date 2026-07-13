@@ -21494,5 +21494,355 @@
     "confidence": 0.9,
     "is_tin": false,
     "source": "llm"
+  },
+  "Cornell & Diehl: Small Batch: CAROLINA RED FLAKE 2019 2oz - C": {
+    "blend": "Carolina Red Flake",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.95,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Cornell & Diehl: Small Batch: SANSEPOLCRO 2019 2oz - C": {
+    "blend": "Sansepolcro",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland: BOMBAY EXTRA 100g 2002 - C": {
+    "blend": "Bombay Extra",
+    "brand": "McClelland",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "1lb 2022 MB Virginia flake": {
+    "blend": "Virginia Flake",
+    "brand": "Mac Baren",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "1lb 2022 NM400": {
+    "blend": "No. 400 Superior Navy Flake",
+    "brand": "Newminster",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "1lb 2024 LBF": {
+    "blend": "Luxury Bullseye Flake",
+    "brand": "Peter Stokkebye",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "24oz 2023 LNF": {
+    "blend": "Luxury Navy Flake",
+    "brand": "Peter Stokkebye",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "After Hours Flake": {
+    "blend": "After Hours Flake",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "After giving it a fair shot, I’ve come to the conclusion straight Virginias aren’t in my wheelhouse. As such, I’m looking to trade off these six Wessex Gold Bricks I have. There are three from ‘24, two from May of this year, and one from June. I figure the value is around": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "All three": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Anthology": {
+    "blend": "Anthology",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Black ash burl bent billiard": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Black ash burl paneled dublin": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Black ash burl straight billiard": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Blockade Runner": {
+    "blend": "Blockade Runner",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Bourbon Bleu": {
+    "blend": "Bourbon Bleu",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Box elder burl straight dublin": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Briar Fox": {
+    "blend": "Briar Fox",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Bright night": {
+    "blend": "Bright Night",
+    "brand": "Hearth & Home",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "C&D 2026": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.2,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Carolina Christmas": {
+    "blend": "Carolina Christmas",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Cigars are": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Corn Cob Pipe": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Drawdown": {
+    "blend": "Drawdown",
+    "brand": "Missouri Meerschaum",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Eight State Burley x3": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Escudo": {
+    "blend": "Escudo Navy Deluxe",
+    "brand": "STG",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Everything else": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Exhausted rooster": {
+    "blend": "Exhausted Rooster",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Haunted Bookshop Cake x2": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Hey guys. Doing some cleanup and draw down on the cellar and want to pass some good onto others. I think I’ve priced these fairly. If I’m way off, please let me know. Add": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "I do have table pipes on the shelf. Hawaiian koa, wenge, and one bloodwood available. Comes with a bent acrylic stem": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Jamaican Flake (first release after renaming I believe)": {
+    "blend": "Jamaican Flake",
+    "brand": "Gawith, Hoggarth & Co.",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "John Cotton burley": {
+    "blend": "Double Pressed Burley",
+    "brand": "John Cotton's",
+    "confidence": 0.7,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Jolly Old St Nicholas x2": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "KBV Yama - 2": {
+    "blend": "Yama",
+    "brand": "Ken Byron Ventures",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Kings watch": {
+    "blend": "King's Watch",
+    "brand": "Per Jensen",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Montgomery 2024": {
+    "blend": "Montgomery",
+    "brand": "G.L. Pease",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Morta w/ padauk ‘stripe’": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Nording Labrador": {
+    "blend": "Labrador",
+    "brand": "Nording",
+    "confidence": 0.75,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Oak Alley": {
+    "blend": "Oak Alley",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Opus #4 perfexion x3": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Opus Robusto x3": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Padron x1": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Party Line": {
+    "blend": "Party Line",
+    "brand": "Missouri Meerschaum",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Pinkerton Half and Half (pre-STG)": {
+    "blend": "Half and Half",
+    "brand": "Pinkerton",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Plumb Pudding": {
+    "blend": "Plum Pudding",
+    "brand": "Seattle Pipe Club",
+    "confidence": 0.7,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "RCTR 13oz": {
+    "blend": "RCTR",
+    "brand": "L.J. Peretti",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Ravenwood dread pirate Robert’s": {
+    "blend": "Dread Pirate Roberts",
+    "brand": "Ravenwood",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Ravenwood frog Morton chalet": {
+    "blend": "Frog Morton's Chalet",
+    "brand": "Ravenwood",
+    "confidence": 0.75,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Ravenwood the idol": {
+    "blend": "The Idol",
+    "brand": "Ravenwood",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
   }
 }
