@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-14T15:14:18.357864+00:00",
+  "generated": "2026-07-14T16:08:46.431625+00:00",
   "stats": {
-    "total_listings": 4187,
-    "excluded_multipacks": 1536,
+    "total_listings": 4201,
+    "excluded_multipacks": 1537,
     "total_tins": 1058,
     "multi_member_tins": 474,
     "listings_in_groups": 1971,
@@ -1180,7 +1180,7 @@
             {
               "name": "Ashton Rainy Day NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/198058/",
+              "url": "https://tinbids.com/auction/203840/",
               "price": "$10.00",
               "last_updated": "2026-06-30T16:00:51.219994+00:00",
               "first_seen": "2026-06-30T05:02:53+00:00",
@@ -13957,9 +13957,9 @@
             {
               "name": "Dunhill The Aperitif 2017 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/200715/",
-              "price": "$54.00",
-              "last_updated": "2026-07-07T16:00:50.767711+00:00",
+              "url": "https://tinbids.com/auction/203818/",
+              "price": "$40.00",
+              "last_updated": "2026-07-14T16:00:57.634372+00:00",
               "first_seen": "2026-06-30T04:19:25+00:00",
               "year": "2017",
               "price_history": [
@@ -13970,6 +13970,10 @@
                 {
                   "price": "$54.00",
                   "date": "2026-07-07T16:00:50.767711+00:00"
+                },
+                {
+                  "price": "$40.00",
+                  "date": "2026-07-14T16:00:57.634372+00:00"
                 }
               ]
             }
@@ -14197,9 +14201,9 @@
             {
               "name": "Dunhill Dark Flake 2016 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/200709/",
-              "price": "$62.00",
-              "last_updated": "2026-07-07T16:00:50.767711+00:00",
+              "url": "https://tinbids.com/auction/203809/",
+              "price": "$41.00",
+              "last_updated": "2026-07-14T16:00:57.634372+00:00",
               "first_seen": "2026-06-30T04:15:38+00:00",
               "year": "2016",
               "price_history": [
@@ -14210,6 +14214,10 @@
                 {
                   "price": "$62.00",
                   "date": "2026-07-07T16:00:50.767711+00:00"
+                },
+                {
+                  "price": "$41.00",
+                  "date": "2026-07-14T16:00:57.634372+00:00"
                 }
               ]
             }
@@ -16656,9 +16664,9 @@
             {
               "name": "Dunhill “Ye Olde Signe” 2016 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/200706/",
-              "price": "$70.00",
-              "last_updated": "2026-07-07T16:00:50.767711+00:00",
+              "url": "https://tinbids.com/auction/203812/",
+              "price": "$40.00",
+              "last_updated": "2026-07-14T16:00:57.634372+00:00",
               "first_seen": "2026-06-30T04:13:35+00:00",
               "year": "2016",
               "price_history": [
@@ -16669,6 +16677,10 @@
                 {
                   "price": "$70.00",
                   "date": "2026-07-07T16:00:50.767711+00:00"
+                },
+                {
+                  "price": "$40.00",
+                  "date": "2026-07-14T16:00:57.634372+00:00"
                 }
               ]
             }
@@ -42486,9 +42498,9 @@
             {
               "name": "MacBaren Stockton Spun Cut Limited Edition 2020 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/200721/",
-              "price": "$66.00",
-              "last_updated": "2026-07-07T16:00:50.767711+00:00",
+              "url": "https://tinbids.com/auction/203833/",
+              "price": "$43.00",
+              "last_updated": "2026-07-14T16:00:57.634372+00:00",
               "first_seen": "2026-06-23T16:00:46.765633+00:00",
               "year": "2020",
               "price_history": [
@@ -42503,6 +42515,10 @@
                 {
                   "price": "$66.00",
                   "date": "2026-07-07T16:00:50.767711+00:00"
+                },
+                {
+                  "price": "$43.00",
+                  "date": "2026-07-14T16:00:57.634372+00:00"
                 }
               ]
             }
@@ -75978,6 +75994,10 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "MacBaren Stockton Spun Cut Limited Edition 2020 NR": "macbaren|stocktonspuncut",
+    "Dunhill “Ye Olde Signe” 2016 NR": "dunhill|yeoldesigne",
+    "Dunhill Dark Flake 2016 NR": "dunhill|darkflake",
+    "Dunhill The Aperitif 2017 NR": "dunhill|aperitif",
     "DUNHILL MY MIXTURE BB1938 - 11 YEARS OLD (2015)": "dunhill|mymixturebb1938",
     "Cornell & Diehl Small Batch Sun Bear Navy Cask": "cornelldiehl|sunbearnavycask",
     "(2022) Cornell & Diehl - Carolina Red Flake (Small Batch)": "cornelldiehl|carolinaredflake",
@@ -76157,11 +76177,7 @@
     "Re-list Mac Baren Plumcake 8ozo - Rare Fireside Industries distributor era!": "macbaren|plumcake",
     "1960s Rattray’s Black Mallory Sealed 4 oz Cutter Top Tin, Perth Scotland": "rattrays|blackmallory",
     "Esoterica - Margate - 2oz": "esoterica|margate",
-    "MacBaren Stockton Spun Cut Limited Edition 2020 NR": "macbaren|stocktonspuncut",
-    "Dunhill “Ye Olde Signe” 2016 NR": "dunhill|yeoldesigne",
-    "Dunhill Dark Flake 2016 NR": "dunhill|darkflake",
     "Dunhill Durbar Mixture 2018 NR": "dunhill|durbar",
-    "Dunhill The Aperitif 2017 NR": "dunhill|aperitif",
     "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
     "2017 Tin of Balkan Blue Pipe Tobacco by Mclelland with about 9 years of age": "mcclelland|balkanblue",
     "1 Sealed 50g Tin Esoterica And So To Bed 2026": "esoterica|andsotobed",
