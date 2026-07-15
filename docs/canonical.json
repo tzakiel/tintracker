@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-14T19:16:14.856698+00:00",
+  "generated": "2026-07-15T04:08:58.268026+00:00",
   "stats": {
-    "total_listings": 4201,
-    "excluded_multipacks": 1537,
+    "total_listings": 4226,
+    "excluded_multipacks": 1540,
     "total_tins": 1058,
     "multi_member_tins": 474,
     "listings_in_groups": 1971,
@@ -32676,15 +32676,19 @@
             {
               "name": "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/198830/",
-              "price": "$187.00",
-              "last_updated": "2026-06-30T04:00:36.030360+00:00",
+              "url": "https://tinbids.com/auction/204798/",
+              "price": "$154.00",
+              "last_updated": "2026-07-15T04:00:49.070316+00:00",
               "first_seen": "2026-06-29T23:23:52+00:00",
               "year": "2005",
               "price_history": [
                 {
                   "price": "$187.00",
                   "date": "2026-06-29T23:23:52+00:00"
+                },
+                {
+                  "price": "$154.00",
+                  "date": "2026-07-15T04:00:49.070316+00:00"
                 }
               ]
             }
@@ -43874,9 +43878,9 @@
             {
               "name": "2017 Tin of Balkan Blue Pipe Tobacco by Mclelland with about 9 years of age",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/200906/",
-              "price": "$157.99",
-              "last_updated": "2026-07-07T16:00:50.767711+00:00",
+              "url": "https://tinbids.com/auction/203987/",
+              "price": "$102.00",
+              "last_updated": "2026-07-15T04:00:49.070316+00:00",
               "first_seen": "2026-06-26T19:21:06+00:00",
               "year": "2017",
               "price_history": [
@@ -43887,6 +43891,10 @@
                 {
                   "price": "$157.99",
                   "date": "2026-07-07T16:00:50.767711+00:00"
+                },
+                {
+                  "price": "$102.00",
+                  "date": "2026-07-15T04:00:49.070316+00:00"
                 }
               ]
             }
@@ -76010,6 +76018,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "2017 Tin of Balkan Blue Pipe Tobacco by Mclelland with about 9 years of age": "mcclelland|balkanblue",
+    "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
     "MacBaren Stockton Spun Cut Limited Edition 2020 NR": "macbaren|stocktonspuncut",
     "Dunhill “Ye Olde Signe” 2016 NR": "dunhill|yeoldesigne",
     "Dunhill Dark Flake 2016 NR": "dunhill|darkflake",
@@ -76195,7 +76205,6 @@
     "Esoterica - Margate - 2oz": "esoterica|margate",
     "Dunhill Durbar Mixture 2018 NR": "dunhill|durbar",
     "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
-    "2017 Tin of Balkan Blue Pipe Tobacco by Mclelland with about 9 years of age": "mcclelland|balkanblue",
     "1 Sealed 50g Tin Esoterica And So To Bed 2026": "esoterica|andsotobed",
     "Dunhill My Mixture 221B Baker St. 2017 NR": "dunhill|mymixture221bbakerstreet",
     "MacBaren Ogden’s St. Bruno Flake 2016 NR": "macbaren|stbrunoflake",
@@ -76439,7 +76448,6 @@
     "Very Nice Sealed in Package Gallaher's Condor Plug 25g Tiny Pack": "condor|plug",
     "Very Nice 2002 G. L. Pease Tribute 2nd Edition 2oz Tin": "glpease|tribute",
     "Excellent Sealed 2016 Our Best Blend by Smokers Haven 2oz. Tin": "smokershaven|ourbestblend",
-    "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
     "Very Nice Sealed 2020 Mac Baren HH Rustica Limited Edition No. 3865 of 7100 3.5oz. Tin": "macbaren|hhrustica",
     "Very Nice Sealed 2021 Gawith Hoggarth Ennerdale 500g. in Box": "gawithhoggarthco|ennerdaleflake",
     "Very Nice Sealed 2017 McClelland's Frog Morton on the Town 100g. Tin": "mcclelland|frogmortononthetown",
