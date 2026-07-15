@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-15T06:38:50.873165+00:00",
+  "generated": "2026-07-15T16:09:10.623523+00:00",
   "stats": {
-    "total_listings": 4231,
+    "total_listings": 4235,
     "excluded_multipacks": 1543,
     "total_tins": 1058,
     "multi_member_tins": 474,
@@ -13357,15 +13357,19 @@
             {
               "name": "Davidoff Flake Medallions 2016",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/198698/",
-              "price": "$42.00",
-              "last_updated": "2026-07-02T04:00:37.105804+00:00",
+              "url": "https://tinbids.com/auction/204193/",
+              "price": "$33.00",
+              "last_updated": "2026-07-15T16:01:03.107150+00:00",
               "first_seen": "2026-07-01T18:52:58+00:00",
               "year": "2016",
               "price_history": [
                 {
                   "price": "$42.00",
                   "date": "2026-07-01T18:52:58+00:00"
+                },
+                {
+                  "price": "$33.00",
+                  "date": "2026-07-15T16:01:03.107150+00:00"
                 }
               ]
             }
@@ -76018,6 +76022,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Davidoff Flake Medallions 2016": "davidoff|flakemedallions",
     "2017 Tin of Balkan Blue Pipe Tobacco by Mclelland with about 9 years of age": "mcclelland|balkanblue",
     "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
     "MacBaren Stockton Spun Cut Limited Edition 2020 NR": "macbaren|stocktonspuncut",
@@ -76367,7 +76372,6 @@
     "Sealed Mac Baren HH Acadian Perique 1.75oz. Tin from 2020. Rare, Hard to Find, and Discontinued Tobacco": "macbaren|hhacadianperique",
     "Escudo Navy De Luxe 2016": "stg|escudonavydeluxe",
     "100G Orlik Golden Sliced 2016": "orlik|goldensliced",
-    "Davidoff Flake Medallions 2016": "davidoff|flakemedallions",
     "Russ Ouellette Fire storm 2016": "russouellette|firestorm",
     "Large tin Plum cake Navy Blend 2016": "macbaren|plumcake",
     "Vintage - 2017 Dunhill Elizabethan Mixture - 50g": "dunhill|elizabethanmixture",
