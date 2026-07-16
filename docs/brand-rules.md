@@ -132,12 +132,24 @@ Note: "H&H Anniversary Flake" = Hearth & Home (not Mac Baren). "HH Anniversary K
 - **Bell's** — vintage brand for **Three Nuns** (created 1890s by J & F Bell, Glasgow; later Imperial/Ogden's). Kept as its OWN brand entry, separate from **Mac Baren | Three Nuns** (Mac Baren has made it since the 2013 US reintroduction, with a changed recipe: VaPer → Va + dark-fired Kentucky). A vintage/"BELLS"-titled Three Nuns tin → brand `Bell's`; a modern one → brand `Mac Baren`.
 - **Brigham** — Canadian pipe brand that ALSO makes tobacco (blended in Germany); blend: **"Klondike Gold"** (Virginia flake). Do not mark as pipe when a blend name is present.
 - **Peter Stokkebye** — numbered PS bulk range; **No. 84 / PS-84 = "Turkish Export"** (Turkish Samsun + Virginia).
+- **McClelland club blends** — carry the club prefix in the blend name, like the existing `CPCC Rich Virginia Ribbon`. **CORPS** = Conclave of Richmond Pipe Smokers (e.g. "CORPS 15th Anniversary", "CORPS 22nd Anniversary", "CORPS Vanilla Ice", "CORPS Quantum"); brand stays `McClelland`. **PCCA** and **CPCC** follow the same pattern.
+- **McClelland numbered bulk, named forms** — **2010 → "2010 Classic Virginia"**, **2015 → "2015 Virginia Perique Flake"**, **5100 → "5100 Red Cake"**. Never leave a bare number as the blend name; canonical always carries the name (cf. "2020 Matured Cake", "No. 2035 Dark Navy Flake").
+- **John Middleton** — US brand (King of Prussia, PA; est. 1856). Makes **"Carter Hall"** (bought from R.J. Reynolds in 1987), **"Walnut"**, **"Hickory"**. Carter Hall is a *blend of John Middleton*, NOT its own brand.
+- **Cup O' Joes** — US retailer/blender with a house line; blend: **"#6 Skookum"** (straight Virginia).
+- **Schürch** — Swiss; hand-blended by Hans Schürch since 1964, blends named for gemstones: **"Onyx 128"**, "Mogano 146", "Snowflake (132)", "Sangstone".
+- **Paul Olsen** — vintage brand; seller titles say "STANDARD nnn" → canonical blend is **"No. nnn"** (e.g. "Standard 800" → "No. 800", "Standard 222" → "No. 222").
+- **Captain Black** — canonical brand is `Captain Black` (TobaccoReviews files these under Lane Limited — do NOT use Lane Limited). Blends: "Gold", "Grape", "Original", and the **Premium Edition** tins **"Red Sky"** and **"Black Sea"** (blend = colour name only, no "Premium Edition" prefix).
+- **Dunhill** — also makes **"Campaign Mixture"** (1916, blended for WWI expeditionary forces; debut of the cutter-top tin).
+- **Watch City** — also makes **"Crumble Bee"** (bright Virginia crumble cake, honey topping).
+- **Ravenwood** — also makes **"Smaug's Breath"** (sold via The Briar Fellowship, James Ravenwood's outfit).
+- **Samuel Gawith Four Season series** — "Irish Spring Flake", **"English Summer Flake"**, "Scottish Autumn Flake", "Winter Time Flake" are an SG / **Stanislaw** / DTM collaboration. A title reading "Stanislaw / Samuel Gawith …" → brand **Samuel Gawith** (TobaccoReviews files them under SG); Stanislaw is the collaborator, not the brand.
+- **Bosun Cut Plug / Bosun Plug** → **Gawith, Hoggarth & Co.**, never Samuel Gawith, even when the seller's title says "Samuel Gawith Bosun Cut Plug" (seen 2026-07-16).
 - **McCranie's** — "RR" = Red Ribbon; "1983 Crop" = Red Flake (1983 crop Virginia)
 - **Rattray's** — also makes: "Stirling Flake", "Accountant's Mixture", "40 Virginia", "Black Mallory", "Hal O' The Wynd", "Red Rapparee", "Black Virginia", "Old Gowrie", "Professional Mixture", "Bagpiper's Dream", "Brown Clunee", "Jock's Mixture"
 - **Dan Tobacco** (canonical name; "Dan" alone = Dan Tobacco) — also makes: "Devil's Holiday", "Hamborger Veermaster", "Salty Dog", "Dan Milonga", "The Mallard", "Midnight Ride", "Tordenskjold Virginia Slices", "Gordon Pym"
 - **Sutliff** — also makes: "Paradoxical" (Birds of a Feather series), "Match Victorian", "Maple Shadows", "Maple Shadows II", "Chocolate Supreme D54", "Anomalous", "Privateer", "No. 6 Phantom", "Cringle Flake", "Eastfarthing", "Sweated", "TS1R", "J4 Burley", "Barrel Aged series", "515 RC-1", "507-C", "701 Crème Brûlée", "707 Sweet Virginia", "Bengal Slices", "War Horse Bar"
 - **Erik Stokkebye** — distinct from Peter Stokkebye; "4th Generation" series: bare "4th Generation" = "4th Generation 1931" (default); also "4th Generation 1989", "4th Generation Resolution", "4th Generation Night Slice", "Evening Flake"
-- **STG (Scandinavian Tobacco Group)** — makes "Escudo Navy Deluxe" (blend name = "Escudo Navy Deluxe"); bare "Escudo" alone is NOT a valid entry — always expand to "Escudo Navy Deluxe". Also makes "Balkan Sasieni" (blend name = "Balkan Sasieni", NOT "Sasieni Balkan"). Does NOT make Balkan Sobranie. (Granger is a separate standalone brand, not STG.)
+- **STG (Scandinavian Tobacco Group)** — makes **"Escudo Navy De Luxe"** (canonical blend name — note the space in "De Luxe"; "Deluxe"/"DeLuxe" are seller spellings and must be normalized); bare "Escudo" alone is NOT a valid entry — always expand to "Escudo Navy De Luxe". Also makes "Balkan Sasieni" (blend name = "Balkan Sasieni", NOT "Sasieni Balkan"). Does NOT make Balkan Sobranie. (Granger is a separate standalone brand, not STG.)
 - **Erinmore** — brand (STG/Mac Baren); main tin blend = "Flake"; bare "Erinmore" without sub-name = Erinmore Flake
 - **Robert McConnell** — makes "Scottish Cake", "Black Flake", "Folded Flake"
 - **Ashton** — makes "Artisan's Blend" (English/Syrian Latakia)
@@ -172,7 +184,7 @@ Note: "H&H Anniversary Flake" = Hearth & Home (not Mac Baren). "HH Anniversary K
 - **Davidoff Medallion** → is_tin: false (pipe); Davidoff Green Mixture = tobacco
 - **HU** → HU Tobacco (German brand), NOT Hermit Umbra
 - **"Rainer Levant" / "Rainier Levant"** → brand: "Seattle Pipe Club", blend: "Rainier Levant" (**NOT Reiner** — Reiner makes no Levant blend). SPC's tribute to Drucquer & Sons' Levant Mixture; named for Mt. Rainier. Sellers frequently misspell it "Rainer", which looks like the German brand Reiner. Canonical: `Sutliff | SPC Rainier Levant` (consolidate.py applies the SPC year split).
-- **"Escudo" bare** → always expand to brand: "STG", blend: "Escudo Navy Deluxe"; never leave as just "Escudo"
+- **"Escudo" bare** → always expand to brand: "STG", blend: **"Escudo Navy De Luxe"**; never leave as just "Escudo". Canonical spells it **"De Luxe"** (two words) — sellers write "Deluxe"/"DeLuxe"; always normalize to the canonical two-word form or the tin splits into a duplicate.
 - **"Paradoxical"** → always brand: "Sutliff", blend: "Paradoxical" — including titles that say "Birds of a Feather", "Bird Blends", or "Per Jensen"/"Per Georg Jensen" (that's the series/designer name, not the brand; Sutliff manufactures and sells it). NOT Cornell & Diehl, NOT "Per Jensen" as brand (user confirmed 2026-07-01, reversing an earlier attempt to split it into two brands).
 
 ---
@@ -260,7 +272,7 @@ These are confirmed tobacco brands not yet heavily represented in the cache. Whe
 | Barclay-Rex | NYC tobacconist; house blends |
 | Bond Street | classic aromatic blend (various manufacturers over time) |
 | Borkum Riff | Swedish Match aromatic brand |
-| Carter Hall | Standard Commercial Corp; American Burley aromatic |
+| ~~Carter Hall~~ | NOT a brand — it is a **John Middleton** blend (`John Middleton \| Carter Hall`). See the John Middleton entry above. |
 | Casey Jones | budget American aromatic line (pouches/cans); blends include "Beyond Brave" (user confirmed 2026-07-04) |
 | Clan | Swedish Match; aromatic blend |
 | Condor | classic UK ready-rubbed |
