@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-15T19:20:53.183489+00:00",
+  "generated": "2026-07-16T04:07:25.156481+00:00",
   "stats": {
-    "total_listings": 4235,
+    "total_listings": 4260,
     "excluded_multipacks": 1543,
     "total_tins": 1058,
     "multi_member_tins": 474,
@@ -65676,15 +65676,19 @@
             {
               "name": "2003 Smokers Haven Cognac 8oz",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/199136/",
-              "price": "$850.00",
-              "last_updated": "2026-07-03T04:00:41.010349+00:00",
+              "url": "https://tinbids.com/auction/204350/",
+              "price": "$870.00",
+              "last_updated": "2026-07-16T04:00:47.048591+00:00",
               "first_seen": "2026-07-02T17:27:37+00:00",
               "year": "2003",
               "price_history": [
                 {
                   "price": "$850.00",
                   "date": "2026-07-02T17:27:37+00:00"
+                },
+                {
+                  "price": "$870.00",
+                  "date": "2026-07-16T04:00:47.048591+00:00"
                 }
               ]
             }
@@ -76086,6 +76090,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "2003 Smokers Haven Cognac 8oz": "smokershaven|cognacblend",
     "Davidoff Flake Medallions 2016": "davidoff|flakemedallions",
     "2017 Tin of Balkan Blue Pipe Tobacco by Mclelland with about 9 years of age": "mcclelland|balkanblue",
     "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
@@ -76405,7 +76410,6 @@
     "Re-list!*2008* Vintage ~ Dunhill  The Royal Yacht": "dunhill|royalyacht",
     "2013 McCLELLAND GRAND ORIENTALS BLACK SEA SOKHOUM approx. 1.9 ounces": "mcclelland|grandorientalsblackseasokhoum",
     "Fribourg & Treyer Vintage 50g tin SEALED": "fribourgtreyer|vintageflake",
-    "2003 Smokers Haven Cognac 8oz": "smokershaven|cognacblend",
     "2004 Smokers Haven Exotique, 8oz": "smokershaven|exotiquemixture",
     "McClelland Christmas Cheer 2008 8oz": "mcclelland|christmascheer",
     "HH MacBaren Vintage Syrian (2017) Discontinued": "macbaren|hhvintagesyrian",
