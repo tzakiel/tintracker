@@ -38,6 +38,8 @@ Update this file whenever a new brand rule or correction is learned during a `/p
 | NM403 | Newminster No. 403 |
 | AJ's VaPer | Hearth & Home AJ's VaPer |
 | LGF | Reiner Long Golden Flake (brand: Reiner, blend: Long Golden Flake) |
+| MM 965 / MM965 | Dunhill My Mixture No. 965 (canonical blend name; alias exists) |
+| PS-84 / No. 84 | Peter Stokkebye Turkish Export |
 
 ---
 
@@ -126,6 +128,10 @@ Note: "H&H Anniversary Flake" = Hearth & Home (not Mac Baren). "HH Anniversary K
 - **Samuel Gawith** — also makes: "Hansom Flake" (correct spelling, not "Hansome"), "Balkan Flake", "Bothy Flake", "Chocolate Flake", "Commonwealth", "Perfection", "Best Brown Flake", "SJ Plug", "Skiff Mixture", "Navy Flake"
 - **Gawith, Hoggarth & Co.** — also makes: "Curly Cut Deluxe", "Rum Twist Rope", "Whiskey Rope", "Brown Slice", "Dark Plug", "Grasmere Flake", "Latakie Medium Cut", "Rich Dark Honeydew", "Revor Plug", "Sliced Brown Twist". **"Louisiana Flake" → canonical blend name is "LA Flake"** (GH's own abbreviation); the Burnt Ends variant = **"LA Flake Burnt Ends"** (not "Louisiana Flake Burnt Ends").
 - **McClelland** — also makes: "Navy Cavendish", "No. 27", "2015", "Tudor Castle", "Blackwoods Flake", "St. James Woods", "No. 24 Ribbon", "3 Oaks Original Blend", "3 Oaks Syrian", "Stave Aged", "Tawny Flake", "Virginia Woods", "Dominican Glory", "Christmas Cheer", "Dark Star", "Beacon Extra", "Balkan Blue". brand=McClelland for all "3 Oaks" variants; do NOT use "3 Oaks" as the brand. "3 Oaks English Blend" is NOT a separate blend — it's the same product as "3 Oaks Original Blend" (McClelland's Grand Orientals-adjacent English-style Virginia/Latakia blend); always normalize to "3 Oaks Original Blend". "Blue Mountain" (2011-era name, later renamed "Balkan Blue") is kept as its OWN blend entry, separate from "Balkan Blue" — do not merge (user confirmed 2026-07-04). "UPCA Traveler" → blend "Traveler" (UPCA club series).
+- **McClelland bulk numbers** — bulk blends are titled by number (often "#2010", "#5100"); expand to the full canonical name: **2010 → "2010 Classic Virginia"**, **5100 → "5100 Red Cake"** (alias "5100" exists). Also makes **"Grey Havens"** (Craftsbury Collection; Virginia/white Burley/Perique — a real McClelland blend despite the Tolkien name, NOT Ravenwood).
+- **Bell's** — vintage brand for **Three Nuns** (created 1890s by J & F Bell, Glasgow; later Imperial/Ogden's). Kept as its OWN brand entry, separate from **Mac Baren | Three Nuns** (Mac Baren has made it since the 2013 US reintroduction, with a changed recipe: VaPer → Va + dark-fired Kentucky). A vintage/"BELLS"-titled Three Nuns tin → brand `Bell's`; a modern one → brand `Mac Baren`.
+- **Brigham** — Canadian pipe brand that ALSO makes tobacco (blended in Germany); blend: **"Klondike Gold"** (Virginia flake). Do not mark as pipe when a blend name is present.
+- **Peter Stokkebye** — numbered PS bulk range; **No. 84 / PS-84 = "Turkish Export"** (Turkish Samsun + Virginia).
 - **McCranie's** — "RR" = Red Ribbon; "1983 Crop" = Red Flake (1983 crop Virginia)
 - **Rattray's** — also makes: "Stirling Flake", "Accountant's Mixture", "40 Virginia", "Black Mallory", "Hal O' The Wynd", "Red Rapparee", "Black Virginia", "Old Gowrie", "Professional Mixture", "Bagpiper's Dream", "Brown Clunee", "Jock's Mixture"
 - **Dan Tobacco** (canonical name; "Dan" alone = Dan Tobacco) — also makes: "Devil's Holiday", "Hamborger Veermaster", "Salty Dog", "Dan Milonga", "The Mallard", "Midnight Ride", "Tordenskjold Virginia Slices", "Gordon Pym"
@@ -165,6 +171,7 @@ Note: "H&H Anniversary Flake" = Hearth & Home (not Mac Baren). "HH Anniversary K
 - **Danish Sovereign 341** → is_tin: false (pipe)
 - **Davidoff Medallion** → is_tin: false (pipe); Davidoff Green Mixture = tobacco
 - **HU** → HU Tobacco (German brand), NOT Hermit Umbra
+- **"Rainer Levant" / "Rainier Levant"** → brand: "Seattle Pipe Club", blend: "Rainier Levant" (**NOT Reiner** — Reiner makes no Levant blend). SPC's tribute to Drucquer & Sons' Levant Mixture; named for Mt. Rainier. Sellers frequently misspell it "Rainer", which looks like the German brand Reiner. Canonical: `Sutliff | SPC Rainier Levant` (consolidate.py applies the SPC year split).
 - **"Escudo" bare** → always expand to brand: "STG", blend: "Escudo Navy Deluxe"; never leave as just "Escudo"
 - **"Paradoxical"** → always brand: "Sutliff", blend: "Paradoxical" — including titles that say "Birds of a Feather", "Bird Blends", or "Per Jensen"/"Per Georg Jensen" (that's the series/designer name, not the brand; Sutliff manufactures and sells it). NOT Cornell & Diehl, NOT "Per Jensen" as brand (user confirmed 2026-07-01, reversing an earlier attempt to split it into two brands).
 
@@ -203,6 +210,18 @@ pre-prefix in the cache; consolidate does it.
 - Date/year variants are the same blend: "Carolina Red Flake 09/21/2019" → blend=`Carolina Red Flake` (strip dates)
 - Strip weights from all Samuel Gawith blend names: "Full Virginia Flake 50g" → blend=`Full Virginia Flake`; applies to any SG entry with a trailing weight (50g, 250g, 4oz, etc.)
 - "Crumble Kake" is a Sutliff blend (all variants)
+
+### Exact canonical casing/naming (do NOT create variants — these have bitten before)
+
+| Seller title form | Canonical blend |
+|---|---|
+| "Jack Knife Plug" / "JackKnife Plug" | G.L. Pease **Jackknife Plug** (distinct from "Jack Knife Ready Rubbed") |
+| "Frog Morton On the Town" | McClelland **Frog Morton on the Town** (lowercase "on") |
+| "My Mixture 965" / "MM 965" | Dunhill **My Mixture No. 965** |
+| "Grand Oriental …" (singular) | McClelland **Grand Orientals …** (plural; aliases exist) |
+
+Always grep `canonical.json` for the blend before declaring it new — case-only and
+punctuation-only differences are the same blend and must map to the existing entry.
 
 ---
 

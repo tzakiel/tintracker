@@ -23776,5 +23776,313 @@
     "confidence": 0.6,
     "is_tin": true,
     "source": "llm"
+  },
+  "I do have table pipes on the shelf. Hawaiian koa and wenge available. Comes with a bent acrylic stem": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false,
+    "confidence": 0.95,
+    "source": "llm"
+  },
+  "Let’s call this": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false,
+    "confidence": 0.95,
+    "source": "llm"
+  },
+  "Mixed age on these ones.  Standards and Durbars": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false,
+    "confidence": 0.9,
+    "source": "llm"
+  },
+  "Sunday special. Mb flake plus dread pirate for": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false,
+    "confidence": 0.9,
+    "source": "llm"
+  },
+  "x 2020 Hal O' The Wynd 100g": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false,
+    "confidence": 0.85,
+    "source": "llm"
+  },
+  "x 2020 Marlin Flake 100g": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false,
+    "confidence": 0.85,
+    "source": "llm"
+  },
+  "x 2020 Old Gowrie 100g": {
+    "brand": "",
+    "blend": "",
+    "is_tin": false,
+    "confidence": 0.85,
+    "source": "llm"
+  },
+  "'16 Dunhill Flake": {
+    "brand": "Dunhill",
+    "blend": "Flake",
+    "is_tin": true,
+    "confidence": 0.9,
+    "source": "llm"
+  },
+  "'17 Balkan Sasieni": {
+    "brand": "STG",
+    "blend": "Balkan Sasieni",
+    "is_tin": true,
+    "confidence": 0.95,
+    "source": "llm"
+  },
+  "'19 Esoterica And So To Bed": {
+    "brand": "Esoterica",
+    "blend": "And So To Bed",
+    "is_tin": true,
+    "confidence": 0.95,
+    "source": "llm"
+  },
+  "'22 Balkan Sobranie": {
+    "brand": "J.F. Germain",
+    "blend": "Balkan Sobranie",
+    "is_tin": true,
+    "confidence": 0.9,
+    "source": "llm"
+  },
+  "'23 - 100g Peter Heinrichs - Golden Sliced": {
+    "brand": "Peter Heinrichs",
+    "blend": "Golden Sliced",
+    "is_tin": true,
+    "confidence": 0.95,
+    "source": "llm"
+  },
+  "'23 Balkan Sobranie": {
+    "brand": "J.F. Germain",
+    "blend": "Balkan Sobranie",
+    "is_tin": true,
+    "confidence": 0.9,
+    "source": "llm"
+  },
+  "'24 Samuel Gawith Cabbie's Mixture": {
+    "brand": "Samuel Gawith",
+    "blend": "Cabbie's Mixture",
+    "is_tin": true,
+    "confidence": 0.95,
+    "source": "llm"
+  },
+  "'25 C&D Sunbear - Navy Cask": {
+    "brand": "Cornell & Diehl",
+    "blend": "Sun Bear Navy Cask",
+    "is_tin": true,
+    "confidence": 0.95,
+    "source": "llm"
+  },
+  "'25 Esoterica Pembroke 8oz": {
+    "brand": "Esoterica",
+    "blend": "Pembroke",
+    "is_tin": true,
+    "confidence": 0.95,
+    "source": "llm"
+  },
+  "'25 Reserve XXV Dawn": {
+    "brand": "Cornell & Diehl",
+    "blend": "XXV Dawn",
+    "is_tin": true,
+    "confidence": 0.9,
+    "source": "llm"
+  },
+  "'26 Palmetto Balkan - 8oz": {
+    "brand": "Cornell & Diehl",
+    "blend": "Palmetto Balkan",
+    "is_tin": true,
+    "confidence": 0.9,
+    "source": "llm"
+  },
+  "(2012) McClelland #2010 (4oz)": {
+    "brand": "McClelland",
+    "blend": "2010 Classic Virginia",
+    "is_tin": true,
+    "confidence": 0.85,
+    "source": "llm"
+  },
+  "(2oz) McClelland #5100 (2014))": {
+    "brand": "McClelland",
+    "blend": "5100 Red Cake",
+    "is_tin": true,
+    "confidence": 0.9,
+    "source": "llm"
+  },
+  "- Vintage - BELLS THREE NUNS 50g. None Nicer!": {
+    "brand": "Bell's",
+    "blend": "Three Nuns",
+    "is_tin": true,
+    "confidence": 0.9,
+    "source": "llm"
+  },
+  "19 Years Vintage - Orlik Golden Sliced (50g. Red Painted Tin)": {
+    "brand": "Orlik",
+    "blend": "Golden Sliced",
+    "is_tin": true,
+    "confidence": 0.95,
+    "source": "llm"
+  },
+  "1970s Balkan Sobranie Smoking Mixture 100g Unopened Ring Pull Tin": {
+    "brand": "J.F. Germain",
+    "blend": "Balkan Sobranie",
+    "is_tin": true,
+    "confidence": 0.8,
+    "source": "llm"
+  },
+  "2 full oz/57g Of (Discontinued) Rainer Levant From 2016!": {
+    "brand": "Seattle Pipe Club",
+    "blend": "Rainier Levant",
+    "is_tin": true,
+    "confidence": 0.85,
+    "source": "llm"
+  },
+  "2001 McClelland Christmas Cheer- 100g": {
+    "brand": "McClelland",
+    "blend": "Christmas Cheer",
+    "is_tin": true,
+    "confidence": 0.95,
+    "source": "llm"
+  },
+  "2006  Dunhill De Luxe Navy Rolls 20 years of aging!": {
+    "brand": "Dunhill",
+    "blend": "De Luxe Navy Rolls",
+    "is_tin": true,
+    "confidence": 0.9,
+    "source": "llm"
+  },
+  "2007 Dunhill MM 965": {
+    "brand": "Dunhill",
+    "blend": "My Mixture No. 965",
+    "is_tin": true,
+    "confidence": 0.9,
+    "source": "llm"
+  },
+  "2007 Grand Orientals Yenidje Supreme-50g": {
+    "brand": "McClelland",
+    "blend": "Grand Orientals Yenidje Supreme",
+    "is_tin": true,
+    "confidence": 0.9,
+    "source": "llm"
+  },
+  "2008 McClelland Frog Morton-100g": {
+    "brand": "McClelland",
+    "blend": "Frog Morton",
+    "is_tin": true,
+    "confidence": 0.95,
+    "source": "llm"
+  },
+  "2008 McClelland Royal Cajun Dark-50g": {
+    "brand": "McClelland",
+    "blend": "Royal Cajun Dark",
+    "is_tin": true,
+    "confidence": 0.95,
+    "source": "llm"
+  },
+  "2009 GL Pease Maltese Falcon 8oz Tins": {
+    "brand": "G.L. Pease",
+    "blend": "Maltese Falcon",
+    "is_tin": true,
+    "confidence": 0.9,
+    "source": "llm"
+  },
+  "2009 Grand Orientals Classic Samsun-50g": {
+    "brand": "McClelland",
+    "blend": "Grand Orientals Classic Samsun",
+    "is_tin": true,
+    "confidence": 0.9,
+    "source": "llm"
+  },
+  "2010 Ringlow Lyrian Reserve-50g": {
+    "brand": "McClelland",
+    "blend": "Ringlow Syrian Reserve",
+    "is_tin": true,
+    "confidence": 0.8,
+    "source": "llm"
+  },
+  "2011 - McClelland - Grey Havens 50g": {
+    "brand": "McClelland",
+    "blend": "Grey Havens",
+    "is_tin": true,
+    "confidence": 0.9,
+    "source": "llm"
+  },
+  "2012 – McClellan – Frog Morton on the town 50g": {
+    "brand": "McClelland",
+    "blend": "Frog Morton on the Town",
+    "is_tin": true,
+    "confidence": 0.9,
+    "source": "llm"
+  },
+  "2014 Hearth & Home White Knight - 1 Tin NR BIN $80": {
+    "brand": "Hearth & Home",
+    "blend": "White Knight",
+    "is_tin": true,
+    "confidence": 0.95,
+    "source": "llm"
+  },
+  "2014 Klondike Gold - 50g": {
+    "brand": "Brigham",
+    "blend": "Klondike Gold",
+    "is_tin": true,
+    "confidence": 0.85,
+    "source": "llm"
+  },
+  "2014 PETER STOKKEBYE TURKISH EXPORT No. 84 approx. 1.9 oz jarred": {
+    "brand": "Peter Stokkebye",
+    "blend": "Turkish Export",
+    "is_tin": true,
+    "confidence": 0.9,
+    "source": "llm"
+  },
+  "2015 - Mac Baren - Plumcake, Navy Blend 3.5 oz": {
+    "brand": "Mac Baren",
+    "blend": "Plumcake",
+    "is_tin": true,
+    "confidence": 0.85,
+    "source": "llm"
+  },
+  "2017 Beacon Vintage Virginia Flake -50g": {
+    "brand": "McClelland",
+    "blend": "Beacon",
+    "is_tin": true,
+    "confidence": 0.7,
+    "source": "llm"
+  },
+  "2018 McClelland’s Frog Morton - 1 Tin NR BIN $225": {
+    "brand": "McClelland",
+    "blend": "Frog Morton",
+    "is_tin": true,
+    "confidence": 0.95,
+    "source": "llm"
+  },
+  "2021 Mac Baren HH Balkan Blend": {
+    "brand": "Mac Baren",
+    "blend": "HH Balkan Blend",
+    "is_tin": true,
+    "confidence": 0.95,
+    "source": "llm"
+  },
+  "2oz/57g Jack Knife PLUG By G.L. Pease From 2011!": {
+    "brand": "G.L. Pease",
+    "blend": "Jackknife Plug",
+    "is_tin": true,
+    "confidence": 0.9,
+    "source": "llm"
+  },
+  "2oz/57g Lagonda By G.L. Pease From 2011!": {
+    "brand": "G.L. Pease",
+    "blend": "Lagonda",
+    "is_tin": true,
+    "confidence": 0.95,
+    "source": "llm"
   }
 }
