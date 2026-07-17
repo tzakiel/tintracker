@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-16T20:33:25.264105+00:00",
+  "generated": "2026-07-17T04:08:24.391256+00:00",
   "stats": {
-    "total_listings": 4266,
-    "excluded_multipacks": 1566,
+    "total_listings": 4285,
+    "excluded_multipacks": 1567,
     "total_tins": 1090,
     "multi_member_tins": 492,
     "listings_in_groups": 2083,
@@ -3275,15 +3275,23 @@
             {
               "name": "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/199705/",
-              "price": "$214.00",
-              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "url": "https://tinbids.com/auction/204819/",
+              "price": "$192.00",
+              "last_updated": "2026-07-17T04:00:33.950489+00:00",
               "first_seen": "2026-07-03T19:47:51+00:00",
               "year": "1996",
               "price_history": [
                 {
                   "price": "$214.00",
                   "date": "2026-07-03T19:47:51+00:00"
+                },
+                {
+                  "price": "$201.00",
+                  "date": "2026-07-17T04:00:33.950489+00:00"
+                },
+                {
+                  "price": "$192.00",
+                  "date": "2026-07-17T04:00:33.950489+00:00"
                 }
               ]
             },
@@ -10931,7 +10939,7 @@
             {
               "name": "C&D: Steamworks (26) BIN 30",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/199980/",
+              "url": "https://tinbids.com/auction/206221/",
               "price": "$25.00",
               "last_updated": "2026-07-01T04:00:37.972075+00:00",
               "first_seen": "2026-06-30T17:22:00+00:00",
@@ -20124,9 +20132,9 @@
             {
               "name": "Esoterica Tobacciana Butera’s Margate 8 oz. Sealed Pipe Tobacco Germain & Son, UK",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/199699/",
-              "price": "$640.00",
-              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "url": "https://tinbids.com/auction/204805/",
+              "price": "$660.00",
+              "last_updated": "2026-07-17T04:00:33.950489+00:00",
               "first_seen": "2026-06-22T13:53:20.063064+00:00",
               "year": "",
               "price_history": [
@@ -20145,6 +20153,10 @@
                 {
                   "price": "$640.00",
                   "date": "2026-07-04T04:00:42.890669+00:00"
+                },
+                {
+                  "price": "$660.00",
+                  "date": "2026-07-17T04:00:33.950489+00:00"
                 }
               ]
             },
@@ -79047,6 +79059,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Esoterica Tobacciana Butera’s Margate 8 oz. Sealed Pipe Tobacco Germain & Son, UK": "esoterica|margate",
+    "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996": "butera|pelican",
     "Peter Stokkebye Luxury Navy Flake 2018 4.4 oz": "peterstokkebye|luxurynavyflake",
     "Escudo Navy DeLuxe 2016 50g": "stg|escudonavydeluxe",
     "VINTAGE 1980s/90s SEALED Carter Hall Pipe Tobacco Pocket Pouch": "johnmiddleton|carterhall",
@@ -79462,14 +79476,12 @@
     "Orlik Golden Sliced 2024 (50g)": "orlik|goldensliced",
     "Early 2010's Balkan Sobranie - 1 Tin NR BIN $175": "jfgermain|balkansobranie",
     "Hearth & Home Magnum Opus - 1 Tin NR BIN $60": "hearthhome|magnumopus",
-    "Esoterica Tobacciana Butera’s Margate 8 oz. Sealed Pipe Tobacco Germain & Son, UK": "esoterica|margate",
     "R & L Robert Lewis Wingfield Mixture Sealed Tin 50g Pipe Tobacco 2012": "robertlewis|wingfieldmixture",
     "Dunhill London Mixture, Painted Tin, 50g": "dunhill|londonmixture",
     "2003 Smokers Haven Exotique, 8oz": "smokershaven|exotiquemixture",
     "Smokers Haven Our Best Blend-2oz": "smokershaven|ourbestblend",
     "1999 McCrannies Prime 1983 Red Virginia -50g": "mccranies|redflake",
     "2oz tin from Sep, 2021 of Cornell and Diehl's Small-Batch Carolina Red Flake w/Perique. 14,689/15,000": "cornelldiehl|smallbatchcarolinaredflakewithperique",
-    "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996": "butera|pelican",
     "Butera’s Royal Vintage Latakia No.1 Sealed 50g Pipe Tobacco Tin 2013": "butera|royalvintagelatakiano1",
     "Collectible G.L. Pease Odyssey 50g Sealed Pipe Tobacco Tin 2016": "glpease|odyssey",
     "Collectible G. L. Pease Quiet Nights 2 oz. Pipe Tobacco Sealed Tin 2016": "glpease|quietnights",
