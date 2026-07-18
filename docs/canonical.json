@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-18T16:08:40.789716+00:00",
+  "generated": "2026-07-18T17:14:57.695778+00:00",
   "stats": {
-    "total_listings": 4369,
-    "excluded_multipacks": 1583,
+    "total_listings": 4454,
+    "excluded_multipacks": 1595,
     "total_tins": 1090,
     "multi_member_tins": 492,
     "listings_in_groups": 2083,
@@ -1270,8 +1270,8 @@
               "name": "Ashton Type 5 in 50g tins – 1990s era & Made in Denmark by Orlik",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/ashton-type-5-in-50g-tins-1990s-era-made-in-denmark-by-orlik/",
-              "price": "$65.00",
-              "last_updated": "2026-07-04T17:13:42.317217+00:00",
+              "price": "$45.00",
+              "last_updated": "2026-07-18T17:13:38.985666+00:00",
               "first_seen": "2026-06-27T19:29:21.362652+00:00",
               "year": "",
               "price_history": [
@@ -1282,6 +1282,10 @@
                 {
                   "price": "$65.00",
                   "date": "2026-07-04T17:13:42.317217+00:00"
+                },
+                {
+                  "price": "$45.00",
+                  "date": "2026-07-18T17:13:38.985666+00:00"
                 }
               ]
             }
@@ -47162,15 +47166,19 @@
             {
               "name": "McClelland’s Christmas Cheer 100g tin – Year 2008",
               "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-christmas-cheer-100g-tin-year-2008/",
-              "price": "$135.00",
-              "last_updated": "2026-06-21T03:15:02.754777+00:00",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-christmas-cheer-100g-tin-year-2008-2/",
+              "price": "$130.00",
+              "last_updated": "2026-07-18T17:13:38.985666+00:00",
               "first_seen": "2026-06-20T16:28:47.877864+00:00",
               "year": "2008",
               "price_history": [
                 {
                   "price": "$135.00",
                   "date": "2026-06-20T16:28:47.877864+00:00"
+                },
+                {
+                  "price": "$130.00",
+                  "date": "2026-07-18T17:13:38.985666+00:00"
                 }
               ]
             },
@@ -47178,14 +47186,18 @@
               "name": "McClelland’s Christmas Cheer 100g tin – Year 2009",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-christmas-cheer-100g-tin-year-2009-2/",
-              "price": "$90.00",
-              "last_updated": "2026-06-21T03:15:02.754777+00:00",
+              "price": "$125.00",
+              "last_updated": "2026-07-18T17:13:38.985666+00:00",
               "first_seen": "2026-06-20T16:28:47.877864+00:00",
               "year": "2009",
               "price_history": [
                 {
                   "price": "$90.00",
                   "date": "2026-06-20T16:28:47.877864+00:00"
+                },
+                {
+                  "price": "$125.00",
+                  "date": "2026-07-18T17:13:38.985666+00:00"
                 }
               ]
             },
@@ -47242,14 +47254,18 @@
               "name": "McClelland’s Christmas Cheer 100g tins – Year 2011",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-christmas-cheer-100g-tins-year-2011/",
-              "price": "$130.00",
-              "last_updated": "2026-06-21T03:15:02.754777+00:00",
+              "price": "$125.00",
+              "last_updated": "2026-07-18T17:13:38.985666+00:00",
               "first_seen": "2026-06-20T16:28:47.877864+00:00",
               "year": "2011",
               "price_history": [
                 {
                   "price": "$130.00",
                   "date": "2026-06-20T16:28:47.877864+00:00"
+                },
+                {
+                  "price": "$125.00",
+                  "date": "2026-07-18T17:13:38.985666+00:00"
                 }
               ]
             },
@@ -47271,15 +47287,19 @@
             {
               "name": "McClelland’s Christmas Cheer 100g tin – Year 2012",
               "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-christmas-cheer-100g-tin-year-2012/",
-              "price": "$130.00",
-              "last_updated": "2026-06-21T03:15:02.754777+00:00",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-christmas-cheer-100g-tin-year-2012-3/",
+              "price": "$125.00",
+              "last_updated": "2026-07-18T17:13:38.985666+00:00",
               "first_seen": "2026-06-20T16:28:47.877864+00:00",
               "year": "2012",
               "price_history": [
                 {
                   "price": "$130.00",
                   "date": "2026-06-20T16:28:47.877864+00:00"
+                },
+                {
+                  "price": "$125.00",
+                  "date": "2026-07-18T17:13:38.985666+00:00"
                 }
               ]
             },
@@ -50036,14 +50056,18 @@
               "name": "McClelland’s Grand Oriental Series Classic Samsun 50g tin – First Year 2007 Production",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-grand-oriental-series-classic-samsun-50g-tin-first-year-2007-production/",
-              "price": "$75.00",
-              "last_updated": "2026-07-11T17:13:37.793839+00:00",
+              "price": "$80.00",
+              "last_updated": "2026-07-18T17:13:38.985666+00:00",
               "first_seen": "2026-07-11T17:13:37.793839+00:00",
               "year": "2007",
               "price_history": [
                 {
                   "price": "$75.00",
                   "date": "2026-07-11T17:13:37.793839+00:00"
+                },
+                {
+                  "price": "$80.00",
+                  "date": "2026-07-18T17:13:38.985666+00:00"
                 }
               ]
             },
@@ -78972,6 +78996,12 @@
     }
   ],
   "name_to_id": {
+    "McClelland’s Grand Oriental Series Classic Samsun 50g tin – First Year 2007 Production": "mcclelland|grandorientalsclassicsamsun",
+    "Ashton Type 5 in 50g tins – 1990s era & Made in Denmark by Orlik": "ashton|type5",
+    "McClelland’s Christmas Cheer 100g tins – Year 2011": "mcclelland|christmascheer",
+    "McClelland’s Christmas Cheer 100g tin – Year 2012": "mcclelland|christmascheer",
+    "McClelland’s Christmas Cheer 100g tin – Year 2009": "mcclelland|christmascheer",
+    "McClelland’s Christmas Cheer 100g tin – Year 2008": "mcclelland|christmascheer",
     "James J. Fox Original Dorisco Mixture 50g tin – Year 1998": "jamesjfox|doriscomixture",
     "James J. Fox Original Dorisco Mixture 50g tin – Year 2012": "jamesjfox|doriscomixture",
     "Wessex Premier Subtle Aroma 50g tin – 1990’s era": "wessex|premiersubtlearoma",
@@ -78993,7 +79023,6 @@
     "McClelland’s Legends 50g tin – First Year 2010 Production": "mcclelland|legends",
     "McClelland’s Grand Oriental Series Yenidje Supreme 50g tin – First Year 2007 Production": "mcclelland|grandorientalsyenidjesupreme",
     "McClelland’s Grand Oriental Series Black Sea Sokhoum 50g tin – Year 2008": "mcclelland|grandorientalsblackseasokhoum",
-    "McClelland’s Grand Oriental Series Classic Samsun 50g tin – First Year 2007 Production": "mcclelland|grandorientalsclassicsamsun",
     "McClelland’s Grand Oriental Series Smyrna No.1 in a 50g tin – First Year 2007 Production": "mcclelland|grandorientalssmyrnano1",
     "McClelland’s Grand Oriental Series Yenice Agonya 50g tin – First Year 2007 Production": "mcclelland|grandorientalsyeniceagonya",
     "McClelland’s Grand Oriental Series Drama Reserve 50g tins – Year 2008": "mcclelland|grandorientalsdramareserve",
@@ -79041,7 +79070,6 @@
     "Savinelli Mr. G Black Cavendish 50g tins – 1980’s era and Made by Mac Baren": "savinelli|mrgblackcavendish",
     "Robert McConnell’s Original Oriental 50g tins – Year 1992": "robertmcconnell|oriental",
     "Samuel Gawith Black XX 50g tins – Year 2017": "samuelgawith|blackxx",
-    "Ashton Type 5 in 50g tins – 1990s era & Made in Denmark by Orlik": "ashton|type5",
     "Charatan’s Original Black Aromatic – 1970’s era & Made by Dunhill": "charatans|originalblackaromatic",
     "McClelland’s Christmas Cheer 100g tins – Year 2010": "mcclelland|christmascheer",
     "Wessex Curley Cut Virginia & Perique 50g tin – Year 2012": "wessex|curlycutvirginiaperique",
@@ -79177,10 +79205,6 @@
     "McClelland’s Christmas Cheer 100g tins – Year 2015": "mcclelland|christmascheer",
     "McClelland’s Christmas Cheer 100g tin – Year 2014": "mcclelland|christmascheer",
     "McClelland’s Christmas Cheer 100g tin – Year 2013": "mcclelland|christmascheer",
-    "McClelland’s Christmas Cheer 100g tins – Year 2011": "mcclelland|christmascheer",
-    "McClelland’s Christmas Cheer 100g tin – Year 2012": "mcclelland|christmascheer",
-    "McClelland’s Christmas Cheer 100g tin – Year 2009": "mcclelland|christmascheer",
-    "McClelland’s Christmas Cheer 100g tin – Year 2008": "mcclelland|christmascheer",
     "Dunhill Elizabethan Mixture 50g tin – Year 2014": "dunhill|elizabethanmixture",
     "Dunhill Murray’s era Durbar 50g tin – Year 2014": "dunhill|durbar",
     "Dunhill My Mixture 965 in a 50g tin – Year 2014": "dunhill|mymixtureno965",
