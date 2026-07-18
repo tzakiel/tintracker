@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-18T15:14:17.880643+00:00",
+  "generated": "2026-07-18T16:08:40.789716+00:00",
   "stats": {
-    "total_listings": 4357,
-    "excluded_multipacks": 1582,
+    "total_listings": 4369,
+    "excluded_multipacks": 1583,
     "total_tins": 1090,
     "multi_member_tins": 492,
     "listings_in_groups": 2083,
@@ -33928,15 +33928,19 @@
             {
               "name": "Germain's B.K. Flake - 1 Tin NR BIN $80",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/199870/",
-              "price": "$75.00",
-              "last_updated": "2026-06-28T16:00:29.276414+00:00",
+              "url": "https://tinbids.com/auction/207547/",
+              "price": "$80.00",
+              "last_updated": "2026-07-18T16:00:28.431520+00:00",
               "first_seen": "2026-06-28T13:33:49+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$75.00",
                   "date": "2026-06-28T13:33:49+00:00"
+                },
+                {
+                  "price": "$80.00",
+                  "date": "2026-07-18T16:00:28.431520+00:00"
                 }
               ]
             },
@@ -62053,7 +62057,7 @@
             {
               "name": "Vintage 1980 - Robert McConnell's Original Red Virginia - 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/202329/",
+              "url": "https://tinbids.com/auction/205446/",
               "price": "$95.00",
               "last_updated": "2026-07-11T04:00:49.995844+00:00",
               "first_seen": "2026-07-11T02:23:49+00:00",
@@ -79231,6 +79235,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Germain's B.K. Flake - 1 Tin NR BIN $80": "jfgermain|bkflake",
     "Sutliff BALKAN Sobranie ORIGINAL MIX MATCH - ONE POUND": "sutliff|matchbalkansobranie",
     "Sutliff MATCH VICTORIAN - ONE POUND": "sutliff|matchvictorian",
     "Jewel Of St James Genuine Louisiana Perique 1 OZ sealed jar": "jewelofstjames|perique",
@@ -79829,7 +79834,6 @@
     "Sutliff - Crumble Kake Barrel Aged Series No.1 (2020) Limited Edition": "sutliff|crumblekakebarrelagedno1",
     "Astleys - No.109 Medium Flake (2020) (Discontinued)": "astleys|no109mediumvirginiaflake",
     "Seattle Pipe Club - Down Yonder (2023) (Original)": "sutliff|spcdownyonder",
-    "Germain's B.K. Flake - 1 Tin NR BIN $80": "jfgermain|bkflake",
     "Cornell & Diehl Palmetto Balkan - 1 Tin BIN $100": "cornelldiehl|palmettobalkan",
     "2017 McClelland’s Christmas Cheer - 1 tin NR BIN $225": "mcclelland|christmascheer",
     "Wessex Burley Slice 50g Tin": "wessex|burleyslice",
