@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-18T19:16:14.452787+00:00",
+  "generated": "2026-07-19T04:08:12.991006+00:00",
   "stats": {
-    "total_listings": 4454,
+    "total_listings": 4491,
     "excluded_multipacks": 1595,
     "total_tins": 1090,
     "multi_member_tins": 492,
@@ -5032,15 +5032,19 @@
             {
               "name": "Cobblestone Indulge - Vanilla Custard - 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/202547/",
-              "price": "$36.58",
-              "last_updated": "2026-07-12T04:00:50.529539+00:00",
+              "url": "https://tinbids.com/auction/205554/",
+              "price": "$40.00",
+              "last_updated": "2026-07-19T04:00:29.560109+00:00",
               "first_seen": "2026-07-11T18:32:28+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$36.58",
                   "date": "2026-07-11T18:32:28+00:00"
+                },
+                {
+                  "price": "$40.00",
+                  "date": "2026-07-19T04:00:29.560109+00:00"
                 }
               ]
             }
@@ -32754,7 +32758,7 @@
             {
               "name": "Very Nice Sealed 2012 Hearth & Home International Pipe Smoking Day 2012 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/195854/",
+              "url": "https://tinbids.com/auction/206187/",
               "price": "$19.99",
               "last_updated": "2026-06-22T13:53:20.063064+00:00",
               "first_seen": "2026-06-22T13:53:20.063064+00:00",
@@ -62097,15 +62101,19 @@
             {
               "name": "Vintage 1980 - Robert McConnell's Original Red Virginia - 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/205446/",
-              "price": "$95.00",
-              "last_updated": "2026-07-11T04:00:49.995844+00:00",
+              "url": "https://tinbids.com/auction/205569/",
+              "price": "$100.00",
+              "last_updated": "2026-07-19T04:00:29.560109+00:00",
               "first_seen": "2026-07-11T02:23:49+00:00",
               "year": "1980",
               "price_history": [
                 {
                   "price": "$95.00",
                   "date": "2026-07-11T02:23:49+00:00"
+                },
+                {
+                  "price": "$100.00",
+                  "date": "2026-07-19T04:00:29.560109+00:00"
                 }
               ]
             },
@@ -79275,6 +79283,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Cobblestone Indulge - Vanilla Custard - 50g": "cobblestone|vanillacustard",
+    "Vintage 1980 - Robert McConnell's Original Red Virginia - 50g": "robertmcconnell|redvirginia",
     "Germain's B.K. Flake - 1 Tin NR BIN $80": "jfgermain|bkflake",
     "Sutliff BALKAN Sobranie ORIGINAL MIX MATCH - ONE POUND": "sutliff|matchbalkansobranie",
     "Sutliff MATCH VICTORIAN - ONE POUND": "sutliff|matchvictorian",
@@ -79436,7 +79446,6 @@
     "2oz tin from Sep, 2021 of Cornell and Diehl's Small-Batch Carolina Red Flake w/Perique. 11,697/15,000": "cornelldiehl|carolinaredflakewithperique",
     "Balkan Sobranie": "jfgermain|balkansobranie",
     "Cobblestone Indulge - Walnut Maple Pie - 50g": "cobblestone|walnutmaplepie",
-    "Cobblestone Indulge - Vanilla Custard - 50g": "cobblestone|vanillacustard",
     "Bill Bailey’s Balkan Blend 8oz": "dantobacco|billbaileysbalkanblend",
     "McClelland-Arcadia": "mcclelland|arcadia",
     "Very Nice Sealed 2017 McClelland's Dark Star 100g. Tin": "mcclelland|darkstar",
@@ -79491,7 +79500,6 @@
     "Acadian Gold - Russ Oullette - 2018 - 50g Sealed Tin - RARE": "russouellette|acadiangold",
     "Hearth and Home H&H Marble Kake 2018 - 103.5 g": "hearthhome|marblekake",
     "Hearth and Home H&H Anniversary Kake 2017 - 157.0 g": "hearthhome|anniversarycake",
-    "Vintage 1980 - Robert McConnell's Original Red Virginia - 50g": "robertmcconnell|redvirginia",
     "Vintage 1992 - Wessex Premier Rich Aroma - 50g": "wessex|premierricharoma",
     "Vintage 1997 - Iwan Ries Gourmet English - 50g": "iwanries|gourmetenglish",
     "G.L. PEASE.  ABINGDON": "glpease|abingdon",
