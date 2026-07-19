@@ -19647,7 +19647,7 @@
   "2002 Smokers Haven Christmas Cheer 100g": {
     "blend": "",
     "brand": "",
-    "confidence": 0.2,
+    "confidence": 0.4,
     "is_tin": true,
     "source": "llm"
   },
@@ -20168,8 +20168,8 @@
   },
   "1996 - C&D Limited": {
     "blend": "",
-    "brand": "",
-    "confidence": 0.2,
+    "brand": "Cornell & Diehl",
+    "confidence": 0.4,
     "is_tin": true,
     "source": "llm"
   },
@@ -24839,6 +24839,314 @@
     "blend": "",
     "is_tin": false,
     "confidence": 0.95,
+    "source": "llm"
+  },
+  "Cobblestone: HIKING 1.75oz - C": {
+    "blend": "Hiking",
+    "brand": "Cobblestone",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Dunhill: FLAKE 50g 2016 - C": {
+    "blend": "Flake",
+    "brand": "Dunhill",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Dunhill: NIGHTCAP 50g 2018 - C": {
+    "blend": "Nightcap",
+    "brand": "Dunhill",
+    "confidence": 0.95,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Esoterica: DORCHESTER 2oz - C": {
+    "blend": "Dorchester",
+    "brand": "Esoterica",
+    "confidence": 0.95,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Esoterica: PENZANCE 2oz 2012 - C": {
+    "blend": "Penzance",
+    "brand": "Esoterica",
+    "confidence": 0.97,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Esoterica: PENZANCE 50g 2011 - C": {
+    "blend": "Penzance",
+    "brand": "Esoterica",
+    "confidence": 0.97,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Mac Baren: BURLEY LONDON BLEND 100g 2011 - C": {
+    "blend": "Burley London Blend",
+    "brand": "Mac Baren",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Mac Baren: HH OLD DARK FIRED PLUG CUT 1.75oz 2019 - C": {
+    "blend": "HH Old Dark Fired Plug Cut",
+    "brand": "Mac Baren",
+    "confidence": 0.92,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland: 3 OAKS 50g 2010 - C": {
+    "blend": "3 Oaks Original Blend",
+    "brand": "McClelland",
+    "confidence": 0.75,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland: ARCADIA 50g 1999 -C": {
+    "blend": "Arcadia",
+    "brand": "McClelland",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland: BLACKWOODS FLAKE 100g 2013 - C": {
+    "blend": "Blackwoods Flake",
+    "brand": "McClelland",
+    "confidence": 0.95,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland: CHRISTMAS CHEER 100g 2016 - C": {
+    "blend": "Christmas Cheer",
+    "brand": "McClelland",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Rattray's: MARLIN FLAKE 100g 2014 - C": {
+    "blend": "Marlin Flake",
+    "brand": "Rattray's",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Samuel Gawith: BOTHY FLAKE 50g 2018 - C": {
+    "blend": "Bothy Flake",
+    "brand": "Samuel Gawith",
+    "confidence": 0.95,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Solani: 656 AGED BURLEY FLAKE 50g 2010 - C": {
+    "blend": "Aged Burley Flake 656",
+    "brand": "Solani",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "*Pending* '07 Yenidje Supreme": {
+    "blend": "Grand Orientals Yenidje Supreme",
+    "brand": "McClelland",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "*Pending* '16 Christmas Cheer": {
+    "blend": "Christmas Cheer",
+    "brand": "McClelland",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Buy both for": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.95,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "LET'S GET THIS MOVED:": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.95,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "SOLD '03 Ashton - Brindle Flake": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "SOLD '05? Anniversary - Green": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "SOLD '10 Sophisticate": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "SOLD '12 Christmas Cheer": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "SOLD '16 Frog Morton Cellar": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "SOLD '17 Nording Hunter Blend - Labrador": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "SOLD '25 SG SJF 8oz tray": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Sutliff SPC Plum Pudding (12/24)": {
+    "blend": "Plum Pudding",
+    "brand": "Seattle Pipe Club",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "'15 Dunhill Flake": {
+    "blend": "Flake",
+    "brand": "Dunhill",
+    "confidence": 0.92,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "'16 - Davidoff Royalty": {
+    "blend": "Royalty",
+    "brand": "Davidoff",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "'17 Dunhill Aperitif": {
+    "blend": "Aperitif",
+    "brand": "Dunhill",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "'17 Dunhill Royal Yacht": {
+    "blend": "Royal Yacht",
+    "brand": "Dunhill",
+    "confidence": 0.95,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "'24 Samuel Gawith 1792 - Burnt Ends": {
+    "blend": "1792 Flake Burnt Ends",
+    "brand": "Samuel Gawith",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "(2017) Samuel Gawith Full Virginia Flake": {
+    "blend": "Full Virginia Flake",
+    "brand": "Samuel Gawith",
+    "confidence": 0.97,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "(2018) Samuel Gawith ST James Flake": {
+    "blend": "St. James Flake",
+    "brand": "Samuel Gawith",
+    "confidence": 0.95,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "(2020) Wessex Campaign Dark Flake (x2) Tins": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.95,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "1970's Rattray's Highland Targe 100g Tin": {
+    "blend": "Highland Targe",
+    "brand": "Rattray's",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "1996 McClelland No. 25 Virginia 20th Anniversary -100g": {
+    "blend": "No. 25 Virginia 20th Anniversary",
+    "brand": "McClelland",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "2 Jewel Of St James Genuine Louisiana Perique 1 OZ sealed jars": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.85,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "2010 GL Pease Laurel Heights": {
+    "blend": "Laurel Heights",
+    "brand": "G.L. Pease",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "2012 McClelland's Frog Morton Cellar - 1 Tin NR BIN $250": {
+    "blend": "Frog Morton's Cellar",
+    "brand": "McClelland",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "2013 - Peterson of Dublin, Balkan delight. 50 g": {
+    "blend": "Balkan Delight",
+    "brand": "Peterson",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "2013 Borkum Riff Limited Edition 11°N Trinidad Rum 3.5oz": {
+    "blend": "Limited Edition 11 Mixture with Trinidad Rum",
+    "brand": "Borkum Riff",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "2013 McClelland's Frog Morton \"Across the Pond\" - Unopened 100g Tin": {
+    "blend": "Frog Morton Across the Pond",
+    "brand": "McClelland",
+    "confidence": 0.92,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "2014 G.L. Pease Classic Collection Abingdon - 2oz": {
+    "blend": "Abingdon",
+    "brand": "G.L. Pease",
+    "confidence": 0.95,
+    "is_tin": true,
     "source": "llm"
   }
 }
