@@ -122,7 +122,7 @@ Note: "H&H Anniversary Flake" = Hearth & Home (not Mac Baren). "HH Anniversary K
 ### Specific brand notes
 
 - **Cornell & Diehl** — also makes: "From Beyond", "Palmetto Balkan", "Pirate Kake", "Corn Cob Pipe and a Button Nose", "Epiphany", "Golden Days of Yore", "Joie de Vivre", "Bow Legged Bear", "Bijou", "Tom Eltang Virginia", "Eight State Burley", "Speakeasy Navy Blend", "Two Friends English Chocolate". **Oak Alley is C&D, NOT G.L. Pease.**
-- **G.L. Pease** — also makes: "Caravan", "JackKnife Plug", "Lagonda", "Odyssey", "Robusto", "Quiet Nights", "25th Anniversary", "Ashbury", "Union Square", "Triple Play", "Sixpence", "Embarcadero", "Fillmore", "Temple Bar", "Key Largo", "Cumberland", "Abingdon", "Westminster", "Star of the East", "Speakeasy", "Charing Cross", "Vieux Carré". **"Tilbury" → Esoterica Tilbury, NOT G.L. Pease.**
+- **G.L. Pease** — also makes: "Caravan", "JackKnife Plug", "Lagonda", "Odyssey", "Robusto", "Quiet Nights", "25th Anniversary", "Ashbury", "Union Square", "Triple Play", "Sixpence", "Embarcadero", "Fillmore", "Temple Bar", "Key Largo", "Cumberland", "Abingdon", "Westminster", "Speakeasy", "Charing Cross", "Vieux Carré". **"Star of the East" → Cornell & Diehl, NOT G.L. Pease (user confirmed 2026-07-19).** **"Tilbury" → Esoterica Tilbury, NOT G.L. Pease.**
 - **Hearth & Home** — also makes: "Viprati", "Pure Virginia", "Burley Flake", "Acadian", "RO Acadian English", "RO Acadian VaPer"
 - **Mac Baren** — also makes: "HH Anniversary Kake", "Capstan Blue", "Capstan Yellow", "Navy Flake", "Pure Virginia", "Mixture Scottish Blend", "Brunello Flake", "Presbyterian Mixture", "Presbyterian Ordained", "St. Bruno Ready Rubbed", "St. Bruno Flake". Capstan blends: brand = "Mac Baren", blend = "Capstan Blue" or "Capstan Yellow" (full blend name, not just color).
 - **Samuel Gawith** — also makes: "Hansom Flake" (correct spelling, not "Hansome"), "Balkan Flake", "Bothy Flake", "Chocolate Flake", "Commonwealth", "Perfection", "Best Brown Flake", "SJ Plug", "Skiff Mixture", "Navy Flake"
@@ -175,6 +175,8 @@ Note: "H&H Anniversary Flake" = Hearth & Home (not Mac Baren). "HH Anniversary K
 - **Dunbar** → brand: "Esoterica" (NOT Gawith Hoggarth)
 - **Tilbury** → brand: "Esoterica", blend: "Tilbury" (NOT G.L. Pease)
 - **Oak Alley** → Cornell & Diehl (NOT G.L. Pease)
+- **Ten Russians** → brand: **Cornell & Diehl** (user confirmed 2026-07-19). Blended by C&D for the Captain Earle's line (Hermit Tobacco Works was Jay & Louise Jones' original outfit). Titles reading "Captain Earle's Ten Russians" or "Hermit Tobacco Works … Ten Russians" all classify as Cornell & Diehl.
+- **Star of the East** → brand: **Cornell & Diehl** (user confirmed 2026-07-19), NOT G.L. Pease. C&D's bulk "Star of the East (066)"; seller titles naming C&D are correct.
 - **Dunhill Shell** → is_tin: false (pipe line); "Dunhill Shell [shape]" is always a pipe, not tobacco
 - **Dunhill Elizabethan** → brand: "Dunhill", blend: "Elizabethan Mixture" (same blend, two title forms)
 - **Comoy's #4 / #7** (bare, no weight) → is_tin: false (pipe shapes); "Comoy's #4 3.5oz" or "Cask No.4" → is_tin: true (tobacco)
@@ -222,6 +224,8 @@ pre-prefix in the cache; consolidate does it.
 - Date/year variants are the same blend: "Carolina Red Flake 09/21/2019" → blend=`Carolina Red Flake` (strip dates)
 - Strip weights from all Samuel Gawith blend names: "Full Virginia Flake 50g" → blend=`Full Virginia Flake`; applies to any SG entry with a trailing weight (50g, 250g, 4oz, etc.)
 - "Crumble Kake" is a Sutliff blend (all variants)
+- **Sutliff Pipe Force** — canonical blend names use the **"Pipe Force Episode X"** format (Roman numeral), e.g. "Pipe Force Episode IV", "Pipe Force Episode V". Seller forms "Pipe Force V", "Pipe Force - Episode 4" etc. normalize to the "Episode X" name (user confirmed 2026-07-19).
+- **Samuel Gawith Burnt Ends** — the bare **"Flake Burnt Ends"** is the canonical name for the 1792-family burnt ends; do NOT create "1792 Flake Burnt Ends" (use the existing name, user confirmed 2026-07-19). Distinct SG variants keep their leaf name: "Full Virginia Flake Burnt Ends", "Chocolate Flake Burnt Ends", "Sam's Flake Burnt Ends", "Balkan Flake Burnt Ends".
 
 ### Exact canonical casing/naming (do NOT create variants — these have bitten before)
 
