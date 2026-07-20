@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-20T06:39:03.924751+00:00",
+  "generated": "2026-07-20T16:07:26.141977+00:00",
   "stats": {
-    "total_listings": 4546,
-    "excluded_multipacks": 1619,
+    "total_listings": 4554,
+    "excluded_multipacks": 1620,
     "total_tins": 1114,
     "multi_member_tins": 515,
     "listings_in_groups": 2256,
@@ -18064,15 +18064,19 @@
             {
               "name": "Very Nice Sealed Dunhill Standard Mixture Mellow 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/195638/",
-              "price": "$37.00",
-              "last_updated": "2026-06-22T13:53:20.063064+00:00",
+              "url": "https://tinbids.com/auction/206566/",
+              "price": "$26.00",
+              "last_updated": "2026-07-20T16:00:28.555462+00:00",
               "first_seen": "2026-06-22T13:53:20.063064+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$37.00",
                   "date": "2026-06-22T13:53:20.063064+00:00"
+                },
+                {
+                  "price": "$26.00",
+                  "date": "2026-07-20T16:00:28.555462+00:00"
                 }
               ]
             },
@@ -76632,15 +76636,19 @@
             {
               "name": "Sutliff Phantom Privateer Barrel Aged Crumble Cake No 6",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/198437/",
-              "price": "$43.00",
-              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "url": "https://tinbids.com/auction/204972/",
+              "price": "$26.00",
+              "last_updated": "2026-07-20T16:00:28.555462+00:00",
               "first_seen": "2026-07-04T00:07:51+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$43.00",
                   "date": "2026-07-04T00:07:51+00:00"
+                },
+                {
+                  "price": "$26.00",
+                  "date": "2026-07-20T16:00:28.555462+00:00"
                 }
               ]
             },
@@ -83026,6 +83034,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Sutliff Phantom Privateer Barrel Aged Crumble Cake No 6": "sutliff|no6phantom",
+    "Very Nice Sealed Dunhill Standard Mixture Mellow 50g. Tin": "dunhill|standardmixturemellow",
     "Very Nice Sealed 2012 McCranie's Red Flake Prime 2008 Red Virginia 50g. Tin": "mccranies|redflake",
     "Excellent Sealed 2019 Wellauer & Co. Latakia Mixture 50g. Tin": "wellauerco|latakiamixture",
     "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
@@ -83547,7 +83557,6 @@
     "CAO Cherry Bomb": "cao|cherrybomb",
     "2016 Sutliff Private Stock, \"Berkshire\".": "sutliff|berkshire",
     "Vintage 2017 - Dunhill Ye Olde Signe - 50g": "dunhill|yeoldesigne",
-    "Sutliff Phantom Privateer Barrel Aged Crumble Cake No 6": "sutliff|no6phantom",
     "1999 McCrannies Prime 1983 Red Virginia": "mccranies|redflake",
     "HEINE'S BLEND Smoking Tobacco (1980s) 1.5 OZ. Sealed Box": "sutliff|heinesblend",
     "MIXTURE No. 79 Smoking Tobacco (1970s-1980s?) 1.5 OZ. Sealed Box": "sutliff|mixtureno79",
@@ -83873,7 +83882,6 @@
     "Tobacco Tin Sutliff Crindle Flake 2 oz. Sealed Pipe Tobacco Tin by Sutliff 2022": "sutliff|cringleflake",
     "McClelland 40th Anniversary - NR BIN $225": "mcclelland|40thanniversary",
     "Very Nice Sealed Germain's King Charles 50g. Tin": "jfgermain|kingcharlesmixture",
-    "Very Nice Sealed Dunhill Standard Mixture Mellow 50g. Tin": "dunhill|standardmixturemellow",
     "Very Nice Sealed Bengal Slice 1.75oz. Tin": "sutliff|bengalslices",
     "Very Nice Sealed Dunhill Ye Olde Signe 50g. Tin": "dunhill|yeoldesigne",
     "Very Nice 2022 G. L. Pease Union Square 2oz. Tin": "glpease|unionsquare",
