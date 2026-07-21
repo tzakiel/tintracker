@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-21T06:39:06.631501+00:00",
+  "generated": "2026-07-21T16:09:05.428437+00:00",
   "stats": {
-    "total_listings": 4608,
-    "excluded_multipacks": 1623,
+    "total_listings": 4626,
+    "excluded_multipacks": 1624,
     "total_tins": 1114,
     "multi_member_tins": 515,
     "listings_in_groups": 2256,
@@ -3335,7 +3335,7 @@
             {
               "name": "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/206001/",
+              "url": "https://tinbids.com/auction/206007/",
               "price": "$202.00",
               "last_updated": "2026-07-21T04:00:29.167499+00:00",
               "first_seen": "2026-07-03T19:47:51+00:00",
@@ -56636,15 +56636,27 @@
             {
               "name": "1999 McCrannies Prime 1983 Red Virginia",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/199147/",
-              "price": "$152.00",
-              "last_updated": "2026-07-03T16:00:40.863575+00:00",
+              "url": "https://tinbids.com/auction/206481/",
+              "price": "$150.00",
+              "last_updated": "2026-07-21T16:00:30.805284+00:00",
               "first_seen": "2026-07-02T17:32:09+00:00",
               "year": "1999",
               "price_history": [
                 {
                   "price": "$152.00",
                   "date": "2026-07-02T17:32:09+00:00"
+                },
+                {
+                  "price": "$150.00",
+                  "date": "2026-07-21T16:00:30.805284+00:00"
+                },
+                {
+                  "price": "$152.00",
+                  "date": "2026-07-21T16:00:30.805284+00:00"
+                },
+                {
+                  "price": "$150.00",
+                  "date": "2026-07-21T16:00:30.805284+00:00"
                 }
               ]
             }
@@ -74846,7 +74858,7 @@
             {
               "name": "Sutliff Cringle Flake 2020 (No Reserve)",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/200352/",
+              "url": "https://tinbids.com/auction/207115/",
               "price": "$40.00",
               "last_updated": "2026-07-04T04:00:42.890669+00:00",
               "first_seen": "2026-07-03T22:49:21+00:00",
@@ -83062,6 +83074,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "1999 McCrannies Prime 1983 Red Virginia": "mccranies|redflake",
     "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996": "butera|pelican",
     "2016 Frog Morton Across The Pond with Syrian Latakia by McClelland 10 Years of Age": "mcclelland|frogmortonacrossthepond",
     "GAWITH SQUADRON LEADER": "samuelgawith|squadronleader",
@@ -83585,7 +83598,6 @@
     "CAO Cherry Bomb": "cao|cherrybomb",
     "2016 Sutliff Private Stock, \"Berkshire\".": "sutliff|berkshire",
     "Vintage 2017 - Dunhill Ye Olde Signe - 50g": "dunhill|yeoldesigne",
-    "1999 McCrannies Prime 1983 Red Virginia": "mccranies|redflake",
     "HEINE'S BLEND Smoking Tobacco (1980s) 1.5 OZ. Sealed Box": "sutliff|heinesblend",
     "MIXTURE No. 79 Smoking Tobacco (1970s-1980s?) 1.5 OZ. Sealed Box": "sutliff|mixtureno79",
     "Casey Jones 6-Beyond Brave": "caseyjones|beyondbrave",
