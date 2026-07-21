@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-20T19:16:16.969015+00:00",
+  "generated": "2026-07-21T04:10:16.652801+00:00",
   "stats": {
-    "total_listings": 4554,
-    "excluded_multipacks": 1620,
+    "total_listings": 4605,
+    "excluded_multipacks": 1623,
     "total_tins": 1114,
     "multi_member_tins": 515,
     "listings_in_groups": 2256,
@@ -3335,9 +3335,9 @@
             {
               "name": "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/204819/",
-              "price": "$192.00",
-              "last_updated": "2026-07-17T04:00:33.950489+00:00",
+              "url": "https://tinbids.com/auction/206001/",
+              "price": "$202.00",
+              "last_updated": "2026-07-21T04:00:29.167499+00:00",
               "first_seen": "2026-07-03T19:47:51+00:00",
               "year": "1996",
               "price_history": [
@@ -3352,6 +3352,10 @@
                 {
                   "price": "$192.00",
                   "date": "2026-07-17T04:00:33.950489+00:00"
+                },
+                {
+                  "price": "$202.00",
+                  "date": "2026-07-21T04:00:29.167499+00:00"
                 }
               ]
             },
@@ -51331,26 +51335,11 @@
               ]
             },
             {
-              "name": "McClelland Frog Morton Across the Pond 2016 NR BIN $180",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/205247/",
-              "price": "$162.00",
-              "last_updated": "2026-07-18T04:00:26.376057+00:00",
-              "first_seen": "2026-07-18T00:27:43+00:00",
-              "year": "2016",
-              "price_history": [
-                {
-                  "price": "$162.00",
-                  "date": "2026-07-18T00:27:43+00:00"
-                }
-              ]
-            },
-            {
               "name": "2016 Frog Morton Across The Pond with Syrian Latakia by McClelland 10 Years of Age",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/202499/",
-              "price": "$148.10",
-              "last_updated": "2026-07-12T04:00:50.529539+00:00",
+              "url": "https://tinbids.com/auction/206018/",
+              "price": "$162.00",
+              "last_updated": "2026-07-21T04:00:29.167499+00:00",
               "first_seen": "2026-06-26T14:18:01+00:00",
               "year": "2016",
               "price_history": [
@@ -51365,6 +51354,25 @@
                 {
                   "price": "$148.10",
                   "date": "2026-07-12T04:00:50.529539+00:00"
+                },
+                {
+                  "price": "$162.00",
+                  "date": "2026-07-21T04:00:29.167499+00:00"
+                }
+              ]
+            },
+            {
+              "name": "McClelland Frog Morton Across the Pond 2016 NR BIN $180",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/205247/",
+              "price": "$162.00",
+              "last_updated": "2026-07-18T04:00:26.376057+00:00",
+              "first_seen": "2026-07-18T00:27:43+00:00",
+              "year": "2016",
+              "price_history": [
+                {
+                  "price": "$162.00",
+                  "date": "2026-07-18T00:27:43+00:00"
                 }
               ]
             }
@@ -69531,15 +69539,19 @@
             {
               "name": "GAWITH SQUADRON LEADER",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/200385/",
-              "price": "$50.00",
-              "last_updated": "2026-07-06T16:00:49.617963+00:00",
+              "url": "https://tinbids.com/auction/206237/",
+              "price": "$15.00",
+              "last_updated": "2026-07-21T04:00:29.167499+00:00",
               "first_seen": "2026-07-06T01:22:24+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$50.00",
                   "date": "2026-07-06T01:22:24+00:00"
+                },
+                {
+                  "price": "$15.00",
+                  "date": "2026-07-21T04:00:29.167499+00:00"
                 }
               ]
             },
@@ -83050,6 +83062,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996": "butera|pelican",
+    "2016 Frog Morton Across The Pond with Syrian Latakia by McClelland 10 Years of Age": "mcclelland|frogmortonacrossthepond",
+    "GAWITH SQUADRON LEADER": "samuelgawith|squadronleader",
     "Sutliff Phantom Privateer Barrel Aged Crumble Cake No 6": "sutliff|no6phantom",
     "Very Nice Sealed Dunhill Standard Mixture Mellow 50g. Tin": "dunhill|standardmixturemellow",
     "Very Nice Sealed 2012 McCranie's Red Flake Prime 2008 Red Virginia 50g. Tin": "mccranies|redflake",
@@ -83133,7 +83148,6 @@
     "Seattle Pipe Club Gentleman's Rum Vanilla 2oz": "sutliff|spcgentlemansrumvanilla",
     "2024 Germain's Uncle Tom 50 gm well sealed 5 D NR BIN 68": "jfgermain|uncletom",
     "Esoterica Tobacciana Butera’s Margate 8 oz. Sealed Pipe Tobacco Germain & Son, UK": "esoterica|margate",
-    "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996": "butera|pelican",
     "1996 McClelland No. 25 Virginia 20th Anniversary -100g": "mcclelland|no25virginia20thanniversary",
     "Germain's Royal Jersey Perique Mixture 2017": "jfgermain|royaljerseyperiquemixture",
     "Missouri Meerschaum Drawdown-50g": "missourimeerschaum|drawdown",
@@ -83297,7 +83311,6 @@
     "2018 Mac Baren HH Pure Virginia - 1 Tin NR BIN $80": "macbaren|hhpurevirginia",
     "GL Pease 25th Anniversary Silver Jubilee": "glpease|25thanniversary",
     "Samuel Gawith - Full Virginia Mixture": "samuelgawith|fullvirginiamixture",
-    "2016 Frog Morton Across The Pond with Syrian Latakia by McClelland 10 Years of Age": "mcclelland|frogmortonacrossthepond",
     "Collectible Tobacco Sealed Tin Cornell & Diehl Fires on the Levee Mixture 2 oz’s from 2025": "cornelldiehl|firesonthelevee",
     "Collectible Tobacco Sealed Tin Cornell & Diehl Firebird Flake 2 oz’s from 2024": "cornelldiehl|firebirdflake",
     "Collectible Tobacco Sealed Tin Cornell & Diehl “From Beyond” Mixture 2 oz’s from 2025": "cornelldiehl|frombeyond",
@@ -83485,7 +83498,6 @@
     "Margate by Esoterica - 8oz - 2017": "esoterica|margate",
     "Vintage - 2017 Erinmore Flake": "erinmore|flake",
     "Samuel Gawith - St. James Flake (2018)": "samuelgawith|stjamesflake",
-    "GAWITH SQUADRON LEADER": "samuelgawith|squadronleader",
     "Rattray’s - (2020) Old Gowrie 100g Tin": "rattrays|oldgowrie",
     "Cornell & Diehl - (2020) Sun Bear": "cornelldiehl|sunbear",
     "Cornell & Diehl - (2020) Carolina Red Flake with Perique": "cornelldiehl|carolinaredflakewithperique",
