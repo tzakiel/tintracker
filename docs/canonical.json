@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-21T19:16:22.072174+00:00",
+  "generated": "2026-07-22T04:08:20.847456+00:00",
   "stats": {
-    "total_listings": 4626,
-    "excluded_multipacks": 1624,
+    "total_listings": 4651,
+    "excluded_multipacks": 1625,
     "total_tins": 1114,
     "multi_member_tins": 515,
     "listings_in_groups": 2256,
@@ -4899,15 +4899,19 @@
             {
               "name": "Cobblestone - Spiced Rum - 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/199958/",
-              "price": "$30.00",
-              "last_updated": "2026-07-05T04:00:46.011214+00:00",
+              "url": "https://tinbids.com/auction/206599/",
+              "price": "$35.00",
+              "last_updated": "2026-07-22T04:00:23.846594+00:00",
               "first_seen": "2026-07-04T17:03:01+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$30.00",
                   "date": "2026-07-04T17:03:01+00:00"
+                },
+                {
+                  "price": "$35.00",
+                  "date": "2026-07-22T04:00:23.846594+00:00"
                 }
               ]
             }
@@ -47923,9 +47927,9 @@
             {
               "name": "2017 Tin of Balkan Blue Pipe Tobacco by Mclelland with about 9 years of age",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203987/",
-              "price": "$102.00",
-              "last_updated": "2026-07-15T04:00:49.070316+00:00",
+              "url": "https://tinbids.com/auction/206748/",
+              "price": "$92.00",
+              "last_updated": "2026-07-22T04:00:23.846594+00:00",
               "first_seen": "2026-06-26T19:21:06+00:00",
               "year": "2017",
               "price_history": [
@@ -47940,6 +47944,10 @@
                 {
                   "price": "$102.00",
                   "date": "2026-07-15T04:00:49.070316+00:00"
+                },
+                {
+                  "price": "$92.00",
+                  "date": "2026-07-22T04:00:23.846594+00:00"
                 }
               ]
             }
@@ -81780,7 +81788,7 @@
             {
               "name": "Wessex Burley Slice 50g Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/197250/",
+              "url": "https://tinbids.com/auction/206767/",
               "price": "$50.00",
               "last_updated": "2026-06-28T16:00:29.276414+00:00",
               "first_seen": "2026-06-28T14:12:53+00:00",
@@ -83090,6 +83098,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "2017 Tin of Balkan Blue Pipe Tobacco by Mclelland with about 9 years of age": "mcclelland|balkanblue",
+    "Cobblestone - Spiced Rum - 50g": "cobblestone|spicedrum",
     "1999 McCrannies Prime 1983 Red Virginia": "mccranies|redflake",
     "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996": "butera|pelican",
     "2016 Frog Morton Across The Pond with Syrian Latakia by McClelland 10 Years of Age": "mcclelland|frogmortonacrossthepond",
@@ -83225,7 +83235,6 @@
     "2014 Klondike Gold - 50g": "brigham|klondikegold",
     "Peter Heinrich’s Special Curly 100g": "peterheinrichs|specialcurlycut",
     "2009 GL Pease Maltese Falcon 8oz Tins": "glpease|maltesefalcon",
-    "2017 Tin of Balkan Blue Pipe Tobacco by Mclelland with about 9 years of age": "mcclelland|balkanblue",
     "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
     "Davidoff - English Mixture - 50g": "davidoff|englishmixture",
     "Vintage 2015 - Dunhill Baby's Bottom (Last time they spelled out the words)": "dunhill|babysbottom",
@@ -83581,7 +83590,6 @@
     "2017 Mac Baren HH Old Dark Fired 1.75 ounce - 1 Tin NR BIN $80": "macbaren|hholddarkfired",
     "2024 - Solani Aged Burley Flake - 50g": "solani|agedburleyflake656",
     "2014 McClelland’s Frog Morton - 1 Tin NR BIN $225": "mcclelland|frogmorton",
-    "Cobblestone - Spiced Rum - 50g": "cobblestone|spicedrum",
     "New Limited Edition Benedictine Abbey by Briarshire": "briarshire|benedictineabbey",
     "2020 SUTLIFF CRUMBLE KAKE VA PERIQUE": "sutliff|crumblekakevirginiaperique",
     "Esoterica — Dorchester — 8oz": "esoterica|dorchester",
