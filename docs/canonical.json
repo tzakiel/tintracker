@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-22T19:16:17.065898+00:00",
+  "generated": "2026-07-23T04:07:33.090315+00:00",
   "stats": {
-    "total_listings": 4656,
-    "excluded_multipacks": 1625,
+    "total_listings": 4671,
+    "excluded_multipacks": 1626,
     "total_tins": 1114,
     "multi_member_tins": 515,
     "listings_in_groups": 2256,
@@ -1601,15 +1601,19 @@
             {
               "name": "Barlings Tradition - 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/201095/",
-              "price": "$57.00",
-              "last_updated": "2026-07-08T04:00:53.107133+00:00",
+              "url": "https://tinbids.com/auction/206997/",
+              "price": "$46.00",
+              "last_updated": "2026-07-23T04:00:25.798843+00:00",
               "first_seen": "2026-07-07T18:59:45+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$57.00",
                   "date": "2026-07-07T18:59:45+00:00"
+                },
+                {
+                  "price": "$46.00",
+                  "date": "2026-07-23T04:00:25.798843+00:00"
                 }
               ]
             }
@@ -83178,6 +83182,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Barlings Tradition - 50g": "barling|tradition",
     "2017 Tin of Balkan Blue Pipe Tobacco by Mclelland with about 9 years of age": "mcclelland|balkanblue",
     "Cobblestone - Spiced Rum - 50g": "cobblestone|spicedrum",
     "1999 McCrannies Prime 1983 Red Virginia": "mccranies|redflake",
@@ -83576,7 +83581,6 @@
     "Excellent Sealed 2019 C&D Captain Earle's Pressed Ten Russians 8oz. Tin": "cornelldiehl|tenrussians",
     "Very Nice Sealed 2017 McClelland's Frog Morton 100g. Tin": "mcclelland|frogmorton",
     "22 Year Vintage (2004). Orlik Tobacco Company.  Dark Kentucky": "orlik|darkstrongkentucky",
-    "Barlings Tradition - 50g": "barling|tradition",
     "Pride of New Orleans Picayune - 40g": "picayune|picayune",
     "Cornell and Diehl Cup O' Joes 25th Anniversary Blend-2oz": "cornelldiehl|cupojoes25thanniversary",
     "Cockstrong-40g": "daughtersryan|cockstrong",
