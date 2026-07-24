@@ -1,6 +1,36 @@
 {
   "products": [
     {
+      "name": "The Morgason is",
+      "price": "$90",
+      "url": "https://speak-easy.club/threads/fs-morgason-altinay-cobra.44925/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-07-24T00:34:58+00:00",
+      "last_updated": "2026-07-24T06:38:17.461745+00:00",
+      "price_history": [
+        {
+          "price": "$90",
+          "date": "2026-07-24T00:34:58+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
+      "name": "The Altinay is",
+      "price": "$55",
+      "url": "https://speak-easy.club/threads/fs-morgason-altinay-cobra.44925/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-07-24T00:34:58+00:00",
+      "last_updated": "2026-07-24T06:38:17.461745+00:00",
+      "price_history": [
+        {
+          "price": "$55",
+          "date": "2026-07-24T00:34:58+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
       "name": "Lot 2",
       "price": "$140",
       "url": "https://speak-easy.club/threads/virginia-vaper-lot-update-lots.44902/unread",
@@ -50147,368 +50177,37 @@
       "tag": "WTS"
     }
   ],
-  "last_scraped": "2026-07-23T06:38:17.908197+00:00",
+  "last_scraped": "2026-07-24T06:38:17.461745+00:00",
   "latest_scrape": [
     {
-      "name": "Red Flake, Anthology, Crumble Kake, Temple Bar (2016), Regents Flake (2016), Eight State Burley, Christmas tins are all",
-      "price": "$25",
-      "url": "https://speak-easy.club/threads/tins-the-last-round.44821/unread",
+      "name": "The Morgason is",
+      "price": "$90",
+      "url": "https://speak-easy.club/threads/fs-morgason-altinay-cobra.44925/unread",
       "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-08T20:55:14+00:00",
-      "last_updated": "2026-07-09T06:48:17.821792+00:00",
+      "first_seen": "2026-07-24T00:34:58+00:00",
+      "last_updated": "2026-07-24T06:38:17.461745+00:00",
       "price_history": [
         {
-          "price": "$25",
-          "date": "2026-07-08T20:55:14+00:00"
+          "price": "$90",
+          "date": "2026-07-24T00:34:58+00:00"
         }
       ],
-      "tag": "CLOSED"
+      "tag": "WTS"
     },
     {
-      "name": "Everything else",
-      "price": "$15",
-      "url": "https://speak-easy.club/threads/tins-the-last-round.44821/unread",
+      "name": "The Altinay is",
+      "price": "$55",
+      "url": "https://speak-easy.club/threads/fs-morgason-altinay-cobra.44925/unread",
       "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-08T20:55:14+00:00",
-      "last_updated": "2026-07-09T06:48:17.821792+00:00",
+      "first_seen": "2026-07-24T00:34:58+00:00",
+      "last_updated": "2026-07-24T06:38:17.461745+00:00",
       "price_history": [
         {
-          "price": "$15",
-          "date": "2026-07-08T20:55:14+00:00"
+          "price": "$55",
+          "date": "2026-07-24T00:34:58+00:00"
         }
       ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "Escudo",
-      "price": "$15",
-      "url": "https://speak-easy.club/threads/tins-the-last-round.44821/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-08T20:55:14+00:00",
-      "last_updated": "2026-07-09T06:48:17.821792+00:00",
-      "price_history": [
-        {
-          "price": "$15",
-          "date": "2026-07-08T20:55:14+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "Plumb Pudding",
-      "price": "$15",
-      "url": "https://speak-easy.club/threads/tins-the-last-round.44821/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-08T20:55:14+00:00",
-      "last_updated": "2026-07-09T06:48:17.821792+00:00",
-      "price_history": [
-        {
-          "price": "$15",
-          "date": "2026-07-08T20:55:14+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "The Virginia Cream",
-      "price": "$15",
-      "url": "https://speak-easy.club/threads/tins-the-last-round.44821/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-08T20:55:14+00:00",
-      "last_updated": "2026-07-09T06:48:17.821792+00:00",
-      "price_history": [
-        {
-          "price": "$15",
-          "date": "2026-07-08T20:55:14+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "Regents Flake",
-      "price": "$25",
-      "url": "https://speak-easy.club/threads/tins-the-last-round.44821/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-08T20:55:14+00:00",
-      "last_updated": "2026-07-09T06:48:17.821792+00:00",
-      "price_history": [
-        {
-          "price": "$25",
-          "date": "2026-07-08T20:55:14+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "Temple Bar",
-      "price": "$25",
-      "url": "https://speak-easy.club/threads/tins-the-last-round.44821/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-08T20:55:14+00:00",
-      "last_updated": "2026-07-09T06:48:17.821792+00:00",
-      "price_history": [
-        {
-          "price": "$25",
-          "date": "2026-07-08T20:55:14+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "Anthology",
-      "price": "$25",
-      "url": "https://speak-easy.club/threads/tins-the-last-round.44821/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-08T20:55:14+00:00",
-      "last_updated": "2026-07-09T06:48:17.821792+00:00",
-      "price_history": [
-        {
-          "price": "$25",
-          "date": "2026-07-08T20:55:14+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "The Devils Own",
-      "price": "$15",
-      "url": "https://speak-easy.club/threads/tins-the-last-round.44821/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-08T20:55:14+00:00",
-      "last_updated": "2026-07-09T06:48:17.821792+00:00",
-      "price_history": [
-        {
-          "price": "$15",
-          "date": "2026-07-08T20:55:14+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "Eight State Burley x3",
-      "price": "$25",
-      "url": "https://speak-easy.club/threads/tins-the-last-round.44821/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-08T20:55:14+00:00",
-      "last_updated": "2026-07-09T06:48:17.821792+00:00",
-      "price_history": [
-        {
-          "price": "$25",
-          "date": "2026-07-08T20:55:14+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "After Hours Flake",
-      "price": "$15",
-      "url": "https://speak-easy.club/threads/tins-the-last-round.44821/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-08T20:55:14+00:00",
-      "last_updated": "2026-07-09T06:48:17.821792+00:00",
-      "price_history": [
-        {
-          "price": "$15",
-          "date": "2026-07-08T20:55:14+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "Redwood",
-      "price": "$15",
-      "url": "https://speak-easy.club/threads/tins-the-last-round.44821/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-08T20:55:14+00:00",
-      "last_updated": "2026-07-09T06:48:17.821792+00:00",
-      "price_history": [
-        {
-          "price": "$15",
-          "date": "2026-07-08T20:55:14+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "Haunted Bookshop Cake x2",
-      "price": "$15",
-      "url": "https://speak-easy.club/threads/tins-the-last-round.44821/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-08T20:55:14+00:00",
-      "last_updated": "2026-07-09T06:48:17.821792+00:00",
-      "price_history": [
-        {
-          "price": "$15",
-          "date": "2026-07-08T20:55:14+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "Party Line",
-      "price": "$15",
-      "url": "https://speak-easy.club/threads/tins-the-last-round.44821/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-08T20:55:14+00:00",
-      "last_updated": "2026-07-09T06:48:17.821792+00:00",
-      "price_history": [
-        {
-          "price": "$15",
-          "date": "2026-07-08T20:55:14+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "Drawdown",
-      "price": "$15",
-      "url": "https://speak-easy.club/threads/tins-the-last-round.44821/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-08T20:55:14+00:00",
-      "last_updated": "2026-07-09T06:48:17.821792+00:00",
-      "price_history": [
-        {
-          "price": "$15",
-          "date": "2026-07-08T20:55:14+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "Redburn",
-      "price": "$15",
-      "url": "https://speak-easy.club/threads/tins-the-last-round.44821/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-07T15:42:05+00:00",
-      "last_updated": "2026-07-09T06:48:17.821792+00:00",
-      "price_history": [
-        {
-          "price": "$12",
-          "date": "2026-07-07T15:42:05+00:00"
-        },
-        {
-          "price": "$15",
-          "date": "2026-07-09T06:48:17.821792+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "Carolina Red Flake",
-      "price": "$25",
-      "url": "https://speak-easy.club/threads/tins-the-last-round.44821/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-02-21T19:28:48+00:00",
-      "last_updated": "2026-07-09T06:48:17.821792+00:00",
-      "price_history": [
-        {
-          "price": "$15",
-          "date": "2026-06-24T02:02:09.029335+00:00"
-        },
-        {
-          "price": "$25",
-          "date": "2026-07-09T06:48:17.821792+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "The Haunting",
-      "price": "$15",
-      "url": "https://speak-easy.club/threads/tins-the-last-round.44821/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-08T20:55:14+00:00",
-      "last_updated": "2026-07-09T06:48:17.821792+00:00",
-      "price_history": [
-        {
-          "price": "$15",
-          "date": "2026-07-08T20:55:14+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "The Red Hunt",
-      "price": "$15",
-      "url": "https://speak-easy.club/threads/tins-the-last-round.44821/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2024-10-06T22:24:57+00:00",
-      "last_updated": "2026-07-09T06:48:17.821792+00:00",
-      "price_history": [
-        {
-          "price": "$11",
-          "date": "2024-10-06T22:24:57+00:00"
-        },
-        {
-          "price": "$15",
-          "date": "2026-07-09T06:48:17.821792+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "Corn Cob Pipe",
-      "price": "$25",
-      "url": "https://speak-easy.club/threads/tins-the-last-round.44821/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-08T20:55:14+00:00",
-      "last_updated": "2026-07-09T06:48:17.821792+00:00",
-      "price_history": [
-        {
-          "price": "$25",
-          "date": "2026-07-08T20:55:14+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "We Three Kings",
-      "price": "$25",
-      "url": "https://speak-easy.club/threads/tins-the-last-round.44821/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-02-21T19:28:48+00:00",
-      "last_updated": "2026-07-09T06:48:17.821792+00:00",
-      "price_history": [
-        {
-          "price": "$13",
-          "date": "2026-06-24T02:02:09.029335+00:00"
-        },
-        {
-          "price": "$25",
-          "date": "2026-07-09T06:48:17.821792+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "Jolly Old St Nicholas x2",
-      "price": "$25",
-      "url": "https://speak-easy.club/threads/tins-the-last-round.44821/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-08T20:55:14+00:00",
-      "last_updated": "2026-07-09T06:48:17.821792+00:00",
-      "price_history": [
-        {
-          "price": "$25",
-          "date": "2026-07-08T20:55:14+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "After giving it a fair shot, I’ve come to the conclusion straight Virginias aren’t in my wheelhouse. As such, I’m looking to trade off these six Wessex Gold Bricks I have. There are three from ‘24, two from May of this year, and one from June. I figure the value is around",
-      "price": "$20",
-      "url": "https://speak-easy.club/threads/gold-brick-for-your-dark-s.44822/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-08T22:43:47+00:00",
-      "last_updated": "2026-07-09T06:48:17.821792+00:00",
-      "price_history": [
-        {
-          "price": "$20",
-          "date": "2026-07-08T22:43:47+00:00"
-        }
-      ],
-      "tag": "CLOSED"
+      "tag": "WTS"
     },
     {
       "name": "TS1R 13oz",
@@ -54017,12 +53716,16 @@
       "added": 0,
       "price_changed": 0,
       "total": 2531
+    },
+    {
+      "date": "2026-07-24T06:38:17.461745+00:00",
+      "found": 60,
+      "added": 2,
+      "price_changed": 0,
+      "total": 2533
     }
   ],
   "thread_recheck": {
-    "https://speak-easy.club/threads/virginia-lot.44828/unread": "2026-07-23T06:48:17.821792+00:00",
-    "https://speak-easy.club/threads/tins-the-last-round.44821/unread": "2026-07-23T06:48:17.821792+00:00",
-    "https://speak-easy.club/threads/gold-brick-for-your-dark-s.44822/unread": "2026-07-23T06:48:17.821792+00:00",
     "https://speak-easy.club/threads/ts1r-rctr-walnut-match-pinkerton-half-and-half.44839/unread": "2026-07-24T06:38:18.226977+00:00",
     "https://speak-easy.club/threads/capstan-capstan-capstan.44833/unread": "2026-07-24T06:38:18.226977+00:00",
     "https://speak-easy.club/threads/burley-slice-scottish-cake-etc.44835/unread": "2026-07-24T06:38:18.226977+00:00",
@@ -54049,7 +53752,8 @@
     "https://speak-easy.club/threads/sutliff-plum-pudding-30-ea-or-2-for-50.44899/unread": "2026-08-04T06:38:18.026689+00:00",
     "https://speak-easy.club/threads/clarin-clay-pipe.44910/unread": "2026-08-04T06:38:18.026689+00:00",
     "https://speak-easy.club/threads/three-lots-mac-baren-spc-and-h-h-some-discontinued.44907/unread": "2026-08-04T06:38:18.026689+00:00",
-    "https://speak-easy.club/threads/virginia-vaper-lot-update-lots.44902/unread": "2026-08-05T06:38:17.038976+00:00"
+    "https://speak-easy.club/threads/virginia-vaper-lot-update-lots.44902/unread": "2026-08-05T06:38:17.038976+00:00",
+    "https://speak-easy.club/threads/fs-morgason-altinay-cobra.44925/unread": "2026-08-07T06:38:17.461745+00:00"
   },
   "thread_recheck_tags": {
     "https://speak-easy.club/threads/brigham-and-peterson.44723/unread": "WTS",
@@ -54877,6 +54581,7 @@
     "https://speak-easy.club/threads/sutliff-plum-pudding-30-ea-or-2-for-50.44899/unread": "WTS",
     "https://speak-easy.club/threads/clarin-clay-pipe.44910/unread": "SOLD",
     "https://speak-easy.club/threads/three-lots-mac-baren-spc-and-h-h-some-discontinued.44907/unread": "WTS",
-    "https://speak-easy.club/threads/virginia-vaper-lot-update-lots.44902/unread": "WTS"
+    "https://speak-easy.club/threads/virginia-vaper-lot-update-lots.44902/unread": "WTS",
+    "https://speak-easy.club/threads/fs-morgason-altinay-cobra.44925/unread": "WTS"
   }
 }
