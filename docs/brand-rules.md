@@ -313,6 +313,26 @@ These are confirmed tobacco brands not yet heavily represented in the cache. Whe
 | Union Leader | vintage US Burley |
 | Who Dat Pipe Works | New Orleans-area tobacconist; house blends |
 | Wills | UK brand (Imperial Tobacco); "Wills's Whiffs" etc. |
+| Gallaher's | vintage UK brand (Gallaher Ltd); e.g. "Gallaher's Latakia" |
+| Lambert & Butler | vintage UK brand (Imperial); e.g. "Waverley Mixture" |
+| Lloyd's | vintage brand; e.g. "Bondman Rich Dark Virginia" |
+| Dill's Best | vintage US Burley (pouch/pocket-box); brand ≈ blend name |
+
+---
+
+## Session Learnings (2026-07-26)
+
+- **Ken Byron Ventures** also makes: **Goblin Mixture**, **Mycroft**, **Yana**, **Sakura**, **Moriarty**, **Savage Fleet**, **The Endless Void** (all web-confirmed).
+- **G.L. Pease NASPC show blends** (Lord of the Rings / Dune themed, annual): **Balrog Blend**, **Bilbo's Blend**, **Arrakis Spice**, **Black Rider**, **Dragon Weed**, **Gimli's Stash**, **Golum's Precioussss**, **Night Wraith**, **Elf Weed**. Normalize seller forms to existing canonical: **"Goblin Weed" → "Goblin Weed Gray"**, **"Smaug's Weed" → "Smaugweed"**. GLP also makes **Sextant** and **Renaissance**.
+- **G.L. Pease Chelsea Morning** — a GLP-branded Old London Series blend, but **manufactured by Cornell & Diehl**; canonical files it as **Cornell & Diehl | Chelsea Morning** — keep that to avoid a cross-brand duplicate.
+- **Samuel Gawith Lakeland scented plugs**: **Cannon Plug** and **Grousemoor Plug** → brand Samuel Gawith. But **Cob Plug → Gawith, Hoggarth & Co.** (canonical), even when a seller titles it "SG".
+- **Sutliff** also makes: **The Old Boss** (175th Anniversary), **Private Stock Blend No. 5**, **Crumble Kake Orchard Mist** (blended for Missouri Meerschaum).
+- **HU Tobacco** also makes: **Fayyum Kake** (crumble cake) and **Louisiana Broken**.
+- **Mac Baren** also makes: **Mixture Flake**, **Uncle Louie Rum** (Bar Selection line). Modern (2013+) **Three Nuns** → brand Mac Baren.
+- **Daughters & Ryan** makes **Three Sails** (the successor to Wills's Three Castles).
+- **Solani 633** = "Virginia Flake" (with Perique) — a "Solani VA Flake" title maps to blend **633**.
+- **Peter Heinrichs** also makes **No. 39** and **Dark Strong Flake**.
+- **Gawith, Hoggarth & Co.** makes **Best Brown #2** ("GH BB2" / "Best Brown No. 2").
 
 ---
 

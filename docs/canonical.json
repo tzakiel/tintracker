@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-26T19:16:21.058612+00:00",
+  "generated": "2026-07-26T19:17:33.117147+00:00",
   "stats": {
     "total_listings": 4910,
-    "excluded_multipacks": 1659,
-    "total_tins": 1114,
-    "multi_member_tins": 515,
-    "listings_in_groups": 2256,
-    "cross_source_tins": 365
+    "excluded_multipacks": 1668,
+    "total_tins": 1122,
+    "multi_member_tins": 519,
+    "listings_in_groups": 2285,
+    "cross_source_tins": 366
   },
   "tins": [
     {
@@ -4209,6 +4209,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "Captain Black Grape",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$75.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$75.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            },
             {
               "name": "Tub o’ Captain Black Grape",
               "source": "Speak-Easy.Club",
@@ -13692,6 +13707,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "Hamborger Veermaster bag",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$75.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$75.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            },
             {
               "name": "Hamborger Veermaster",
               "source": "Speak-Easy.Club",
@@ -23427,6 +23457,21 @@
           "quantity": "",
           "members": [
             {
+              "name": "F&T BlackJack",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$20.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$20.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            },
+            {
               "name": "(2019) Fribourg & Treyer - Blackjack",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/204527/",
@@ -23556,6 +23601,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "F&T Cut Blended Plug",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$22.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$22.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            },
             {
               "name": "Fribourg & Treyer - (2019) Cut Blended Plug",
               "source": "Tinbids Auction (Sold)",
@@ -23708,6 +23768,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "F&T Cut VA Plug",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$25.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$25.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            },
             {
               "name": "Fribourg &Treyer -  (2020) Cut Virginia Plug",
               "source": "Tinbids Auction (Sold)",
@@ -23908,6 +23983,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "F&T Special Brown Flake",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$22.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$22.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            },
             {
               "name": "Special Brown Flake",
               "source": "Speak-Easy.Club",
@@ -30026,6 +30116,42 @@
       "source": "Multiple sources"
     },
     {
+      "id": "gawithhoggarthco|bestbrown2",
+      "brand": "Gawith, Hoggarth & Co.",
+      "blend": "Best Brown #2",
+      "display_name": "Gawith, Hoggarth & Co. Best Brown #2",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "GH BB2",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$16.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$16.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Speak-Easy.Club"
+    },
+    {
       "id": "gawithhoggarthco|bestbrownflake",
       "brand": "Gawith, Hoggarth & Co.",
       "blend": "Best Brown Flake",
@@ -30918,6 +31044,29 @@
                 {
                   "price": "$50",
                   "date": "2026-06-26T03:40:44+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        },
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "SG Cob Plug (TV Tray)",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$65.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$65.00",
+                  "date": "2026-07-26T00:59:43+00:00"
                 }
               ]
             }
@@ -39028,6 +39177,42 @@
       "source": "Speak-Easy.Club"
     },
     {
+      "id": "kenbyronventures|goblinmixture",
+      "brand": "Ken Byron Ventures",
+      "blend": "Goblin Mixture",
+      "display_name": "Ken Byron Ventures Goblin Mixture",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "KBV Goblin Mix",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$20.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$20.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Speak-Easy.Club"
+    },
+    {
       "id": "kenbyronventures|jupiterslices",
       "brand": "Ken Byron Ventures",
       "blend": "Jupiter Slices",
@@ -39094,6 +39279,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "KBV Kings Ransom",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$20.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$20.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            },
             {
               "name": "King’s Ransom (original version before KBV; pretty sure it has Syrian Lat)",
               "source": "Speak-Easy.Club",
@@ -39197,6 +39397,42 @@
                 {
                   "price": "$6",
                   "date": "2026-06-24T02:02:09.029335+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "kenbyronventures|mycroft",
+      "brand": "Ken Byron Ventures",
+      "blend": "Mycroft",
+      "display_name": "Ken Byron Ventures Mycroft",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "KBV Mycroft",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$20.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$20.00",
+                  "date": "2026-07-26T00:59:43+00:00"
                 }
               ]
             }
@@ -39639,6 +39875,42 @@
       "source": "Tinbids Auction (Sold)"
     },
     {
+      "id": "kenbyronventures|savagefleet",
+      "brand": "Ken Byron Ventures",
+      "blend": "Savage Fleet",
+      "display_name": "Ken Byron Ventures Savage Fleet",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "KBV Savage Fleet",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$20.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$20.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Speak-Easy.Club"
+    },
+    {
       "id": "kenbyronventures|thedreadplanet",
       "brand": "Ken Byron Ventures",
       "blend": "The Dread Planet",
@@ -39685,6 +39957,42 @@
                 {
                   "price": "$17",
                   "date": "2026-06-24T02:02:09.029335+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "kenbyronventures|theendlessvoid",
+      "brand": "Ken Byron Ventures",
+      "blend": "The Endless Void",
+      "display_name": "Ken Byron Ventures The Endless Void",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "KBV Endless Void",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$20.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$20.00",
+                  "date": "2026-07-26T00:59:43+00:00"
                 }
               ]
             }
@@ -39922,6 +40230,42 @@
                 {
                   "price": "$55",
                   "date": "2026-07-13T06:38:16.608246+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Speak-Easy.Club"
+    },
+    {
+      "id": "kenbyronventures|yana",
+      "brand": "Ken Byron Ventures",
+      "blend": "Yana",
+      "display_name": "Ken Byron Ventures Yana",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "KBV Yana - 2",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/a-few-different-bulks.44854/unread",
+              "price": "$45",
+              "last_updated": "2026-07-22T06:38:17.038976+00:00",
+              "first_seen": "2026-07-11T15:13:37+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$45",
+                  "date": "2026-07-11T15:13:37+00:00"
                 }
               ]
             }
@@ -66226,6 +66570,21 @@
           "quantity": "",
           "members": [
             {
+              "name": "SG 1972",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$20.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "1972",
+              "price_history": [
+                {
+                  "price": "$20.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            },
+            {
               "name": "Samuel Gawith - 1792 Flake - 2018!",
               "source": "Treasured Smokes",
               "url": "https://www.treasuredsmokes.com/product-page/samuel-gawith-1792-flake-2018",
@@ -66242,11 +66601,13 @@
             }
           ],
           "sources": [
-            "Treasured Smokes"
+            "Treasured Smokes",
+            "Speak-Easy.Club"
           ]
         }
       ],
       "years": [
+        "1972",
         "2012",
         "2015",
         "2016",
@@ -66611,6 +66972,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "SG Black Forest",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$20.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$20.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            },
             {
               "name": "Black Forest",
               "source": "Speak-Easy.Club",
@@ -67029,6 +67405,21 @@
           "quantity": "",
           "members": [
             {
+              "name": "SG BS Flake",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$30.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$30.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            },
+            {
               "name": "(1) SG Brown Sugar Flake",
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/va-and-burley-lots.40531/",
@@ -67254,6 +67645,42 @@
       "source": "Multiple sources"
     },
     {
+      "id": "samuelgawith|cannonplug",
+      "brand": "Samuel Gawith",
+      "blend": "Cannon Plug",
+      "display_name": "Samuel Gawith Cannon Plug",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "SG Canon Plug (TV Tray)",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$65.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$65.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Speak-Easy.Club"
+    },
+    {
       "id": "samuelgawith|chflake",
       "brand": "Samuel Gawith",
       "blend": "CH Flake",
@@ -67324,6 +67751,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "SG Choc Flake",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$30.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$30.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            },
             {
               "name": "Chocolate Flake",
               "source": "Speak-Easy.Club",
@@ -67564,6 +68006,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "SG Commonwealth",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$30.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$30.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            },
             {
               "name": "Commonwealth Mixture",
               "source": "Speak-Easy.Club",
@@ -68474,6 +68931,21 @@
           "quantity": "",
           "members": [
             {
+              "name": "SG Grousemoor",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$16.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$16.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            },
+            {
               "name": "SG Grousemoor Plug",
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/samuel-gawith-hoggarth.41067/",
@@ -68530,6 +69002,42 @@
         "2020"
       ],
       "source": "Multiple sources"
+    },
+    {
+      "id": "samuelgawith|grousemoorplug",
+      "brand": "Samuel Gawith",
+      "blend": "Grousemoor Plug",
+      "display_name": "Samuel Gawith Grousemoor Plug",
+      "sources": [
+        "Speak-Easy.Club"
+      ],
+      "sizes": [
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "SG Grousemoor Plug (TV Tray)",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$50.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$50.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        }
+      ],
+      "years": [],
+      "source": "Speak-Easy.Club"
     },
     {
       "id": "samuelgawith|hansomflake",
@@ -68714,6 +69222,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "SG KC Flake",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$18.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$18.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            },
             {
               "name": "SG Kendal Cream Flake",
               "source": "Speak-Easy.Club",
@@ -68918,7 +69441,8 @@
       "blend": "Lakeland Dark",
       "display_name": "Samuel Gawith Lakeland Dark",
       "sources": [
-        "pipestud.com"
+        "pipestud.com",
+        "Speak-Easy.Club"
       ],
       "sizes": [
         {
@@ -68943,12 +69467,35 @@
           "sources": [
             "pipestud.com"
           ]
+        },
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "SG Lakeland Dark",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$30.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$30.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
         }
       ],
       "years": [
         "2017"
       ],
-      "source": "pipestud.com"
+      "source": "Multiple sources"
     },
     {
       "id": "samuelgawith|navyflake",
@@ -69032,6 +69579,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "SG Navy Flake",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$16.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$16.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            },
             {
               "name": "x 202O SG Navy Flake",
               "source": "Speak-Easy.Club",
@@ -69456,6 +70018,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "SG Skiff",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$20.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$20.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            },
             {
               "name": "Skiff Mixture",
               "source": "Speak-Easy.Club",
@@ -72497,6 +73074,29 @@
             "Tinbids Auction (Sold)",
             "4noggins.com"
           ]
+        },
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Solani VA Flake",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$28.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$28.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
         }
       ],
       "years": [
@@ -72696,6 +73296,29 @@
             "Tinbids Auction (Sold)",
             "4noggins.com"
           ]
+        },
+        {
+          "quantity": "",
+          "members": [
+            {
+              "name": "Solani ABF",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$28.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$28.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
         }
       ],
       "years": [
@@ -72719,6 +73342,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "Solani Silver Flake",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$35.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$35.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            },
             {
               "name": "Silver Flake 660",
               "source": "Speak-Easy.Club",
@@ -77608,6 +78246,21 @@
           "quantity": "",
           "members": [
             {
+              "name": "SPC MR",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$20.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$20.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            },
+            {
               "name": "Seattle Pipe Club Mississippi River",
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/selling-a-chunk-of-my-cellar.44637/",
@@ -77736,6 +78389,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "SPC MR SR (Mylar)",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$35.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$35.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            },
             {
               "name": "Mississippi River Special Reserve",
               "source": "Speak-Easy.Club",
@@ -78080,6 +78748,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "SPC PP SR",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$40.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$40.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            },
             {
               "name": "Plum Pudding Special Reserve",
               "source": "Speak-Easy.Club",
@@ -82065,7 +82748,8 @@
       "display_name": "Wessex Campaign Dark Flake",
       "sources": [
         "pipestud.com",
-        "Tinbids Auction (Sold)"
+        "Tinbids Auction (Sold)",
+        "Speak-Easy.Club"
       ],
       "sizes": [
         {
@@ -82115,6 +82799,21 @@
           "quantity": "",
           "members": [
             {
+              "name": "Wessex Campaign",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
+              "price": "$30.00",
+              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "first_seen": "2026-07-26T00:59:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$30.00",
+                  "date": "2026-07-26T00:59:43+00:00"
+                }
+              ]
+            },
+            {
               "name": "(2020) Wessex Campaign Dark Flake",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/207426/",
@@ -82135,7 +82834,8 @@
             }
           ],
           "sources": [
-            "Tinbids Auction (Sold)"
+            "Tinbids Auction (Sold)",
+            "Speak-Easy.Club"
           ]
         }
       ],
@@ -84503,6 +85203,39 @@
     "Wessex: BURLEY SLICE 50g 2014 - C": "wessex|burleyslice",
     "Wessex: GOLD SLICE 1.5oz 2017 - C": "wessex|goldslice",
     "William Taylor Ashton:  OLD LONDON PEBBLE CUT 100g 1985- C": "ashton|oldlondonpebblecut",
+    "Captain Black Grape": "captainblack|grape",
+    "F&T Cut VA Plug": "fribourgtreyer|cutvirginiaplug",
+    "F&T Special Brown Flake": "fribourgtreyer|specialbrownflake",
+    "F&T Cut Blended Plug": "fribourgtreyer|cutblendedplug",
+    "F&T BlackJack": "fribourgtreyer|blackjack",
+    "Wessex Campaign": "wessex|campaigndarkflake",
+    "Solani ABF": "solani|agedburleyflake656",
+    "Solani Silver Flake": "solani|silver660",
+    "Solani VA Flake": "solani|633",
+    "SG Canon Plug (TV Tray)": "samuelgawith|cannonplug",
+    "SG Cob Plug (TV Tray)": "gawithhoggarthco|cobplug",
+    "SG Grousemoor Plug (TV Tray)": "samuelgawith|grousemoorplug",
+    "SG BS Flake": "samuelgawith|brownsugarflake",
+    "SG Grousemoor": "samuelgawith|grousemoor",
+    "SG KC Flake": "samuelgawith|kendalcreamflake",
+    "SG 1972": "samuelgawith|1792flake",
+    "SG Black Forest": "samuelgawith|blackforest",
+    "SG Skiff": "samuelgawith|skiffmixture",
+    "SG Lakeland Dark": "samuelgawith|lakelanddark",
+    "SG Commonwealth": "samuelgawith|commonwealthmixture",
+    "SG Choc Flake": "samuelgawith|chocolateflake",
+    "SG Navy Flake": "samuelgawith|navyflake",
+    "GH BB2": "gawithhoggarthco|bestbrown2",
+    "SPC PP SR": "sutliff|spcplumpuddingspecialreserve",
+    "SPC MR": "sutliff|spcmississippiriver",
+    "SPC MR SR (Mylar)": "sutliff|spcmississippiriverspecialreserve",
+    "Hamborger Veermaster bag": "dantobacco|hamborgerveermaster",
+    "KBV Endless Void": "kenbyronventures|theendlessvoid",
+    "KBV Goblin Mix": "kenbyronventures|goblinmixture",
+    "KBV Savage Fleet": "kenbyronventures|savagefleet",
+    "KBV Kings Ransom": "kenbyronventures|kingsransom",
+    "KBV Mycroft": "kenbyronventures|mycroft",
+    "KBV Yana - 2": "kenbyronventures|yana",
     "Sutliff SPC Plum Pudding (12/24)": "sutliff|spcplumpudding",
     "*Pending* '16 Christmas Cheer": "mcclelland|christmascheer",
     "*Pending* '07 Yenidje Supreme": "mcclelland|grandorientalsyenidjesupreme",
