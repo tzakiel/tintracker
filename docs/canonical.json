@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-26T06:39:08.326693+00:00",
+  "generated": "2026-07-26T16:07:34.034251+00:00",
   "stats": {
-    "total_listings": 4894,
-    "excluded_multipacks": 1658,
+    "total_listings": 4910,
+    "excluded_multipacks": 1659,
     "total_tins": 1114,
     "multi_member_tins": 515,
     "listings_in_groups": 2256,
@@ -5014,15 +5014,19 @@
             {
               "name": "Cobblestone Walnut Maple Pie (Discontinued!!!) Excellent Aromatic Blend!!!",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/205517/",
-              "price": "$25.00",
-              "last_updated": "2026-07-19T04:00:29.560109+00:00",
+              "url": "https://tinbids.com/auction/209574/",
+              "price": "$49.00",
+              "last_updated": "2026-07-26T16:00:26.764560+00:00",
               "first_seen": "2026-07-18T20:09:52+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$25.00",
                   "date": "2026-07-18T20:09:52+00:00"
+                },
+                {
+                  "price": "$49.00",
+                  "date": "2026-07-26T16:00:26.764560+00:00"
                 }
               ]
             }
@@ -40355,15 +40359,19 @@
             {
               "name": "Very Nice Sealed Lane LTD. Crown Achievement 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203663/",
-              "price": "$15.49",
-              "last_updated": "2026-07-12T04:00:50.529539+00:00",
+              "url": "https://tinbids.com/auction/208935/",
+              "price": "$14.99",
+              "last_updated": "2026-07-26T16:00:26.764560+00:00",
               "first_seen": "2026-07-12T00:26:04+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$15.49",
                   "date": "2026-07-12T00:26:04+00:00"
+                },
+                {
+                  "price": "$14.99",
+                  "date": "2026-07-26T16:00:26.764560+00:00"
                 }
               ]
             }
@@ -77487,15 +77495,19 @@
             {
               "name": "Seattle Pipe Club Gentleman's Rum Vanilla 2oz",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203956/",
-              "price": "$63.00",
-              "last_updated": "2026-07-17T16:00:34.409951+00:00",
+              "url": "https://tinbids.com/auction/207231/",
+              "price": "$33.00",
+              "last_updated": "2026-07-26T16:00:26.764560+00:00",
               "first_seen": "2026-07-17T15:01:38+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$63.00",
                   "date": "2026-07-17T15:01:38+00:00"
+                },
+                {
+                  "price": "$33.00",
+                  "date": "2026-07-26T16:00:26.764560+00:00"
                 }
               ]
             }
@@ -83246,6 +83258,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Cobblestone Walnut Maple Pie (Discontinued!!!) Excellent Aromatic Blend!!!": "cobblestone|walnutmaplepie",
+    "Seattle Pipe Club Gentleman's Rum Vanilla 2oz": "sutliff|spcgentlemansrumvanilla",
+    "Very Nice Sealed Lane LTD. Crown Achievement 50g. Tin": "lanelimited|crownachievement",
     "Mac Baren HH LATAKIA FLAKE - ONE POUND": "macbaren|hhlatakiaflake",
     "Barlings Tradition - 50g": "barling|tradition",
     "2017 Tin of Balkan Blue Pipe Tobacco by Mclelland with about 9 years of age": "mcclelland|balkanblue",
@@ -83272,7 +83287,6 @@
     "Sutliff Matured Red Virginia 515 RC-1 5oz (Discontinued!!!) Similar to McClelland Red Cake 5100": "sutliff|515rc1",
     "Cornell & Deihl Carolina Red Flake 2024 (Small Batch Release) Excellent Red Virginia Flake!!!": "cornelldiehl|carolinaredflake",
     "Mac Baren HH Vintage Syrian 2017 (Discontinued!!!) Rare Syrian Latakia Blend!!!": "macbaren|hhvintagesyrian",
-    "Cobblestone Walnut Maple Pie (Discontinued!!!) Excellent Aromatic Blend!!!": "cobblestone|walnutmaplepie",
     "Sutliff Pipe Force Episode V (Discontinued!!!) Rare Find!!!": "sutliff|pipeforceepisodev",
     "War Horse Bar (Discontinued!!!) Excellent Dark Fired Kentucky & Red Virginia!!!": "sutliff|warhorsebar",
     "Sutliff Crumble Kake Va Perique (Discontinued!!!) Excellent VaPer Blend!!!": "sutliff|crumblekakevirginiaperique",
@@ -83334,7 +83348,6 @@
     "2012 McClelland’s Frog Morton Cellar - 1 Tin NR BIN $250": "mcclelland|frogmortonscellar",
     "HOLY GRAIL - 1970s Balkan Sobranie No 759 Mixture - NR": "jfgermain|balkansobranie",
     "Rare vintage COPE'S ESCUDO 100g full tin NR": "stg|escudonavydeluxe",
-    "Seattle Pipe Club Gentleman's Rum Vanilla 2oz": "sutliff|spcgentlemansrumvanilla",
     "2024 Germain's Uncle Tom 50 gm well sealed 5 D NR BIN 68": "jfgermain|uncletom",
     "Esoterica Tobacciana Butera’s Margate 8 oz. Sealed Pipe Tobacco Germain & Son, UK": "esoterica|margate",
     "1996 McClelland No. 25 Virginia 20th Anniversary -100g": "mcclelland|no25virginia20thanniversary",
@@ -83520,7 +83533,6 @@
     "Escudo - 50g tin 2021 (Aged 5 Years)": "stg|escudonavydeluxe",
     "C&D Midnight Orchard": "cornelldiehl|midnightorchard",
     "Very Nice Sealed Hearth & home Gerberus 50g. Tin": "hearthhome|cerberus",
-    "Very Nice Sealed Lane LTD. Crown Achievement 50g. Tin": "lanelimited|crownachievement",
     "Very Nice Sealed 2026 Seattle Pipe Club Mississippi River 2oz. Tin": "cornelldiehl|spcmississippiriver",
     "Very Nice Sealed Savinelli English Mixture 50g. Tin": "savinelli|englishmixture",
     "Fribourg & Treyer - (2019) Special Brown Flake": "fribourgtreyer|specialbrownflake",
