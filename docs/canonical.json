@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-27T15:15:04.380848+00:00",
+  "generated": "2026-07-27T16:07:33.241308+00:00",
   "stats": {
-    "total_listings": 4945,
-    "excluded_multipacks": 1715,
+    "total_listings": 4951,
+    "excluded_multipacks": 1716,
     "total_tins": 1172,
     "multi_member_tins": 557,
     "listings_in_groups": 2560,
@@ -51841,7 +51841,7 @@
             {
               "name": "McClelland 40th Anniversary - NR BIN $225",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/205090/",
+              "url": "https://tinbids.com/auction/210702/",
               "price": "$225.00",
               "last_updated": "2026-06-22T13:53:20.063064+00:00",
               "first_seen": "2026-06-22T13:53:20.063064+00:00",
@@ -77734,15 +77734,19 @@
             {
               "name": "Excellent Sealed 2016 Our Best Blend by Smokers Haven 2oz. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/198825/",
-              "price": "$109.73",
-              "last_updated": "2026-06-30T04:00:36.030360+00:00",
+              "url": "https://tinbids.com/auction/209123/",
+              "price": "$131.00",
+              "last_updated": "2026-07-27T16:00:34.760707+00:00",
               "first_seen": "2026-06-29T23:22:49+00:00",
               "year": "2016",
               "price_history": [
                 {
                   "price": "$109.73",
                   "date": "2026-06-29T23:22:49+00:00"
+                },
+                {
+                  "price": "$131.00",
+                  "date": "2026-07-27T16:00:34.760707+00:00"
                 }
               ]
             },
@@ -90204,6 +90208,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Excellent Sealed 2016 Our Best Blend by Smokers Haven 2oz. Tin": "smokershaven|ourbestblend",
     "Esoterica Stonehaven 2017 | 8oz Bag | La Clave Collection": "esoterica|stonehaven",
     "8oz Sealed Bag of Esoterica Pembroke": "esoterica|pembroke",
     "Mac Baren HH Acadian Perique - Rare Vintage Tin (2020)": "macbaren|hhacadianperique",
@@ -91063,7 +91068,6 @@
     "Excellent Sealed 2020 Mac Baren's Stockton Spun Cut Limited Edition No. 1745 100g. Tin": "macbaren|stocktonspuncut",
     "Very Nice Sealed in Package Gallaher's Condor Plug 25g Tiny Pack": "condor|plug",
     "Very Nice 2002 G. L. Pease Tribute 2nd Edition 2oz Tin": "glpease|tribute",
-    "Excellent Sealed 2016 Our Best Blend by Smokers Haven 2oz. Tin": "smokershaven|ourbestblend",
     "Very Nice Sealed 2020 Mac Baren HH Rustica Limited Edition No. 3865 of 7100 3.5oz. Tin": "macbaren|hhrustica",
     "Very Nice Sealed 2021 Gawith Hoggarth Ennerdale 500g. in Box": "gawithhoggarthco|ennerdaleflake",
     "Very Nice Sealed 2017 McClelland's Frog Morton on the Town 100g. Tin": "mcclelland|frogmortononthetown",
