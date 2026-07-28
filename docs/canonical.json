@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-28T15:14:20.082390+00:00",
+  "generated": "2026-07-28T16:08:59.425866+00:00",
   "stats": {
-    "total_listings": 4963,
+    "total_listings": 4978,
     "excluded_multipacks": 1717,
     "total_tins": 1172,
     "multi_member_tins": 557,
@@ -22574,6 +22574,41 @@
           "quantity": "8oz",
           "members": [
             {
+              "name": "Esoterica Tobacciana Butera’s Margate 8 oz. Sealed Pipe Tobacco Germain & Son, UK",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/208976/",
+              "price": "$595.00",
+              "last_updated": "2026-07-28T16:00:25.898435+00:00",
+              "first_seen": "2026-06-22T13:53:20.063064+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$640.00",
+                  "date": "2026-06-22T13:53:20.063064+00:00"
+                },
+                {
+                  "price": "$800.00",
+                  "date": "2026-06-26T04:00:26.274584+00:00"
+                },
+                {
+                  "price": "$610.00",
+                  "date": "2026-06-30T04:00:36.030360+00:00"
+                },
+                {
+                  "price": "$640.00",
+                  "date": "2026-07-04T04:00:42.890669+00:00"
+                },
+                {
+                  "price": "$660.00",
+                  "date": "2026-07-17T04:00:33.950489+00:00"
+                },
+                {
+                  "price": "$595.00",
+                  "date": "2026-07-28T16:00:25.898435+00:00"
+                }
+              ]
+            },
+            {
               "name": "Esoterica Margate 8oz Bag.",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/207060/",
@@ -22615,37 +22650,6 @@
                 {
                   "price": "$335.00",
                   "date": "2026-07-19T00:28:35+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Esoterica Tobacciana Butera’s Margate 8 oz. Sealed Pipe Tobacco Germain & Son, UK",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/204805/",
-              "price": "$660.00",
-              "last_updated": "2026-07-17T04:00:33.950489+00:00",
-              "first_seen": "2026-06-22T13:53:20.063064+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$640.00",
-                  "date": "2026-06-22T13:53:20.063064+00:00"
-                },
-                {
-                  "price": "$800.00",
-                  "date": "2026-06-26T04:00:26.274584+00:00"
-                },
-                {
-                  "price": "$610.00",
-                  "date": "2026-06-30T04:00:36.030360+00:00"
-                },
-                {
-                  "price": "$640.00",
-                  "date": "2026-07-04T04:00:42.890669+00:00"
-                },
-                {
-                  "price": "$660.00",
-                  "date": "2026-07-17T04:00:33.950489+00:00"
                 }
               ]
             },
@@ -69317,15 +69321,19 @@
             {
               "name": "Ravenwood - Frog Morton's Chalet - 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203494/",
-              "price": "$50.00",
-              "last_updated": "2026-07-14T04:00:50.482103+00:00",
+              "url": "https://tinbids.com/auction/208924/",
+              "price": "$55.00",
+              "last_updated": "2026-07-28T16:00:25.898435+00:00",
               "first_seen": "2026-07-13T20:05:21+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$50.00",
                   "date": "2026-07-13T20:05:21+00:00"
+                },
+                {
+                  "price": "$55.00",
+                  "date": "2026-07-28T16:00:25.898435+00:00"
                 }
               ]
             },
@@ -90320,6 +90328,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Esoterica Tobacciana Butera’s Margate 8 oz. Sealed Pipe Tobacco Germain & Son, UK": "esoterica|margate",
+    "Ravenwood - Frog Morton's Chalet - 50g": "ravenwood|frogmortonschalet",
     "2015 - SEATTLE PIPE CLUB, POTLATCH 2oz": "sutliff|spcpotlatch",
     "McConnell Mature 2018 NR": "robertmcconnell|mature",
     "Dunhill The Aperitif 2017 NR": "dunhill|aperitif",
@@ -90636,7 +90646,6 @@
     "Rare vintage COPE'S ESCUDO 100g full tin NR": "stg|escudonavydeluxe",
     "VINTAGE and RARE sealed 14oz can of Half and Half": "halfandhalf|halfandhalf",
     "2024 Germain's Uncle Tom 50 gm well sealed 5 D NR BIN 68": "jfgermain|uncletom",
-    "Esoterica Tobacciana Butera’s Margate 8 oz. Sealed Pipe Tobacco Germain & Son, UK": "esoterica|margate",
     "1996 McClelland No. 25 Virginia 20th Anniversary -100g": "mcclelland|no25virginia20thanniversary",
     "Germain's Royal Jersey Perique Mixture 2017": "jfgermain|royaljerseyperiquemixture",
     "Missouri Meerschaum Drawdown-50g": "missourimeerschaum|drawdown",
@@ -90733,7 +90742,6 @@
     "2008 McClelland Royal Cajun Dark-50g": "mcclelland|royalcajundark",
     "C&D HighRoller": "cornelldiehl|highroller",
     "Cornell and Diehl Nutty Irishman": "cornelldiehl|nuttyirishman",
-    "Ravenwood - Frog Morton's Chalet - 50g": "ravenwood|frogmortonschalet",
     "Samuel Gawith-Sam's Flake": "samuelgawith|samsflake",
     "Esoterica - Penzance - 2oz": "esoterica|penzance",
     "Esoterica - Stonehaven - 2oz": "esoterica|stonehaven",
