@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-27T19:16:18.500262+00:00",
+  "generated": "2026-07-28T04:07:37.871135+00:00",
   "stats": {
-    "total_listings": 4951,
-    "excluded_multipacks": 1716,
+    "total_listings": 4963,
+    "excluded_multipacks": 1717,
     "total_tins": 1172,
     "multi_member_tins": 557,
     "listings_in_groups": 2560,
@@ -16345,9 +16345,9 @@
             {
               "name": "Dunhill The Aperitif 2017 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203818/",
-              "price": "$40.00",
-              "last_updated": "2026-07-14T16:00:57.634372+00:00",
+              "url": "https://tinbids.com/auction/208760/",
+              "price": "$41.00",
+              "last_updated": "2026-07-28T04:00:32.783470+00:00",
               "first_seen": "2026-06-30T04:19:25+00:00",
               "year": "2017",
               "price_history": [
@@ -16362,6 +16362,10 @@
                 {
                   "price": "$40.00",
                   "date": "2026-07-14T16:00:57.634372+00:00"
+                },
+                {
+                  "price": "$41.00",
+                  "date": "2026-07-28T04:00:32.783470+00:00"
                 }
               ]
             }
@@ -16938,15 +16942,19 @@
             {
               "name": "Dunhill Durbar Mixture 2017 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203815/",
-              "price": "$52.00",
-              "last_updated": "2026-07-14T16:00:57.634372+00:00",
+              "url": "https://tinbids.com/auction/208763/",
+              "price": "$46.00",
+              "last_updated": "2026-07-28T04:00:32.783470+00:00",
               "first_seen": "2026-07-14T04:53:06+00:00",
               "year": "2017",
               "price_history": [
                 {
                   "price": "$52.00",
                   "date": "2026-07-14T04:53:06+00:00"
+                },
+                {
+                  "price": "$46.00",
+                  "date": "2026-07-28T04:00:32.783470+00:00"
                 }
               ]
             },
@@ -17545,9 +17553,9 @@
             {
               "name": "Dunhill Flake 2016 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/201970/",
-              "price": "$60.00",
-              "last_updated": "2026-07-10T16:00:51.213629+00:00",
+              "url": "https://tinbids.com/auction/208754/",
+              "price": "$50.05",
+              "last_updated": "2026-07-28T04:00:32.783470+00:00",
               "first_seen": "2026-07-03T04:00:36+00:00",
               "year": "2016",
               "price_history": [
@@ -17558,6 +17566,10 @@
                 {
                   "price": "$60.00",
                   "date": "2026-07-10T16:00:51.213629+00:00"
+                },
+                {
+                  "price": "$50.05",
+                  "date": "2026-07-28T04:00:32.783470+00:00"
                 }
               ]
             },
@@ -18731,9 +18743,9 @@
             {
               "name": "Dunhill Ready Rubbed 2017 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/200718/",
-              "price": "$36.00",
-              "last_updated": "2026-07-07T16:00:50.767711+00:00",
+              "url": "https://tinbids.com/auction/208766/",
+              "price": "$20.50",
+              "last_updated": "2026-07-28T04:00:32.783470+00:00",
               "first_seen": "2026-06-30T04:21:19+00:00",
               "year": "2017",
               "price_history": [
@@ -18744,6 +18756,10 @@
                 {
                   "price": "$36.00",
                   "date": "2026-07-07T16:00:50.767711+00:00"
+                },
+                {
+                  "price": "$20.50",
+                  "date": "2026-07-28T04:00:32.783470+00:00"
                 }
               ]
             }
@@ -18964,15 +18980,19 @@
             {
               "name": "Dunhill The “Royal Yacht” Mixture 2016 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/201967/",
-              "price": "$64.00",
-              "last_updated": "2026-07-10T16:00:51.213629+00:00",
+              "url": "https://tinbids.com/auction/208757/",
+              "price": "$52.00",
+              "last_updated": "2026-07-28T04:00:32.783470+00:00",
               "first_seen": "2026-07-10T04:24:47+00:00",
               "year": "2016",
               "price_history": [
                 {
                   "price": "$64.00",
                   "date": "2026-07-10T04:24:47+00:00"
+                },
+                {
+                  "price": "$52.00",
+                  "date": "2026-07-28T04:00:32.783470+00:00"
                 }
               ]
             },
@@ -51294,9 +51314,9 @@
             {
               "name": "McClelland 221B Series: Honeydew 2015 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/201952/",
-              "price": "$43.00",
-              "last_updated": "2026-07-10T16:00:51.213629+00:00",
+              "url": "https://tinbids.com/auction/208749/",
+              "price": "$62.00",
+              "last_updated": "2026-07-28T04:00:32.783470+00:00",
               "first_seen": "2026-06-26T03:11:03+00:00",
               "year": "2015",
               "price_history": [
@@ -51311,6 +51331,10 @@
                 {
                   "price": "$43.00",
                   "date": "2026-07-10T16:00:51.213629+00:00"
+                },
+                {
+                  "price": "$62.00",
+                  "date": "2026-07-28T04:00:32.783470+00:00"
                 }
               ]
             }
@@ -70367,15 +70391,19 @@
             {
               "name": "McConnell Mature 2018 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/205010/",
-              "price": "$28.57",
-              "last_updated": "2026-07-17T16:00:34.409951+00:00",
+              "url": "https://tinbids.com/auction/208770/",
+              "price": "$20.00",
+              "last_updated": "2026-07-28T04:00:32.783470+00:00",
               "first_seen": "2026-07-17T04:48:00+00:00",
               "year": "2018",
               "price_history": [
                 {
                   "price": "$28.57",
                   "date": "2026-07-17T04:48:00+00:00"
+                },
+                {
+                  "price": "$20.00",
+                  "date": "2026-07-28T04:00:32.783470+00:00"
                 }
               ]
             }
@@ -84787,15 +84815,19 @@
             {
               "name": "2015 - SEATTLE PIPE CLUB, POTLATCH 2oz",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/208395/",
-              "price": "$25.00",
-              "last_updated": "2026-07-25T04:00:26.048530+00:00",
+              "url": "https://tinbids.com/auction/209560/",
+              "price": "$35.00",
+              "last_updated": "2026-07-28T04:00:32.783470+00:00",
               "first_seen": "2026-07-24T23:30:24+00:00",
               "year": "2015",
               "price_history": [
                 {
                   "price": "$25.00",
                   "date": "2026-07-24T23:30:24+00:00"
+                },
+                {
+                  "price": "$35.00",
+                  "date": "2026-07-28T04:00:32.783470+00:00"
                 }
               ]
             }
@@ -90224,6 +90256,14 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "2015 - SEATTLE PIPE CLUB, POTLATCH 2oz": "sutliff|spcpotlatch",
+    "McConnell Mature 2018 NR": "robertmcconnell|mature",
+    "Dunhill The Aperitif 2017 NR": "dunhill|aperitif",
+    "Dunhill Durbar Mixture 2017 NR": "dunhill|durbar",
+    "McClelland 221B Series: Honeydew 2015 NR": "mcclelland|221bhoneydew",
+    "Dunhill Flake 2016 NR": "dunhill|flake",
+    "Dunhill The “Royal Yacht” Mixture 2016 NR": "dunhill|royalyacht",
+    "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
     "Excellent Sealed 2016 Our Best Blend by Smokers Haven 2oz. Tin": "smokershaven|ourbestblend",
     "Esoterica Stonehaven 2017 | 8oz Bag | La Clave Collection": "esoterica|stonehaven",
     "8oz Sealed Bag of Esoterica Pembroke": "esoterica|pembroke",
@@ -90265,7 +90305,6 @@
     "2021 Bengal Slices Single Barrel 50g Tin": "sutliff|bengalslices",
     "2019 BALKAN SOBRANIE ORIGINAL SMOKING MIXTURE": "jfgermain|balkansobranie",
     "Very Nice Peter Stokkebye PS Luxury Bulls Eye Flake 1.5 LB Box": "peterstokkebye|luxurybullseyeflake",
-    "2015 - SEATTLE PIPE CLUB, POTLATCH 2oz": "sutliff|spcpotlatch",
     "2013 - G. L. Pease, Westminster traditional English mixture, 2oz": "glpease|westminster",
     "2014 Heath and Home, Black House, 1.5 oz": "hearthhome|blackhouse",
     "Esoterica Margate 8 ounce bag from 2022": "esoterica|margate",
@@ -90526,7 +90565,6 @@
     "Rattray’s Hal O’ the Wynd 2018 NR": "rattrays|halothewynd",
     "Rattray’s Old Gowrie 2018 NR": "rattrays|oldgowrie",
     "Rattray’s Marlin Flake 2018 NR": "rattrays|marlinflake",
-    "McConnell Mature 2018 NR": "robertmcconnell|mature",
     "Gawith & Hoggarth Rum Flake 2009 NR": "gawithhoggarthco|rumflake",
     "Peterson 3-Sweet Killarney": "peterson|sweetkillarney",
     "2012 McClelland’s Frog Morton Cellar - 1 Tin NR BIN $250": "mcclelland|frogmortonscellar",
@@ -90604,10 +90642,8 @@
     "MacBaren Stockton Spun Cut Limited Edition 2020 NR": "macbaren|stocktonspuncut",
     "Dunhill “Ye Olde Signe” 2016 NR": "dunhill|yeoldesigne",
     "Dunhill Dark Flake 2016 NR": "dunhill|darkflake",
-    "Dunhill The Aperitif 2017 NR": "dunhill|aperitif",
     "Vintage - 2016 - Dunhill Durbar": "dunhill|durbar",
     "1970s Balkan Sobranie Smoking Mixture 100g Unopened Ring Pull Tin": "jfgermain|balkansobranie",
-    "Dunhill Durbar Mixture 2017 NR": "dunhill|durbar",
     "MacBaren Virginia Flake 2017 NR": "macbaren|virginiaflake",
     "MacBaren Virginia No. 1 2017 NR": "macbaren|virginiano1",
     "MacBaren HH Pure Virginia 2016 NR": "macbaren|hhpurevirginia",
@@ -90753,16 +90789,13 @@
     "Vintage 1992 - Wessex Premier Rich Aroma - 50g": "wessex|premierricharoma",
     "Vintage 1997 - Iwan Ries Gourmet English - 50g": "iwanries|gourmetenglish",
     "G.L. PEASE.  ABINGDON": "glpease|abingdon",
-    "McClelland 221B Series: Honeydew 2015 NR": "mcclelland|221bhoneydew",
     "Germain Royal Jersey: Perique Mixture 2009 NR": "jfgermain|royaljerseyperiquemixture",
     "Dunhill Standard Mixture Medium 2009 NR": "dunhill|standardmixturemedium",
     "Dunhill Standard Mixture Mild 1997 NR": "dunhill|standardmixturemild",
     "Dunhill My Mixture 965 2017 NR": "dunhill|mymixtureno965",
-    "Dunhill Flake 2016 NR": "dunhill|flake",
     "Mac Baren Dark Twist - 2016 (Aged 10 years) 3.5oz": "macbaren|darktwist",
     "McClelland Blakeney’s Best: Tawny Flake 2005 NR": "mcclelland|blakeneysbesttawnyflake",
     "Gawith Bothy Flake 2016 NR": "samuelgawith|bothyflake",
-    "Dunhill The “Royal Yacht” Mixture 2016 NR": "dunhill|royalyacht",
     "McConnell Red Virginia 2018 NR": "robertmcconnell|redvirginia",
     "McConnell Scottish Flake 2018 NR": "robertmcconnell|scottishflake",
     "2013 Erik Stokkebye 1957 Blend 3.5oz Tin": "erikstokkebye|4thgeneration1957",
@@ -90846,7 +90879,6 @@
     "1960s Rattray’s Black Mallory Sealed 4 oz Cutter Top Tin, Perth Scotland": "rattrays|blackmallory",
     "Esoterica - Margate - 2oz": "esoterica|margate",
     "Dunhill Durbar Mixture 2018 NR": "dunhill|durbar",
-    "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
     "1 Sealed 50g Tin Esoterica And So To Bed 2026": "esoterica|andsotobed",
     "Dunhill My Mixture 221B Baker St. 2017 NR": "dunhill|mymixture221bbakerstreet",
     "MacBaren Ogden’s St. Bruno Flake 2016 NR": "macbaren|stbrunoflake",
