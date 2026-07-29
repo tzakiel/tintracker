@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-28T19:16:27.746658+00:00",
+  "generated": "2026-07-29T04:07:23.346694+00:00",
   "stats": {
-    "total_listings": 4978,
-    "excluded_multipacks": 1717,
+    "total_listings": 4996,
+    "excluded_multipacks": 1719,
     "total_tins": 1172,
     "multi_member_tins": 557,
     "listings_in_groups": 2560,
@@ -11081,15 +11081,19 @@
             {
               "name": "Very Nice Sealed 2019 Cornell & Diehl Small Batch Carolina Red Flake 2oz. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/204752/",
-              "price": "$30.49",
-              "last_updated": "2026-07-15T04:00:49.070316+00:00",
+              "url": "https://tinbids.com/auction/209899/",
+              "price": "$38.00",
+              "last_updated": "2026-07-29T04:00:29.707112+00:00",
               "first_seen": "2026-07-14T19:10:29+00:00",
               "year": "2019",
               "price_history": [
                 {
                   "price": "$30.49",
                   "date": "2026-07-14T19:10:29+00:00"
+                },
+                {
+                  "price": "$38.00",
+                  "date": "2026-07-29T04:00:29.707112+00:00"
                 }
               ]
             }
@@ -12871,15 +12875,19 @@
             {
               "name": "Excellent Sealed 2019 C&D Captain Earle's Pressed Ten Russians 8oz. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/201768/",
-              "price": "$42.00",
-              "last_updated": "2026-07-08T04:00:53.107133+00:00",
+              "url": "https://tinbids.com/auction/209799/",
+              "price": "$31.50",
+              "last_updated": "2026-07-29T04:00:29.707112+00:00",
               "first_seen": "2026-07-07T18:48:05+00:00",
               "year": "2019",
               "price_history": [
                 {
                   "price": "$42.00",
                   "date": "2026-07-07T18:48:05+00:00"
+                },
+                {
+                  "price": "$31.50",
+                  "date": "2026-07-29T04:00:29.707112+00:00"
                 }
               ]
             }
@@ -36472,9 +36480,9 @@
             {
               "name": "Very Nice Sealed 2021 Hearth & Home Black House 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/209169/",
-              "price": "$32.00",
-              "last_updated": "2026-07-27T04:00:25.986860+00:00",
+              "url": "https://tinbids.com/auction/209865/",
+              "price": "$28.00",
+              "last_updated": "2026-07-29T04:00:29.707112+00:00",
               "first_seen": "2026-07-07T18:44:37+00:00",
               "year": "2021",
               "price_history": [
@@ -36485,6 +36493,10 @@
                 {
                   "price": "$32.00",
                   "date": "2026-07-27T04:00:25.986860+00:00"
+                },
+                {
+                  "price": "$28.00",
+                  "date": "2026-07-29T04:00:29.707112+00:00"
                 }
               ]
             }
@@ -60953,9 +60965,9 @@
             {
               "name": "Tobacco Tin Mc Clelland Syrian Super Balkan 2004 Out of Production",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/201686/",
-              "price": "$91.00",
-              "last_updated": "2026-07-10T04:00:45.837853+00:00",
+              "url": "https://tinbids.com/auction/209021/",
+              "price": "$70.24",
+              "last_updated": "2026-07-29T04:00:29.707112+00:00",
               "first_seen": "2026-06-25T20:19:53+00:00",
               "year": "2004",
               "price_history": [
@@ -60978,6 +60990,10 @@
                 {
                   "price": "$91.00",
                   "date": "2026-07-10T04:00:45.837853+00:00"
+                },
+                {
+                  "price": "$70.24",
+                  "date": "2026-07-29T04:00:29.707112+00:00"
                 }
               ]
             },
@@ -90344,6 +90360,10 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Very Nice Sealed 2021 Hearth & Home Black House 50g. Tin": "hearthhome|blackhouse",
+    "Very Nice Sealed 2019 Cornell & Diehl Small Batch Carolina Red Flake 2oz. Tin": "cornelldiehl|smallbatchcarolinaredflake",
+    "Tobacco Tin Mc Clelland Syrian Super Balkan 2004 Out of Production": "mcclelland|syriansuperbalkan",
+    "Excellent Sealed 2019 C&D Captain Earle's Pressed Ten Russians 8oz. Tin": "cornelldiehl|tenrussians",
     "Esoterica Tobacciana Butera’s Margate 8 oz. Sealed Pipe Tobacco Germain & Son, UK": "esoterica|margate",
     "Ravenwood - Frog Morton's Chalet - 50g": "ravenwood|frogmortonschalet",
     "2015 - SEATTLE PIPE CLUB, POTLATCH 2oz": "sutliff|spcpotlatch",
@@ -90359,7 +90379,6 @@
     "8oz Sealed Bag of Esoterica Pembroke": "esoterica|pembroke",
     "Mac Baren HH Acadian Perique - Rare Vintage Tin (2020)": "macbaren|hhacadianperique",
     "G.L. Pease 25th Anniversary Silver Jubilee": "glpease|25thanniversary",
-    "Very Nice Sealed 2021 Hearth & Home Black House 50g. Tin": "hearthhome|blackhouse",
     "1.5oz Sutliff (Discontinued) Top Shelf": "sutliff|topshelf",
     "Esoterica Pembroke": "esoterica|pembroke",
     "Cobblestone Walnut Maple Pie (Discontinued!!!) Excellent Aromatic Blend!!!": "cobblestone|walnutmaplepie",
@@ -90715,7 +90734,6 @@
     "Ravenwood - Smaug's Breath - 50g": "ravenwood|smaugsbreath",
     "Ravenwood - The Idol - 50g": "ravenwood|theidol",
     "Excellent Sealed 2018 Smokers Haven Cognac 50g. Tin": "smokershaven|cognacblend",
-    "Very Nice Sealed 2019 Cornell & Diehl Small Batch Carolina Red Flake 2oz. Tin": "cornelldiehl|smallbatchcarolinaredflake",
     "Excellent Sealed 2019 Schurch Onyx 50g. Tin": "schrch|onyx128",
     "Excellent Sealed 2015 McClelland Grand Orientals Drama Reserve 50g. Tin": "mcclelland|grandorientalsdramareserve",
     "Excellent Sealed 2023 Samuel Gawith Bosun Cut Plug 500g. Bag": "gawithhoggarthco|bosuncutplug",
@@ -90891,7 +90909,6 @@
     "Stanwell Vanilla": "stanwell|vanilla",
     "Rare Vintage McCLELLAND No. 25 Virginia 100g Sealed Tin": "mcclelland|no25",
     "Wessex Campaign Dark Flake-50g": "wessex|campaigndarkflake",
-    "Tobacco Tin Mc Clelland Syrian Super Balkan 2004 Out of Production": "mcclelland|syriansuperbalkan",
     "Dunhill My Mixture BB1938 1.76 oz’s Pipe Tobacco Sealed Tin Made in Denmark 2018": "dunhill|mymixturebb1938",
     "Butera’s Royal Vintage Latakia No.1 Sealed 50g Pipe Tobacco Tin 2017": "butera|latakiano1",
     "Mc Clelland Frog Morton Cellar Pipe Tobacco Sealed 100g Tin 2012 Out of Production": "mcclelland|frogmortonscellar",
@@ -90956,7 +90973,6 @@
     "17 Year Vintage 2009, Capstan Original navy cut , Manufactured by the Orlik Tobacco Company": "macbaren|capstanblue",
     "Excellent Sealed 2020 Mac Baren's Stockton Spun Cut Limited Edition No. 1462 100g. Tin": "macbaren|stockton",
     "Viking Denmark William the Conqueror 50g": "viking|williamtheconqueror",
-    "Excellent Sealed 2019 C&D Captain Earle's Pressed Ten Russians 8oz. Tin": "cornelldiehl|tenrussians",
     "Very Nice Sealed 2017 McClelland's Frog Morton 100g. Tin": "mcclelland|frogmorton",
     "22 Year Vintage (2004). Orlik Tobacco Company.  Dark Kentucky": "orlik|darkstrongkentucky",
     "Pride of New Orleans Picayune - 40g": "picayune|picayune",
