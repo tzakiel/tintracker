@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-29T15:14:23.300446+00:00",
+  "generated": "2026-07-29T16:06:40.510640+00:00",
   "stats": {
-    "total_listings": 4996,
+    "total_listings": 5003,
     "excluded_multipacks": 1719,
     "total_tins": 1172,
     "multi_member_tins": 557,
@@ -6851,15 +6851,19 @@
             {
               "name": "2018 Cornell & Diehl Carolina Red Flake - 1 tin NR BIN $65",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/207562/",
-              "price": "$60.00",
-              "last_updated": "2026-07-18T16:00:28.431520+00:00",
+              "url": "https://tinbids.com/auction/211416/",
+              "price": "$65.00",
+              "last_updated": "2026-07-29T16:00:34.599616+00:00",
               "first_seen": "2026-07-18T12:50:05+00:00",
               "year": "2018",
               "price_history": [
                 {
                   "price": "$60.00",
                   "date": "2026-07-18T12:50:05+00:00"
+                },
+                {
+                  "price": "$65.00",
+                  "date": "2026-07-29T16:00:34.599616+00:00"
                 }
               ]
             },
@@ -21772,15 +21776,19 @@
             {
               "name": "Esoterica Dorchester 8 ounce bag from 2023",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/207509/",
-              "price": "$455.00",
-              "last_updated": "2026-07-24T16:00:25.373248+00:00",
+              "url": "https://tinbids.com/auction/209267/",
+              "price": "$400.00",
+              "last_updated": "2026-07-29T16:00:34.599616+00:00",
               "first_seen": "2026-07-24T05:51:26+00:00",
               "year": "2023",
               "price_history": [
                 {
                   "price": "$455.00",
                   "date": "2026-07-24T05:51:26+00:00"
+                },
+                {
+                  "price": "$400.00",
+                  "date": "2026-07-29T16:00:34.599616+00:00"
                 }
               ]
             },
@@ -22561,15 +22569,19 @@
             {
               "name": "Esoterica Margate 2 ounce tin from 2023",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/207522/",
-              "price": "$92.00",
-              "last_updated": "2026-07-24T16:00:25.373248+00:00",
+              "url": "https://tinbids.com/auction/209272/",
+              "price": "$72.05",
+              "last_updated": "2026-07-29T16:00:34.599616+00:00",
               "first_seen": "2026-07-24T06:28:50+00:00",
               "year": "2023",
               "price_history": [
                 {
                   "price": "$92.00",
                   "date": "2026-07-24T06:28:50+00:00"
+                },
+                {
+                  "price": "$72.05",
+                  "date": "2026-07-29T16:00:34.599616+00:00"
                 }
               ]
             },
@@ -90424,6 +90436,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Esoterica Dorchester 8 ounce bag from 2023": "esoterica|dorchester",
+    "Esoterica Margate 2 ounce tin from 2023": "esoterica|margate",
+    "2018 Cornell & Diehl Carolina Red Flake - 1 tin NR BIN $65": "cornelldiehl|carolinaredflake",
     "Very Nice Sealed 2021 Hearth & Home Black House 50g. Tin": "hearthhome|blackhouse",
     "Very Nice Sealed 2019 Cornell & Diehl Small Batch Carolina Red Flake 2oz. Tin": "cornelldiehl|smallbatchcarolinaredflake",
     "Tobacco Tin Mc Clelland Syrian Super Balkan 2004 Out of Production": "mcclelland|syriansuperbalkan",
@@ -90481,12 +90496,10 @@
     "2013 - G. L. Pease, Westminster traditional English mixture, 2oz": "glpease|westminster",
     "2014 Heath and Home, Black House, 1.5 oz": "hearthhome|blackhouse",
     "Esoterica Margate 8 ounce bag from 2022": "esoterica|margate",
-    "Esoterica Dorchester 8 ounce bag from 2023": "esoterica|dorchester",
     "Balkan Sobranie Original Smoking Mixture 2 ounce tin from 2023": "jfgermain|balkansobranie",
     "Mac Baren’s Stockton 3.5 ounce tin from 2023": "macbaren|stockton",
     "Mac Baren’s Royal Twist Deluxe 3.5 ounce from 2021": "macbaren|royaltwist",
     "Mac Baren HH Old Dark Fired 3.5 ounce tin from 2024": "macbaren|hholddarkfired",
-    "Esoterica Margate 2 ounce tin from 2023": "esoterica|margate",
     "Esoterica Dorchester 2 ounce tin from 2023": "esoterica|dorchester",
     "Esoterica Dunbar 2 ounce tin from 2023": "esoterica|dunbar",
     "Esoterica Dorchester - 1 Tin NR BIN $100": "esoterica|dorchester",
@@ -90709,7 +90722,6 @@
     "2016 C&D Old Joe Krantz": "cornelldiehl|oldjoekrantz",
     "2017 C&D Red Stag": "cornelldiehl|redstag",
     "2022 Esoterica Tilbury - 1 Tin NR BIN $110": "esoterica|tilbury",
-    "2018 Cornell & Diehl Carolina Red Flake - 1 tin NR BIN $65": "cornelldiehl|carolinaredflake",
     "1970’s Rattray’s Highland Targe 100g Tin": "rattrays|highlandtarge",
     "Vintage 2020 Esoterica Tilbury - 8oz": "esoterica|tilbury",
     "Vintage 2021 - Cornell & Diehl Wintertime Reserve Alpine Lodge": "cornelldiehl|wintertimereservealpinelodge",
