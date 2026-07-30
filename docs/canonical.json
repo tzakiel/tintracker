@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-30T06:38:57.868921+00:00",
+  "generated": "2026-07-30T16:06:39.792997+00:00",
   "stats": {
-    "total_listings": 5030,
-    "excluded_multipacks": 1720,
+    "total_listings": 5033,
+    "excluded_multipacks": 1721,
     "total_tins": 1172,
     "multi_member_tins": 557,
     "listings_in_groups": 2560,
@@ -53986,15 +53986,19 @@
             {
               "name": "2001 McClelland Christmas Cheer- 100g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/204368/",
-              "price": "$227.00",
-              "last_updated": "2026-07-16T04:00:47.048591+00:00",
+              "url": "https://tinbids.com/auction/209380/",
+              "price": "$202.00",
+              "last_updated": "2026-07-30T16:00:26.670251+00:00",
               "first_seen": "2026-07-15T17:40:13+00:00",
               "year": "2001",
               "price_history": [
                 {
                   "price": "$227.00",
                   "date": "2026-07-15T17:40:13+00:00"
+                },
+                {
+                  "price": "$202.00",
+                  "date": "2026-07-30T16:00:26.670251+00:00"
                 }
               ]
             },
@@ -90456,6 +90460,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "2001 McClelland Christmas Cheer- 100g": "mcclelland|christmascheer",
     "2003 Smokers Haven Exotique, 8oz": "smokershaven|exotiquemixture",
     "Esoterica Dorchester 8 ounce bag from 2023": "esoterica|dorchester",
     "Esoterica Margate 2 ounce tin from 2023": "esoterica|margate",
@@ -90800,7 +90805,6 @@
     "VINTAGE 1980s/90s SEALED Carter Hall Pipe Tobacco Pocket Pouch": "johnmiddleton|carterhall",
     "2003 Smokers Haven Cognac 8oz": "smokershaven|cognacblend",
     "Vintage McClelland CHRISTMAS CHEER 2017 Sealed 100g Tin": "mcclelland|christmascheer",
-    "2001 McClelland Christmas Cheer- 100g": "mcclelland|christmascheer",
     "Dunhill the Royal Yacht mixture- 50g": "dunhill|royalyacht",
     "The Balkan Sobrane - 50g": "jfgermain|balkansobranie",
     "Orlik Golden Sliced-50g": "orlik|goldensliced",
