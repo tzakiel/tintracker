@@ -50702,8 +50702,23 @@
       "tag": "WTS"
     }
   ],
-  "last_scraped": "2026-07-29T06:38:23.432645+00:00",
+  "last_scraped": "2026-07-30T06:38:24.152228+00:00",
   "latest_scrape": [
+    {
+      "name": "I keep getting skunked on Pipestud. Not looking for bro prices, I’ll pay",
+      "price": "$20",
+      "url": "https://speak-easy.club/threads/mcc-40th-anniversary-140.44937/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-07-25T15:20:48+00:00",
+      "last_updated": "2026-07-26T06:38:20.190819+00:00",
+      "price_history": [
+        {
+          "price": "$20",
+          "date": "2026-07-25T15:20:48+00:00"
+        }
+      ],
+      "tag": "CLOSED"
+    },
     {
       "name": "FIRST ROUND selling in sets of 5 or more tins or orders over",
       "price": "$100",
@@ -50733,51 +50748,6 @@
         }
       ],
       "tag": "WTS"
-    },
-    {
-      "name": "2 x 2020 Old Gowrie 100g",
-      "price": "$35.00",
-      "url": "https://speak-easy.club/threads/sold-2020-rattrays-100g-tins.44868/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-14T04:22:54+00:00",
-      "last_updated": "2026-07-15T06:38:15.204452+00:00",
-      "price_history": [
-        {
-          "price": "$35.00",
-          "date": "2026-07-14T04:22:54+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "2   1 x 2020 Hal O' The Wynd 100g",
-      "price": "$35.00",
-      "url": "https://speak-easy.club/threads/sold-2020-rattrays-100g-tins.44868/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-14T04:22:54+00:00",
-      "last_updated": "2026-07-15T06:38:15.204452+00:00",
-      "price_history": [
-        {
-          "price": "$35.00",
-          "date": "2026-07-14T04:22:54+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "2 x 2020 Marlin Flake 100g",
-      "price": "$35.00",
-      "url": "https://speak-easy.club/threads/sold-2020-rattrays-100g-tins.44868/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-14T04:22:54+00:00",
-      "last_updated": "2026-07-15T06:38:15.204452+00:00",
-      "price_history": [
-        {
-          "price": "$35.00",
-          "date": "2026-07-14T04:22:54+00:00"
-        }
-      ],
-      "tag": "CLOSED"
     },
     {
       "name": "LET'S GET THIS MOVED:",
@@ -52499,21 +52469,6 @@
         }
       ],
       "tag": "WTS"
-    },
-    {
-      "name": "I keep getting skunked on Pipestud. Not looking for bro prices, I’ll pay",
-      "price": "$20",
-      "url": "https://speak-easy.club/threads/mcc-40th-anniversary-140.44937/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-25T15:20:48+00:00",
-      "last_updated": "2026-07-26T06:38:20.190819+00:00",
-      "price_history": [
-        {
-          "price": "$20",
-          "date": "2026-07-25T15:20:48+00:00"
-        }
-      ],
-      "tag": "CLOSED"
     }
   ],
   "scrape_history": [
@@ -52782,10 +52737,16 @@
       "added": 0,
       "price_changed": 0,
       "total": 2568
+    },
+    {
+      "date": "2026-07-30T06:38:24.152228+00:00",
+      "found": 42,
+      "added": 0,
+      "price_changed": 0,
+      "total": 2568
     }
   ],
   "thread_recheck": {
-    "https://speak-easy.club/threads/sold-2020-rattrays-100g-tins.44868/unread": "2026-07-30T06:38:19.913664+00:00",
     "https://speak-easy.club/threads/2005-talbert-goblin-cauldron-w-horn-stem.44886/unread": "2026-07-31T06:38:16.951695+00:00",
     "https://speak-easy.club/threads/mcc-and-sjf.44884/unread": "2026-07-31T06:38:16.951695+00:00",
     "https://speak-easy.club/threads/damaged-tins-lot.44883/unread": "2026-07-31T06:38:16.951695+00:00",
