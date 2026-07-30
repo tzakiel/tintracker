@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-29T19:16:22.169534+00:00",
+  "generated": "2026-07-30T04:06:57.955551+00:00",
   "stats": {
-    "total_listings": 5003,
-    "excluded_multipacks": 1719,
+    "total_listings": 5030,
+    "excluded_multipacks": 1720,
     "total_tins": 1172,
     "multi_member_tins": 557,
     "listings_in_groups": 2560,
@@ -78399,15 +78399,19 @@
             {
               "name": "2003 Smokers Haven Exotique, 8oz",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/199617/",
-              "price": "$560.00",
-              "last_updated": "2026-07-04T04:00:42.890669+00:00",
+              "url": "https://tinbids.com/auction/209379/",
+              "price": "$505.00",
+              "last_updated": "2026-07-30T04:00:28.295890+00:00",
               "first_seen": "2026-07-03T17:12:10+00:00",
               "year": "2003",
               "price_history": [
                 {
                   "price": "$560.00",
                   "date": "2026-07-03T17:12:10+00:00"
+                },
+                {
+                  "price": "$505.00",
+                  "date": "2026-07-30T04:00:28.295890+00:00"
                 }
               ]
             },
@@ -90452,6 +90456,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "2003 Smokers Haven Exotique, 8oz": "smokershaven|exotiquemixture",
     "Esoterica Dorchester 8 ounce bag from 2023": "esoterica|dorchester",
     "Esoterica Margate 2 ounce tin from 2023": "esoterica|margate",
     "2018 Cornell & Diehl Carolina Red Flake - 1 tin NR BIN $65": "cornelldiehl|carolinaredflake",
@@ -91175,7 +91180,6 @@
     "Hearth & Home Magnum Opus - 1 Tin NR BIN $60": "hearthhome|magnumopus",
     "R & L Robert Lewis Wingfield Mixture Sealed Tin 50g Pipe Tobacco 2012": "robertlewis|wingfieldmixture",
     "Dunhill London Mixture, Painted Tin, 50g": "dunhill|londonmixture",
-    "2003 Smokers Haven Exotique, 8oz": "smokershaven|exotiquemixture",
     "Smokers Haven Our Best Blend-2oz": "smokershaven|ourbestblend",
     "1999 McCrannies Prime 1983 Red Virginia -50g": "mccranies|redflake",
     "2oz tin from Sep, 2021 of Cornell and Diehl's Small-Batch Carolina Red Flake w/Perique. 14,689/15,000": "cornelldiehl|smallbatchcarolinaredflakewithperique",
