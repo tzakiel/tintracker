@@ -50702,68 +50702,8 @@
       "tag": "WTS"
     }
   ],
-  "last_scraped": "2026-07-30T06:38:24.152228+00:00",
+  "last_scraped": "2026-07-31T06:38:24.703309+00:00",
   "latest_scrape": [
-    {
-      "name": "I keep getting skunked on Pipestud. Not looking for bro prices, I’ll pay",
-      "price": "$20",
-      "url": "https://speak-easy.club/threads/mcc-40th-anniversary-140.44937/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-25T15:20:48+00:00",
-      "last_updated": "2026-07-26T06:38:20.190819+00:00",
-      "price_history": [
-        {
-          "price": "$20",
-          "date": "2026-07-25T15:20:48+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "FIRST ROUND selling in sets of 5 or more tins or orders over",
-      "price": "$100",
-      "url": "https://speak-easy.club/threads/shit-tons-of-sealed-tins-pouches.44500/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-05-18T18:23:09+00:00",
-      "last_updated": "2026-06-24T02:02:09.029335+00:00",
-      "price_history": [
-        {
-          "price": "$100",
-          "date": "2026-06-24T02:02:09.029335+00:00"
-        }
-      ],
-      "tag": "WTS"
-    },
-    {
-      "name": "I'll either cover shipping CONUS OR discount 10% (whichever is greater) on purchases over",
-      "price": "$100",
-      "url": "https://speak-easy.club/threads/shit-tons-of-sealed-tins-pouches.44500/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-05-18T18:23:09+00:00",
-      "last_updated": "2026-06-24T02:02:09.029335+00:00",
-      "price_history": [
-        {
-          "price": "$100",
-          "date": "2026-06-24T02:02:09.029335+00:00"
-        }
-      ],
-      "tag": "WTS"
-    },
-    {
-      "name": "LET'S GET THIS MOVED:",
-      "price": "$250",
-      "url": "https://speak-easy.club/threads/bullfrog-gumnut-with-camo-stem.44885/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-16T17:36:29+00:00",
-      "last_updated": "2026-07-18T06:38:18.772140+00:00",
-      "price_history": [
-        {
-          "price": "$250",
-          "date": "2026-07-16T17:36:29+00:00"
-        }
-      ],
-      "tag": "WTS"
-    },
     {
       "name": "Free CONUS shipping on orders over",
       "price": "$100",
@@ -52336,6 +52276,36 @@
       "tag": "WTS"
     },
     {
+      "name": "FIRST ROUND selling in sets of 5 or more tins or orders over",
+      "price": "$100",
+      "url": "https://speak-easy.club/threads/shit-tons-of-sealed-tins-pouches.44500/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-05-18T18:23:09+00:00",
+      "last_updated": "2026-06-24T02:02:09.029335+00:00",
+      "price_history": [
+        {
+          "price": "$100",
+          "date": "2026-06-24T02:02:09.029335+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
+      "name": "I'll either cover shipping CONUS OR discount 10% (whichever is greater) on purchases over",
+      "price": "$100",
+      "url": "https://speak-easy.club/threads/shit-tons-of-sealed-tins-pouches.44500/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-05-18T18:23:09+00:00",
+      "last_updated": "2026-06-24T02:02:09.029335+00:00",
+      "price_history": [
+        {
+          "price": "$100",
+          "date": "2026-06-24T02:02:09.029335+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
       "name": "5x CRF 2022 50ea",
       "price": "$20",
       "url": "https://speak-easy.club/threads/capitalism-101-50-off-gelato.43403/unread",
@@ -52469,6 +52439,21 @@
         }
       ],
       "tag": "WTS"
+    },
+    {
+      "name": "I keep getting skunked on Pipestud. Not looking for bro prices, I’ll pay",
+      "price": "$20",
+      "url": "https://speak-easy.club/threads/mcc-40th-anniversary-140.44937/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-07-25T15:20:48+00:00",
+      "last_updated": "2026-07-26T06:38:20.190819+00:00",
+      "price_history": [
+        {
+          "price": "$20",
+          "date": "2026-07-25T15:20:48+00:00"
+        }
+      ],
+      "tag": "CLOSED"
     }
   ],
   "scrape_history": [
@@ -52744,13 +52729,16 @@
       "added": 0,
       "price_changed": 0,
       "total": 2568
+    },
+    {
+      "date": "2026-07-31T06:38:24.703309+00:00",
+      "found": 41,
+      "added": 0,
+      "price_changed": 0,
+      "total": 2568
     }
   ],
   "thread_recheck": {
-    "https://speak-easy.club/threads/2005-talbert-goblin-cauldron-w-horn-stem.44886/unread": "2026-07-31T06:38:16.951695+00:00",
-    "https://speak-easy.club/threads/mcc-and-sjf.44884/unread": "2026-07-31T06:38:16.951695+00:00",
-    "https://speak-easy.club/threads/damaged-tins-lot.44883/unread": "2026-07-31T06:38:16.951695+00:00",
-    "https://speak-easy.club/threads/bullfrog-gumnut-with-camo-stem.44885/unread": "2026-07-31T06:38:16.951695+00:00",
     "https://speak-easy.club/threads/heaps.44351/unread": "2026-08-01T06:38:18.772140+00:00",
     "https://speak-easy.club/threads/talbert-ligne-bretagne-brush-carved-ravens-wing-bulldog.44890/unread": "2026-08-01T06:38:18.772140+00:00",
     "https://speak-easy.club/threads/sutliff-plum-pudding-30.44899/unread": "2026-08-02T06:38:16.219052+00:00",
