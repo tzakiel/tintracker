@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-30T19:16:18.284851+00:00",
+  "generated": "2026-07-31T04:07:29.814032+00:00",
   "stats": {
-    "total_listings": 5033,
-    "excluded_multipacks": 1721,
+    "total_listings": 5076,
+    "excluded_multipacks": 1733,
     "total_tins": 1172,
     "multi_member_tins": 557,
     "listings_in_groups": 2560,
@@ -48533,15 +48533,19 @@
             {
               "name": "MacBaren HH Pure Virginia 2016 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203830/",
-              "price": "$43.00",
-              "last_updated": "2026-07-14T16:00:57.634372+00:00",
+              "url": "https://tinbids.com/auction/209956/",
+              "price": "$102.00",
+              "last_updated": "2026-07-31T04:00:25.505928+00:00",
               "first_seen": "2026-07-14T05:03:58+00:00",
               "year": "2016",
               "price_history": [
                 {
                   "price": "$43.00",
                   "date": "2026-07-14T05:03:58+00:00"
+                },
+                {
+                  "price": "$102.00",
+                  "date": "2026-07-31T04:00:25.505928+00:00"
                 }
               ]
             },
@@ -50668,9 +50672,9 @@
             {
               "name": "MacBaren Stockton Spun Cut Limited Edition 2020 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203833/",
-              "price": "$43.00",
-              "last_updated": "2026-07-14T16:00:57.634372+00:00",
+              "url": "https://tinbids.com/auction/209965/",
+              "price": "$49.00",
+              "last_updated": "2026-07-31T04:00:25.505928+00:00",
               "first_seen": "2026-06-23T16:00:46.765633+00:00",
               "year": "2020",
               "price_history": [
@@ -50689,6 +50693,10 @@
                 {
                   "price": "$43.00",
                   "date": "2026-07-14T16:00:57.634372+00:00"
+                },
+                {
+                  "price": "$49.00",
+                  "date": "2026-07-31T04:00:25.505928+00:00"
                 }
               ]
             }
@@ -51104,7 +51112,7 @@
             {
               "name": "MacBaren Virginia Flake 2017 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203824/",
+              "url": "https://tinbids.com/auction/209953/",
               "price": "$20.50",
               "last_updated": "2026-07-14T16:00:57.634372+00:00",
               "first_seen": "2026-07-14T04:59:25+00:00",
@@ -51182,15 +51190,19 @@
             {
               "name": "MacBaren Virginia No. 1 2017 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203827/",
-              "price": "$30.00",
-              "last_updated": "2026-07-14T16:00:57.634372+00:00",
+              "url": "https://tinbids.com/auction/209959/",
+              "price": "$31.00",
+              "last_updated": "2026-07-31T04:00:25.505928+00:00",
               "first_seen": "2026-07-14T05:01:44+00:00",
               "year": "2017",
               "price_history": [
                 {
                   "price": "$30.00",
                   "date": "2026-07-14T05:01:44+00:00"
+                },
+                {
+                  "price": "$31.00",
+                  "date": "2026-07-31T04:00:25.505928+00:00"
                 }
               ]
             }
@@ -68671,15 +68683,19 @@
             {
               "name": "Rattray’s Marlin Flake 2018 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/204999/",
-              "price": "$51.00",
-              "last_updated": "2026-07-17T16:00:34.409951+00:00",
+              "url": "https://tinbids.com/auction/209943/",
+              "price": "$32.00",
+              "last_updated": "2026-07-31T04:00:25.505928+00:00",
               "first_seen": "2026-07-17T04:39:28+00:00",
               "year": "2018",
               "price_history": [
                 {
                   "price": "$51.00",
                   "date": "2026-07-17T04:39:28+00:00"
+                },
+                {
+                  "price": "$32.00",
+                  "date": "2026-07-31T04:00:25.505928+00:00"
                 }
               ]
             }
@@ -90476,6 +90492,10 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Rattray’s Marlin Flake 2018 NR": "rattrays|marlinflake",
+    "MacBaren Stockton Spun Cut Limited Edition 2020 NR": "macbaren|stocktonspuncut",
+    "MacBaren Virginia No. 1 2017 NR": "macbaren|virginiano1",
+    "MacBaren HH Pure Virginia 2016 NR": "macbaren|hhpurevirginia",
     "2001 McClelland Christmas Cheer- 100g": "mcclelland|christmascheer",
     "2003 Smokers Haven Exotique, 8oz": "smokershaven|exotiquemixture",
     "Esoterica Dorchester 8 ounce bag from 2023": "esoterica|dorchester",
@@ -90791,7 +90811,6 @@
     "Rattray’s Brown Clunee 2018 NR": "rattrays|brownclunee",
     "Rattray’s Hal O’ the Wynd 2018 NR": "rattrays|halothewynd",
     "Rattray’s Old Gowrie 2018 NR": "rattrays|oldgowrie",
-    "Rattray’s Marlin Flake 2018 NR": "rattrays|marlinflake",
     "Gawith & Hoggarth Rum Flake 2009 NR": "gawithhoggarthco|rumflake",
     "Peterson 3-Sweet Killarney": "peterson|sweetkillarney",
     "2012 McClelland’s Frog Morton Cellar - 1 Tin NR BIN $250": "mcclelland|frogmortonscellar",
@@ -90863,14 +90882,11 @@
     "2021 Mac Baren HH Balkan Blend": "macbaren|hhbalkanblend",
     "Escudo 2023": "stg|escudonavydeluxe",
     "Mac Baren Rustica. 4oz from a bulk bag": "macbaren|hhrustica",
-    "MacBaren Stockton Spun Cut Limited Edition 2020 NR": "macbaren|stocktonspuncut",
     "Dunhill “Ye Olde Signe” 2016 NR": "dunhill|yeoldesigne",
     "Dunhill Dark Flake 2016 NR": "dunhill|darkflake",
     "Vintage - 2016 - Dunhill Durbar": "dunhill|durbar",
     "1970s Balkan Sobranie Smoking Mixture 100g Unopened Ring Pull Tin": "jfgermain|balkansobranie",
     "MacBaren Virginia Flake 2017 NR": "macbaren|virginiaflake",
-    "MacBaren Virginia No. 1 2017 NR": "macbaren|virginiano1",
-    "MacBaren HH Pure Virginia 2016 NR": "macbaren|hhpurevirginia",
     "Murray Erinmore Mixture Pre-2005 NR": "erinmore|mixture",
     "Stanislaw / Samuel Gawith English Summer Flake 2015 NR": "samuelgawith|englishsummerflake",
     "CAO Flavours 2-Bella Vanilla": "cao|bellavanilla",
