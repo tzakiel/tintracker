@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-31T06:38:49.500980+00:00",
+  "generated": "2026-07-31T16:08:25.958117+00:00",
   "stats": {
-    "total_listings": 5076,
-    "excluded_multipacks": 1733,
+    "total_listings": 5097,
+    "excluded_multipacks": 1735,
     "total_tins": 1172,
     "multi_member_tins": 557,
     "listings_in_groups": 2560,
@@ -59145,6 +59145,25 @@
           "quantity": "100g",
           "members": [
             {
+              "name": "1996 McClelland No. 25 Virginia 20th Anniversary - 100g",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/210124/",
+              "price": "$230.00",
+              "last_updated": "2026-07-31T16:00:35.556161+00:00",
+              "first_seen": "2026-06-24T04:00:27.343799+00:00",
+              "year": "1996",
+              "price_history": [
+                {
+                  "price": "$200.00",
+                  "date": "2026-06-24T04:00:27.343799+00:00"
+                },
+                {
+                  "price": "$230.00",
+                  "date": "2026-07-31T16:00:35.556161+00:00"
+                }
+              ]
+            },
+            {
               "name": "1996 McClelland No. 25 Virginia 20th Anniversary -100g",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/204692/",
@@ -59156,21 +59175,6 @@
                 {
                   "price": "$225.00",
                   "date": "2026-07-16T17:04:00+00:00"
-                }
-              ]
-            },
-            {
-              "name": "1996 McClelland No. 25 Virginia 20th Anniversary - 100g",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/195727/",
-              "price": "$200.00",
-              "last_updated": "2026-06-24T04:00:27.343799+00:00",
-              "first_seen": "2026-06-24T04:00:27.343799+00:00",
-              "year": "1996",
-              "price_history": [
-                {
-                  "price": "$200.00",
-                  "date": "2026-06-24T04:00:27.343799+00:00"
                 }
               ]
             }
@@ -90492,6 +90496,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "1996 McClelland No. 25 Virginia 20th Anniversary - 100g": "mcclelland|no25virginia20thanniversary",
     "Rattray’s Marlin Flake 2018 NR": "rattrays|marlinflake",
     "MacBaren Stockton Spun Cut Limited Edition 2020 NR": "macbaren|stocktonspuncut",
     "MacBaren Virginia No. 1 2017 NR": "macbaren|virginiano1",
@@ -91504,7 +91509,6 @@
     "McClelland Tastemaster 2013": "mcclelland|tastemaster",
     "Dunhill De Luxe Navy Rolls 2014": "dunhill|deluxenavyrolls",
     "Elizabethan 2015 Lot No Reserve": "dunhill|elizabethanmixture",
-    "1996 McClelland No. 25 Virginia 20th Anniversary - 100g": "mcclelland|no25virginia20thanniversary",
     "Vintage - 2016 - Dunhill Baby's Botton (rare - spelled out)": "dunhill|babysbottom",
     "Vintage 1994 - Ashton Golden Flake": "ashton|goldenflake",
     "2019 Per Jensen Bird Blends - Uno - 50g": "sutliff|birdsofafeatheruno",
