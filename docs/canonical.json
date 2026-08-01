@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-01T06:38:44.925376+00:00",
+  "generated": "2026-08-01T16:07:05.502703+00:00",
   "stats": {
-    "total_listings": 5113,
-    "excluded_multipacks": 1737,
+    "total_listings": 5131,
+    "excluded_multipacks": 1739,
     "total_tins": 1172,
     "multi_member_tins": 557,
     "listings_in_groups": 2560,
@@ -6851,9 +6851,9 @@
             {
               "name": "2018 Cornell & Diehl Carolina Red Flake - 1 tin NR BIN $65",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/211416/",
-              "price": "$65.00",
-              "last_updated": "2026-07-29T16:00:34.599616+00:00",
+              "url": "https://tinbids.com/auction/212632/",
+              "price": "$60.00",
+              "last_updated": "2026-08-01T16:00:26.404158+00:00",
               "first_seen": "2026-07-18T12:50:05+00:00",
               "year": "2018",
               "price_history": [
@@ -6864,6 +6864,10 @@
                 {
                   "price": "$65.00",
                   "date": "2026-07-29T16:00:34.599616+00:00"
+                },
+                {
+                  "price": "$60.00",
+                  "date": "2026-08-01T16:00:26.404158+00:00"
                 }
               ]
             },
@@ -90524,6 +90528,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "2018 Cornell & Diehl Carolina Red Flake - 1 tin NR BIN $65": "cornelldiehl|carolinaredflake",
     "Mac Baren HH LATAKIA FLAKE - ONE POUND": "macbaren|hhlatakiaflake",
     "Very Nice Peter Stokkebye PS Luxury Bulls Eye Flake 1.5 LB Box": "peterstokkebye|luxurybullseyeflake",
     "War Horse Bar (Discontinued!!!) Excellent Dark Fired Kentucky & Red Virginia!!!": "sutliff|warhorsebar",
@@ -90536,7 +90541,6 @@
     "2003 Smokers Haven Exotique, 8oz": "smokershaven|exotiquemixture",
     "Esoterica Dorchester 8 ounce bag from 2023": "esoterica|dorchester",
     "Esoterica Margate 2 ounce tin from 2023": "esoterica|margate",
-    "2018 Cornell & Diehl Carolina Red Flake - 1 tin NR BIN $65": "cornelldiehl|carolinaredflake",
     "Very Nice Sealed 2021 Hearth & Home Black House 50g. Tin": "hearthhome|blackhouse",
     "Very Nice Sealed 2019 Cornell & Diehl Small Batch Carolina Red Flake 2oz. Tin": "cornelldiehl|smallbatchcarolinaredflake",
     "Tobacco Tin Mc Clelland Syrian Super Balkan 2004 Out of Production": "mcclelland|syriansuperbalkan",
