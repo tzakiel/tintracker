@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-31T19:16:23.008286+00:00",
+  "generated": "2026-08-01T04:04:40.849294+00:00",
   "stats": {
-    "total_listings": 5097,
-    "excluded_multipacks": 1735,
+    "total_listings": 5110,
+    "excluded_multipacks": 1737,
     "total_tins": 1172,
     "multi_member_tins": 557,
     "listings_in_groups": 2560,
@@ -47356,9 +47356,9 @@
             {
               "name": "Mac Baren HH LATAKIA FLAKE - ONE POUND",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/207736/",
-              "price": "$164.00",
-              "last_updated": "2026-07-25T16:00:27.566933+00:00",
+              "url": "https://tinbids.com/auction/210250/",
+              "price": "$160.00",
+              "last_updated": "2026-08-01T04:00:25.121923+00:00",
               "first_seen": "2026-07-15T18:50:16+00:00",
               "year": "",
               "price_history": [
@@ -47369,6 +47369,10 @@
                 {
                   "price": "$164.00",
                   "date": "2026-07-25T16:00:27.566933+00:00"
+                },
+                {
+                  "price": "$160.00",
+                  "date": "2026-08-01T04:00:25.121923+00:00"
                 }
               ]
             },
@@ -65117,15 +65121,19 @@
             {
               "name": "Very Nice Peter Stokkebye PS Luxury Bulls Eye Flake 1.5 LB Box",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/207742/",
-              "price": "$113.00",
-              "last_updated": "2026-07-25T04:00:26.048530+00:00",
+              "url": "https://tinbids.com/auction/210246/",
+              "price": "$75.00",
+              "last_updated": "2026-08-01T04:00:25.121923+00:00",
               "first_seen": "2026-07-24T22:03:34+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$113.00",
                   "date": "2026-07-24T22:03:34+00:00"
+                },
+                {
+                  "price": "$75.00",
+                  "date": "2026-08-01T04:00:25.121923+00:00"
                 }
               ]
             },
@@ -85900,15 +85908,19 @@
             {
               "name": "War Horse Bar (Discontinued!!!) Excellent Dark Fired Kentucky & Red Virginia!!!",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/205529/",
-              "price": "$40.00",
-              "last_updated": "2026-07-19T04:00:29.560109+00:00",
+              "url": "https://tinbids.com/auction/211752/",
+              "price": "$69.00",
+              "last_updated": "2026-08-01T04:00:25.121923+00:00",
               "first_seen": "2026-07-18T20:15:53+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$40.00",
                   "date": "2026-07-18T20:15:53+00:00"
+                },
+                {
+                  "price": "$69.00",
+                  "date": "2026-08-01T04:00:25.121923+00:00"
                 }
               ]
             },
@@ -90512,6 +90524,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Mac Baren HH LATAKIA FLAKE - ONE POUND": "macbaren|hhlatakiaflake",
+    "Very Nice Peter Stokkebye PS Luxury Bulls Eye Flake 1.5 LB Box": "peterstokkebye|luxurybullseyeflake",
+    "War Horse Bar (Discontinued!!!) Excellent Dark Fired Kentucky & Red Virginia!!!": "sutliff|warhorsebar",
     "1996 McClelland No. 25 Virginia 20th Anniversary - 100g": "mcclelland|no25virginia20thanniversary",
     "Rattray’s Marlin Flake 2018 NR": "rattrays|marlinflake",
     "MacBaren Stockton Spun Cut Limited Edition 2020 NR": "macbaren|stocktonspuncut",
@@ -90566,7 +90581,6 @@
     "MIXTURE No. 79 CHERRY BOURBON FLAVOR Smoking Tobacco (1970s?) 1.5 OZ. Sealed Box": "sutliff|mixtureno79",
     "2012_GL_Pease_Blackpoint_8oz": "glpease|blackpoint",
     "Spilman Mixture E.Hoffan Company Chicago from the 2010’s": "ehoffmancompany|spilmanmixture",
-    "Mac Baren HH LATAKIA FLAKE - ONE POUND": "macbaren|hhlatakiaflake",
     "New Limited Edition Ye Thames Mixture by Briarshire": "briarshire|yethamesmixture",
     "Plum Pudding Special Reserve 2023": "sutliff|spcplumpuddingspecialreserve",
     "Seattle pipe clubs Plum Pudding-2oz": "sutliff|spcplumpudding",
@@ -90575,7 +90589,6 @@
     "Cornell & Diehl 8oz. 2026 Palmetto Balkan Limited Edition": "cornelldiehl|palmettobalkan",
     "2021 Bengal Slices Single Barrel 50g Tin": "sutliff|bengalslices",
     "2019 BALKAN SOBRANIE ORIGINAL SMOKING MIXTURE": "jfgermain|balkansobranie",
-    "Very Nice Peter Stokkebye PS Luxury Bulls Eye Flake 1.5 LB Box": "peterstokkebye|luxurybullseyeflake",
     "2013 - G. L. Pease, Westminster traditional English mixture, 2oz": "glpease|westminster",
     "2014 Heath and Home, Black House, 1.5 oz": "hearthhome|blackhouse",
     "Esoterica Margate 8 ounce bag from 2022": "esoterica|margate",
@@ -90779,7 +90792,6 @@
     "Cornell & Deihl Carolina Red Flake 2024 (Small Batch Release) Excellent Red Virginia Flake!!!": "cornelldiehl|carolinaredflake",
     "Mac Baren HH Vintage Syrian 2017 (Discontinued!!!) Rare Syrian Latakia Blend!!!": "macbaren|hhvintagesyrian",
     "Sutliff Pipe Force Episode V (Discontinued!!!) Rare Find!!!": "sutliff|pipeforceepisodev",
-    "War Horse Bar (Discontinued!!!) Excellent Dark Fired Kentucky & Red Virginia!!!": "sutliff|warhorsebar",
     "Sutliff Crumble Kake Va Perique (Discontinued!!!) Excellent VaPer Blend!!!": "sutliff|crumblekakevirginiaperique",
     "Esoterica 2021 Tillbury 8oz Bag (1 DAY Auction)": "esoterica|tilbury",
     "2013 Borkum Riff Limited Edition 11°N Trinidad Rum 3.5oz": "borkumriff|limitededition11mixturewithtrinidadrum",
