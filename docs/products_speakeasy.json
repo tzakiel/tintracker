@@ -50747,7 +50747,7 @@
       "tag": "WTS"
     }
   ],
-  "last_scraped": "2026-08-01T06:38:21.215008+00:00",
+  "last_scraped": "2026-08-02T06:38:18.523284+00:00",
   "latest_scrape": [
     {
       "name": "First up is this Nørding freehand. Purchased new and only smoked maybe half a dozen times. Comes with original gig bag",
@@ -50790,21 +50790,6 @@
         {
           "price": "$85",
           "date": "2026-07-31T18:11:08+00:00"
-        }
-      ],
-      "tag": "WTS"
-    },
-    {
-      "name": "Sutliff SPC Plum Pudding (12/24)",
-      "price": "$30",
-      "url": "https://speak-easy.club/threads/sutliff-plum-pudding-30-ea-or-2-for-50.44899/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-18T15:19:53+00:00",
-      "last_updated": "2026-07-19T06:38:16.219052+00:00",
-      "price_history": [
-        {
-          "price": "$30",
-          "date": "2026-07-18T15:19:53+00:00"
         }
       ],
       "tag": "WTS"
@@ -52578,10 +52563,16 @@
       "added": 3,
       "price_changed": 0,
       "total": 2571
+    },
+    {
+      "date": "2026-08-02T06:38:18.523284+00:00",
+      "found": 26,
+      "added": 0,
+      "price_changed": 0,
+      "total": 2571
     }
   ],
   "thread_recheck": {
-    "https://speak-easy.club/threads/sutliff-plum-pudding-30.44899/unread": "2026-08-02T06:38:16.219052+00:00",
     "https://speak-easy.club/threads/virginia-vaper-lot.44902/unread": "2026-08-03T06:38:14.728434+00:00",
     "https://speak-easy.club/threads/sutliff-plum-pudding-30-ea-or-2-for-50.44899/unread": "2026-08-04T06:38:18.026689+00:00",
     "https://speak-easy.club/threads/clarin-clay-pipe.44910/unread": "2026-08-04T06:38:18.026689+00:00",
@@ -52595,7 +52586,8 @@
     "https://speak-easy.club/threads/mcc-40th-anniversary-140.44937/unread": "2026-08-09T06:38:20.190819+00:00",
     "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread": "2026-08-09T06:38:20.190819+00:00",
     "https://speak-easy.club/threads/time-to-pay-the-piper-emptying-cellar-sale.44965/unread": "2026-08-15T06:38:21.215008+00:00",
-    "https://speak-easy.club/threads/couple-few-pipes.44961/unread": "2026-08-15T06:38:21.215008+00:00"
+    "https://speak-easy.club/threads/couple-few-pipes.44961/unread": "2026-08-15T06:38:21.215008+00:00",
+    "https://speak-easy.club/threads/il-cerchio-lovat.44975/unread": "2026-08-16T06:38:18.523284+00:00"
   },
   "thread_recheck_tags": {
     "https://speak-easy.club/threads/brigham-and-peterson.44723/unread": "WTS",
@@ -53431,6 +53423,7 @@
     "https://speak-easy.club/threads/mcc-40th-anniversary-140.44937/unread": "CLOSED",
     "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread": "CLOSED",
     "https://speak-easy.club/threads/time-to-pay-the-piper-emptying-cellar-sale.44965/unread": "WTS",
-    "https://speak-easy.club/threads/couple-few-pipes.44961/unread": "WTS"
+    "https://speak-easy.club/threads/couple-few-pipes.44961/unread": "WTS",
+    "https://speak-easy.club/threads/il-cerchio-lovat.44975/unread": "WTS"
   }
 }
