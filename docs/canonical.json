@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-02T19:16:19.400732+00:00",
+  "generated": "2026-08-03T04:07:23.003221+00:00",
   "stats": {
-    "total_listings": 5238,
-    "excluded_multipacks": 1754,
+    "total_listings": 5284,
+    "excluded_multipacks": 1758,
     "total_tins": 1172,
     "multi_member_tins": 557,
     "listings_in_groups": 2560,
@@ -39054,6 +39054,44 @@
           "quantity": "",
           "members": [
             {
+              "name": "'23 Balkan Sobranie",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/210908/",
+              "price": "$81.00",
+              "last_updated": "2026-08-03T04:00:33.191532+00:00",
+              "first_seen": "2026-07-13T16:12:28+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$76.99",
+                  "date": "2026-07-13T16:12:28+00:00"
+                },
+                {
+                  "price": "$81.00",
+                  "date": "2026-08-03T04:00:33.191532+00:00"
+                }
+              ]
+            },
+            {
+              "name": "'22 Balkan Sobranie",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/210903/",
+              "price": "$81.00",
+              "last_updated": "2026-08-03T04:00:33.191532+00:00",
+              "first_seen": "2026-07-13T16:14:49+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$86.99",
+                  "date": "2026-07-13T16:14:49+00:00"
+                },
+                {
+                  "price": "$81.00",
+                  "date": "2026-08-03T04:00:33.191532+00:00"
+                }
+              ]
+            },
+            {
               "name": "HOLY GRAIL - 1970s Balkan Sobranie No 759 Mixture - NR",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/205094/",
@@ -39065,36 +39103,6 @@
                 {
                   "price": "$1740.00",
                   "date": "2026-07-17T13:21:57+00:00"
-                }
-              ]
-            },
-            {
-              "name": "'23 Balkan Sobranie",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203290/",
-              "price": "$76.99",
-              "last_updated": "2026-07-14T04:00:50.482103+00:00",
-              "first_seen": "2026-07-13T16:12:28+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$76.99",
-                  "date": "2026-07-13T16:12:28+00:00"
-                }
-              ]
-            },
-            {
-              "name": "'22 Balkan Sobranie",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203293/",
-              "price": "$86.99",
-              "last_updated": "2026-07-14T04:00:50.482103+00:00",
-              "first_seen": "2026-07-13T16:14:49+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$86.99",
-                  "date": "2026-07-13T16:14:49+00:00"
                 }
               ]
             },
@@ -83727,15 +83735,19 @@
             {
               "name": "Per Jensen Pipe Force - Episode 1",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/197090/",
-              "price": "$45.00",
-              "last_updated": "2026-06-28T04:00:29.871882+00:00",
+              "url": "https://tinbids.com/auction/210943/",
+              "price": "$44.00",
+              "last_updated": "2026-08-03T04:00:33.191532+00:00",
               "first_seen": "2026-06-27T17:05:19+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$45.00",
                   "date": "2026-06-27T17:05:19+00:00"
+                },
+                {
+                  "price": "$44.00",
+                  "date": "2026-08-03T04:00:33.191532+00:00"
                 }
               ]
             }
@@ -90588,6 +90600,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "'23 Balkan Sobranie": "jfgermain|balkansobranie",
+    "'22 Balkan Sobranie": "jfgermain|balkansobranie",
+    "Per Jensen Pipe Force - Episode 1": "sutliff|pipeforceepisodei",
     "Esoterica Pembroke": "esoterica|pembroke",
     "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996": "butera|pelican",
     "2018 Cornell & Diehl Carolina Red Flake - 1 tin NR BIN $65": "cornelldiehl|carolinaredflake",
@@ -90992,8 +91007,6 @@
     "Original - '19, Pre C&D, SPC Plum Pudding Bourbon Barrel Aged": "cornelldiehl|spcplumpuddingbourbonbarrelaged",
     "'25 C&D Sunbear - Navy Cask": "cornelldiehl|sunbearnavycask",
     "Original Release - '25 C&D Fires on the Levee": "cornelldiehl|firesonthelevee",
-    "'23 Balkan Sobranie": "jfgermain|balkansobranie",
-    "'22 Balkan Sobranie": "jfgermain|balkansobranie",
     "'16 Dunhill Flake": "dunhill|flake",
     "C&D Sun Bear Mountain Flower (2022) - 50g": "cornelldiehl|sunbearmountainflower",
     "2017 Beacon Vintage Virginia Flake -50g": "mcclelland|beacon",
@@ -91494,7 +91507,6 @@
     "Wessex Burley Slice 50g Tin": "wessex|burleyslice",
     "Gawith & Hoggarth-Balkan Mixture": "gawithhoggarthco|balkanmixture",
     "Esoterica Penzance 8oz": "esoterica|penzance",
-    "Per Jensen Pipe Force - Episode 1": "sutliff|pipeforceepisodei",
     "Mac Baren Dark Twist 2022 - 100g": "macbaren|darktwist",
     "Mac Baren Virginia No. 1 Ready Rubbed 100g": "macbaren|virginiano1",
     "Mac Baren Plumcake Navy Blend 2022 100g": "macbaren|plumcake",
