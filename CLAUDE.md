@@ -31,6 +31,6 @@ No exceptions for the approval items — this applies even when the addition see
 ## Batch Work
 
 When processing large lists (e.g. blend_cache.json entries from unmatched.log):
-- Work in batches of 50 entries at a time
+- Work in batches of 150 entries at a time
 - Report what was written after each batch
 - Wait for "continue" before starting the next batch
