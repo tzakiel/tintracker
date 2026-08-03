@@ -18055,8 +18055,8 @@
   "W.Ø. Larsen": {
     "blend": "",
     "brand": "",
-    "confidence": 0.2,
-    "is_tin": true,
+    "confidence": 1.0,
+    "is_tin": false,
     "source": "llm"
   },
   "WC Simply Orange": {
@@ -19628,8 +19628,8 @@
   "Unknown Aromatic |  | 2.5oz": {
     "blend": "",
     "brand": "",
-    "confidence": 0.2,
-    "is_tin": true,
+    "confidence": 1.0,
+    "is_tin": false,
     "source": "llm"
   },
   "100G Orlik Golden Sliced 2016": {
@@ -21623,8 +21623,8 @@
   "C&D 2026": {
     "blend": "",
     "brand": "",
-    "confidence": 0.2,
-    "is_tin": true,
+    "confidence": 1.0,
+    "is_tin": false,
     "source": "llm"
   },
   "Carolina Christmas": {
@@ -21888,9 +21888,9 @@
   },
   "Solani": {
     "blend": "",
-    "brand": "Solani",
-    "confidence": 0.3,
-    "is_tin": true,
+    "brand": "",
+    "confidence": 1.0,
+    "is_tin": false,
     "source": "llm"
   },
   "Straight billiard - wenge w/ yellowheart accents": {
@@ -28334,5 +28334,40 @@
     "blend": "Golden Virginia Flake",
     "is_tin": true,
     "confidence": 0.85
+  },
+  "*SOLD* Next we have a Pete Donegal Rocky Prince (shape 406). Purchased new, and has since been lightly loved. Stem could use some tlc but it's a solid smoker in fine shape. Comes with original satchel and box": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.95,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "First up is this Nørding freehand. Purchased new and only smoked maybe half a dozen times. Comes with original gig bag": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.95,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "I’ve got a couple bundles up for sale. First up, a great smattering some some tasty VA leaf for": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.95,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Last and least, a brand new in box Erin Go Bragh Castleford Rhodesian (shape 1007). P&C tries (and succeeds, it seems) to sell these for": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.95,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Next up, a KBV bundle for": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.95,
+    "is_tin": false,
+    "source": "llm"
   }
 }
