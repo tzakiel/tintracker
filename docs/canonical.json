@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-04T06:38:45.083802+00:00",
+  "generated": "2026-08-04T16:08:36.951179+00:00",
   "stats": {
-    "total_listings": 5328,
-    "excluded_multipacks": 1765,
+    "total_listings": 5335,
+    "excluded_multipacks": 1766,
     "total_tins": 1172,
     "multi_member_tins": 557,
     "listings_in_groups": 2560,
@@ -24714,6 +24714,25 @@
           "quantity": "",
           "members": [
             {
+              "name": "Esoterica Stonehaven",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/213589/",
+              "price": "$1150.00",
+              "last_updated": "2026-08-04T16:00:33.774083+00:00",
+              "first_seen": "2026-07-05T23:44:53+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$400.00",
+                  "date": "2026-07-05T23:44:53+00:00"
+                },
+                {
+                  "price": "$1150.00",
+                  "date": "2026-08-04T16:00:33.774083+00:00"
+                }
+              ]
+            },
+            {
               "name": "ESOTERICA \"STONEHAVEN\" NEW FACTORY SEALED",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/205736/",
@@ -24740,21 +24759,6 @@
                 {
                   "price": "$2800.00",
                   "date": "2026-07-09T19:28:45+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Esoterica Stonehaven",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/201887/",
-              "price": "$400.00",
-              "last_updated": "2026-07-06T04:00:50.820025+00:00",
-              "first_seen": "2026-07-05T23:44:53+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$400.00",
-                  "date": "2026-07-05T23:44:53+00:00"
                 }
               ]
             },
@@ -51646,9 +51650,9 @@
             {
               "name": "McClelland 221B Series: Honeydew 2015 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/208749/",
-              "price": "$62.00",
-              "last_updated": "2026-07-28T04:00:32.783470+00:00",
+              "url": "https://tinbids.com/auction/211322/",
+              "price": "$64.00",
+              "last_updated": "2026-08-04T16:00:33.774083+00:00",
               "first_seen": "2026-06-26T03:11:03+00:00",
               "year": "2015",
               "price_history": [
@@ -51667,6 +51671,10 @@
                 {
                   "price": "$62.00",
                   "date": "2026-07-28T04:00:32.783470+00:00"
+                },
+                {
+                  "price": "$64.00",
+                  "date": "2026-08-04T16:00:33.774083+00:00"
                 }
               ]
             }
@@ -90652,6 +90660,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "McClelland 221B Series: Honeydew 2015 NR": "mcclelland|221bhoneydew",
+    "Esoterica Stonehaven": "esoterica|stonehaven",
     "Dunhill Durbar Mixture 2017 NR": "dunhill|durbar",
     "Dunhill The “Royal Yacht” Mixture 2016 NR": "dunhill|royalyacht",
     "Excellent Sealed 2019 Wellauer & Co. Latakia Mixture 50g. Tin": "wellauerco|latakiamixture",
@@ -90688,7 +90698,6 @@
     "2015 - SEATTLE PIPE CLUB, POTLATCH 2oz": "sutliff|spcpotlatch",
     "McConnell Mature 2018 NR": "robertmcconnell|mature",
     "Dunhill The Aperitif 2017 NR": "dunhill|aperitif",
-    "McClelland 221B Series: Honeydew 2015 NR": "mcclelland|221bhoneydew",
     "Dunhill Flake 2016 NR": "dunhill|flake",
     "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
     "Excellent Sealed 2016 Our Best Blend by Smokers Haven 2oz. Tin": "smokershaven|ourbestblend",
@@ -91341,7 +91350,6 @@
     "8oz Of Hearth & Home (discontinued) ANNIVERSARY KAKE from 2013!": "macbaren|hhanniversarykake",
     "11.2oz /317g Samuel Gawith Full Virginia Flake From 2013!": "samuelgawith|fullvirginiaflake",
     "Unopened Cornell & Diehl Small Batch 2021 Carolina Red Flake w/ Perique": "cornelldiehl|carolinaredflakewithperique",
-    "Esoterica Stonehaven": "esoterica|stonehaven",
     "ESSENZA CIPRIOTA BY SAVINELLI": "savinelli|essenzacipriota",
     "Fribourg & Treyer - (2019) Vanners Mixture": "fribourgtreyer|vannersmixture",
     "Fribourg &Treyer -  (2020) Cut Virginia Plug": "fribourgtreyer|cutvirginiaplug",
