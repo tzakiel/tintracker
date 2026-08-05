@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-04T19:16:25.153594+00:00",
+  "generated": "2026-08-05T04:07:05.371548+00:00",
   "stats": {
-    "total_listings": 5335,
-    "excluded_multipacks": 1766,
+    "total_listings": 5356,
+    "excluded_multipacks": 1767,
     "total_tins": 1172,
     "multi_member_tins": 557,
     "listings_in_groups": 2560,
@@ -12497,7 +12497,7 @@
             {
               "name": "C&D Sun Bear Mountain Flower (2022) - 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203315/",
+              "url": "https://tinbids.com/auction/211595/",
               "price": "$70.00",
               "last_updated": "2026-07-14T04:00:50.482103+00:00",
               "first_seen": "2026-07-13T16:38:03+00:00",
@@ -24084,7 +24084,7 @@
             {
               "name": "Esoterica Penzance",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/208060/",
+              "url": "https://tinbids.com/auction/212528/",
               "price": "$1300.00",
               "last_updated": "2026-07-22T04:00:23.846594+00:00",
               "first_seen": "2026-07-21T20:02:34+00:00",
@@ -52743,7 +52743,7 @@
             {
               "name": "McCLELLAND BALKAN BLUE",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203643/",
+              "url": "https://tinbids.com/auction/211519/",
               "price": "$100.00",
               "last_updated": "2026-07-14T04:00:50.482103+00:00",
               "first_seen": "2026-07-13T23:47:58+00:00",
@@ -56515,9 +56515,9 @@
             {
               "name": "2016 Frog Morton Across The Pond with Syrian Latakia by McClelland 10 Years of Age",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/206018/",
-              "price": "$162.00",
-              "last_updated": "2026-07-21T04:00:29.167499+00:00",
+              "url": "https://tinbids.com/auction/211501/",
+              "price": "$160.00",
+              "last_updated": "2026-08-05T04:00:32.878864+00:00",
               "first_seen": "2026-06-26T14:18:01+00:00",
               "year": "2016",
               "price_history": [
@@ -56536,6 +56536,10 @@
                 {
                   "price": "$162.00",
                   "date": "2026-07-21T04:00:29.167499+00:00"
+                },
+                {
+                  "price": "$160.00",
+                  "date": "2026-08-05T04:00:32.878864+00:00"
                 }
               ]
             },
@@ -79859,15 +79863,19 @@
             {
               "name": "ESCUDO NAVY DE LUXE",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/206215/",
-              "price": "$42.00",
-              "last_updated": "2026-07-21T04:00:29.167499+00:00",
+              "url": "https://tinbids.com/auction/211524/",
+              "price": "$17.50",
+              "last_updated": "2026-08-05T04:00:32.878864+00:00",
               "first_seen": "2026-07-20T23:55:26+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$42.00",
                   "date": "2026-07-20T23:55:26+00:00"
+                },
+                {
+                  "price": "$17.50",
+                  "date": "2026-08-05T04:00:32.878864+00:00"
                 }
               ]
             },
@@ -90676,6 +90684,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "2016 Frog Morton Across The Pond with Syrian Latakia by McClelland 10 Years of Age": "mcclelland|frogmortonacrossthepond",
+    "ESCUDO NAVY DE LUXE": "stg|escudonavydeluxe",
     "McClelland 221B Series: Honeydew 2015 NR": "mcclelland|221bhoneydew",
     "Esoterica Stonehaven": "esoterica|stonehaven",
     "Dunhill Durbar Mixture 2017 NR": "dunhill|durbar",
@@ -90843,7 +90853,6 @@
     "Three sails -40g": "daughtersryan|threesails",
     "2014 Fribourg & Greyer Special Brown Flake-50g": "fribourgtreyer|specialbrownflake",
     "Wessex Brown Virginia Flake -50g": "wessex|brownvirginiaflake",
-    "2016 Frog Morton Across The Pond with Syrian Latakia by McClelland 10 Years of Age": "mcclelland|frogmortonacrossthepond",
     "GAWITH SQUADRON LEADER": "samuelgawith|squadronleader",
     "VINTAGE and RARE sealed Mac Baren's Stockton 2oz - NR": "macbaren|stockton",
     "VINTAGE and RARE sealed Murray's Erinmore Cube Cut 2oz - NR": "murrays|erinmorecubecut",
@@ -90876,7 +90885,6 @@
     "Cobblestone Plum Rum Limited Pressed": "cobblestone|plumrum",
     "2021 Cornell & Diehl Wintertime Reserve Alpine Lodge 2 oz Pipe Tobacco Tin - New Sealed": "cornelldiehl|wintertimereservealpinelodge",
     "RATTRAY'S JOCKS MIXTURE": "rattrays|jocksmixture",
-    "ESCUDO NAVY DE LUXE": "stg|escudonavydeluxe",
     "Mc CONNELL PURE PERIQUE": "robertmcconnell|pureperique",
     "Mac BARREN PRESBYTERIAN MIXTURE": "macbaren|presbyterianmixture",
     "CULT BLOOD RED MOON": "cult|bloodredmoon",
