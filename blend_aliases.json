@@ -18,11 +18,13 @@
   "Gawith, Hoggarth & Co.": {
     "#7 Broken Flake": "No. 7 Broken Flake",
     "Broken Scotch Cake": "Broken Scotch Flake",
-    "Bright CR": "Bright CR Flake"
+    "Bright CR": "Bright CR Flake",
+    "Bob's Square": "Bob's Square Cut"
   },
   "G.L. Pease": {
     "Quiet Night": "Quiet Nights",
-    "Virginia Cream": "The Virginia Cream"
+    "Virginia Cream": "The Virginia Cream",
+    "The Maltese Falcon": "Maltese Falcon"
   },
   "Hearth & Home": {
     "Black House 10 Year Anniversary": "Black House 10th Anniversary"
@@ -58,7 +60,8 @@
     "No. 27": "No. 27 Matured Virginia",
     "Stave Aged": "Stave Aged Virginia",
     "Stave-Aged Virginia Ribbon 35": "Stave Aged Virginia",
-    "Rich Virginia Ribbon": "CPCC Rich Virginia Ribbon"
+    "Rich Virginia Ribbon": "CPCC Rich Virginia Ribbon",
+    "Red and Black": "Red & Black"
   },
   "Orlik": {
     "Mellow Mix": "Mellow Mixture"
@@ -112,14 +115,16 @@
     "Pipe Force I": "Pipe Force Episode I",
     "Pipe Force IV": "Pipe Force Episode IV",
     "Pipe Force V": "Pipe Force Episode V",
-    "Pipe Force VI": "Pipe Force Episode VI"
+    "Pipe Force VI": "Pipe Force Episode VI",
+    "Balkan II": "512 Balkan II"
   },
   "Wessex": {
     "Curley Cut Virginia & Perique": "Curly Cut Virginia & Perique",
     "Brown Va Flake": "Brown Virginia Flake",
     "Red Va Flake": "Red Virginia Flake",
     "Sovereign Curly Cut": "Brigade Sovereign Curly Cut",
-    "Dark Flake": "Brigade Campaign Dark Flake"
+    "Dark Flake": "Brigade Campaign Dark Flake",
+    "Campaign Dark Flake": "Brigade Campaign Dark Flake"
   },
   "HU Tobacco": {
     "Aus dem Krater": "Aus dem Krater #1"
@@ -130,5 +135,11 @@
   },
   "Astley's": {
     "No. 9 Medium Flake": "No. 109 Medium Virginia Flake"
+  },
+  "Half and Half": {
+    "Half & Half": "Half and Half"
+  },
+  "PCCA": {
+    "Syrian Full Balkan Reserve": "Full Balkan Reserve"
   }
 }

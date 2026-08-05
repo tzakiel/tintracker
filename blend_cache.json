@@ -1651,14 +1651,14 @@
     "source": "llm"
   },
   "Half & Half - Burley & Bright - 2012!": {
-    "blend": "Half & Half",
+    "blend": "Half and Half",
     "brand": "Half and Half",
     "confidence": 0.9,
     "is_tin": true,
     "source": "llm"
   },
   "Half and Half 14oz. Tin": {
-    "blend": "Half & Half",
+    "blend": "Half and Half",
     "brand": "Half and Half",
     "confidence": 0.9,
     "is_tin": true,
@@ -2289,7 +2289,7 @@
   },
   "McClelland: OLD DOG 50g 2011 - C": {
     "blend": "Old Dog",
-    "brand": "McClelland",
+    "brand": "Ashton",
     "confidence": 0.9,
     "is_tin": true,
     "source": "llm"
@@ -2358,7 +2358,7 @@
     "source": "llm"
   },
   "McClelland: RED AND BLACK 50g 2017 - C": {
-    "blend": "Red and Black",
+    "blend": "Red & Black",
     "brand": "McClelland",
     "confidence": 0.9,
     "is_tin": true,
@@ -6743,7 +6743,7 @@
   },
   "Sutliff Balkan II": {
     "brand": "Sutliff",
-    "blend": "Balkan II",
+    "blend": "512 Balkan II",
     "is_tin": true,
     "confidence": 0.92
   },
@@ -10697,7 +10697,7 @@
     "confidence": 0.92
   },
   "*SOLD* 2021 Interlude dented w/seal intact": {
-    "brand": "G.L. Pease",
+    "brand": "Cornell & Diehl",
     "blend": "Interlude",
     "is_tin": true,
     "confidence": 0.85
@@ -22091,7 +22091,7 @@
     "source": "llm"
   },
   "(2020) Wessex Campaign Dark Flake": {
-    "blend": "Campaign Dark Flake",
+    "blend": "Brigade Campaign Dark Flake",
     "brand": "Wessex",
     "confidence": 0.85,
     "is_tin": true,
@@ -23267,7 +23267,7 @@
     "source": "llm"
   },
   "Vintage McCLELLAND Red and Black 50g Sealed Tin": {
-    "blend": "Red and Black",
+    "blend": "Red & Black",
     "brand": "McClelland",
     "confidence": 0.7,
     "is_tin": true,
@@ -23294,7 +23294,7 @@
     "source": "llm"
   },
   "Wessex Campaign Dark Flake-50g": {
-    "blend": "Campaign Dark Flake",
+    "blend": "Brigade Campaign Dark Flake",
     "brand": "Wessex",
     "confidence": 0.85,
     "is_tin": true,
@@ -26196,7 +26196,7 @@
     "source": "llm"
   },
   "Wessex Dark Flake 50g tins – Year 2016": {
-    "blend": "Campaign Dark Flake",
+    "blend": "Brigade Campaign Dark Flake",
     "brand": "Wessex",
     "confidence": 0.6,
     "is_tin": true,
@@ -26444,7 +26444,7 @@
   },
   "Wessex Campaign": {
     "brand": "Wessex",
-    "blend": "Campaign Dark Flake",
+    "blend": "Brigade Campaign Dark Flake",
     "is_tin": true,
     "confidence": 0.8
   },
@@ -28798,7 +28798,7 @@
   },
   "2017 Ogden's of Liverpool St. Bruno Flake-1.75oz": {
     "blend": "St. Bruno Flake",
-    "brand": "Ogden's",
+    "brand": "Mac Baren",
     "confidence": 0.75,
     "is_tin": true,
     "source": "llm"
@@ -29182,7 +29182,7 @@
     "source": "llm"
   },
   "Collectible Sealed Tobacco Tin Cornell & Diehl Maltese Falcon Mixture 2013": {
-    "blend": "The Maltese Falcon",
+    "blend": "Maltese Falcon",
     "brand": "G.L. Pease",
     "confidence": 0.6,
     "is_tin": true,
@@ -29882,7 +29882,7 @@
     "source": "llm"
   },
   "McClelland, Syrian Full Balkan Reserve PCCA (2000). 50 gr sealed tin": {
-    "blend": "Syrian Full Balkan Reserve",
+    "blend": "Full Balkan Reserve",
     "brand": "PCCA",
     "confidence": 0.6,
     "is_tin": true,
@@ -30470,7 +30470,7 @@
     "source": "llm"
   },
   "Gawith Hoggarth Vacuum Sealed Bob’s Square 500g bag – Year 2015": {
-    "blend": "Bob's Square",
+    "blend": "Bob's Square Cut",
     "brand": "Gawith, Hoggarth & Co.",
     "confidence": 0.5,
     "is_tin": true,
@@ -30813,7 +30813,7 @@
     "source": "llm"
   },
   "Wessex Dark Flake 50g tins – Year 2011": {
-    "blend": "Dark Flake",
+    "blend": "Brigade Campaign Dark Flake",
     "brand": "Wessex",
     "confidence": 0.7,
     "is_tin": true,
