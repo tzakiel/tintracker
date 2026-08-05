@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-05T15:07:32.790610+00:00",
+  "generated": "2026-08-05T20:15:30.428578+00:00",
   "stats": {
-    "total_listings": 5299,
-    "excluded_multipacks": 1808,
+    "total_listings": 5356,
+    "excluded_multipacks": 1816,
     "total_tins": 1223,
     "multi_member_tins": 585,
     "listings_in_groups": 2840,
@@ -1404,15 +1404,19 @@
             {
               "name": "Ashton Rainy Day NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203840/",
-              "price": "$10.00",
-              "last_updated": "2026-06-30T16:00:51.219994+00:00",
+              "url": "https://tinbids.com/auction/211349/",
+              "price": "$16.00",
+              "last_updated": "2026-08-04T04:00:32.453136+00:00",
               "first_seen": "2026-06-30T05:02:53+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$10.00",
                   "date": "2026-06-30T05:02:53+00:00"
+                },
+                {
+                  "price": "$16.00",
+                  "date": "2026-08-04T04:00:32.453136+00:00"
                 }
               ]
             }
@@ -8434,7 +8438,7 @@
               "source": "Treasured Smokes",
               "url": "https://www.treasuredsmokes.com/product-page/cornell-diehl-exhausted-rooster-2010",
               "price": "$79.00",
-              "last_updated": "2026-08-02T19:16:18.284559+00:00",
+              "last_updated": "2026-08-04T19:16:24.167448+00:00",
               "first_seen": "2026-06-20T18:32:06.142896+00:00",
               "year": "2009",
               "price_history": [
@@ -8821,6 +8825,22 @@
                 {
                   "price": "$79.00",
                   "date": "2026-08-02T19:16:18.284559+00:00"
+                },
+                {
+                  "price": "$74.00",
+                  "date": "2026-08-03T19:16:21.274784+00:00"
+                },
+                {
+                  "price": "$79.00",
+                  "date": "2026-08-03T19:16:21.274784+00:00"
+                },
+                {
+                  "price": "$74.00",
+                  "date": "2026-08-04T19:16:24.167448+00:00"
+                },
+                {
+                  "price": "$79.00",
+                  "date": "2026-08-04T19:16:24.167448+00:00"
                 }
               ]
             }
@@ -13450,7 +13470,7 @@
             {
               "name": "C&D Sun Bear Mountain Flower (2022) - 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203315/",
+              "url": "https://tinbids.com/auction/211595/",
               "price": "$70.00",
               "last_updated": "2026-07-14T04:00:50.482103+00:00",
               "first_seen": "2026-07-13T16:38:03+00:00",
@@ -13525,6 +13545,29 @@
           "quantity": "",
           "members": [
             {
+              "name": "Cornell & Diehl Small Batch Sun Bear Navy Cask",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/211150/",
+              "price": "$55.00",
+              "last_updated": "2026-08-04T04:00:32.453136+00:00",
+              "first_seen": "2026-07-10T18:38:07+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$55.00",
+                  "date": "2026-07-10T18:38:07+00:00"
+                },
+                {
+                  "price": "$45.00",
+                  "date": "2026-07-13T04:00:49.675774+00:00"
+                },
+                {
+                  "price": "$55.00",
+                  "date": "2026-08-04T04:00:32.453136+00:00"
+                }
+              ]
+            },
+            {
               "name": "'25 C&D Sunbear - Navy Cask",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/203257/",
@@ -13536,25 +13579,6 @@
                 {
                   "price": "$34.00",
                   "date": "2026-07-13T16:01:01+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Cornell & Diehl Small Batch Sun Bear Navy Cask",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203061/",
-              "price": "$45.00",
-              "last_updated": "2026-07-13T04:00:49.675774+00:00",
-              "first_seen": "2026-07-10T18:38:07+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$55.00",
-                  "date": "2026-07-10T18:38:07+00:00"
-                },
-                {
-                  "price": "$45.00",
-                  "date": "2026-07-13T04:00:49.675774+00:00"
                 }
               ]
             },
@@ -17531,7 +17555,7 @@
             {
               "name": "Dunhill The Aperitif 2017 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/208760/",
+              "url": "https://tinbids.com/auction/211330/",
               "price": "$41.00",
               "last_updated": "2026-07-28T04:00:32.783470+00:00",
               "first_seen": "2026-06-30T04:19:25+00:00",
@@ -17928,15 +17952,19 @@
             {
               "name": "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/195855/",
-              "price": "$50.00",
-              "last_updated": "2026-06-22T13:53:20.063064+00:00",
+              "url": "https://tinbids.com/auction/212086/",
+              "price": "$41.00",
+              "last_updated": "2026-08-04T04:00:32.453136+00:00",
               "first_seen": "2026-06-22T13:53:20.063064+00:00",
               "year": "2018",
               "price_history": [
                 {
                   "price": "$50.00",
                   "date": "2026-06-22T13:53:20.063064+00:00"
+                },
+                {
+                  "price": "$41.00",
+                  "date": "2026-08-04T04:00:32.453136+00:00"
                 }
               ]
             },
@@ -18222,9 +18250,9 @@
             {
               "name": "Dunhill Durbar Mixture 2017 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/208763/",
-              "price": "$46.00",
-              "last_updated": "2026-07-28T04:00:32.783470+00:00",
+              "url": "https://tinbids.com/auction/211333/",
+              "price": "$55.00",
+              "last_updated": "2026-08-04T04:00:32.453136+00:00",
               "first_seen": "2026-07-14T04:53:06+00:00",
               "year": "2017",
               "price_history": [
@@ -18235,6 +18263,10 @@
                 {
                   "price": "$46.00",
                   "date": "2026-07-28T04:00:32.783470+00:00"
+                },
+                {
+                  "price": "$55.00",
+                  "date": "2026-08-04T04:00:32.453136+00:00"
                 }
               ]
             },
@@ -19650,15 +19682,19 @@
             {
               "name": "Very Nice Sealed 2018 Dunhill My Mixture 965 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/195449/",
-              "price": "$29.00",
-              "last_updated": "2026-06-21T05:37:17.147469+00:00",
+              "url": "https://tinbids.com/auction/212070/",
+              "price": "$23.49",
+              "last_updated": "2026-08-04T04:00:32.453136+00:00",
               "first_seen": "2026-06-21T05:37:17.147469+00:00",
               "year": "2018",
               "price_history": [
                 {
                   "price": "$29.00",
                   "date": "2026-06-21T05:37:17.147469+00:00"
+                },
+                {
+                  "price": "$23.49",
+                  "date": "2026-08-04T04:00:32.453136+00:00"
                 }
               ]
             }
@@ -19978,9 +20014,9 @@
             {
               "name": "Excellent Sealed 2018 Dunhill Nightcap 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/201751/",
-              "price": "$40.00",
-              "last_updated": "2026-07-08T04:00:53.107133+00:00",
+              "url": "https://tinbids.com/auction/212097/",
+              "price": "$42.00",
+              "last_updated": "2026-08-04T04:00:32.453136+00:00",
               "first_seen": "2026-06-21T05:37:17.147469+00:00",
               "year": "2018",
               "price_history": [
@@ -19991,6 +20027,10 @@
                 {
                   "price": "$40.00",
                   "date": "2026-07-08T04:00:53.107133+00:00"
+                },
+                {
+                  "price": "$42.00",
+                  "date": "2026-08-04T04:00:32.453136+00:00"
                 }
               ]
             },
@@ -20466,9 +20506,9 @@
             {
               "name": "Dunhill The “Royal Yacht” Mixture 2016 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/208757/",
-              "price": "$52.00",
-              "last_updated": "2026-07-28T04:00:32.783470+00:00",
+              "url": "https://tinbids.com/auction/211327/",
+              "price": "$31.00",
+              "last_updated": "2026-08-04T04:00:32.453136+00:00",
               "first_seen": "2026-07-10T04:24:47+00:00",
               "year": "2016",
               "price_history": [
@@ -20479,6 +20519,10 @@
                 {
                   "price": "$52.00",
                   "date": "2026-07-28T04:00:32.783470+00:00"
+                },
+                {
+                  "price": "$31.00",
+                  "date": "2026-08-04T04:00:32.453136+00:00"
                 }
               ]
             },
@@ -25878,7 +25922,7 @@
             {
               "name": "Esoterica Penzance",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/208060/",
+              "url": "https://tinbids.com/auction/212528/",
               "price": "$1300.00",
               "last_updated": "2026-07-22T04:00:23.846594+00:00",
               "first_seen": "2026-07-21T20:02:34+00:00",
@@ -26562,6 +26606,25 @@
           "quantity": "",
           "members": [
             {
+              "name": "Esoterica Stonehaven",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/213589/",
+              "price": "$1150.00",
+              "last_updated": "2026-08-04T16:00:33.774083+00:00",
+              "first_seen": "2026-07-05T23:44:53+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$400.00",
+                  "date": "2026-07-05T23:44:53+00:00"
+                },
+                {
+                  "price": "$1150.00",
+                  "date": "2026-08-04T16:00:33.774083+00:00"
+                }
+              ]
+            },
+            {
               "name": "ESOTERICA \"STONEHAVEN\" NEW FACTORY SEALED",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/205736/",
@@ -26588,21 +26651,6 @@
                 {
                   "price": "$2800.00",
                   "date": "2026-07-09T19:28:45+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Esoterica Stonehaven",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/201887/",
-              "price": "$400.00",
-              "last_updated": "2026-07-06T04:00:50.820025+00:00",
-              "first_seen": "2026-07-05T23:44:53+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$400.00",
-                  "date": "2026-07-05T23:44:53+00:00"
                 }
               ]
             },
@@ -30948,7 +30996,7 @@
               "source": "Treasured Smokes",
               "url": "https://www.treasuredsmokes.com/product-page/g-l-pease-haddo-s-delight-2009",
               "price": "$53.00",
-              "last_updated": "2026-08-02T19:16:18.284559+00:00",
+              "last_updated": "2026-08-04T19:16:24.167448+00:00",
               "first_seen": "2026-06-20T18:32:06.142896+00:00",
               "year": "2009",
               "price_history": [
@@ -31335,6 +31383,22 @@
                 {
                   "price": "$53.00",
                   "date": "2026-08-02T19:16:18.284559+00:00"
+                },
+                {
+                  "price": "$215.00",
+                  "date": "2026-08-03T19:16:21.274784+00:00"
+                },
+                {
+                  "price": "$53.00",
+                  "date": "2026-08-03T19:16:21.274784+00:00"
+                },
+                {
+                  "price": "$215.00",
+                  "date": "2026-08-04T19:16:24.167448+00:00"
+                },
+                {
+                  "price": "$53.00",
+                  "date": "2026-08-04T19:16:24.167448+00:00"
                 }
               ]
             },
@@ -43761,15 +43825,19 @@
             {
               "name": "Fox Dorisco Smoking English Mixture Sealed 50g Pipe Tobacco Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/209413/",
-              "price": "$18.26",
-              "last_updated": "2026-07-30T04:00:28.295890+00:00",
+              "url": "https://tinbids.com/auction/211540/",
+              "price": "$9.99",
+              "last_updated": "2026-08-05T04:00:32.878864+00:00",
               "first_seen": "2026-07-29T20:13:38+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$18.26",
                   "date": "2026-07-29T20:13:38+00:00"
+                },
+                {
+                  "price": "$9.99",
+                  "date": "2026-08-05T04:00:32.878864+00:00"
                 }
               ]
             },
@@ -55348,9 +55416,9 @@
             {
               "name": "McClelland 221B Series: Honeydew 2015 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/208749/",
-              "price": "$62.00",
-              "last_updated": "2026-07-28T04:00:32.783470+00:00",
+              "url": "https://tinbids.com/auction/211322/",
+              "price": "$64.00",
+              "last_updated": "2026-08-04T16:00:33.774083+00:00",
               "first_seen": "2026-06-26T03:11:03+00:00",
               "year": "2015",
               "price_history": [
@@ -55369,6 +55437,10 @@
                 {
                   "price": "$62.00",
                   "date": "2026-07-28T04:00:32.783470+00:00"
+                },
+                {
+                  "price": "$64.00",
+                  "date": "2026-08-04T16:00:33.774083+00:00"
                 }
               ]
             }
@@ -56630,7 +56702,7 @@
             {
               "name": "McCLELLAND BALKAN BLUE",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203643/",
+              "url": "https://tinbids.com/auction/211519/",
               "price": "$100.00",
               "last_updated": "2026-07-14T04:00:50.482103+00:00",
               "first_seen": "2026-07-13T23:47:58+00:00",
@@ -60672,9 +60744,9 @@
             {
               "name": "2016 Frog Morton Across The Pond with Syrian Latakia by McClelland 10 Years of Age",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/206018/",
-              "price": "$162.00",
-              "last_updated": "2026-07-21T04:00:29.167499+00:00",
+              "url": "https://tinbids.com/auction/211501/",
+              "price": "$160.00",
+              "last_updated": "2026-08-05T04:00:32.878864+00:00",
               "first_seen": "2026-06-26T14:18:01+00:00",
               "year": "2016",
               "price_history": [
@@ -60693,6 +60765,10 @@
                 {
                   "price": "$162.00",
                   "date": "2026-07-21T04:00:29.167499+00:00"
+                },
+                {
+                  "price": "$160.00",
+                  "date": "2026-08-05T04:00:32.878864+00:00"
                 }
               ]
             },
@@ -60877,15 +60953,19 @@
             {
               "name": "Very Nice Sealed 2017 McClelland's Frog Morton on the Bayou 100g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/209193/",
-              "price": "$251.00",
-              "last_updated": "2026-07-27T04:00:25.986860+00:00",
+              "url": "https://tinbids.com/auction/212056/",
+              "price": "$186.00",
+              "last_updated": "2026-08-04T04:00:32.453136+00:00",
               "first_seen": "2026-07-26T21:39:18+00:00",
               "year": "2017",
               "price_history": [
                 {
                   "price": "$251.00",
                   "date": "2026-07-26T21:39:18+00:00"
+                },
+                {
+                  "price": "$186.00",
+                  "date": "2026-08-04T04:00:32.453136+00:00"
                 }
               ]
             }
@@ -66477,15 +66557,19 @@
             {
               "name": "Excellent Sealed 2010 McClelland's Wilderness 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/204790/",
-              "price": "$79.00",
-              "last_updated": "2026-07-15T04:00:49.070316+00:00",
+              "url": "https://tinbids.com/auction/212100/",
+              "price": "$119.67",
+              "last_updated": "2026-08-04T04:00:32.453136+00:00",
               "first_seen": "2026-07-14T19:27:01+00:00",
               "year": "2010",
               "price_history": [
                 {
                   "price": "$79.00",
                   "date": "2026-07-14T19:27:01+00:00"
+                },
+                {
+                  "price": "$119.67",
+                  "date": "2026-08-04T04:00:32.453136+00:00"
                 }
               ]
             },
@@ -85728,15 +85812,19 @@
             {
               "name": "ESCUDO NAVY DE LUXE",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/206215/",
-              "price": "$42.00",
-              "last_updated": "2026-07-21T04:00:29.167499+00:00",
+              "url": "https://tinbids.com/auction/211524/",
+              "price": "$17.50",
+              "last_updated": "2026-08-05T04:00:32.878864+00:00",
               "first_seen": "2026-07-20T23:55:26+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$42.00",
                   "date": "2026-07-20T23:55:26+00:00"
+                },
+                {
+                  "price": "$17.50",
+                  "date": "2026-08-05T04:00:32.878864+00:00"
                 }
               ]
             },
@@ -87898,7 +87986,7 @@
             {
               "name": "Excellent Sealed Sutliff Cringle Flake Holiday Edition 2022 Tobacco Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/209133/",
+              "url": "https://tinbids.com/auction/212073/",
               "price": "$19.99",
               "last_updated": "2026-07-20T04:00:25.054246+00:00",
               "first_seen": "2026-07-07T18:43:08+00:00",
@@ -94710,9 +94798,9 @@
             {
               "name": "Excellent Sealed 2019 Wellauer & Co. Latakia Mixture 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/206687/",
-              "price": "$21.99",
-              "last_updated": "2026-07-20T04:00:25.054246+00:00",
+              "url": "https://tinbids.com/auction/212079/",
+              "price": "$28.00",
+              "last_updated": "2026-08-04T04:00:32.453136+00:00",
               "first_seen": "2026-07-11T22:08:54+00:00",
               "year": "2019",
               "price_history": [
@@ -94723,6 +94811,10 @@
                 {
                   "price": "$21.99",
                   "date": "2026-07-20T04:00:25.054246+00:00"
+                },
+                {
+                  "price": "$28.00",
+                  "date": "2026-08-04T04:00:32.453136+00:00"
                 }
               ]
             }
@@ -96976,6 +97068,21 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Fox Dorisco Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|doriscomixture",
+    "2016 Frog Morton Across The Pond with Syrian Latakia by McClelland 10 Years of Age": "mcclelland|frogmortonacrossthepond",
+    "ESCUDO NAVY DE LUXE": "stg|escudonavydeluxe",
+    "McClelland 221B Series: Honeydew 2015 NR": "mcclelland|221bhoneydew",
+    "Esoterica Stonehaven": "esoterica|stonehaven",
+    "Dunhill Durbar Mixture 2017 NR": "dunhill|durbar",
+    "Dunhill The “Royal Yacht” Mixture 2016 NR": "dunhill|royalyacht",
+    "Very Nice Sealed 2017 McClelland's Frog Morton on the Bayou 100g. Tin": "mcclelland|frogmortononthebayou",
+    "Excellent Sealed 2019 Wellauer & Co. Latakia Mixture 50g. Tin": "wellauerco|latakiamixture",
+    "Excellent Sealed 2010 McClelland's Wilderness 50g. Tin": "mcclelland|wilderness",
+    "Cornell & Diehl Small Batch Sun Bear Navy Cask": "cornelldiehl|sunbearnavycask",
+    "Excellent Sealed 2018 Dunhill Nightcap 50g. Tin": "dunhill|nightcap",
+    "Ashton Rainy Day NR": "ashton|rainyday",
+    "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
+    "Very Nice Sealed 2018 Dunhill My Mixture 965 50g. Tin": "dunhill|mymixtureno965",
     "Mac Baren’s 2021 Royal Twist DeLuxe Roll Cake 3.5 oz": "macbaren|royaltwist",
     "Mac Baren’s Stockton Spun Cut 2023 3.5 oz tin": "macbaren|stocktonspuncut",
     "Mac Baren Dark Twist Roll Cake 2021 3.5 oz tin": "macbaren|darktwist",
@@ -97128,7 +97235,6 @@
     "2011 Torben Dansk Black Velvet Gentle Dream-50g": "dantobacco|torbendanskblackvelvet",
     "2017 War Horse": "sutliff|warhorsebar",
     "Vintage - 2019 - Dunhill Ready Rubbed": "dunhill|readyrubbed",
-    "Fox Dorisco Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|doriscomixture",
     "G.L. Pease NASPC Goblin’s Weed Red 2 oz’s Sealed Pipe Tobacco Tin Annual 2014 Show": "glpease|goblinsweedred",
     "G.L. Pease NASPC Shelob’s Lair 2 oz’s Sealed Pipe Tobacco Tin Annual 2006 Show": "glpease|shelobslair",
     "Brebbia Rondo Mix no. 27 50g Pipe Sealed Tobacco Tin": "brebbia|rondomixno27",
@@ -97190,10 +97296,7 @@
     "2015 - SEATTLE PIPE CLUB, POTLATCH 2oz": "sutliff|spcpotlatch",
     "McConnell Mature 2018 NR": "robertmcconnell|mature",
     "Dunhill The Aperitif 2017 NR": "dunhill|aperitif",
-    "Dunhill Durbar Mixture 2017 NR": "dunhill|durbar",
-    "McClelland 221B Series: Honeydew 2015 NR": "mcclelland|221bhoneydew",
     "Dunhill Flake 2016 NR": "dunhill|flake",
-    "Dunhill The “Royal Yacht” Mixture 2016 NR": "dunhill|royalyacht",
     "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
     "Viprati VA/PER 2022": "hearthhome|viprati",
     "Wessex Burley Slice - 50g": "wessex|burleyslice",
@@ -97227,7 +97330,6 @@
     "Excellent Sealed 2021 C&D Small Batch Eight State Burley #5184/7500 2oz. Tin": "cornelldiehl|eightstateburley",
     "Very Nice Sealed 2020 Solani Aged burley Flake 50g. Tin": "solani|agedburleyflake656",
     "Excellent Sealed 2020 Carter Hall 14oz. Tobacco Tin": "johnmiddleton|carterhall",
-    "Very Nice Sealed 2017 McClelland's Frog Morton on the Bayou 100g. Tin": "mcclelland|frogmortononthebayou",
     "McClelland’s, Christmas Cheer, 100 gr sealed tin- 2001": "mcclelland|christmascheer",
     "McClelland, Dark Star, 100 gr sealed tin- 2000": "mcclelland|darkstar",
     "McClelland’s, Anniversary 1977-2002, 100 gr sealed tin- 2002": "mcclelland|25thanniversary",
@@ -97373,7 +97475,6 @@
     "Three sails -40g": "daughtersryan|threesails",
     "2014 Fribourg & Greyer Special Brown Flake-50g": "fribourgtreyer|specialbrownflake",
     "Wessex Brown Virginia Flake -50g": "wessex|brownvirginiaflake",
-    "2016 Frog Morton Across The Pond with Syrian Latakia by McClelland 10 Years of Age": "mcclelland|frogmortonacrossthepond",
     "GAWITH SQUADRON LEADER": "samuelgawith|squadronleader",
     "VINTAGE and RARE sealed Mac Baren's Stockton 2oz - NR": "macbaren|stockton",
     "VINTAGE and RARE sealed Murray's Erinmore Cube Cut 2oz - NR": "murrays|erinmorecubecut",
@@ -97407,7 +97508,6 @@
     "Cobblestone Plum Rum Limited Pressed": "cobblestone|plumrum",
     "2021 Cornell & Diehl Wintertime Reserve Alpine Lodge 2 oz Pipe Tobacco Tin - New Sealed": "cornelldiehl|wintertimereservealpinelodge",
     "RATTRAY'S JOCKS MIXTURE": "rattrays|jocksmixture",
-    "ESCUDO NAVY DE LUXE": "stg|escudonavydeluxe",
     "Mc CONNELL PURE PERIQUE": "robertmcconnell|pureperique",
     "Mac BARREN PRESBYTERIAN MIXTURE": "macbaren|presbyterianmixture",
     "CULT BLOOD RED MOON": "cult|bloodredmoon",
@@ -97430,7 +97530,6 @@
     "Mac Baren 2020 Vanilla Roll Cake 1lb.": "macbaren|vanillarollcake",
     "2016 McClelland’s Blackwoods Flake - 1 Tin NR BIN $225": "mcclelland|blackwoodsflake",
     "Very Nice Sealed 2012 McCranie's Red Flake Prime 2008 Red Virginia 50g. Tin": "mccranies|redflake",
-    "Excellent Sealed 2019 Wellauer & Co. Latakia Mixture 50g. Tin": "wellauerco|latakiamixture",
     "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
     "(2020) Wessex Campaign Dark Flake": "wessex|brigadecampaigndarkflake",
     "Excellent Sealed Sutliff Cringle Flake Holiday Edition 2022 Tobacco Tin": "sutliff|cringleflake",
@@ -97602,7 +97701,6 @@
     "Excellent Sealed 2015 McClelland Grand Orientals Drama Reserve 50g. Tin": "mcclelland|grandorientalsdramareserve",
     "Excellent Sealed 2023 Samuel Gawith Bosun Cut Plug 500g. Bag": "gawithhoggarthco|bosuncutplug",
     "Wessex Campaign Dark Flake 50g": "wessex|brigadecampaigndarkflake",
-    "Excellent Sealed 2010 McClelland's Wilderness 50g. Tin": "mcclelland|wilderness",
     "Very Nice 2004 G. L. Pease Bohemian Scandal Jarred in 2017 Seal Tight Jar": "glpease|bohemianscandal",
     "Esoterica Dorchester 2019 2oz": "esoterica|dorchester",
     "CORPS 22nd Anniversary (by McClelland) 2005": "mcclelland|corps22ndanniversary",
@@ -97657,7 +97755,6 @@
     "Original - '23, Pre C&D, SPC Plum Pudding - 8oz": "cornelldiehl|spcplumpudding",
     "2018 McClelland’s Frog Morton - 1 Tin NR BIN $225": "mcclelland|frogmorton",
     "'23 - 100g Peter Heinrichs - Golden Sliced": "peterheinrichs|goldensliced",
-    "Cornell & Diehl Small Batch Sun Bear Navy Cask": "cornelldiehl|sunbearnavycask",
     "Seattle Pipe Club - Plum Pudding (ORIGINAL) - Aged 7 Years": "sutliff|spcplumpudding",
     "Esoterica And So To Bed 8oz Bag": "esoterica|andsotobed",
     "2oz/57g Jack Knife PLUG By G.L. Pease From 2011!": "glpease|jackknifeplug",
@@ -97824,7 +97921,6 @@
     "22 Years Vintage 2004 Butera Blended Flake": "butera|blendedflake",
     "26 Years Vintage (2000) McClelland Mixture No. 1 Super Rare!": "mcclelland|mixtureno1",
     "McClelland - Syrian super Balkan": "mcclelland|syriansuperbalkan",
-    "Excellent Sealed 2018 Dunhill Nightcap 50g. Tin": "dunhill|nightcap",
     "Germain's Plum Cake Mixture - 50g": "jfgermain|plumcake",
     "Vintage Holiday America’s Finest Pipe Mixture 14oz can from Larus & Brother Company": "larusbrother|holiday",
     "Vintage Briggs Smoking Tobacco 16oz in a wooden KEG": "briggs|briggs",
@@ -97902,7 +97998,6 @@
     "8oz Of Hearth & Home (discontinued) ANNIVERSARY KAKE from 2013!": "macbaren|hhanniversarykake",
     "11.2oz /317g Samuel Gawith Full Virginia Flake From 2013!": "samuelgawith|fullvirginiaflake",
     "Unopened Cornell & Diehl Small Batch 2021 Carolina Red Flake w/ Perique": "cornelldiehl|carolinaredflakewithperique",
-    "Esoterica Stonehaven": "esoterica|stonehaven",
     "ESSENZA CIPRIOTA BY SAVINELLI": "savinelli|essenzacipriota",
     "Fribourg & Treyer - (2019) Vanners Mixture": "fribourgtreyer|vannersmixture",
     "Fribourg &Treyer -  (2020) Cut Virginia Plug": "fribourgtreyer|cutvirginiaplug",
@@ -98059,7 +98154,6 @@
     "Dunhill My Mixture 221B Baker Street 2017 NR": "dunhill|mymixture221bbakerstreet",
     "MacBaren Capstan Gold Flake 2013 NR": "macbaren|capstangoldflake",
     "MacBaren Capstan Original Flake 2013 NR": "macbaren|capstanoriginalflake",
-    "Ashton Rainy Day NR": "ashton|rainyday",
     "2022 Robert McConnell Latakia Flake - 1 Tin NR BIN $35": "robertmcconnell|latakiaflake",
     "2022 Cornell & Diehl Anthology 1992-2022 30th Anniversary 2 oz Pipe Tobacco Tin - New Sealed": "cornelldiehl|anthology2022",
     "Dunhill Baby’s Bottom (Navy Rolls) – 50g Sealed Tin (~ aged 10 years)": "dunhill|babysbottom",
@@ -98297,7 +98391,6 @@
     "Excellent Sealed 2005 Esoterica Penzance 8oz. Pack": "esoterica|penzance",
     "Excellent Sealed 2011 Samuel Gawith Full Virginia Flake 50g. Tin": "samuelgawith|fullvirginiaflake",
     "Very Nice Sealed 2012 Hearth & Home International Pipe Smoking Day 2012 50g. Tin": "hearthhome|internationalpipesmokingday",
-    "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
     "Very Nice Sealed 2013 Butera Pelican English-Oriental 2oz. Tin": "butera|pelican",
     "Vintage  aromatic !  Peterson Special Reserve 2008 100grams.": "peterson|specialreserve",
     "War Horse Green": "sutliff|warhorsegreen",
@@ -98312,7 +98405,6 @@
     "Sutliff Country Cork": "sutliff|countrycork",
     "Peter Heinrichs Golden Sliced Bid or Buy Now": "peterheinrichs|goldensliced",
     "2024 Robert McConnell Oriental  - 1 Tin NR BIN $30": "robertmcconnell|oriental",
-    "Very Nice Sealed 2018 Dunhill My Mixture 965 50g. Tin": "dunhill|mymixtureno965",
     "Very Nice 2021 G. L. Pease Quiet Nights 2oz. Tin": "glpease|quietnights",
     "Very Nice Sealed 2018 Dunhill My Mixture BB1938 50g. Tin": "dunhill|mymixturebb1938",
     "Frog Morton Sealed Tin from 2017": "mcclelland|frogmorton",
