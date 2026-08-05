@@ -21190,10 +21190,11 @@
     "source": "llm"
   },
   "Field and Stream 1 3/8oz. Unopened box House of Windsor": {
-    "brand": "Field & Stream",
     "blend": "",
+    "brand": "",
+    "confidence": 0.2,
     "is_tin": true,
-    "confidence": 0.5
+    "source": "llm"
   },
   "Fribourg & Treyer - (2019) Cut Blended Plug": {
     "blend": "Cut Blended Plug",
@@ -25611,10 +25612,11 @@
     "confidence": 0.7
   },
   "VINTAGE and RARE sealed 7oz can of Revelation": {
-    "brand": "",
     "blend": "Revelation",
+    "brand": "Philip Morris",
+    "confidence": 0.6,
     "is_tin": true,
-    "confidence": 0.5
+    "source": "llm"
   },
   "Very Nice 2009 G. L. Pease Maltese Falcon 2oz. Tin": {
     "blend": "Maltese Falcon",
@@ -25658,10 +25660,11 @@
     "confidence": 0.3
   },
   "Vintage Dill's Best Tobacco Pocket Box - Sealed Handy Pouch Inside": {
-    "brand": "Dill's Best",
     "blend": "",
+    "brand": "",
+    "confidence": 0.2,
     "is_tin": true,
-    "confidence": 0.5
+    "source": "llm"
   },
   "Vintage EDGEWORTH SLICED Extra High Grade Pipe Tobacco 100g. Hall of Fame Inductee!": {
     "blend": "Sliced",
@@ -27731,10 +27734,11 @@
     "confidence": 0.55
   },
   "Sutliff Smooth & Gold (16 oz) 1 lb.": {
+    "blend": "Smooth & Gold",
     "brand": "Sutliff",
-    "blend": "",
+    "confidence": 0.5,
     "is_tin": true,
-    "confidence": 0.4
+    "source": "llm"
   },
   "THE BEAST Small Batch from 2023 - 3 C&D factory sealed 2oz tins - BIN - NR": {
     "brand": "",
@@ -27743,10 +27747,11 @@
     "confidence": 0.85
   },
   "Taste of Summer -1.5oz": {
-    "brand": "",
     "blend": "Taste of Summer",
+    "brand": "Sutliff",
+    "confidence": 0.8,
     "is_tin": true,
-    "confidence": 0.35
+    "source": "llm"
   },
   "The Mellow Mallard -50g": {
     "brand": "Dan Tobacco",
@@ -29411,6 +29416,1413 @@
     "blend": "Dorchester",
     "brand": "Esoterica",
     "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Esoterica Dorchester tin 2020": {
+    "blend": "Dorchester",
+    "brand": "Esoterica",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Esoterica Margate - 1 Tin NR BIN $100": {
+    "blend": "Margate",
+    "brand": "Esoterica",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Esoterica Margate 8 ounce bag 2022": {
+    "blend": "Margate",
+    "brand": "Esoterica",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Esoterica Pembroke & And So To Bed": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Esoterica Pembroke & Margate": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Esoterica Penzance (2005) Cream Colored Bag": {
+    "blend": "Penzance",
+    "brand": "Esoterica",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Esoterica Penzance 2017 | 2oz Tin | La Clave Collection": {
+    "blend": "Penzance",
+    "brand": "Esoterica",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Esoterica Stonehaven and Penzance 8oz": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Esoterica Tilbury 2019     2 oz tin": {
+    "blend": "Tilbury",
+    "brand": "Esoterica",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Esoterica Tobacciana": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.2,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Esoterica Tobacciana Margate 8 oz": {
+    "blend": "Margate",
+    "brand": "Esoterica",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Esoterica Tobacciana Prembroke 8 oz": {
+    "blend": "Pembroke",
+    "brand": "Esoterica",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Esoterica: Stonehaven / Early 2020’s recent production.": {
+    "blend": "Stonehaven",
+    "brand": "Esoterica",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Excellent Sealed 2020 Ashton Artisan's Blend 50g. Tin": {
+    "blend": "Artisan's Blend",
+    "brand": "Ashton",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Excellent Sealed 2020 Carter Hall 14oz. Tobacco Tin": {
+    "blend": "Carter Hall",
+    "brand": "John Middleton",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Excellent Sealed 2020 Mac Baren's Stockton Spun Cut Limited Edition No. 1475 100g. Tin": {
+    "blend": "Stockton Spun Cut",
+    "brand": "Mac Baren",
+    "confidence": 0.7,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Excellent Sealed 2021 Balkan by Brebbia 50g. Tin": {
+    "blend": "Balkan",
+    "brand": "Brebbia",
+    "confidence": 0.75,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Excellent Sealed 2021 C&D Small Batch Eight State Burley #5184/7500 2oz. Tin": {
+    "blend": "Eight State Burley",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.7,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Excellent Sealed 2021 G. L. Pease Windjammer 2oz. Tin": {
+    "blend": "Windjammer",
+    "brand": "G.L. Pease",
+    "confidence": 0.7,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Excellent Sealed 2021 G.L. Pease Abingdon 2oz. Tin": {
+    "blend": "Abingdon",
+    "brand": "G.L. Pease",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Excellent Sealed 2022 Mac Baren Virginia Flake 1.75oz. Tin": {
+    "blend": "Virginia Flake",
+    "brand": "Mac Baren",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Excellent Sealed 2023 Peter Heinrichs Dark Strong 100g. Tin": {
+    "blend": "Dark Strong Flake",
+    "brand": "Peter Heinrichs",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Exotique Mixture by Smokers’ Haven 2018 NR BIN $150": {
+    "blend": "Exotique Mixture",
+    "brand": "Smokers' Haven",
+    "confidence": 0.65,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Fox Bankers Smoking English Mixture Sealed 50g Pipe Tobacco Tin": {
+    "blend": "Bankers",
+    "brand": "James J. Fox",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Fox Dorisco Smoking English Mixture Sealed 50g Pipe Tobacco Tin": {
+    "blend": "Dorisco Mixture",
+    "brand": "James J. Fox",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Fribourg and Treyer Special Brown Flake 50g": {
+    "blend": "Special Brown Flake",
+    "brand": "Fribourg & Treyer",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Frigbourg & Treyer - Special Brown Flake (2) Sealed 50g Tins": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "G.L. Pease NASPC Goblin’s Weed Red 2 oz’s Sealed Pipe Tobacco Tin Annual 2014 Show": {
+    "blend": "Goblin's Weed Red",
+    "brand": "G.L. Pease",
+    "confidence": 0.55,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "G.L. Pease NASPC Shelob’s Lair 2 oz’s Sealed Pipe Tobacco Tin Annual 2006 Show": {
+    "blend": "Shelob's Lair",
+    "brand": "G.L. Pease",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Germain's 2017 Esoterica Dunbar; 2 oz; BID 85 5D NR": {
+    "blend": "Dunbar",
+    "brand": "Esoterica",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Germain's Original Latakia Mixture": {
+    "blend": "Original Latakia Mixture",
+    "brand": "J.F. Germain",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Germain’s BK Flake": {
+    "blend": "B.K. Flake",
+    "brand": "J.F. Germain",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "H&H First Snow": {
+    "blend": "First Snow",
+    "brand": "Hearth & Home",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "HU United Passion Dockworker Flake - 50g": {
+    "blend": "Dockworker",
+    "brand": "HU Tobacco",
+    "confidence": 0.65,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "HU United Passion Moroccan Bazaar - 50g": {
+    "blend": "Moroccan Bazaar",
+    "brand": "HU Tobacco",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Hearth & Home 2021 Black House Anniversary Tin": {
+    "blend": "Black House 10th Anniversary",
+    "brand": "Hearth & Home",
+    "confidence": 0.55,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Hearth & Home Magnum - 1 Tin NR BIN $60": {
+    "blend": "Magnum Opus",
+    "brand": "Hearth & Home",
+    "confidence": 0.5,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Hearth and Home White Knight x2": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "JF Germain&Sons plus other well aged Rares": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "John Cotton’s Number 1": {
+    "blend": "No. 1",
+    "brand": "John Cotton's",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Ken Byron Ventures 2020 Festivus GT": {
+    "blend": "Festivus GT",
+    "brand": "Ken Byron Ventures",
+    "confidence": 0.65,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Ken Byron Ventures 2020 Sabotage": {
+    "blend": "Sabotage",
+    "brand": "Ken Byron Ventures",
+    "confidence": 0.65,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Ken Byron Ventures 2020 Yoshimi’s Vizmir": {
+    "blend": "Yoshimi's Vizmir",
+    "brand": "Ken Byron Ventures",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Ken Byron Ventures 2021 Count Shagula #24": {
+    "blend": "Count Shagula",
+    "brand": "Ken Byron Ventures",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Krumble Kake, Smoker’s Haven by J.F. Germain, 8 oz sealed Mylar bag (2004)": {
+    "blend": "Krumble Kake",
+    "brand": "Smokers' Haven",
+    "confidence": 0.55,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Lane Limited 125 Anniversary 1.75oz Tin": {
+    "blend": "125th Anniversary",
+    "brand": "Lane Limited",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Limited run of Crescent Rising": {
+    "blend": "Crescent Rising",
+    "brand": "Low Country",
+    "confidence": 0.75,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Mac Baren Dark Twist Roll Cake 2021 3.5 oz tin": {
+    "blend": "Dark Twist",
+    "brand": "Mac Baren",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Mac Baren HH Bold Kentucky 3.5oz 2018 NR BIN $150": {
+    "blend": "HH Bold Kentucky",
+    "brand": "Mac Baren",
+    "confidence": 0.7,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Mac Baren HH Latakia Flake 3.5oz 2014 NR BIN $200": {
+    "blend": "HH Latakia Flake",
+    "brand": "Mac Baren",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Mac Baren Old Dark Fired 2024 3.5 oz tin": {
+    "blend": "HH Old Dark Fired",
+    "brand": "Mac Baren",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Mac Baren Plum Cake Navy Blend - 2020": {
+    "blend": "Plumcake",
+    "brand": "Mac Baren",
+    "confidence": 0.5,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Mac Baren's Latakia Rolls Limited Edition - 2020": {
+    "blend": "Latakia Rolls",
+    "brand": "Mac Baren",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Mac Baren’s 2021 Royal Twist DeLuxe Roll Cake 3.5 oz": {
+    "blend": "Royal Twist",
+    "brand": "Mac Baren",
+    "confidence": 0.7,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Mac Baren’s Stockton Spun Cut 2023 3.5 oz tin": {
+    "blend": "Stockton Spun Cut",
+    "brand": "Mac Baren",
+    "confidence": 0.7,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "MacBaren Club Blend 2016 NR": {
+    "blend": "Club Blend",
+    "brand": "Mac Baren",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McCLELLAND CHRISTMAS CHEER 2010 approx. 2.9 ounces": {
+    "blend": "Christmas Cheer",
+    "brand": "McClelland",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland 40th Anniversary '17 BIN $230": {
+    "blend": "40th Anniversary",
+    "brand": "McClelland",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland 40th Anniversary - 2018 tin date": {
+    "blend": "40th Anniversary",
+    "brand": "McClelland",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland Frog Morton on the Town (50g Tin) – Sealed 2010 Vintage": {
+    "blend": "Frog Morton on the Town",
+    "brand": "McClelland",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland Frog Morton on the Town 1998 1.2oz/33grams": {
+    "blend": "Frog Morton on the Town",
+    "brand": "McClelland",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland Frog Morton on the Town 2017": {
+    "blend": "Frog Morton on the Town",
+    "brand": "McClelland",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland Frog Morton's Cellar Pipe Tobacco (100g Tin) – Sealed 2014 Vintage": {
+    "blend": "Frog Morton's Cellar",
+    "brand": "McClelland",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland Syrian Full Balkan": {
+    "blend": "Syrian Full Balkan",
+    "brand": "McClelland",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland, British Woods, 100 gr sealed tin (2002). Purchased in 2003": {
+    "blend": "British Woods",
+    "brand": "McClelland",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland, Dark Star, 100 gr sealed tin- 2000": {
+    "blend": "Dark Star",
+    "brand": "McClelland",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland, Syrian Full Balkan Reserve PCCA (2000). 50 gr sealed tin": {
+    "blend": "Syrian Full Balkan Reserve",
+    "brand": "PCCA",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland’s, Anniversary 1977-2002, 100 gr sealed tin- 2002": {
+    "blend": "25th Anniversary",
+    "brand": "McClelland",
+    "confidence": 0.5,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland’s, Christmas Cheer, 100 gr sealed tin- 2001": {
+    "blend": "Christmas Cheer",
+    "brand": "McClelland",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McCrannie's Red Flake - by McClelland BIN $125": {
+    "blend": "Red Flake",
+    "brand": "McCranie's",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "NASPC Show 2004 McClelland Scottish Woods Tobacco Sealed 50g Tin Out of Production": {
+    "blend": "Scottish Woods",
+    "brand": "McClelland",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "ORLIK GOLDEN SLICED (50g Painted top tin) 14 Years Vintage!": {
+    "blend": "Golden Sliced",
+    "brand": "Orlik",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Older Reiner Light Aromatic 50g": {
+    "blend": "Light Aromatic",
+    "brand": "Reiner",
+    "confidence": 0.5,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Original - 4oz, Pre C&D, SPC Plum Pudding - Special Reserve BIN $42": {
+    "blend": "SPC Plum Pudding Special Reserve",
+    "brand": "Sutliff",
+    "confidence": 0.7,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Original Release - '25 C&D Fires on the Levee BIN $29": {
+    "blend": "Fires on the Levee",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.65,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Orilk golden slice 5 tin sealed roll , original run London 40yrs + of age.": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Peter Heinrich’s Dark Strong 100g": {
+    "blend": "Dark Strong Flake",
+    "brand": "Peter Heinrichs",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Peter Heinrich’s Golden Sliced 100g": {
+    "blend": "Golden Sliced",
+    "brand": "Peter Heinrichs",
+    "confidence": 0.55,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Peterson’s Old Dublin Smoking English Mixture Made in Ireland Sealed 50g Pipe Tobacco Tin ‘99": {
+    "blend": "Old Dublin",
+    "brand": "Peterson",
+    "confidence": 0.75,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Peterson’s Old Dublin Smoking English Mixture Sealed 50g Pipe Tobacco Tin 2012": {
+    "blend": "Old Dublin",
+    "brand": "Peterson",
+    "confidence": 0.75,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Philip Morris & Co. Bond Street and Sir Walter Raleigh Pipe Tobacco": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Rattray's Tower Bridge 100g": {
+    "blend": "Tower Bridge",
+    "brand": "Rattray's",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Rattray’s 40 Virginia 2018 NR": {
+    "blend": "40 Virginia",
+    "brand": "Rattray's",
+    "confidence": 0.65,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Rattray’s Hal O’ The Wynd 2018 NR": {
+    "blend": "Hal O' The Wynd",
+    "brand": "Rattray's",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Rattray’s Macbeth 2018 NR": {
+    "blend": "Macbeth",
+    "brand": "Rattray's",
+    "confidence": 0.55,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Rattray’s Old Gowrie 2005-2010 NR": {
+    "blend": "Old Gowrie",
+    "brand": "Rattray's",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "SUN BEAR 2019 - ORIGINAL RELEASE - Cornell and Diehl": {
+    "blend": "Sun Bear",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "SYRIAN! 2018 Ashton Artisan's Blend 50g": {
+    "blend": "Artisan's Blend",
+    "brand": "Ashton",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Samuel Gawith & Sons; Co Ltd, Full Virginia Flake, 1 lb sealed Mylar bag (2006)": {
+    "blend": "Full Virginia Flake",
+    "brand": "Samuel Gawith",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Samuel Gawith Lakeland Dark Flake From 2016": {
+    "blend": "Lakeland Dark",
+    "brand": "Samuel Gawith",
+    "confidence": 0.5,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Samuel Gawith Skiff Mixture Never Opened Sealed 8oz Bag": {
+    "blend": "Skiff Mixture",
+    "brand": "Samuel Gawith",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Samuel Gawith-Navy Flake": {
+    "blend": "Navy Flake",
+    "brand": "Samuel Gawith",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Samuel Gawth Winter Time Flake-50g": {
+    "blend": "Winter Time Flake",
+    "brand": "Samuel Gawith",
+    "confidence": 0.5,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Savinelli 140th Anniversary 100g (2019) - Out of Production": {
+    "blend": "140th Anniversary",
+    "brand": "Savinelli",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Seattle Pipe Club Mississippi River Special Reserve From 2016": {
+    "blend": "SPC Mississippi River Special Reserve",
+    "brand": "Sutliff",
+    "confidence": 0.7,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Seattle Pipe Club Special Reserve First Release 2016 | Plum Pudding and Mississippi River | La Clave Collection": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Smoker’s Pride 1-Classic Blend, 1-Rum Cured": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Solani Blend 127-50g": {
+    "blend": "Blend 127",
+    "brand": "Solani",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Stanwell 3-Melange": {
+    "blend": "Melange",
+    "brand": "Stanwell",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Sutliff 512 Balkan II - 1 Bag NR BIN $100": {
+    "blend": "512 Balkan II",
+    "brand": "Sutliff",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Sutliff MATCH VICTORIAN 2024 - ONE POUND": {
+    "blend": "Match Victorian",
+    "brand": "Sutliff",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Sutliff Match Evening - 1 Bag NR BIN $100": {
+    "blend": "Match Evening",
+    "brand": "Sutliff",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Sutliff Tobacco Company. Private Stock Selection (2) circa.2009": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Tobacco Tin Sutliff Crumble Kake 2020 2 Oz. Sealed Pipe Tobacco Tin by Sutliff": {
+    "blend": "Crumble Kake",
+    "brand": "Sutliff",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Torben Dansk Black Velvet Gentle Dream (sampled)": {
+    "blend": "Torben Dansk Black Velvet",
+    "brand": "Dan Tobacco",
+    "confidence": 0.75,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Toscano Maestro Puccini 2oz Pipe Tobacco 2 oz sealed tin 2024": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "VINTAGE and RARE Barneys Navy Cut Flake (compromised seal) 2oz - NR": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.2,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "VINTAGE and RARE Barneys The Ideal Tobacco (compromised seal) 2oz - NR": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.2,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "VINTAGE and RARE COPE'S ESCUDO (x3) (compromised seal) 2oz - NR": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "VINTAGE and RARE Dunhill Three Year Virginia 50g (compromised seal) - NR": {
+    "blend": "Three Years Matured Virginia",
+    "brand": "Dunhill",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "VINTAGE and RARE Dunhill Ye Olde Signe (compromised seal) 50g - NR": {
+    "blend": "Ye Olde Signe",
+    "brand": "Dunhill",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "VINTAGE and RARE Sealed Dobies Four Square Mixture 2oz - NR.": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.2,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "VINTAGE and RARE Sealed Douwe Egberts House Blend 2oz - NR": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.2,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "VINTAGE and RARE Sealed Dunhill Three Year Virginia 100g - NR": {
+    "blend": "Three Years Matured Virginia",
+    "brand": "Dunhill",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Very Nice Ravenwood Cross of Coronado 50g. Tin": {
+    "blend": "Cross of Coronado",
+    "brand": "Ravenwood",
+    "confidence": 0.7,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Very Nice Sealed 2011 Hearth & Home Magnum Opus Marquee Series 50g. Tin": {
+    "blend": "Magnum Opus",
+    "brand": "Hearth & Home",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Very Nice Sealed 2017 McClelland's Frog Morton on the Bayou 100g. Tin": {
+    "blend": "Frog Morton On the Bayou",
+    "brand": "McClelland",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Very Nice Sealed 2020 Solani Aged burley Flake 50g. Tin": {
+    "blend": "Aged Burley Flake",
+    "brand": "Solani",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Very Nice Sealed 2021 Cornell & Diehl Small Batch Sun Bear 2oz. Tin": {
+    "blend": "Sun Bear",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Very Nice Sealed Seattle Pipe Club Mississippi River 4oz. Tin": {
+    "blend": "SPC Mississippi River",
+    "brand": "Sutliff",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Vintage - 2019 - Dunhill Ready Rubbed": {
+    "blend": "Ready Rubbed",
+    "brand": "Dunhill",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Vintage 1990s Camel Lights Season's Greetings Promotional Pack - Factory Sealed with Original Box": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Vintage 2019 - Gawith Hoggarth Bob's Chocolate Flake vacuum sealed": {
+    "blend": "Bob's Chocolate Flake",
+    "brand": "Gawith, Hoggarth & Co.",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Vintage Brindley’s Mixture Pipe Tobacco 14 oz": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.2,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Vintage Samuel Gawith Brown Sugar Flake (No Longer Produced)": {
+    "blend": "Brown Sugar Flake",
+    "brand": "Samuel Gawith",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Vintage ~2006~  Mc Cellands ST JAMES FLAKE Exquisite Tobacco!!": {
+    "blend": "St. James Flake",
+    "brand": "McClelland",
+    "confidence": 0.55,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Viprati VA/PER 2022": {
+    "blend": "Viprati",
+    "brand": "Hearth & Home",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "WESSEX Triple Set - BIN - NR": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Wessex Burley Slice - 50g": {
+    "blend": "Burley Slice",
+    "brand": "Wessex",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "X2 tins of Cornell midnight orchard BiN option": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.9,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Ashton Brindle Flake 50g tin – Year 2003 & Made by McClelland’s": {
+    "blend": "Brindle Flake",
+    "brand": "Ashton",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Bell’s Three Nuns 50g tin – Year 2005 Approximately": {
+    "blend": "Three Nuns",
+    "brand": "Bell's",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Bell’s Three Nuns 50g tin – Year 2014": {
+    "blend": "Three Nuns",
+    "brand": "Bell's",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Brigham’s Legend Series Klondike Gold 50g tins – Year 2013 – Blended by R.L.Will in Germany": {
+    "blend": "Klondike Gold",
+    "brand": "Brigham",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Dunhill Baby’s Bottom 50g tins – Year 2015 – First Year Revival": {
+    "blend": "Baby's Bottom",
+    "brand": "Dunhill",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Dunhill Murray’s era London Mixture 50g tina – Years 2001 &  2005": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.85,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Dunhill Murray’s era My Mixture 965 in 50g tins – Year 2002": {
+    "blend": "My Mixture No. 965",
+    "brand": "Dunhill",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Dunhill Murray’s era Nightcap 50g tin – Year 2005": {
+    "blend": "Nightcap",
+    "brand": "Dunhill",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Dunhill Navy Rolls 50g tin – Year 2017": {
+    "blend": "De Luxe Navy Rolls",
+    "brand": "Dunhill",
+    "confidence": 0.7,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Erinmore Flake 50g tins – Year 2016": {
+    "blend": "Flake",
+    "brand": "Erinmore",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Escudo Navy De Luxe 50g tins – Year 2016": {
+    "blend": "Escudo Navy De Luxe",
+    "brand": "STG",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Fribourg & Treyer BlackJack Red Virginia 50g tin – Year 2004": {
+    "blend": "Blackjack",
+    "brand": "Fribourg & Treyer",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Fribourg & Treyer Cut Blended Plug 50g tins – Years 2014, 2015 & 2016": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.85,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "G.L Pease Limited Edition Stonehenge Flake 2oz tins – Year 2017": {
+    "blend": "Stonehenge Flake",
+    "brand": "G.L. Pease",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "G.L. Pease NASPC Show Limited Edition Area 51 Abduction Blend 2oz tin – Year 2010": {
+    "blend": "Abduction",
+    "brand": "G.L. Pease",
+    "confidence": 0.55,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "G.L. Pease NASPC Show Limited Edition Childhood’s End 2oz tin – Year 2012": {
+    "blend": "Childhood's End",
+    "brand": "G.L. Pease",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "G.L. Pease NASPC Show Limited Edition Varoom! 2oz tins – Year 2015": {
+    "blend": "Varoom",
+    "brand": "G.L. Pease",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "G.L. Pease NASPC Show Limited Invasion 2oz tins – Year 2016": {
+    "blend": "Invasion",
+    "brand": "G.L. Pease",
+    "confidence": 0.55,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Gallaher’s Rich Dark Honeydew 50g tin – 1970’s era": {
+    "blend": "Rich Dark Honeydew",
+    "brand": "Gallaher's",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Gawith Hoggarth Best Brown #2 in 50g tins – Year 2011": {
+    "blend": "Best Brown #2",
+    "brand": "Gawith, Hoggarth & Co.",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Gawith Hoggarth Vacuum Sealed Bob’s Square 500g bag – Year 2015": {
+    "blend": "Bob's Square",
+    "brand": "Gawith, Hoggarth & Co.",
+    "confidence": 0.5,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Gawith Hoggarth Vacuum Sealed Brown Flake 500g boxes – Year 2014": {
+    "blend": "Brown Flake Unscented",
+    "brand": "Gawith, Hoggarth & Co.",
+    "confidence": 0.5,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Germain’s Balkan Sobranie 50g tin – Year 2012 – Second Year Production": {
+    "blend": "Balkan Sobranie",
+    "brand": "J.F. Germain",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Germain’s Balkan Sobranie 50g tin – Year 2015": {
+    "blend": "Balkan Sobranie",
+    "brand": "J.F. Germain",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Germain’s Brown Flake 50g tins – Year 2016": {
+    "blend": "Brown Flake",
+    "brand": "J.F. Germain",
+    "confidence": 0.55,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Germain’s Eighteen Twenty Smoking Mixture 50g tin – Year 2010": {
+    "blend": "Eighteen Twenty",
+    "brand": "J.F. Germain",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Germain’s Esoterica Pembroke 2oz tin – Year 2007": {
+    "blend": "Pembroke",
+    "brand": "Esoterica",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Germain’s Medium Flake 50g tin – Year 2020": {
+    "blend": "Medium Flake",
+    "brand": "J.F. Germain",
+    "confidence": 0.55,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Germain’s Royal Jersey Cavendish & Virginia 50g tins – Yeara 2014 & 2016": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.85,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Germain’s Royal Jersey Perique Mixture 50g tins – Year 2016": {
+    "blend": "Royal Jersey Perique Mixture",
+    "brand": "J.F. Germain",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Germain’s Royal Jersey Perique Mixture 50g tins – Year 2017": {
+    "blend": "Royal Jersey Perique Mixture",
+    "brand": "J.F. Germain",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Graf Luckner Mixture Featuring Syrian Latakia and Virginia – 1980’s era (One Tin Per Customer)": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.2,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "James J. Fox Original Dorisco Mixture 50g tin – Year 2006": {
+    "blend": "Dorisco Mixture",
+    "brand": "James J. Fox",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Lane Limited’s Original Crown Achievement 2oz tins – 1990’s era": {
+    "blend": "Crown Achievement",
+    "brand": "Lane Limited",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Mac Baren HH Vintage Syr. Latakia 3-1/2oz tin – Year 2012": {
+    "blend": "HH Vintage Syrian",
+    "brand": "Mac Baren",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Mac Baren’s HH Burley Flake 50g tin – Year 2022": {
+    "blend": "HH Burley Flake",
+    "brand": "Mac Baren",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland’s 3 Oaks 50g tin – Year 2009": {
+    "blend": "3 Oaks Syrian",
+    "brand": "McClelland",
+    "confidence": 0.55,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland’s 40th Anniversary 100g tins – Year 2017": {
+    "blend": "40th Anniversary",
+    "brand": "McClelland",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland’s Ashton Revival Series Old Dog 50g tin – Year 2010": {
+    "blend": "Old Dog",
+    "brand": "Ashton",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland’s Aurora Mature Virginia Ready-Rubbed 50g tin – Year 2010": {
+    "blend": "Aurora",
+    "brand": "McClelland",
+    "confidence": 0.5,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland’s Balkan Beauty 50g tin -Year 2017": {
+    "blend": "Balkan Beauty",
+    "brand": "McClelland",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland’s Beacon 50g tin – Year 2010": {
+    "blend": "Beacon Extra",
+    "brand": "McClelland",
+    "confidence": 0.55,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland’s Boston 1776 in 50g tins – Year 2013": {
+    "blend": "Boston 1776",
+    "brand": "McClelland",
+    "confidence": 0.5,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland’s Frog Morton Across the Pond – Year 2005": {
+    "blend": "Frog Morton Across the Pond",
+    "brand": "McClelland",
+    "confidence": 0.55,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland’s Frog Morton Cellar 50g tin – Year 2017": {
+    "blend": "Frog Morton's Cellar",
+    "brand": "McClelland",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland’s Frog Morton On the Town 50g tin – Year 2017": {
+    "blend": "Frog Morton on the Town",
+    "brand": "McClelland",
+    "confidence": 0.9,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland’s Grand Oriental Series Classic Samsun 50g tins – Years 2016 & 2017": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.85,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "McClelland’s Grand Oriental Series Drama Reserve 50g tin – Year 2012": {
+    "blend": "Grand Orientals Drama Reserve",
+    "brand": "McClelland",
+    "confidence": 0.55,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland’s Personal Reserve Series Blackwoods Flake 100g tin – Year 2016": {
+    "blend": "Blackwoods Flake",
+    "brand": "McClelland",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland’s Personal Reserve Series Blackwoods Flake 100g tins – Years 2013 & 2014": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.85,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "McClelland’s Personal Reserve Series St. James Woods 50g tins – Year 2015": {
+    "blend": "St. James Woods",
+    "brand": "McClelland",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland’s Red & Black 50g tins – First Year 2015 Production": {
+    "blend": "Red & Black",
+    "brand": "McClelland",
+    "confidence": 0.7,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland’s Syr. Latakia Orient 996 in 50g tins – Year 2007": {
+    "blend": "Syrian Latakia Oriental No. 996",
+    "brand": "McClelland",
+    "confidence": 0.5,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "McClelland’s Tudor Castle 50g tins – Years 2007 & 2012": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.85,
+    "is_tin": false,
+    "source": "llm"
+  },
+  "Pipes&Cigars Russ Ouellette’s Limited Edition Perique Blend B-41 in 50g tins – Year 2015": {
+    "blend": "B-41",
+    "brand": "Russ Ouellette",
+    "confidence": 0.55,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Pipes&Cigars Russ Ouellette’s Limited Edition Perique Blend GP-11 in 50g tins – Year 2015": {
+    "blend": "GP-11",
+    "brand": "Russ Ouellette",
+    "confidence": 0.55,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Rattray’s 3 Noggins 100g tin – Year 2011": {
+    "blend": "3 Noggins",
+    "brand": "Rattray's",
+    "confidence": 0.7,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Rattray’s Old Gowrie 100g tin – Year 2011": {
+    "blend": "Old Gowrie",
+    "brand": "Rattray's",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Robert McConnell’s Original Black & Gold Scottish Blend 50g tins – Late 1990’s or Early 2000’s": {
+    "blend": "Black & Gold",
+    "brand": "Robert McConnell",
+    "confidence": 0.65,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Samuel Gawith Best Brown Flake 50g tin – Year 2011": {
+    "blend": "Best Brown Flake",
+    "brand": "Samuel Gawith",
+    "confidence": 0.85,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Savinelli Brunello Flake 100g tins – Year 2014 & Made by Mac Baren": {
+    "blend": "Brunello Flake",
+    "brand": "Savinelli",
+    "confidence": 0.8,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Seattle Pipe Club Plum Pudding 8oz tin – Year 2009": {
+    "blend": "SPC Plum Pudding",
+    "brand": "Cornell & Diehl",
+    "confidence": 0.7,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Solani Aged Burley Flake 50g tins – Year 2017": {
+    "blend": "Aged Burley Flake",
+    "brand": "Solani",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Standard Tobacco Co. Bengal Slices 50g tins – Year 2018": {
+    "blend": "Bengal Slices",
+    "brand": "Sutliff",
+    "confidence": 0.7,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Standard Tobacco Co. War Horse Bar 50g tins – Year 2015": {
+    "blend": "War Horse Bar",
+    "brand": "Sutliff",
+    "confidence": 0.7,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Standard Tobacco Co. War Horse Green 50g tins – Year 2015": {
+    "blend": "War Horse Green",
+    "brand": "Sutliff",
+    "confidence": 0.75,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Stokkebye era Butera Pelican 2oz tin – Year 2004": {
+    "blend": "Pelican",
+    "brand": "Butera",
+    "confidence": 0.7,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Theodorus Niemeyer Flying Dutchman 1-3/4oz tin – 1960’s – 1970’s era": {
+    "blend": "",
+    "brand": "",
+    "confidence": 0.2,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Wessex Curley Cut Virginia & Perique 50g tin – Year 2011": {
+    "blend": "Curly Cut Virginia & Perique",
+    "brand": "Wessex",
+    "confidence": 0.6,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Wessex Dark Flake 50g tins – Year 2011": {
+    "blend": "Dark Flake",
+    "brand": "Wessex",
+    "confidence": 0.7,
+    "is_tin": true,
+    "source": "llm"
+  },
+  "Wessex Golden Virginia Flake 50g tins – Year 2013": {
+    "blend": "Golden Virginia Flake",
+    "brand": "Wessex",
+    "confidence": 0.65,
     "is_tin": true,
     "source": "llm"
   }
