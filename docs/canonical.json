@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-05T20:16:19.517122+00:00",
+  "generated": "2026-08-06T04:08:48.160160+00:00",
   "stats": {
-    "total_listings": 5369,
-    "excluded_multipacks": 1820,
+    "total_listings": 5401,
+    "excluded_multipacks": 1823,
     "total_tins": 1223,
     "multi_member_tins": 585,
     "listings_in_groups": 2840,
@@ -2789,15 +2789,19 @@
             {
               "name": "New Limited Edition Benedictine Abbey by Briarshire",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/191692/",
-              "price": "$29.99",
-              "last_updated": "2026-07-05T04:00:46.011214+00:00",
+              "url": "https://tinbids.com/auction/203446/",
+              "price": "$30.00",
+              "last_updated": "2026-08-06T04:00:29.373625+00:00",
               "first_seen": "2026-07-04T17:22:36+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$29.99",
                   "date": "2026-07-04T17:22:36+00:00"
+                },
+                {
+                  "price": "$30.00",
+                  "date": "2026-08-06T04:00:29.373625+00:00"
                 }
               ]
             }
@@ -2825,7 +2829,7 @@
             {
               "name": "New Limited Edition Ye Thames Mixture by Briarshire",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/202018/",
+              "url": "https://tinbids.com/auction/203443/",
               "price": "$30.00",
               "last_updated": "2026-07-25T16:00:27.566933+00:00",
               "first_seen": "2026-07-25T15:16:20+00:00",
@@ -52496,9 +52500,9 @@
             {
               "name": "Mac Baren’s 2024 HH Rustica 4oz",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/209340/",
-              "price": "$40.00",
-              "last_updated": "2026-07-26T04:01:29.863494+00:00",
+              "url": "https://tinbids.com/auction/213535/",
+              "price": "$45.00",
+              "last_updated": "2026-08-06T04:00:29.373625+00:00",
               "first_seen": "2026-07-24T07:03:47+00:00",
               "year": "2024",
               "price_history": [
@@ -52509,6 +52513,10 @@
                 {
                   "price": "$40.00",
                   "date": "2026-07-26T04:01:29.863494+00:00"
+                },
+                {
+                  "price": "$45.00",
+                  "date": "2026-08-06T04:00:29.373625+00:00"
                 }
               ]
             }
@@ -82077,15 +82085,19 @@
             {
               "name": "Samuel Gawith - St. James Flake 50 gr - 1 tin - Aged 10 Years",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/208017/",
-              "price": "$50.00",
-              "last_updated": "2026-07-26T04:01:29.863494+00:00",
+              "url": "https://tinbids.com/auction/212027/",
+              "price": "$61.00",
+              "last_updated": "2026-08-06T04:00:29.373625+00:00",
               "first_seen": "2026-07-25T17:20:32+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$50.00",
                   "date": "2026-07-25T17:20:32+00:00"
+                },
+                {
+                  "price": "$61.00",
+                  "date": "2026-08-06T04:00:29.373625+00:00"
                 }
               ]
             },
@@ -97140,6 +97152,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Mac Baren’s 2024 HH Rustica 4oz": "macbaren|hhrustica",
+    "Samuel Gawith - St. James Flake 50 gr - 1 tin - Aged 10 Years": "samuelgawith|stjamesflake",
+    "New Limited Edition Benedictine Abbey by Briarshire": "briarshire|benedictineabbey",
     "Fox Dorisco Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|doriscomixture",
     "2016 Frog Morton Across The Pond with Syrian Latakia by McClelland 10 Years of Age": "mcclelland|frogmortonacrossthepond",
     "ESCUDO NAVY DE LUXE": "stg|escudonavydeluxe",
@@ -97427,9 +97442,7 @@
     "2019 Benjamin Hartwell Private Reserve Signature Blend 1.5oz": "benjaminhartwell|signatureblend",
     "Older Reiner Light Aromatic 50g": "reiner|lightaromatic",
     "SYRIAN! 2018 Ashton Artisan's Blend 50g": "ashton|artisansblend",
-    "Mac Baren’s 2024 HH Rustica 4oz": "macbaren|hhrustica",
     "C&D Small Batch Sansepolcro - Aged 6 Years - 1 (one) tin": "cornelldiehl|smallbatchsansepolcro",
-    "Samuel Gawith - St. James Flake 50 gr - 1 tin - Aged 10 Years": "samuelgawith|stjamesflake",
     "Esoterica Penzance 2 oz. Sealed": "esoterica|penzance",
     "Frog Morton 100g tin (sealed) old": "mcclelland|frogmorton",
     "Fribourg & Treyer-Blackjack": "fribourgtreyer|blackjack",
@@ -98092,7 +98105,6 @@
     "2017 Mac Baren HH Old Dark Fired 1.75 ounce - 1 Tin NR BIN $80": "macbaren|hholddarkfired",
     "2024 - Solani Aged Burley Flake - 50g": "solani|agedburleyflake656",
     "2014 McClelland’s Frog Morton - 1 Tin NR BIN $225": "mcclelland|frogmorton",
-    "New Limited Edition Benedictine Abbey by Briarshire": "briarshire|benedictineabbey",
     "2020 SUTLIFF CRUMBLE KAKE VA PERIQUE": "sutliff|crumblekakevirginiaperique",
     "Esoterica — Dorchester — 8oz": "esoterica|dorchester",
     "Esoterica — St. Ives — 8oz": "esoterica|stives",
