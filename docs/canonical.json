@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-06T19:16:23.067983+00:00",
+  "generated": "2026-08-07T04:10:04.079583+00:00",
   "stats": {
-    "total_listings": 5403,
-    "excluded_multipacks": 1823,
+    "total_listings": 5447,
+    "excluded_multipacks": 1831,
     "total_tins": 1223,
     "multi_member_tins": 585,
     "listings_in_groups": 2840,
@@ -4887,15 +4887,19 @@
             {
               "name": "Captain Black Premium Edition: Black Sea - Discontinued Rare Sealed 50g Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203123/",
-              "price": "$48.00",
-              "last_updated": "2026-07-13T04:00:49.675774+00:00",
+              "url": "https://tinbids.com/auction/212549/",
+              "price": "$50.00",
+              "last_updated": "2026-08-07T04:00:24.603236+00:00",
               "first_seen": "2026-07-13T02:24:44+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$48.00",
                   "date": "2026-07-13T02:24:44+00:00"
+                },
+                {
+                  "price": "$50.00",
+                  "date": "2026-08-07T04:00:24.603236+00:00"
                 }
               ]
             },
@@ -22730,15 +22734,19 @@
             {
               "name": "'22 ASTB 8 oz Bag",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/208669/",
-              "price": "$355.00",
-              "last_updated": "2026-07-28T04:00:32.783470+00:00",
+              "url": "https://tinbids.com/auction/213725/",
+              "price": "$350.00",
+              "last_updated": "2026-08-07T04:00:24.603236+00:00",
               "first_seen": "2026-07-27T23:11:26+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$355.00",
                   "date": "2026-07-27T23:11:26+00:00"
+                },
+                {
+                  "price": "$350.00",
+                  "date": "2026-08-07T04:00:24.603236+00:00"
                 }
               ]
             },
@@ -51751,6 +51759,25 @@
               ]
             },
             {
+              "name": "Mac Baren HH Old Dark Fired 3.5 ounce tin from 2024",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/212259/",
+              "price": "$80.00",
+              "last_updated": "2026-08-07T04:00:24.603236+00:00",
+              "first_seen": "2026-07-24T06:19:28+00:00",
+              "year": "2024",
+              "price_history": [
+                {
+                  "price": "$61.50",
+                  "date": "2026-07-24T06:19:28+00:00"
+                },
+                {
+                  "price": "$80.00",
+                  "date": "2026-08-07T04:00:24.603236+00:00"
+                }
+              ]
+            },
+            {
               "name": "Mac Baren Old Dark Fired 2024 3.5 oz tin",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/211010/",
@@ -51762,21 +51789,6 @@
                 {
                   "price": "$77.00",
                   "date": "2026-08-03T07:02:45+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Mac Baren HH Old Dark Fired 3.5 ounce tin from 2024",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/207519/",
-              "price": "$61.50",
-              "last_updated": "2026-07-24T16:00:25.373248+00:00",
-              "first_seen": "2026-07-24T06:19:28+00:00",
-              "year": "2024",
-              "price_history": [
-                {
-                  "price": "$61.50",
-                  "date": "2026-07-24T06:19:28+00:00"
                 }
               ]
             },
@@ -55216,9 +55228,9 @@
             {
               "name": "MacBaren Virginia No. 1 2017 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/209959/",
-              "price": "$31.00",
-              "last_updated": "2026-07-31T04:00:25.505928+00:00",
+              "url": "https://tinbids.com/auction/212519/",
+              "price": "$30.00",
+              "last_updated": "2026-08-07T04:00:24.603236+00:00",
               "first_seen": "2026-07-14T05:01:44+00:00",
               "year": "2017",
               "price_history": [
@@ -55229,6 +55241,10 @@
                 {
                   "price": "$31.00",
                   "date": "2026-07-31T04:00:25.505928+00:00"
+                },
+                {
+                  "price": "$30.00",
+                  "date": "2026-08-07T04:00:24.603236+00:00"
                 }
               ]
             }
@@ -97212,6 +97228,10 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "MacBaren Virginia No. 1 2017 NR": "macbaren|virginiano1",
+    "'22 ASTB 8 oz Bag": "esoterica|andsotobed",
+    "Mac Baren HH Old Dark Fired 3.5 ounce tin from 2024": "macbaren|hholddarkfired",
+    "Captain Black Premium Edition: Black Sea - Discontinued Rare Sealed 50g Tin": "captainblack|blacksea",
     "Mac Baren’s 2024 HH Rustica 4oz": "macbaren|hhrustica",
     "Samuel Gawith - St. James Flake 50 gr - 1 tin - Aged 10 Years": "samuelgawith|stjamesflake",
     "New Limited Edition Benedictine Abbey by Briarshire": "briarshire|benedictineabbey",
@@ -97343,7 +97363,6 @@
     "Anniversary Kake cellared in 2010 beyond wicked good blend": "macbaren|hhanniversarykake",
     "Rattray’s Marlin Flake 2018 NR": "rattrays|marlinflake",
     "MacBaren Stockton Spun Cut Limited Edition 2020 NR": "macbaren|stocktonspuncut",
-    "MacBaren Virginia No. 1 2017 NR": "macbaren|virginiano1",
     "MacBaren HH Pure Virginia 2016 NR": "macbaren|hhpurevirginia",
     "50g of Ravenwood Bristlecone small batch": "ravenwood|bristlecone",
     "2017 Dunhill Flake- 50g": "dunhill|flake",
@@ -97448,7 +97467,6 @@
     "Viprati VA/PER 2022": "hearthhome|viprati",
     "Wessex Burley Slice - 50g": "wessex|burleyslice",
     "Stanwell 3-Melange": "stanwell|melange",
-    "'22 ASTB 8 oz Bag": "esoterica|andsotobed",
     "Carter Hall  from 2010’s": "johnmiddleton|carterhall",
     "Esoterica Dorchester tin 2020": "esoterica|dorchester",
     "Peter Heinrich’s Golden Sliced 100g": "peterheinrichs|goldensliced",
@@ -97535,7 +97553,6 @@
     "Balkan Sobranie Original Smoking Mixture 2 ounce tin from 2023": "jfgermain|balkansobranie",
     "Mac Baren’s Stockton 3.5 ounce tin from 2023": "macbaren|stockton",
     "Mac Baren’s Royal Twist Deluxe 3.5 ounce from 2021": "macbaren|royaltwist",
-    "Mac Baren HH Old Dark Fired 3.5 ounce tin from 2024": "macbaren|hholddarkfired",
     "Esoterica Dorchester 2 ounce tin from 2023": "esoterica|dorchester",
     "Esoterica Dunbar 2 ounce tin from 2023": "esoterica|dunbar",
     "Esoterica Dorchester - 1 Tin NR BIN $100": "esoterica|dorchester",
@@ -97923,7 +97940,6 @@
     "Samuel Gawith Full Virginia Flake - 250g Vintage Box (2018)": "samuelgawith|fullvirginiaflake",
     "Samuel Gawith St. James Flake - 250g Vintage Box (2019)": "samuelgawith|stjamesflake",
     "Vintage PAUL OLSEN A'S - MY OWN BLEND - STANDARD 222 ORIGINAL Pipe Tobacco (1980s?) 100g - Sealed Tin": "paulolsen|no222",
-    "Captain Black Premium Edition: Black Sea - Discontinued Rare Sealed 50g Tin": "captainblack|blacksea",
     "2011 - McClelland - Grey Havens 50g": "mcclelland|greyhavens",
     "Captain Black: Grape - Discontinued Rare Sealed Vintage 12oz Tub": "captainblack|grape",
     "2012 – McClellan – Frog Morton on the town 50g": "mcclelland|frogmortononthetown",
