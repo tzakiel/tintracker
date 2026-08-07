@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-07T15:14:25.852124+00:00",
+  "generated": "2026-08-07T16:07:10.922737+00:00",
   "stats": {
-    "total_listings": 5447,
-    "excluded_multipacks": 1831,
+    "total_listings": 5456,
+    "excluded_multipacks": 1834,
     "total_tins": 1223,
     "multi_member_tins": 585,
     "listings_in_groups": 2840,
@@ -4384,15 +4384,19 @@
             {
               "name": "2012 Germain's Production Butera Pelican",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/206713/",
-              "price": "$169.00",
-              "last_updated": "2026-07-22T04:00:23.846594+00:00",
+              "url": "https://tinbids.com/auction/212673/",
+              "price": "$167.00",
+              "last_updated": "2026-08-07T16:00:33.506896+00:00",
               "first_seen": "2026-07-21T21:25:08+00:00",
               "year": "2012",
               "price_history": [
                 {
                   "price": "$169.00",
                   "date": "2026-07-21T21:25:08+00:00"
+                },
+                {
+                  "price": "$167.00",
+                  "date": "2026-08-07T16:00:33.506896+00:00"
                 }
               ]
             }
@@ -28566,6 +28570,33 @@
           "quantity": "",
           "members": [
             {
+              "name": "GL Pease 25th Anniversary Silver Jubilee",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/214241/",
+              "price": "$36.00",
+              "last_updated": "2026-08-07T16:00:33.506896+00:00",
+              "first_seen": "2026-07-04T19:07:00+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$45.00",
+                  "date": "2026-07-04T19:07:00+00:00"
+                },
+                {
+                  "price": "$39.00",
+                  "date": "2026-07-08T04:00:53.107133+00:00"
+                },
+                {
+                  "price": "$40.00",
+                  "date": "2026-07-12T04:00:50.529539+00:00"
+                },
+                {
+                  "price": "$36.00",
+                  "date": "2026-08-07T16:00:33.506896+00:00"
+                }
+              ]
+            },
+            {
               "name": "G.L. Pease 25th Anniversary Silver Jubilee",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/209199/",
@@ -28581,29 +28612,6 @@
                 {
                   "price": "$33.00",
                   "date": "2026-07-27T04:00:25.986860+00:00"
-                }
-              ]
-            },
-            {
-              "name": "GL Pease 25th Anniversary Silver Jubilee",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/204406/",
-              "price": "$40.00",
-              "last_updated": "2026-07-12T04:00:50.529539+00:00",
-              "first_seen": "2026-07-04T19:07:00+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$45.00",
-                  "date": "2026-07-04T19:07:00+00:00"
-                },
-                {
-                  "price": "$39.00",
-                  "date": "2026-07-08T04:00:53.107133+00:00"
-                },
-                {
-                  "price": "$40.00",
-                  "date": "2026-07-12T04:00:50.529539+00:00"
                 }
               ]
             },
@@ -97268,6 +97276,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "2012 Germain's Production Butera Pelican": "butera|pelican",
+    "GL Pease 25th Anniversary Silver Jubilee": "glpease|25thanniversary",
     "MacBaren Virginia No. 1 2017 NR": "macbaren|virginiano1",
     "'22 ASTB 8 oz Bag": "esoterica|andsotobed",
     "Mac Baren HH Old Dark Fired 3.5 ounce tin from 2024": "macbaren|hholddarkfired",
@@ -97651,7 +97661,6 @@
     "2018 GAWITH HOGGARTH BALKAN MIXTURE": "gawithhoggarthco|balkanmixture",
     "2005 Butera Pelican - Rare Danish Production": "butera|pelican",
     "2024 HU TOBACCO LOUISIANA BROKEN": "hutobacco|louisianabroken",
-    "2012 Germain's Production Butera Pelican": "butera|pelican",
     "2017 McClelland Christmas Cheer 100 Gram Tin": "mcclelland|christmascheer",
     "2018 Esoterica Margate 8oz Bag (1 DAY AUCTION)": "esoterica|margate",
     "2017 McClelland Beacon - 50 grams": "mcclelland|beacon",
@@ -97991,7 +98000,6 @@
     "(2025) Cornell & Diehl - Sun Bear Navy Cask (Small Batch)": "cornelldiehl|sunbearnavycask",
     "(2020) Cornell & Diehl - Sun Bear Original (Small Batch)": "cornelldiehl|sunbearoriginal",
     "2018 Mac Baren HH Pure Virginia - 1 Tin NR BIN $80": "macbaren|hhpurevirginia",
-    "GL Pease 25th Anniversary Silver Jubilee": "glpease|25thanniversary",
     "Samuel Gawith - Full Virginia Mixture": "samuelgawith|fullvirginiamixture",
     "Collectible Tobacco Sealed Tin Cornell & Diehl Fires on the Levee Mixture 2 oz’s from 2025": "cornelldiehl|firesonthelevee",
     "Collectible Tobacco Sealed Tin Cornell & Diehl Firebird Flake 2 oz’s from 2024": "cornelldiehl|firebirdflake",
