@@ -13,7 +13,7 @@
           "date": "2026-08-05T17:36:36+00:00"
         }
       ],
-      "tag": "WTS"
+      "tag": "SOLD"
     },
     {
       "name": "Update: Both remaining pipes for",
@@ -50822,7 +50822,7 @@
       "tag": "WTS"
     }
   ],
-  "last_scraped": "2026-08-07T06:38:18.578317+00:00",
+  "last_scraped": "2026-08-08T06:38:16.675793+00:00",
   "latest_scrape": [
     {
       "name": "What you see is what you get.  Over 5 ounces of jarred ESO, over 5 of SG, 7.7 ounces of Yana, and a tin of aged Navy Flake and Grousemoor.  Looking for",
@@ -50837,7 +50837,7 @@
           "date": "2026-08-05T17:36:36+00:00"
         }
       ],
-      "tag": "WTS"
+      "tag": "SOLD"
     },
     {
       "name": "Savinelli Bing's Favorite. It's dark. Had to use flash to show grain. Smoked twice. Stem guard used",
@@ -51450,6 +51450,13 @@
     },
     {
       "date": "2026-08-07T06:38:18.578317+00:00",
+      "found": 20,
+      "added": 0,
+      "price_changed": 0,
+      "total": 2576
+    },
+    {
+      "date": "2026-08-08T06:38:16.675793+00:00",
       "found": 20,
       "added": 0,
       "price_changed": 0,
@@ -52314,6 +52321,6 @@
     "https://speak-easy.club/threads/virginias-and-kbv.44981/unread": "WTS",
     "https://speak-easy.club/threads/selling-pipes-to-fund-another-pipe-ouroboros-sale.44988/unread": "WTS",
     "https://speak-easy.club/threads/neal-monier-lumberman.44984/unread": "SOLD",
-    "https://speak-easy.club/threads/some-jarred-eso-and-sg-a-few-tins-of-sg-and-the-yana.44990/unread": "WTS"
+    "https://speak-easy.club/threads/some-jarred-eso-and-sg-a-few-tins-of-sg-and-the-yana.44990/unread": "SOLD"
   }
 }
