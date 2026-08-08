@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-07T19:16:25.776367+00:00",
+  "generated": "2026-08-08T04:06:41.499828+00:00",
   "stats": {
-    "total_listings": 5456,
-    "excluded_multipacks": 1834,
+    "total_listings": 5481,
+    "excluded_multipacks": 1836,
     "total_tins": 1223,
     "multi_member_tins": 585,
     "listings_in_groups": 2840,
@@ -533,15 +533,19 @@
             {
               "name": "Ashton Artisan’s Blend Tobacco Sealed Tin Century 2012 50g Syrian Latakia Pipe Tobacco",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/208964/",
-              "price": "$56.00",
-              "last_updated": "2026-07-28T16:00:25.898435+00:00",
+              "url": "https://tinbids.com/auction/212800/",
+              "price": "$53.00",
+              "last_updated": "2026-08-08T04:00:33.300220+00:00",
               "first_seen": "2026-07-28T15:24:23+00:00",
               "year": "2012",
               "price_history": [
                 {
                   "price": "$56.00",
                   "date": "2026-07-28T15:24:23+00:00"
+                },
+                {
+                  "price": "$53.00",
+                  "date": "2026-08-08T04:00:33.300220+00:00"
                 }
               ]
             },
@@ -3978,9 +3982,9 @@
             {
               "name": "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/210493/",
-              "price": "$200.00",
-              "last_updated": "2026-08-02T04:00:31.671279+00:00",
+              "url": "https://tinbids.com/auction/212843/",
+              "price": "$203.00",
+              "last_updated": "2026-08-08T04:00:33.300220+00:00",
               "first_seen": "2026-07-03T19:47:51+00:00",
               "year": "1996",
               "price_history": [
@@ -4003,6 +4007,14 @@
                 {
                   "price": "$200.00",
                   "date": "2026-08-02T04:00:31.671279+00:00"
+                },
+                {
+                  "price": "$203.99",
+                  "date": "2026-08-08T04:00:33.300220+00:00"
+                },
+                {
+                  "price": "$203.00",
+                  "date": "2026-08-08T04:00:33.300220+00:00"
                 }
               ]
             },
@@ -38382,15 +38394,19 @@
             {
               "name": "c. 1970s GBD Black Cavendish Mixture 50g Full Unopened English Pipe Tobacco Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/200075/",
-              "price": "$72.00",
-              "last_updated": "2026-07-05T04:00:46.011214+00:00",
+              "url": "https://tinbids.com/auction/212862/",
+              "price": "$52.00",
+              "last_updated": "2026-08-08T04:00:33.300220+00:00",
               "first_seen": "2026-07-05T00:58:22+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$72.00",
                   "date": "2026-07-05T00:58:22+00:00"
+                },
+                {
+                  "price": "$52.00",
+                  "date": "2026-08-08T04:00:33.300220+00:00"
                 }
               ]
             }
@@ -43996,15 +44012,19 @@
             {
               "name": "Fox Bankers Smoking English Mixture Sealed 50g Pipe Tobacco Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/208993/",
-              "price": "$9.99",
-              "last_updated": "2026-07-28T16:00:25.898435+00:00",
+              "url": "https://tinbids.com/auction/212849/",
+              "price": "$11.24",
+              "last_updated": "2026-08-08T04:00:33.300220+00:00",
               "first_seen": "2026-07-28T15:37:25+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$9.99",
                   "date": "2026-07-28T15:37:25+00:00"
+                },
+                {
+                  "price": "$11.24",
+                  "date": "2026-08-08T04:00:33.300220+00:00"
                 }
               ]
             }
@@ -52636,7 +52656,7 @@
             {
               "name": "Mac Baren’s 2024 HH Rustica 4oz",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/213535/",
+              "url": "https://tinbids.com/auction/214430/",
               "price": "$45.00",
               "last_updated": "2026-08-06T04:00:29.373625+00:00",
               "first_seen": "2026-07-24T07:03:47+00:00",
@@ -56227,7 +56247,7 @@
             {
               "name": "2017 McClelland 40th Anniversary 100g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/209835/",
+              "url": "https://tinbids.com/auction/212798/",
               "price": "$220.00",
               "last_updated": "2026-07-27T04:00:25.986860+00:00",
               "first_seen": "2026-07-26T23:52:59+00:00",
@@ -97292,6 +97312,10 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996": "butera|pelican",
+    "Ashton Artisan’s Blend Tobacco Sealed Tin Century 2012 50g Syrian Latakia Pipe Tobacco": "ashton|artisansblend",
+    "Fox Bankers Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|bankers",
+    "c. 1970s GBD Black Cavendish Mixture 50g Full Unopened English Pipe Tobacco Tin": "gbd|blackcavendishmixture",
     "2012 Germain's Production Butera Pelican": "butera|pelican",
     "GL Pease 25th Anniversary Silver Jubilee": "glpease|25thanniversary",
     "MacBaren Virginia No. 1 2017 NR": "macbaren|virginiano1",
@@ -97373,7 +97397,6 @@
     "Dunhill My Mixture #1167": "dunhill|mymixture1167",
     "Ashton Artisan’s Blend Tobacco Sealed Tin Century 2009 50g Syrian Latakia Pipe Tobacco": "ashton|artisansblend",
     "Esoterica Pembroke": "esoterica|pembroke",
-    "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996": "butera|pelican",
     "2010 McClelland 3 Oaks Syrian Latakia English Blend NR BIN$150": "mcclelland|3oakssyrian",
     "SUN BEAR 2019 - ORIGINAL RELEASE - Cornell and Diehl": "cornelldiehl|sunbear",
     "225g bag of Ravenwood small batch, Bisons Burley": "ravenwood|bisonburley",
@@ -97517,11 +97540,9 @@
     "C&D 2023 CRF with Perique": "cornelldiehl|carolinaredflakewithperique",
     "1 pound S&G Full Virginia Flake": "samuelgawith|fullvirginiaflake",
     "Hearth & Home 2021 Black House Anniversary Tin": "hearthhome|blackhouse10thanniversary",
-    "Ashton Artisan’s Blend Tobacco Sealed Tin Century 2012 50g Syrian Latakia Pipe Tobacco": "ashton|artisansblend",
     "2015-2020 Astley's No. 55 Elizabethan- 50g": "astleys|no55elizabethan",
     "2005 Erinmore Flake- 50g": "erinmore|flake",
     "Butera’s Royal Vintage Latakia No.1 Sealed 50g Pipe Tobacco Tin 1998": "butera|royalvintagelatakiano1",
-    "Fox Bankers Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|bankers",
     "2011 McClelland Sophisticate -50g": "pcca|sophisticate",
     "Davidoff Flake Medallions-50g": "davidoff|flakemedallions",
     "Collectible G.L. Pease Abington 8 oz’s Sealed Pipe Tobacco Tin 2022": "glpease|abingdon",
@@ -98254,7 +98275,6 @@
     "Vintage - Ashton Golden Flake  - 1994": "ashton|goldenflake",
     "Vintage - Dunhill Early 1st year Murray's Era - Three Year Matured 50g - 1980": "dunhill|threeyearsmaturedvirginia",
     "Vintage - Charatan's Original Mild Ready Rubbed made by Dunhill - 1978": "charatans|originalmildreadyrubbed",
-    "c. 1970s GBD Black Cavendish Mixture 50g Full Unopened English Pipe Tobacco Tin": "gbd|blackcavendishmixture",
     "Esoterica Dunbar - 01/2016- 4 oz- BIN $160": "esoterica|dunbar",
     "Orlik Golden Sliced 2024 (50g)": "orlik|goldensliced",
     "Early 2010's Balkan Sobranie - 1 Tin NR BIN $175": "jfgermain|balkansobranie",
