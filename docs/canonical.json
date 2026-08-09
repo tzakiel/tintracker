@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-09T15:14:18.296877+00:00",
+  "generated": "2026-08-09T16:05:28.346771+00:00",
   "stats": {
-    "total_listings": 5600,
-    "excluded_multipacks": 1848,
+    "total_listings": 5608,
+    "excluded_multipacks": 1850,
     "total_tins": 1223,
     "multi_member_tins": 585,
     "listings_in_groups": 2840,
@@ -42027,9 +42027,9 @@
             {
               "name": "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/204798/",
-              "price": "$154.00",
-              "last_updated": "2026-07-15T04:00:49.070316+00:00",
+              "url": "https://tinbids.com/auction/213953/",
+              "price": "$129.00",
+              "last_updated": "2026-08-09T16:00:24.760799+00:00",
               "first_seen": "2026-06-29T23:23:52+00:00",
               "year": "2005",
               "price_history": [
@@ -42040,6 +42040,10 @@
                 {
                   "price": "$154.00",
                   "date": "2026-07-15T04:00:49.070316+00:00"
+                },
+                {
+                  "price": "$129.00",
+                  "date": "2026-08-09T16:00:24.760799+00:00"
                 }
               ]
             },
@@ -62540,15 +62544,19 @@
             {
               "name": "Excellent Sealed 2015 McClelland Grand Orientals Drama Reserve 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/204767/",
-              "price": "$102.10",
-              "last_updated": "2026-07-15T04:00:49.070316+00:00",
+              "url": "https://tinbids.com/auction/213956/",
+              "price": "$77.00",
+              "last_updated": "2026-08-09T16:00:24.760799+00:00",
               "first_seen": "2026-07-14T19:14:29+00:00",
               "year": "2015",
               "price_history": [
                 {
                   "price": "$102.10",
                   "date": "2026-07-14T19:14:29+00:00"
+                },
+                {
+                  "price": "$77.00",
+                  "date": "2026-08-09T16:00:24.760799+00:00"
                 }
               ]
             },
@@ -97496,6 +97504,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
+    "Excellent Sealed 2015 McClelland Grand Orientals Drama Reserve 50g. Tin": "mcclelland|grandorientalsdramareserve",
     "Esoterica Stonehaven": "esoterica|stonehaven",
     "Mac Baren’s 2021 Royal Twist DeLuxe Roll Cake 3.5 oz": "macbaren|royaltwist",
     "Very Nice Sealed 2021 Cornell & Diehl Small Batch Sun Bear 2oz. Tin": "cornelldiehl|sunbear",
@@ -98129,14 +98139,12 @@
     "2014 Klondike Gold - 50g": "brigham|klondikegold",
     "Peter Heinrich’s Special Curly 100g": "peterheinrichs|specialcurlycut",
     "2009 GL Pease Maltese Falcon 8oz Tins": "glpease|maltesefalcon",
-    "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
     "Davidoff - English Mixture - 50g": "davidoff|englishmixture",
     "Vintage 2015 - Dunhill Baby's Bottom (Last time they spelled out the words)": "dunhill|babysbottom",
     "Ravenwood - Smaug's Breath - 50g": "ravenwood|smaugsbreath",
     "Ravenwood - The Idol - 50g": "ravenwood|theidol",
     "Excellent Sealed 2018 Smokers Haven Cognac 50g. Tin": "smokershaven|cognacblend",
     "Excellent Sealed 2019 Schurch Onyx 50g. Tin": "schrch|onyx128",
-    "Excellent Sealed 2015 McClelland Grand Orientals Drama Reserve 50g. Tin": "mcclelland|grandorientalsdramareserve",
     "Excellent Sealed 2023 Samuel Gawith Bosun Cut Plug 500g. Bag": "gawithhoggarthco|bosuncutplug",
     "Wessex Campaign Dark Flake 50g": "wessex|brigadecampaigndarkflake",
     "Esoterica Dorchester 2019 2oz": "esoterica|dorchester",
