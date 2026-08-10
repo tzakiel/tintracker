@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-09T19:16:18.282589+00:00",
+  "generated": "2026-08-10T04:07:18.099782+00:00",
   "stats": {
-    "total_listings": 5608,
-    "excluded_multipacks": 1850,
+    "total_listings": 5638,
+    "excluded_multipacks": 1858,
     "total_tins": 1223,
     "multi_member_tins": 585,
-    "listings_in_groups": 2840,
+    "listings_in_groups": 2841,
     "cross_source_tins": 444
   },
   "tins": [
@@ -14189,15 +14189,19 @@
             {
               "name": "Cornell & Diehl Small Batch The Beast from 2021",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/208468/",
-              "price": "$70.00",
-              "last_updated": "2026-07-27T04:00:25.986860+00:00",
+              "url": "https://tinbids.com/auction/212490/",
+              "price": "$55.00",
+              "last_updated": "2026-08-10T04:00:26.623315+00:00",
               "first_seen": "2026-07-27T02:29:57+00:00",
               "year": "2021",
               "price_history": [
                 {
                   "price": "$70.00",
                   "date": "2026-07-27T02:29:57+00:00"
+                },
+                {
+                  "price": "$55.00",
+                  "date": "2026-08-10T04:00:26.623315+00:00"
                 }
               ]
             },
@@ -26796,9 +26800,9 @@
             {
               "name": "Esoterica Stonehaven 2017 | 8oz Bag | La Clave Collection",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/209868/",
-              "price": "$1150.00",
-              "last_updated": "2026-07-27T04:00:25.986860+00:00",
+              "url": "https://tinbids.com/auction/215310/",
+              "price": "$1260.00",
+              "last_updated": "2026-08-10T04:00:26.623315+00:00",
               "first_seen": "2026-07-20T04:00:17+00:00",
               "year": "2017",
               "price_history": [
@@ -26809,6 +26813,10 @@
                 {
                   "price": "$1150.00",
                   "date": "2026-07-27T04:00:25.986860+00:00"
+                },
+                {
+                  "price": "$1260.00",
+                  "date": "2026-08-10T04:00:26.623315+00:00"
                 }
               ]
             },
@@ -79944,15 +79952,19 @@
             {
               "name": "Samuel Gawith Full Virginia Flake - 250g Vintage Box (2018)",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203081/",
-              "price": "$285.00",
-              "last_updated": "2026-07-13T04:00:49.675774+00:00",
+              "url": "https://tinbids.com/auction/212506/",
+              "price": "$295.00",
+              "last_updated": "2026-08-10T04:00:26.623315+00:00",
               "first_seen": "2026-07-13T01:43:32+00:00",
               "year": "2018",
               "price_history": [
                 {
                   "price": "$285.00",
                   "date": "2026-07-13T01:43:32+00:00"
+                },
+                {
+                  "price": "$295.00",
+                  "date": "2026-08-10T04:00:26.623315+00:00"
                 }
               ]
             },
@@ -82415,7 +82427,7 @@
             {
               "name": "Samuel Gawith St. James Flake - 250g Vintage Box (2019)",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203087/",
+              "url": "https://tinbids.com/auction/212499/",
               "price": "$285.00",
               "last_updated": "2026-07-13T04:00:49.675774+00:00",
               "first_seen": "2026-07-13T01:46:08+00:00",
@@ -85875,15 +85887,19 @@
             {
               "name": "Stanwell Vanilla",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/202846/",
-              "price": "$10.00",
-              "last_updated": "2026-07-10T16:00:51.213629+00:00",
+              "url": "https://tinbids.com/auction/214380/",
+              "price": "$15.00",
+              "last_updated": "2026-08-10T04:00:26.623315+00:00",
               "first_seen": "2026-07-10T12:56:56+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$10.00",
                   "date": "2026-07-10T12:56:56+00:00"
+                },
+                {
+                  "price": "$15.00",
+                  "date": "2026-08-10T04:00:26.623315+00:00"
                 }
               ]
             }
@@ -88255,7 +88271,7 @@
             {
               "name": "Sutliff Cringle Flake 2021 (No Reserve)",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/205231/",
+              "url": "https://tinbids.com/auction/214390/",
               "price": "$40.00",
               "last_updated": "2026-07-16T04:00:47.048591+00:00",
               "first_seen": "2026-07-15T22:26:26+00:00",
@@ -88511,6 +88527,21 @@
                 {
                   "price": "$10",
                   "date": "2026-06-24T02:02:09.029335+00:00"
+                }
+              ]
+            },
+            {
+              "name": "Sutliff Cringle Flake 2024",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/214399/",
+              "price": "$50.00",
+              "last_updated": "2026-08-10T04:00:26.623315+00:00",
+              "first_seen": "2026-08-09T19:17:38+00:00",
+              "year": "2024",
+              "price_history": [
+                {
+                  "price": "$50.00",
+                  "date": "2026-08-09T19:17:38+00:00"
                 }
               ]
             },
@@ -97520,6 +97551,11 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Esoterica Stonehaven 2017 | 8oz Bag | La Clave Collection": "esoterica|stonehaven",
+    "Cornell & Diehl Small Batch The Beast from 2021": "cornelldiehl|thebeast",
+    "Samuel Gawith Full Virginia Flake - 250g Vintage Box (2018)": "samuelgawith|fullvirginiaflake",
+    "Stanwell Vanilla": "stanwell|vanilla",
+    "Sutliff Cringle Flake 2024": "sutliff|cringleflake",
     "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
     "Excellent Sealed 2015 McClelland Grand Orientals Drama Reserve 50g. Tin": "mcclelland|grandorientalsdramareserve",
     "Esoterica Stonehaven": "esoterica|stonehaven",
@@ -97781,7 +97817,6 @@
     "2014 Esoterica Margate - 8 oz Bag": "esoterica|margate",
     "Excellent Sealed 2016 Our Best Blend by Smokers Haven 2oz. Tin": "smokershaven|ourbestblend",
     "2002 Frog Morton on the Bayou - 1 Tin NR BIN $250": "mcclelland|frogmortononthebayou",
-    "Esoterica Stonehaven 2017 | 8oz Bag | La Clave Collection": "esoterica|stonehaven",
     "8oz Sealed Bag of Esoterica Pembroke": "esoterica|pembroke",
     "Mac Baren HH Acadian Perique - Rare Vintage Tin (2020)": "macbaren|hhacadianperique",
     "G.L. Pease 25th Anniversary Silver Jubilee": "glpease|25thanniversary",
@@ -97810,7 +97845,6 @@
     "Butera Pelican 2016 | 2oz Tin | La Clave Collection": "butera|pelican",
     "Esoterica Penzance 2017 | 2oz Tin | La Clave Collection": "esoterica|penzance",
     "Captain Black Premium Edition: Black Sea from 2015 - Discontinued Rare Sealed 50g Tin": "captainblack|blacksea",
-    "Cornell & Diehl Small Batch The Beast from 2021": "cornelldiehl|thebeast",
     "1 Pound Box Mac Baren HH Old Dark Fired. Rare, Hard to Find, and Discontinued Tobacco": "macbaren|hholddarkfired",
     "Cobblestone Walnut Maple Pie (Discontinued!!!) Excellent Aromatic Blend!!!": "cobblestone|walnutmaplepie",
     "Seattle Pipe Club Gentleman's Rum Vanilla 2oz": "sutliff|spcgentlemansrumvanilla",
@@ -98236,7 +98270,6 @@
     "'17 Balkan Sasieni": "stg|balkansasieni",
     "'24 Samuel Gawith Cabbie's Mixture": "samuelgawith|cabbiesmixture",
     "Russ Ouellette Firestorm - Rare Vintage Tin (2019)": "russouellette|firestorm",
-    "Samuel Gawith Full Virginia Flake - 250g Vintage Box (2018)": "samuelgawith|fullvirginiaflake",
     "Samuel Gawith St. James Flake - 250g Vintage Box (2019)": "samuelgawith|stjamesflake",
     "Vintage PAUL OLSEN A'S - MY OWN BLEND - STANDARD 222 ORIGINAL Pipe Tobacco (1980s?) 100g - Sealed Tin": "paulolsen|no222",
     "2011 - McClelland - Grey Havens 50g": "mcclelland|greyhavens",
@@ -98320,7 +98353,6 @@
     "McConnell Scottish Flake 2018 NR": "robertmcconnell|scottishflake",
     "2013 Erik Stokkebye 1957 Blend 3.5oz Tin": "erikstokkebye|4thgeneration1957",
     "Sutliff 502 Medium English - 1lb NR BIN $100": "sutliff|502mediumenglish",
-    "Stanwell Vanilla": "stanwell|vanilla",
     "Rare Vintage McCLELLAND No. 25 Virginia 100g Sealed Tin": "mcclelland|no25",
     "Wessex Campaign Dark Flake-50g": "wessex|brigadecampaigndarkflake",
     "Dunhill My Mixture BB1938 1.76 oz’s Pipe Tobacco Sealed Tin Made in Denmark 2018": "dunhill|mymixturebb1938",
@@ -99266,7 +99298,6 @@
     "150g 2021 Evening Flake": "erikstokkebye|eveningflake",
     "110g 2023 Evening Flake": "erikstokkebye|eveningflake",
     "65g 2021 GdO Flake": "savinelli|giubileodoroflake",
-    "Sutliff Cringle Flake 2024": "sutliff|cringleflake",
     "Mac Baren Golden Extra": "macbaren|goldenextra",
     "Mac Baren Brunello Flake": "macbaren|brunelloflake",
     "Mac Baren HH Mature Virginia": "macbaren|hhmaturevirginia",
