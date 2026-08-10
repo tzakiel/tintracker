@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-10T04:07:18.099782+00:00",
+  "generated": "2026-08-10T06:38:33.589252+00:00",
   "stats": {
-    "total_listings": 5638,
+    "total_listings": 5642,
     "excluded_multipacks": 1858,
     "total_tins": 1223,
     "multi_member_tins": 585,
@@ -86039,15 +86039,19 @@
             {
               "name": "Balkan Sasieni",
               "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
-              "price": "$10",
-              "last_updated": "2026-06-27T20:00:39.387042+00:00",
+              "url": "https://speak-easy.club/threads/presbyterian-balkan-sasieni-escudo-erinmore-and-more-tins.45008/unread",
+              "price": "$75",
+              "last_updated": "2026-08-10T06:38:15.509524+00:00",
               "first_seen": "2024-10-06T22:24:57+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$10",
                   "date": "2024-10-06T22:24:57+00:00"
+                },
+                {
+                  "price": "$75",
+                  "date": "2026-08-10T06:38:15.509524+00:00"
                 }
               ]
             },
@@ -99234,6 +99238,7 @@
     "Wessex: BURLEY SLICE 50g 2014 - C": "wessex|burleyslice",
     "Wessex: GOLD SLICE 1.5oz 2017 - C": "wessex|goldslice",
     "William Taylor Ashton:  OLD LONDON PEBBLE CUT 100g 1985- C": "ashton|oldlondonpebblecut",
+    "Balkan Sasieni": "stg|balkansasieni",
     "Captain Black Grape": "captainblack|grape",
     "F&T Cut VA Plug": "fribourgtreyer|cutvirginiaplug",
     "F&T Special Brown Flake": "fribourgtreyer|specialbrownflake",
@@ -99499,7 +99504,6 @@
     "Gold Slice": "wessex|goldslice",
     "Red Virginia Flake": "wessex|redvirginiaflake",
     "AshtonArtisan’s Blend": "ashton|artisansblend",
-    "Balkan Sasieni": "stg|balkansasieni",
     "Gawith & HoggarthBob’s Chocolate Flake": "gawithhoggarthco|bobschocolateflake",
     "Hearth & HomeMagnum Opus": "hearthhome|magnumopus",
     "Seas Regular": "macbaren|7seasregular",
