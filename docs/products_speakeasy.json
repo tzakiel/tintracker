@@ -1,6 +1,85 @@
 {
   "products": [
     {
+      "name": "Balkan Sasieni",
+      "price": "$75",
+      "url": "https://speak-easy.club/threads/presbyterian-balkan-sasieni-escudo-erinmore-and-more-tins.45008/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2024-10-06T22:24:57+00:00",
+      "last_updated": "2026-08-10T06:38:15.509524+00:00",
+      "price_history": [
+        {
+          "price": "$10",
+          "date": "2024-10-06T22:24:57+00:00"
+        },
+        {
+          "price": "$75",
+          "date": "2026-08-10T06:38:15.509524+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
+      "name": "Escudo/Erinmore",
+      "price": "$75",
+      "url": "https://speak-easy.club/threads/presbyterian-balkan-sasieni-escudo-erinmore-and-more-tins.45008/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-08-09T22:12:33+00:00",
+      "last_updated": "2026-08-10T06:38:15.509524+00:00",
+      "price_history": [
+        {
+          "price": "$75",
+          "date": "2026-08-09T22:12:33+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
+      "name": "Presbyterian",
+      "price": "$55",
+      "url": "https://speak-easy.club/threads/presbyterian-balkan-sasieni-escudo-erinmore-and-more-tins.45008/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-08-09T22:12:33+00:00",
+      "last_updated": "2026-08-10T06:38:15.509524+00:00",
+      "price_history": [
+        {
+          "price": "$55",
+          "date": "2026-08-09T22:12:33+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
+      "name": "Prince Albert",
+      "price": "$60",
+      "url": "https://speak-easy.club/threads/presbyterian-balkan-sasieni-escudo-erinmore-and-more-tins.45008/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-08-09T22:12:33+00:00",
+      "last_updated": "2026-08-10T06:38:15.509524+00:00",
+      "price_history": [
+        {
+          "price": "$60",
+          "date": "2026-08-09T22:12:33+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
+      "name": "Crumble Cake",
+      "price": "$35",
+      "url": "https://speak-easy.club/threads/presbyterian-balkan-sasieni-escudo-erinmore-and-more-tins.45008/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-08-09T22:12:33+00:00",
+      "last_updated": "2026-08-10T06:38:15.509524+00:00",
+      "price_history": [
+        {
+          "price": "$35",
+          "date": "2026-08-09T22:12:33+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
       "name": "What you see is what you get.  Over 5 ounces of jarred ESO, over 5 of SG, 7.7 ounces of Yana, and a tin of aged Navy Flake and Grousemoor.  Looking for",
       "price": "$200",
       "url": "https://speak-easy.club/threads/some-jarred-eso-and-sg-a-few-tins-of-sg-and-the-yana.44990/unread",
@@ -17924,21 +18003,6 @@
       "price_history": [
         {
           "price": "$11",
-          "date": "2024-10-06T22:24:57+00:00"
-        }
-      ],
-      "tag": "WTS"
-    },
-    {
-      "name": "Balkan Sasieni",
-      "price": "$10",
-      "url": "https://speak-easy.club/threads/cellar-sale.41150/",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2024-10-06T22:24:57+00:00",
-      "last_updated": "2026-06-27T20:00:39.387042+00:00",
-      "price_history": [
-        {
-          "price": "$10",
           "date": "2024-10-06T22:24:57+00:00"
         }
       ],
@@ -50822,8 +50886,192 @@
       "tag": "WTS"
     }
   ],
-  "last_scraped": "2026-08-09T06:38:19.897470+00:00",
+  "last_scraped": "2026-08-10T06:38:15.509524+00:00",
   "latest_scrape": [
+    {
+      "name": "Escudo/Erinmore",
+      "price": "$75",
+      "url": "https://speak-easy.club/threads/presbyterian-balkan-sasieni-escudo-erinmore-and-more-tins.45008/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-08-09T22:12:33+00:00",
+      "last_updated": "2026-08-10T06:38:15.509524+00:00",
+      "price_history": [
+        {
+          "price": "$75",
+          "date": "2026-08-09T22:12:33+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
+      "name": "Balkan Sasieni",
+      "price": "$75",
+      "url": "https://speak-easy.club/threads/presbyterian-balkan-sasieni-escudo-erinmore-and-more-tins.45008/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2024-10-06T22:24:57+00:00",
+      "last_updated": "2026-08-10T06:38:15.509524+00:00",
+      "price_history": [
+        {
+          "price": "$10",
+          "date": "2024-10-06T22:24:57+00:00"
+        },
+        {
+          "price": "$75",
+          "date": "2026-08-10T06:38:15.509524+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
+      "name": "Presbyterian",
+      "price": "$55",
+      "url": "https://speak-easy.club/threads/presbyterian-balkan-sasieni-escudo-erinmore-and-more-tins.45008/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-08-09T22:12:33+00:00",
+      "last_updated": "2026-08-10T06:38:15.509524+00:00",
+      "price_history": [
+        {
+          "price": "$55",
+          "date": "2026-08-09T22:12:33+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
+      "name": "Prince Albert",
+      "price": "$60",
+      "url": "https://speak-easy.club/threads/presbyterian-balkan-sasieni-escudo-erinmore-and-more-tins.45008/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-08-09T22:12:33+00:00",
+      "last_updated": "2026-08-10T06:38:15.509524+00:00",
+      "price_history": [
+        {
+          "price": "$60",
+          "date": "2026-08-09T22:12:33+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
+      "name": "Crumble Cake",
+      "price": "$35",
+      "url": "https://speak-easy.club/threads/presbyterian-balkan-sasieni-escudo-erinmore-and-more-tins.45008/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-08-09T22:12:33+00:00",
+      "last_updated": "2026-08-10T06:38:15.509524+00:00",
+      "price_history": [
+        {
+          "price": "$35",
+          "date": "2026-08-09T22:12:33+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
+      "name": "Update: Both remaining pipes for",
+      "price": "$80",
+      "url": "https://speak-easy.club/threads/couple-few-pipes.44961/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-07-31T18:11:08+00:00",
+      "last_updated": "2026-08-06T06:38:24.011639+00:00",
+      "price_history": [
+        {
+          "price": "$80",
+          "date": "2026-07-31T18:11:08+00:00"
+        }
+      ],
+      "tag": "SOLD"
+    },
+    {
+      "name": "First up is this Nørding freehand. Purchased new and only smoked maybe half a dozen times. Comes with original gig bag",
+      "price": "$80",
+      "url": "https://speak-easy.club/threads/couple-few-pipes.44961/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-07-31T18:11:08+00:00",
+      "last_updated": "2026-08-01T06:38:21.215008+00:00",
+      "price_history": [
+        {
+          "price": "$80",
+          "date": "2026-07-31T18:11:08+00:00"
+        }
+      ],
+      "tag": "SOLD"
+    },
+    {
+      "name": "*SOLD* Next we have a Pete Donegal Rocky Prince (shape 406). Purchased new, and has since been lightly loved. Stem could use some tlc but it's a solid smoker in fine shape. Comes with original satchel and box",
+      "price": "$65",
+      "url": "https://speak-easy.club/threads/couple-few-pipes.44961/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-07-31T18:11:08+00:00",
+      "last_updated": "2026-08-01T06:38:21.215008+00:00",
+      "price_history": [
+        {
+          "price": "$65",
+          "date": "2026-07-31T18:11:08+00:00"
+        }
+      ],
+      "tag": "SOLD"
+    },
+    {
+      "name": "Last and least, a brand new in box Erin Go Bragh Castleford Rhodesian (shape 1007). P&C tries (and succeeds, it seems) to sell these for",
+      "price": "$85",
+      "url": "https://speak-easy.club/threads/couple-few-pipes.44961/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-07-31T18:11:08+00:00",
+      "last_updated": "2026-08-01T06:38:21.215008+00:00",
+      "price_history": [
+        {
+          "price": "$85",
+          "date": "2026-07-31T18:11:08+00:00"
+        }
+      ],
+      "tag": "SOLD"
+    },
+    {
+      "name": "Alright, changing this one up",
+      "price": "$15",
+      "url": "https://speak-easy.club/threads/virginias-and-kbv.44981/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-08-03T01:14:44+00:00",
+      "last_updated": "2026-08-04T06:38:19.097118+00:00",
+      "price_history": [
+        {
+          "price": "$15",
+          "date": "2026-08-03T01:14:44+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
+      "name": "Alright, changing this one up",
+      "price": "$15",
+      "url": "https://speak-easy.club/threads/virginias-and-kbv.44981/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-08-03T01:14:44+00:00",
+      "last_updated": "2026-08-04T06:38:19.097118+00:00",
+      "price_history": [
+        {
+          "price": "$15",
+          "date": "2026-08-03T01:14:44+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
+      "name": "What you see is what you get.  Over 5 ounces of jarred ESO, over 5 of SG, 7.7 ounces of Yana, and a tin of aged Navy Flake and Grousemoor.  Looking for",
+      "price": "$200",
+      "url": "https://speak-easy.club/threads/some-jarred-eso-and-sg-a-few-tins-of-sg-and-the-yana.44990/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-08-05T17:36:36+00:00",
+      "last_updated": "2026-08-06T06:38:24.011639+00:00",
+      "price_history": [
+        {
+          "price": "$200",
+          "date": "2026-08-05T17:36:36+00:00"
+        }
+      ],
+      "tag": "SOLD"
+    },
     {
       "name": "Lot 1",
       "price": "$140",
@@ -51421,126 +51669,6 @@
         }
       ],
       "tag": "WTS"
-    },
-    {
-      "name": "I keep getting skunked on Pipestud. Not looking for bro prices, I’ll pay",
-      "price": "$20",
-      "url": "https://speak-easy.club/threads/mcc-40th-anniversary-140.44937/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-25T15:20:48+00:00",
-      "last_updated": "2026-07-26T06:38:20.190819+00:00",
-      "price_history": [
-        {
-          "price": "$20",
-          "date": "2026-07-25T15:20:48+00:00"
-        }
-      ],
-      "tag": "CLOSED"
-    },
-    {
-      "name": "Update: Both remaining pipes for",
-      "price": "$80",
-      "url": "https://speak-easy.club/threads/couple-few-pipes.44961/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-31T18:11:08+00:00",
-      "last_updated": "2026-08-06T06:38:24.011639+00:00",
-      "price_history": [
-        {
-          "price": "$80",
-          "date": "2026-07-31T18:11:08+00:00"
-        }
-      ],
-      "tag": "SOLD"
-    },
-    {
-      "name": "First up is this Nørding freehand. Purchased new and only smoked maybe half a dozen times. Comes with original gig bag",
-      "price": "$80",
-      "url": "https://speak-easy.club/threads/couple-few-pipes.44961/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-31T18:11:08+00:00",
-      "last_updated": "2026-08-01T06:38:21.215008+00:00",
-      "price_history": [
-        {
-          "price": "$80",
-          "date": "2026-07-31T18:11:08+00:00"
-        }
-      ],
-      "tag": "SOLD"
-    },
-    {
-      "name": "*SOLD* Next we have a Pete Donegal Rocky Prince (shape 406). Purchased new, and has since been lightly loved. Stem could use some tlc but it's a solid smoker in fine shape. Comes with original satchel and box",
-      "price": "$65",
-      "url": "https://speak-easy.club/threads/couple-few-pipes.44961/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-31T18:11:08+00:00",
-      "last_updated": "2026-08-01T06:38:21.215008+00:00",
-      "price_history": [
-        {
-          "price": "$65",
-          "date": "2026-07-31T18:11:08+00:00"
-        }
-      ],
-      "tag": "SOLD"
-    },
-    {
-      "name": "Last and least, a brand new in box Erin Go Bragh Castleford Rhodesian (shape 1007). P&C tries (and succeeds, it seems) to sell these for",
-      "price": "$85",
-      "url": "https://speak-easy.club/threads/couple-few-pipes.44961/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-07-31T18:11:08+00:00",
-      "last_updated": "2026-08-01T06:38:21.215008+00:00",
-      "price_history": [
-        {
-          "price": "$85",
-          "date": "2026-07-31T18:11:08+00:00"
-        }
-      ],
-      "tag": "SOLD"
-    },
-    {
-      "name": "Alright, changing this one up",
-      "price": "$15",
-      "url": "https://speak-easy.club/threads/virginias-and-kbv.44981/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-08-03T01:14:44+00:00",
-      "last_updated": "2026-08-04T06:38:19.097118+00:00",
-      "price_history": [
-        {
-          "price": "$15",
-          "date": "2026-08-03T01:14:44+00:00"
-        }
-      ],
-      "tag": "WTS"
-    },
-    {
-      "name": "Alright, changing this one up",
-      "price": "$15",
-      "url": "https://speak-easy.club/threads/virginias-and-kbv.44981/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-08-03T01:14:44+00:00",
-      "last_updated": "2026-08-04T06:38:19.097118+00:00",
-      "price_history": [
-        {
-          "price": "$15",
-          "date": "2026-08-03T01:14:44+00:00"
-        }
-      ],
-      "tag": "WTS"
-    },
-    {
-      "name": "What you see is what you get.  Over 5 ounces of jarred ESO, over 5 of SG, 7.7 ounces of Yana, and a tin of aged Navy Flake and Grousemoor.  Looking for",
-      "price": "$200",
-      "url": "https://speak-easy.club/threads/some-jarred-eso-and-sg-a-few-tins-of-sg-and-the-yana.44990/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-08-05T17:36:36+00:00",
-      "last_updated": "2026-08-06T06:38:24.011639+00:00",
-      "price_history": [
-        {
-          "price": "$200",
-          "date": "2026-08-05T17:36:36+00:00"
-        }
-      ],
-      "tag": "SOLD"
     }
   ],
   "scrape_history": [
@@ -51886,11 +52014,16 @@
       "added": 0,
       "price_changed": 0,
       "total": 2576
+    },
+    {
+      "date": "2026-08-10T06:38:15.509524+00:00",
+      "found": 14,
+      "added": 4,
+      "price_changed": 1,
+      "total": 2580
     }
   ],
   "thread_recheck": {
-    "https://speak-easy.club/threads/mcc-40th-anniversary-140.44937/unread": "2026-08-09T06:38:20.190819+00:00",
-    "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread": "2026-08-09T06:38:20.190819+00:00",
     "https://speak-easy.club/threads/time-to-pay-the-piper-emptying-cellar-sale.44965/unread": "2026-08-15T06:38:21.215008+00:00",
     "https://speak-easy.club/threads/couple-few-pipes.44961/unread": "2026-08-15T06:38:21.215008+00:00",
     "https://speak-easy.club/threads/il-cerchio-lovat.44975/unread": "2026-08-16T06:38:18.523284+00:00",
@@ -51900,7 +52033,8 @@
     "https://speak-easy.club/threads/selling-pipes-to-fund-another-pipe-ouroboros-sale.44988/unread": "2026-08-19T06:38:18.712300+00:00",
     "https://speak-easy.club/threads/neal-monier-lumberman.44984/unread": "2026-08-19T06:38:18.712300+00:00",
     "https://speak-easy.club/threads/some-jarred-eso-and-sg-a-few-tins-of-sg-and-the-yana.44990/unread": "2026-08-20T06:38:24.011639+00:00",
-    "https://speak-easy.club/threads/virginia-vaper-lot-update-lots.44902/unread": "2026-08-23T06:38:19.897470+00:00"
+    "https://speak-easy.club/threads/virginia-vaper-lot-update-lots.44902/unread": "2026-08-23T06:38:19.897470+00:00",
+    "https://speak-easy.club/threads/presbyterian-balkan-sasieni-escudo-erinmore-and-more-tins.45008/unread": "2026-08-24T06:38:15.509524+00:00"
   },
   "thread_recheck_tags": {
     "https://speak-easy.club/threads/brigham-and-peterson.44723/unread": "WTS",
@@ -52743,6 +52877,7 @@
     "https://speak-easy.club/threads/virginias-and-kbv.44981/unread": "WTS",
     "https://speak-easy.club/threads/selling-pipes-to-fund-another-pipe-ouroboros-sale.44988/unread": "WTS",
     "https://speak-easy.club/threads/neal-monier-lumberman.44984/unread": "SOLD",
-    "https://speak-easy.club/threads/some-jarred-eso-and-sg-a-few-tins-of-sg-and-the-yana.44990/unread": "SOLD"
+    "https://speak-easy.club/threads/some-jarred-eso-and-sg-a-few-tins-of-sg-and-the-yana.44990/unread": "SOLD",
+    "https://speak-easy.club/threads/presbyterian-balkan-sasieni-escudo-erinmore-and-more-tins.45008/unread": "WTS"
   }
 }
