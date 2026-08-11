@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-11T04:10:21.961081+00:00",
+  "generated": "2026-08-11T06:38:42.535752+00:00",
   "stats": {
-    "total_listings": 5683,
-    "excluded_multipacks": 1861,
+    "total_listings": 5688,
+    "excluded_multipacks": 1862,
     "total_tins": 1223,
     "multi_member_tins": 585,
     "listings_in_groups": 2841,
@@ -86124,8 +86124,8 @@
               "name": "Balkan Sasieni",
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/presbyterian-balkan-sasieni-escudo-erinmore-and-more-tins.45008/unread",
-              "price": "$75",
-              "last_updated": "2026-08-10T06:38:15.509524+00:00",
+              "price": "$60",
+              "last_updated": "2026-08-11T06:38:18.158972+00:00",
               "first_seen": "2024-10-06T22:24:57+00:00",
               "year": "",
               "price_history": [
@@ -86136,6 +86136,10 @@
                 {
                   "price": "$75",
                   "date": "2026-08-10T06:38:15.509524+00:00"
+                },
+                {
+                  "price": "$60",
+                  "date": "2026-08-11T06:38:18.158972+00:00"
                 }
               ]
             },
