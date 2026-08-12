@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-12T15:14:19.084763+00:00",
+  "generated": "2026-08-12T16:09:17.141971+00:00",
   "stats": {
-    "total_listings": 5727,
-    "excluded_multipacks": 1869,
+    "total_listings": 5739,
+    "excluded_multipacks": 1874,
     "total_tins": 1223,
     "multi_member_tins": 585,
     "listings_in_groups": 2841,
@@ -18360,15 +18360,19 @@
             {
               "name": "Dunhill Durbar 50 g tin 2014",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/211661/",
-              "price": "$70.00",
-              "last_updated": "2026-08-03T04:00:33.191532+00:00",
+              "url": "https://tinbids.com/auction/215408/",
+              "price": "$43.00",
+              "last_updated": "2026-08-12T16:00:29.494501+00:00",
               "first_seen": "2026-08-02T22:47:12+00:00",
               "year": "2014",
               "price_history": [
                 {
                   "price": "$70.00",
                   "date": "2026-08-02T22:47:12+00:00"
+                },
+                {
+                  "price": "$43.00",
+                  "date": "2026-08-12T16:00:29.494501+00:00"
                 }
               ]
             },
@@ -19337,15 +19341,19 @@
             {
               "name": "Dunhill London Mixture 50 g tin 2015",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/211667/",
-              "price": "$42.00",
-              "last_updated": "2026-08-03T04:00:33.191532+00:00",
+              "url": "https://tinbids.com/auction/215413/",
+              "price": "$26.00",
+              "last_updated": "2026-08-12T16:00:29.494501+00:00",
               "first_seen": "2026-08-02T23:00:12+00:00",
               "year": "2015",
               "price_history": [
                 {
                   "price": "$42.00",
                   "date": "2026-08-02T23:00:12+00:00"
+                },
+                {
+                  "price": "$26.00",
+                  "date": "2026-08-12T16:00:29.494501+00:00"
                 }
               ]
             }
@@ -97803,6 +97811,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Dunhill Durbar 50 g tin 2014": "dunhill|durbar",
+    "Dunhill London Mixture 50 g tin 2015": "dunhill|londonmixture",
     "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996": "butera|pelican",
     "McClelland 40th Anniversary - 2018 tin date": "mcclelland|40thanniversary",
     "Vintage McClelland 2016 CHRISTMAS CHEER 100g Sealed Tin": "mcclelland|christmascheer",
@@ -97899,11 +97909,9 @@
     "'23 Esoterica Pembroke": "esoterica|pembroke",
     "'24 Esoterica Margate": "esoterica|margate",
     "Dunhill Flake 50g 2014 tin": "dunhill|flake",
-    "Dunhill Durbar 50 g tin 2014": "dunhill|durbar",
     "'16 Our Best Blend by Smokers' Haven": "smokershaven|ourbestblend",
     "Germain's Original Latakia Mixture": "jfgermain|originallatakiamixture",
     "Dunhill standard mixture 50 g tin": "dunhill|standardmixture",
-    "Dunhill London Mixture 50 g tin 2015": "dunhill|londonmixture",
     "'24 Samuel Gawith Full Virginia Flake - Burnt Ends": "samuelgawith|fullvirginiaflakeburntends",
     "2015 - G. L. Pease, Sextant. 2oz": "glpease|sextant",
     "Peter Heinrich’s Dark Strong 100g": "peterheinrichs|darkstrongflake",
