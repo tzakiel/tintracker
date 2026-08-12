@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-11T19:16:19.633815+00:00",
+  "generated": "2026-08-12T04:09:16.913546+00:00",
   "stats": {
-    "total_listings": 5699,
-    "excluded_multipacks": 1863,
+    "total_listings": 5725,
+    "excluded_multipacks": 1869,
     "total_tins": 1223,
     "multi_member_tins": 585,
     "listings_in_groups": 2841,
@@ -3982,9 +3982,9 @@
             {
               "name": "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/212843/",
-              "price": "$203.00",
-              "last_updated": "2026-08-08T04:00:33.300220+00:00",
+              "url": "https://tinbids.com/auction/214400/",
+              "price": "$222.00",
+              "last_updated": "2026-08-12T04:00:26.322351+00:00",
               "first_seen": "2026-07-03T19:47:51+00:00",
               "year": "1996",
               "price_history": [
@@ -4015,6 +4015,14 @@
                 {
                   "price": "$203.00",
                   "date": "2026-08-08T04:00:33.300220+00:00"
+                },
+                {
+                  "price": "$232.00",
+                  "date": "2026-08-12T04:00:26.322351+00:00"
+                },
+                {
+                  "price": "$222.00",
+                  "date": "2026-08-12T04:00:26.322351+00:00"
                 }
               ]
             },
@@ -56696,15 +56704,19 @@
             {
               "name": "McClelland 40th Anniversary - 2018 tin date",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/208251/",
-              "price": "$230.00",
-              "last_updated": "2026-07-26T16:00:26.764560+00:00",
+              "url": "https://tinbids.com/auction/213200/",
+              "price": "$180.00",
+              "last_updated": "2026-08-12T04:00:26.322351+00:00",
               "first_seen": "2026-07-26T04:10:27+00:00",
               "year": "2018",
               "price_history": [
                 {
                   "price": "$230.00",
                   "date": "2026-07-26T04:10:27+00:00"
+                },
+                {
+                  "price": "$180.00",
+                  "date": "2026-08-12T04:00:26.322351+00:00"
                 }
               ]
             }
@@ -59224,15 +59236,19 @@
             {
               "name": "Vintage McClelland 2016 CHRISTMAS CHEER 100g Sealed Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/196740/",
-              "price": "$190.00",
-              "last_updated": "2026-06-26T16:00:27.901345+00:00",
+              "url": "https://tinbids.com/auction/215121/",
+              "price": "$167.00",
+              "last_updated": "2026-08-12T04:00:26.322351+00:00",
               "first_seen": "2026-06-26T13:10:37+00:00",
               "year": "2016",
               "price_history": [
                 {
                   "price": "$190.00",
                   "date": "2026-06-26T13:10:37+00:00"
+                },
+                {
+                  "price": "$167.00",
+                  "date": "2026-08-12T04:00:26.322351+00:00"
                 }
               ]
             },
@@ -97739,6 +97755,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996": "butera|pelican",
+    "McClelland 40th Anniversary - 2018 tin date": "mcclelland|40thanniversary",
+    "Vintage McClelland 2016 CHRISTMAS CHEER 100g Sealed Tin": "mcclelland|christmascheer",
     "Very Nice Sealed 2018 Dunhill My Mixture 965 50g. Tin": "dunhill|mymixtureno965",
     "Very Nice Sealed 2021 Hearth & Home Black House 50g. Tin": "hearthhome|blackhouse",
     "Very Nice Sealed 2019 Cornell & Diehl Small Batch Carolina Red Flake 2oz. Tin": "cornelldiehl|smallbatchcarolinaredflake",
@@ -97773,7 +97792,6 @@
     "Gawith & Hoggarth-Balkan Mixture": "gawithhoggarthco|balkanmixture",
     "Jewel Of St James Genuine Louisiana Perique 1 OZ sealed jar": "jewelofstjames|perique",
     "McClelland 40th Anniversary - NR BIN $225": "mcclelland|40thanniversary",
-    "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996": "butera|pelican",
     "Ashton Artisan’s Blend Tobacco Sealed Tin Century 2012 50g Syrian Latakia Pipe Tobacco": "ashton|artisansblend",
     "Fox Bankers Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|bankers",
     "c. 1970s GBD Black Cavendish Mixture 50g Full Unopened English Pipe Tobacco Tin": "gbd|blackcavendishmixture",
@@ -98045,7 +98063,6 @@
     "Very Nice Sealed Lane LTD. Crown Achievement 50g. Tin": "lanelimited|crownachievement",
     "Cornell & Diehl String Duster": "cornelldiehl|stringduster",
     "Torben Dansk Black Velvet Gentle Dream (sampled)": "dantobacco|torbendanskblackvelvet",
-    "McClelland 40th Anniversary - 2018 tin date": "mcclelland|40thanniversary",
     "2017 Esoterica Stonehaven - 8 Oz Bag": "esoterica|stonehaven",
     "McClelland Frog Morton on the Town 1998 1.2oz/33grams": "mcclelland|frogmortononthetown",
     "Very Nice Sealed Seattle Pipe Club Mississippi River 4oz. Tin": "sutliff|spcmississippiriver",
@@ -98945,7 +98962,6 @@
     "Peterson Irish Oak 50g Tin": "peterson|irishoak",
     "Vintage Dunhill My Mixture 965 (1980s-90s) Older Logo, Painted Lid (40 GRAMS) Open 50g Tin": "dunhill|mymixtureno965",
     "2013 McClelland’s British Woods - 1 Tin NR BIN $220": "mcclelland|britishwoods",
-    "Vintage McClelland 2016 CHRISTMAS CHEER 100g Sealed Tin": "mcclelland|christmascheer",
     "VINTAGE and RARE Flying Dutchman 2oz cutter top": "flyingdutchman|flyingdutchman",
     "VINTAGE and RARE Sealed Player's Whiskey Ready Rubbed 25g tin": "players|whiskeyreadyrubbed",
     "VINTAGE and RARE sealed Bengal Slices (aromatic) 50g tin": "sutliff|bengalslices",
