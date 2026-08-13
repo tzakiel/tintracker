@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-12T19:16:19.341987+00:00",
+  "generated": "2026-08-13T04:09:49.363948+00:00",
   "stats": {
-    "total_listings": 5739,
-    "excluded_multipacks": 1874,
+    "total_listings": 5762,
+    "excluded_multipacks": 1875,
     "total_tins": 1223,
     "multi_member_tins": 585,
     "listings_in_groups": 2841,
@@ -567,15 +567,19 @@
             {
               "name": "SYRIAN! 2018 Ashton Artisan's Blend 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/207242/",
-              "price": "$39.00",
-              "last_updated": "2026-07-26T16:00:26.764560+00:00",
+              "url": "https://tinbids.com/auction/213442/",
+              "price": "$53.10",
+              "last_updated": "2026-08-13T04:00:35.603963+00:00",
               "first_seen": "2026-07-26T15:00:10+00:00",
               "year": "2018",
               "price_history": [
                 {
                   "price": "$39.00",
                   "date": "2026-07-26T15:00:10+00:00"
+                },
+                {
+                  "price": "$53.10",
+                  "date": "2026-08-13T04:00:35.603963+00:00"
                 }
               ]
             },
@@ -6816,15 +6820,19 @@
             {
               "name": "2017 CORNELL & DIEHL BILLY BUDD approx. 2.2 ounces",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/210213/",
-              "price": "$10.00",
-              "last_updated": "2026-08-01T04:00:25.121923+00:00",
+              "url": "https://tinbids.com/auction/214773/",
+              "price": "$15.00",
+              "last_updated": "2026-08-13T04:00:35.603963+00:00",
               "first_seen": "2026-07-31T21:52:40+00:00",
               "year": "2017",
               "price_history": [
                 {
                   "price": "$10.00",
                   "date": "2026-07-31T21:52:40+00:00"
+                },
+                {
+                  "price": "$15.00",
+                  "date": "2026-08-13T04:00:35.603963+00:00"
                 }
               ]
             }
@@ -13731,7 +13739,7 @@
             {
               "name": "Cornell & Diehl Small Batch Sun Bear Navy Cask",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/211150/",
+              "url": "https://tinbids.com/auction/214844/",
               "price": "$55.00",
               "last_updated": "2026-08-04T04:00:32.453136+00:00",
               "first_seen": "2026-07-10T18:38:07+00:00",
@@ -97827,6 +97835,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "2017 CORNELL & DIEHL BILLY BUDD approx. 2.2 ounces": "cornelldiehl|billybudd",
+    "SYRIAN! 2018 Ashton Artisan's Blend 50g": "ashton|artisansblend",
     "Dunhill Durbar 50 g tin 2014": "dunhill|durbar",
     "Dunhill London Mixture 50 g tin 2015": "dunhill|londonmixture",
     "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996": "butera|pelican",
@@ -97974,7 +97984,6 @@
     "Dunhill Royal Yacht Mixture (2015)": "dunhill|royalyacht",
     "Dunhill Nightcap (2015)": "dunhill|nightcap",
     "Esoterica Dorchester": "esoterica|dorchester",
-    "2017 CORNELL & DIEHL BILLY BUDD approx. 2.2 ounces": "cornelldiehl|billybudd",
     "2009 G.L. PEASE KENSINGTON approx. 2 ounces": "glpease|kensington",
     "1996 McClelland No. 25 Virginia 20th Anniversary - 100g": "mcclelland|no25virginia20thanniversary",
     "Dunhill Nightcap (50g Tin) – Sealed 2017 Vintage Production": "dunhill|nightcap",
@@ -98142,7 +98151,6 @@
     "2021 Sun Bear Black Locust 2oz": "cornelldiehl|sunbearblacklocust",
     "2019 Benjamin Hartwell Private Reserve Signature Blend 1.5oz": "benjaminhartwell|signatureblend",
     "Older Reiner Light Aromatic 50g": "reiner|lightaromatic",
-    "SYRIAN! 2018 Ashton Artisan's Blend 50g": "ashton|artisansblend",
     "C&D Small Batch Sansepolcro - Aged 6 Years - 1 (one) tin": "cornelldiehl|smallbatchsansepolcro",
     "Esoterica Penzance 2 oz. Sealed": "esoterica|penzance",
     "Frog Morton 100g tin (sealed) old": "mcclelland|frogmorton",
