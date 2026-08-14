@@ -51031,7 +51031,7 @@
       "tag": "WTS"
     }
   ],
-  "last_scraped": "2026-08-13T06:38:20.132641+00:00",
+  "last_scraped": "2026-08-14T06:38:14.946786+00:00",
   "latest_scrape": [
     {
       "name": "Update: Both remaining pipes for",
@@ -52457,6 +52457,13 @@
     },
     {
       "date": "2026-08-13T06:38:20.132641+00:00",
+      "found": 28,
+      "added": 0,
+      "price_changed": 0,
+      "total": 2587
+    },
+    {
+      "date": "2026-08-14T06:38:14.946786+00:00",
       "found": 28,
       "added": 0,
       "price_changed": 0,
