@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-13T19:16:22.380911+00:00",
+  "generated": "2026-08-14T04:12:59.538330+00:00",
   "stats": {
-    "total_listings": 5773,
-    "excluded_multipacks": 1875,
+    "total_listings": 5810,
+    "excluded_multipacks": 1877,
     "total_tins": 1223,
     "multi_member_tins": 585,
     "listings_in_groups": 2841,
@@ -23651,6 +23651,25 @@
           "quantity": "8oz",
           "members": [
             {
+              "name": "Esoterica - Dorchester - 8oz",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/215180/",
+              "price": "$390.00",
+              "last_updated": "2026-08-14T04:00:26.247608+00:00",
+              "first_seen": "2026-06-26T23:03:36+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$400.00",
+                  "date": "2026-06-26T23:03:36+00:00"
+                },
+                {
+                  "price": "$390.00",
+                  "date": "2026-08-14T04:00:26.247608+00:00"
+                }
+              ]
+            },
+            {
               "name": "Esoterica Dorchester 8oz",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/202990/",
@@ -23677,21 +23696,6 @@
                 {
                   "price": "$400.00",
                   "date": "2026-07-04T20:04:31+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Esoterica - Dorchester - 8oz",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/197245/",
-              "price": "$400.00",
-              "last_updated": "2026-06-27T04:00:27.886236+00:00",
-              "first_seen": "2026-06-26T23:03:36+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$400.00",
-                  "date": "2026-06-26T23:03:36+00:00"
                 }
               ]
             },
@@ -26067,6 +26071,25 @@
           "quantity": "2oz",
           "members": [
             {
+              "name": "Esoterica - Penzance - 2oz",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/215166/",
+              "price": "$280.00",
+              "last_updated": "2026-08-14T04:00:26.247608+00:00",
+              "first_seen": "2026-07-13T20:12:56+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$285.00",
+                  "date": "2026-07-13T20:12:56+00:00"
+                },
+                {
+                  "price": "$280.00",
+                  "date": "2026-08-14T04:00:26.247608+00:00"
+                }
+              ]
+            },
+            {
               "name": "Esoterica Penzance 2 oz. Sealed",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/208154/",
@@ -26078,21 +26101,6 @@
                 {
                   "price": "$172.00",
                   "date": "2026-07-25T20:52:12+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Esoterica - Penzance - 2oz",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203512/",
-              "price": "$285.00",
-              "last_updated": "2026-07-14T04:00:50.482103+00:00",
-              "first_seen": "2026-07-13T20:12:56+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$285.00",
-                  "date": "2026-07-13T20:12:56+00:00"
                 }
               ]
             },
@@ -28976,9 +28984,9 @@
             {
               "name": "GL Pease 25th Anniversary Silver Jubilee",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/214241/",
-              "price": "$36.00",
-              "last_updated": "2026-08-07T16:00:33.506896+00:00",
+              "url": "https://tinbids.com/auction/216637/",
+              "price": "$40.00",
+              "last_updated": "2026-08-14T04:00:26.247608+00:00",
               "first_seen": "2026-07-04T19:07:00+00:00",
               "year": "",
               "price_history": [
@@ -28997,6 +29005,10 @@
                 {
                   "price": "$36.00",
                   "date": "2026-08-07T16:00:33.506896+00:00"
+                },
+                {
+                  "price": "$40.00",
+                  "date": "2026-08-14T04:00:26.247608+00:00"
                 }
               ]
             },
@@ -33757,15 +33769,19 @@
             {
               "name": "Collectible G. L. Pease Quiet Nights 2 oz. Pipe Tobacco Sealed Tin 2024",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/202614/",
-              "price": "$15.74",
-              "last_updated": "2026-07-12T04:00:50.529539+00:00",
+              "url": "https://tinbids.com/auction/215105/",
+              "price": "$14.50",
+              "last_updated": "2026-08-14T04:00:26.247608+00:00",
               "first_seen": "2026-07-11T22:35:25+00:00",
               "year": "2024",
               "price_history": [
                 {
                   "price": "$15.74",
                   "date": "2026-07-11T22:35:25+00:00"
+                },
+                {
+                  "price": "$14.50",
+                  "date": "2026-08-14T04:00:26.247608+00:00"
                 }
               ]
             }
@@ -97903,6 +97919,10 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "GL Pease 25th Anniversary Silver Jubilee": "glpease|25thanniversary",
+    "Esoterica - Penzance - 2oz": "esoterica|penzance",
+    "Collectible G. L. Pease Quiet Nights 2 oz. Pipe Tobacco Sealed Tin 2024": "glpease|quietnights",
+    "Esoterica - Dorchester - 8oz": "esoterica|dorchester",
     "2017 CORNELL & DIEHL BILLY BUDD approx. 2.2 ounces": "cornelldiehl|billybudd",
     "SYRIAN! 2018 Ashton Artisan's Blend 50g": "ashton|artisansblend",
     "Dunhill Durbar 50 g tin 2014": "dunhill|durbar",
@@ -97948,7 +97968,6 @@
     "Fox Bankers Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|bankers",
     "c. 1970s GBD Black Cavendish Mixture 50g Full Unopened English Pipe Tobacco Tin": "gbd|blackcavendishmixture",
     "2012 Germain's Production Butera Pelican": "butera|pelican",
-    "GL Pease 25th Anniversary Silver Jubilee": "glpease|25thanniversary",
     "MacBaren Virginia No. 1 2017 NR": "macbaren|virginiano1",
     "'22 ASTB 8 oz Bag": "esoterica|andsotobed",
     "Mac Baren HH Old Dark Fired 3.5 ounce tin from 2024": "macbaren|hholddarkfired",
@@ -98587,7 +98606,6 @@
     "C&D HighRoller": "cornelldiehl|highroller",
     "Cornell and Diehl Nutty Irishman": "cornelldiehl|nuttyirishman",
     "Samuel Gawith-Sam's Flake": "samuelgawith|samsflake",
-    "Esoterica - Penzance - 2oz": "esoterica|penzance",
     "Esoterica - Stonehaven - 2oz": "esoterica|stonehaven",
     "Vintage 2014 - Orlik Golden Mixture - 50g": "orlik|goldenmixture",
     "Vintage 2014 - Orlik Club Mixture - 50g": "orlik|clubmixture",
@@ -98655,7 +98673,6 @@
     "Excellent Sealed 2020 Mac Baren HH Acadian Perique 1.75oz. Tin": "macbaren|hhacadianperique",
     "Excellent Sealed 2018 Exotique Mixture Smokers' Haven 2oz. Tin": "smokershaven|exotique",
     "Cornell & Diehl Carolina Red Flake Small Batch 2 oz Sealed Tin Pipe Tobacco 8/25": "cornelldiehl|carolinaredflake",
-    "Collectible G. L. Pease Quiet Nights 2 oz. Pipe Tobacco Sealed Tin 2024": "glpease|quietnights",
     "Collectible Mac Baren Old Dark Fired Cake 1.75 oz Sealed Pipe Tobacco Tin 2023": "macbaren|hholddarkfired",
     "Collectible Samuel Gawith Bob’s Chocolate Flake 50gm Sealed Pipe Tobacco Tin ‘24": "gawithhoggarthco|bobschocolateflake",
     "Collectible Sealed Tin Maple Shadows Smoking Mixture 8 oz’s Pipe Tobacco Tin 2024": "sutliff|mapleshadows",
@@ -99103,7 +99120,6 @@
     "Very Nice 2012 Peterson Summertime 2012 100g. Tin": "peterson|summertime",
     "3 Oaks Pipe Tobacco with Syrian Latakia by McClelland from 2012": "mcclelland|3oakssyrian",
     "Vintage 1980 - Robert McConnell's Original Scottish Blend - 50g": "robertmcconnell|scottishblend",
-    "Esoterica - Dorchester - 8oz": "esoterica|dorchester",
     "Wessex Burley Slice 50 gram": "wessex|burleyslice",
     "Gawith Hoggarth Rum Flake": "gawithhoggarthco|rumflake",
     "2017 Gawith and Hoggarth Bob's Chocolate Flake": "gawithhoggarthco|bobschocolateflake",
