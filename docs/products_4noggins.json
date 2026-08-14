@@ -331,10 +331,18 @@
         {
           "price": "$150.00",
           "date": "2026-08-13T15:14:29.787965+00:00"
+        },
+        {
+          "price": "$140.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        },
+        {
+          "price": "$150.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica And So To Bed 2oz",
-      "last_updated": "2026-08-13T15:14:29.787965+00:00"
+      "last_updated": "2026-08-14T15:14:16.143779+00:00"
     },
     {
       "name": "Esoterica: MARGATE 8oz - C",
@@ -659,10 +667,18 @@
         {
           "price": "$525.00",
           "date": "2026-08-13T15:14:29.787965+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Margate 8oz",
-      "last_updated": "2026-08-13T15:14:29.787965+00:00"
+      "last_updated": "2026-08-14T15:14:16.143779+00:00"
     },
     {
       "name": "Esoterica: ST. IVES 8oz - C",
@@ -1023,10 +1039,18 @@
         {
           "price": "$545.00",
           "date": "2026-08-13T15:14:29.787965+00:00"
+        },
+        {
+          "price": "$575.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        },
+        {
+          "price": "$545.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica St Ives 8oz",
-      "last_updated": "2026-08-13T15:14:29.787965+00:00"
+      "last_updated": "2026-08-14T15:14:16.143779+00:00"
     },
     {
       "name": "Butera: PELICAN 2014 2oz - C",
@@ -1339,10 +1363,18 @@
         {
           "price": "$245.00",
           "date": "2026-08-13T15:14:29.787965+00:00"
+        },
+        {
+          "price": "$285.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        },
+        {
+          "price": "$245.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Butera Pelican 2oz Tin 2014 .",
-      "last_updated": "2026-08-13T15:14:29.787965+00:00"
+      "last_updated": "2026-08-14T15:14:16.143779+00:00"
     },
     {
       "name": "Esoterica: DORCHESTER 8oz - C",
@@ -1350,7 +1382,7 @@
       "url": "https://www.4noggins.com/products/copy-of-esoterica-dorchester-8oz-c",
       "source": "4noggins.com",
       "first_seen": "2026-06-24T15:14:15.069299+00:00",
-      "last_updated": "2026-08-13T15:14:29.787965+00:00",
+      "last_updated": "2026-08-14T15:14:16.143779+00:00",
       "price_history": [
         {
           "price": "$495.00",
@@ -1483,6 +1515,14 @@
         {
           "price": "$495.00",
           "date": "2026-08-13T15:14:29.787965+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        },
+        {
+          "price": "$495.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
         }
       ],
       "description": "Default Title Consignement tin owned by 3rd party seller Esoterica 8oz Bag"
@@ -1586,10 +1626,63 @@
         {
           "price": "$135.00",
           "date": "2026-08-13T15:14:29.787965+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        },
+        {
+          "price": "$135.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
         }
       ],
       "description": "Default Title Consignment tins owned by 3rd party seller JF Germain Bridge Old Brown Flake 50g",
-      "last_updated": "2026-08-13T15:14:29.787965+00:00"
+      "last_updated": "2026-08-14T15:14:16.143779+00:00"
+    },
+    {
+      "name": "Esoterica: DUNBAR 8oz 2022 - C",
+      "price": "$525.00",
+      "url": "https://www.4noggins.com/products/esoterica-dunbar-8oz-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-14T15:14:16.143779+00:00",
+      "last_updated": "2026-08-14T15:14:16.143779+00:00",
+      "price_history": [
+        {
+          "price": "$525.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller ﻿ ﻿Esoterica Dunbar 8oz"
+    },
+    {
+      "name": "McClelland: BALKAN BLUE 50g 2017 - C",
+      "price": "$150.00",
+      "url": "https://www.4noggins.com/products/mcclelland-balkan-blue-50g-2014-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-14T15:14:16.143779+00:00",
+      "last_updated": "2026-08-14T15:14:16.143779+00:00",
+      "price_history": [
+        {
+          "price": "$150.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller McClelland Balkan Blue 50g 2017"
+    },
+    {
+      "name": "PRINCE ALBERT - POUCH 1.5oz",
+      "price": "$39.99",
+      "url": "https://www.4noggins.com/products/prince-albert-pouch-1-5oz",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-14T15:14:16.143779+00:00",
+      "last_updated": "2026-08-14T15:14:16.143779+00:00",
+      "price_history": [
+        {
+          "price": "$39.99",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller In the 1930s Prince Albert became a popular independent brand of pipe tobacco in the United States. It remains one of the America's best selling pipe tobaccos. Prince Albert blend is burley-based, crimp cut, long burning smoking tobacco. Now available in a convenient and easy to carry pouch! Strength: Mild to Medium Flavoring: Extremely Mild "
     },
     {
       "name": "Esoterica: BRIGHTON 8oz-C",
@@ -6416,7 +6509,7 @@
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
     }
   ],
-  "last_scraped": "2026-08-13T15:14:29.787965+00:00",
+  "last_scraped": "2026-08-14T15:14:16.143779+00:00",
   "latest_scrape": [
     {
       "name": "A&C Peterson: PREMIER CRU - C",
@@ -7263,10 +7356,18 @@
         {
           "price": "$245.00",
           "date": "2026-08-13T15:14:29.787965+00:00"
+        },
+        {
+          "price": "$285.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        },
+        {
+          "price": "$245.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Butera Pelican 2oz Tin 2014 .",
-      "last_updated": "2026-08-13T15:14:29.787965+00:00"
+      "last_updated": "2026-08-14T15:14:16.143779+00:00"
     },
     {
       "name": "Butera: PELICAN 2014 2oz - C",
@@ -7579,10 +7680,18 @@
         {
           "price": "$245.00",
           "date": "2026-08-13T15:14:29.787965+00:00"
+        },
+        {
+          "price": "$285.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        },
+        {
+          "price": "$245.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Butera Pelican 2oz Tin 2014 .",
-      "last_updated": "2026-08-13T15:14:29.787965+00:00"
+      "last_updated": "2026-08-14T15:14:16.143779+00:00"
     },
     {
       "name": "CAO: MOONTRANCE 50g 2011 - C",
@@ -8611,10 +8720,18 @@
         {
           "price": "$150.00",
           "date": "2026-08-13T15:14:29.787965+00:00"
+        },
+        {
+          "price": "$140.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        },
+        {
+          "price": "$150.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica And So To Bed 2oz",
-      "last_updated": "2026-08-13T15:14:29.787965+00:00"
+      "last_updated": "2026-08-14T15:14:16.143779+00:00"
     },
     {
       "name": "Esoterica: AND SO TO BED 2oz - C",
@@ -8947,10 +9064,18 @@
         {
           "price": "$150.00",
           "date": "2026-08-13T15:14:29.787965+00:00"
+        },
+        {
+          "price": "$140.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        },
+        {
+          "price": "$150.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica And So To Bed 2oz",
-      "last_updated": "2026-08-13T15:14:29.787965+00:00"
+      "last_updated": "2026-08-14T15:14:16.143779+00:00"
     },
     {
       "name": "Esoterica: AND SO TO BED 8oz - C",
@@ -9057,7 +9182,7 @@
       "url": "https://www.4noggins.com/products/copy-of-esoterica-dorchester-8oz-c",
       "source": "4noggins.com",
       "first_seen": "2026-06-24T15:14:15.069299+00:00",
-      "last_updated": "2026-08-13T15:14:29.787965+00:00",
+      "last_updated": "2026-08-14T15:14:16.143779+00:00",
       "price_history": [
         {
           "price": "$495.00",
@@ -9190,6 +9315,14 @@
         {
           "price": "$495.00",
           "date": "2026-08-13T15:14:29.787965+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        },
+        {
+          "price": "$495.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
         }
       ],
       "description": "Default Title Consignement tin owned by 3rd party seller Esoterica 8oz Bag"
@@ -9200,7 +9333,7 @@
       "url": "https://www.4noggins.com/products/copy-of-esoterica-dorchester-8oz-c",
       "source": "4noggins.com",
       "first_seen": "2026-06-24T15:14:15.069299+00:00",
-      "last_updated": "2026-08-13T15:14:29.787965+00:00",
+      "last_updated": "2026-08-14T15:14:16.143779+00:00",
       "price_history": [
         {
           "price": "$495.00",
@@ -9333,6 +9466,14 @@
         {
           "price": "$495.00",
           "date": "2026-08-13T15:14:29.787965+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        },
+        {
+          "price": "$495.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
         }
       ],
       "description": "Default Title Consignement tin owned by 3rd party seller Esoterica 8oz Bag"
@@ -9368,6 +9509,21 @@
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Dunbar 8oz Bag",
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
+    },
+    {
+      "name": "Esoterica: DUNBAR 8oz 2022 - C",
+      "price": "$525.00",
+      "url": "https://www.4noggins.com/products/esoterica-dunbar-8oz-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-14T15:14:16.143779+00:00",
+      "last_updated": "2026-08-14T15:14:16.143779+00:00",
+      "price_history": [
+        {
+          "price": "$525.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller ﻿ ﻿Esoterica Dunbar 8oz"
     },
     {
       "name": "Esoterica: MARGATE 2oz - C",
@@ -9956,10 +10112,18 @@
         {
           "price": "$525.00",
           "date": "2026-08-13T15:14:29.787965+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Margate 8oz",
-      "last_updated": "2026-08-13T15:14:29.787965+00:00"
+      "last_updated": "2026-08-14T15:14:16.143779+00:00"
     },
     {
       "name": "Esoterica: MARGATE 8oz - C",
@@ -10284,10 +10448,18 @@
         {
           "price": "$525.00",
           "date": "2026-08-13T15:14:29.787965+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Margate 8oz",
-      "last_updated": "2026-08-13T15:14:29.787965+00:00"
+      "last_updated": "2026-08-14T15:14:16.143779+00:00"
     },
     {
       "name": "Esoterica: PEMBROKE 2oz - C",
@@ -10794,10 +10966,18 @@
         {
           "price": "$545.00",
           "date": "2026-08-13T15:14:29.787965+00:00"
+        },
+        {
+          "price": "$575.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        },
+        {
+          "price": "$545.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica St Ives 8oz",
-      "last_updated": "2026-08-13T15:14:29.787965+00:00"
+      "last_updated": "2026-08-14T15:14:16.143779+00:00"
     },
     {
       "name": "Esoterica: ST. IVES 8oz - C",
@@ -11158,10 +11338,18 @@
         {
           "price": "$545.00",
           "date": "2026-08-13T15:14:29.787965+00:00"
+        },
+        {
+          "price": "$575.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        },
+        {
+          "price": "$545.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica St Ives 8oz",
-      "last_updated": "2026-08-13T15:14:29.787965+00:00"
+      "last_updated": "2026-08-14T15:14:16.143779+00:00"
     },
     {
       "name": "Esoterica: STONEHAVEN 2oz - C",
@@ -11909,10 +12097,18 @@
         {
           "price": "$135.00",
           "date": "2026-08-13T15:14:29.787965+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        },
+        {
+          "price": "$135.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
         }
       ],
       "description": "Default Title Consignment tins owned by 3rd party seller JF Germain Bridge Old Brown Flake 50g",
-      "last_updated": "2026-08-13T15:14:29.787965+00:00"
+      "last_updated": "2026-08-14T15:14:16.143779+00:00"
     },
     {
       "name": "J.F. Germain: BRIDGE OLD BROWN FLAKE 50g -C",
@@ -12013,10 +12209,18 @@
         {
           "price": "$135.00",
           "date": "2026-08-13T15:14:29.787965+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        },
+        {
+          "price": "$135.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
         }
       ],
       "description": "Default Title Consignment tins owned by 3rd party seller JF Germain Bridge Old Brown Flake 50g",
-      "last_updated": "2026-08-13T15:14:29.787965+00:00"
+      "last_updated": "2026-08-14T15:14:16.143779+00:00"
     },
     {
       "name": "J.F. Germain: BROWN FLAKE 50g - C",
@@ -12574,6 +12778,21 @@
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
     },
     {
+      "name": "McClelland: BALKAN BLUE 50g 2017 - C",
+      "price": "$150.00",
+      "url": "https://www.4noggins.com/products/mcclelland-balkan-blue-50g-2014-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-14T15:14:16.143779+00:00",
+      "last_updated": "2026-08-14T15:14:16.143779+00:00",
+      "price_history": [
+        {
+          "price": "$150.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller McClelland Balkan Blue 50g 2017"
+    },
+    {
       "name": "McClelland: BEACON 50g 2015 - C",
       "price": "$195.00",
       "url": "https://www.4noggins.com/products/mcclelland-beacon-50g-2009-c",
@@ -12779,21 +12998,6 @@
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
     },
     {
-      "name": "McClelland: DARK STAR 100g 2016 - C",
-      "price": "$385.00",
-      "url": "https://www.4noggins.com/products/mcclelland-dark-star-100g",
-      "source": "4noggins.com",
-      "first_seen": "2026-06-25T15:14:21.789530+00:00",
-      "last_updated": "2026-06-25T15:14:21.789530+00:00",
-      "price_history": [
-        {
-          "price": "$385.00",
-          "date": "2026-06-25T15:14:21.789530+00:00"
-        }
-      ],
-      "description": "Default Title Consignment tin owned by 3rd party seller Dark Star begins as Bright Yellow, sugary top grade Virginia and Carolina leaf. Through careful triple aging, pressing and stoving, it becomes rich, cool and dark. A spicy aroma. Strength: Medium Flavoring: None Detected Taste: Medium Room Note: Pleasant to Tolerable"
-    },
-    {
       "name": "McClelland: DARK STAR 50g 2011 - C",
       "price": "$265.00",
       "url": "https://www.4noggins.com/products/mcclelland-dark-star-50g-2008-c",
@@ -12824,30 +13028,6 @@
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller A soothing, relaxing mild aromatic, Deep Hollow consists of rich, Red and Black stoved Virginias lightly top-flavored with hints of apple and vanilla. Relative to most aromatics it smokes cool and clean with little moisture or bite. Strength: Mild Flavoring: Mild Taste: Mild to Medium Room Note: Pleasant",
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
-    },
-    {
-      "name": "McClelland: FROG MORTON 50g 2017 - C",
-      "price": "$285.00",
-      "url": "https://www.4noggins.com/products/mcclelland-frog-morton-50g-2017-c-1",
-      "source": "4noggins.com",
-      "first_seen": "2026-06-23T15:14:19.145115+00:00",
-      "last_seen": "2026-06-23T15:14:19.145115+00:00",
-      "price_history": [
-        {
-          "price": "$235.00",
-          "date": "2026-06-23T15:14:19.145115+00:00"
-        },
-        {
-          "price": "$275.00",
-          "date": "2026-07-17T15:14:19.407829+00:00"
-        },
-        {
-          "price": "$285.00",
-          "date": "2026-08-08T15:14:14.789963+00:00"
-        }
-      ],
-      "description": "Default Title Consignment tin owned by 3rd party seller McClelland Frog Morton 50g 2017",
-      "last_updated": "2026-08-08T15:14:14.789963+00:00"
     },
     {
       "name": "McClelland: FROG MORTON'S CELLAR 100g 2018 -C",
@@ -13533,6 +13713,21 @@
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Pipe Collector's Club of America by McClelland Full Balkan Reserve 50g 2000"
+    },
+    {
+      "name": "PRINCE ALBERT - POUCH 1.5oz",
+      "price": "$39.99",
+      "url": "https://www.4noggins.com/products/prince-albert-pouch-1-5oz",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-14T15:14:16.143779+00:00",
+      "last_updated": "2026-08-14T15:14:16.143779+00:00",
+      "price_history": [
+        {
+          "price": "$39.99",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller In the 1930s Prince Albert became a popular independent brand of pipe tobacco in the United States. It remains one of the America's best selling pipe tobaccos. Prince Albert blend is burley-based, crimp cut, long burning smoking tobacco. Now available in a convenient and easy to carry pouch! Strength: Mild to Medium Flavoring: Extremely Mild "
     },
     {
       "name": "Rattray's: MARLIN FLAKE 100g 2014 - C",
@@ -14377,6 +14572,13 @@
       "added": 0,
       "price_changed": 13,
       "total": 277
+    },
+    {
+      "date": "2026-08-14T15:14:16.143779+00:00",
+      "found": 263,
+      "added": 3,
+      "price_changed": 12,
+      "total": 280
     }
   ]
 }
