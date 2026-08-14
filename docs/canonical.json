@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-14T15:14:17.943145+00:00",
+  "generated": "2026-08-14T16:07:28.800417+00:00",
   "stats": {
-    "total_listings": 5813,
-    "excluded_multipacks": 1877,
+    "total_listings": 5820,
+    "excluded_multipacks": 1879,
     "total_tins": 1223,
     "multi_member_tins": 585,
     "listings_in_groups": 2841,
@@ -36330,15 +36330,19 @@
             {
               "name": "Collectible Samuel Gawith Bob’s Chocolate Flake 50gm Sealed Pipe Tobacco Tin ‘24",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/202626/",
-              "price": "$36.00",
-              "last_updated": "2026-07-12T04:00:50.529539+00:00",
+              "url": "https://tinbids.com/auction/215125/",
+              "price": "$26.00",
+              "last_updated": "2026-08-14T16:00:26.096558+00:00",
               "first_seen": "2026-07-11T22:45:45+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$36.00",
                   "date": "2026-07-11T22:45:45+00:00"
+                },
+                {
+                  "price": "$26.00",
+                  "date": "2026-08-14T16:00:26.096558+00:00"
                 }
               ]
             },
@@ -55856,7 +55860,7 @@
             {
               "name": "MacBaren Virginia No. 1 2017 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/212519/",
+              "url": "https://tinbids.com/auction/215303/",
               "price": "$30.00",
               "last_updated": "2026-08-07T04:00:24.603236+00:00",
               "first_seen": "2026-07-14T05:01:44+00:00",
@@ -97967,6 +97971,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Collectible Samuel Gawith Bob’s Chocolate Flake 50gm Sealed Pipe Tobacco Tin ‘24": "gawithhoggarthco|bobschocolateflake",
     "GL Pease 25th Anniversary Silver Jubilee": "glpease|25thanniversary",
     "Esoterica - Penzance - 2oz": "esoterica|penzance",
     "Collectible G. L. Pease Quiet Nights 2 oz. Pipe Tobacco Sealed Tin 2024": "glpease|quietnights",
@@ -98722,7 +98727,6 @@
     "Excellent Sealed 2018 Exotique Mixture Smokers' Haven 2oz. Tin": "smokershaven|exotique",
     "Cornell & Diehl Carolina Red Flake Small Batch 2 oz Sealed Tin Pipe Tobacco 8/25": "cornelldiehl|carolinaredflake",
     "Collectible Mac Baren Old Dark Fired Cake 1.75 oz Sealed Pipe Tobacco Tin 2023": "macbaren|hholddarkfired",
-    "Collectible Samuel Gawith Bob’s Chocolate Flake 50gm Sealed Pipe Tobacco Tin ‘24": "gawithhoggarthco|bobschocolateflake",
     "Collectible Sealed Tin Maple Shadows Smoking Mixture 8 oz’s Pipe Tobacco Tin 2024": "sutliff|mapleshadows",
     "Escudo - 50g tin 2021 (Aged 5 Years)": "stg|escudonavydeluxe",
     "C&D Midnight Orchard": "cornelldiehl|midnightorchard",
