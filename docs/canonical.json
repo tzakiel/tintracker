@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-16T04:09:33.552575+00:00",
+  "generated": "2026-08-16T06:38:45.360872+00:00",
   "stats": {
-    "total_listings": 6002,
+    "total_listings": 6012,
     "excluded_multipacks": 1913,
     "total_tins": 1223,
     "multi_member_tins": 585,
-    "listings_in_groups": 2841,
+    "listings_in_groups": 2842,
     "cross_source_tins": 444
   },
   "tins": [
@@ -7554,15 +7554,19 @@
             {
               "name": "C&D Carolina Red Flake 2018",
               "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/partial-cellar-sell-off.41910/",
-              "price": "$20",
-              "last_updated": "2026-06-24T02:02:09.029335+00:00",
+              "url": "https://speak-easy.club/threads/wakey-wakey-boo-boo-cellar-liquidation.45039/unread",
+              "price": "$35",
+              "last_updated": "2026-08-16T06:38:14.972169+00:00",
               "first_seen": "2025-02-21T23:49:21+00:00",
               "year": "2018",
               "price_history": [
                 {
                   "price": "$20",
                   "date": "2026-06-24T02:02:09.029335+00:00"
+                },
+                {
+                  "price": "$35",
+                  "date": "2026-08-16T06:38:14.972169+00:00"
                 }
               ]
             },
@@ -74757,6 +74761,21 @@
               ]
             },
             {
+              "name": "Rattray's Marlin Flake",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/wakey-wakey-boo-boo-cellar-liquidation.45039/unread",
+              "price": "$35",
+              "last_updated": "2026-08-16T06:38:14.972169+00:00",
+              "first_seen": "2026-08-15T22:36:16+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$35",
+                  "date": "2026-08-15T22:36:16+00:00"
+                }
+              ]
+            },
+            {
               "name": "Rattray's Marlin Flake 1980's",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/199949/",
@@ -74792,7 +74811,8 @@
             }
           ],
           "sources": [
-            "Tinbids Auction (Sold)"
+            "Tinbids Auction (Sold)",
+            "Speak-Easy.Club"
           ]
         }
       ],
@@ -99754,6 +99774,7 @@
     "Wessex: BURLEY SLICE 50g 2014 - C": "wessex|burleyslice",
     "Wessex: GOLD SLICE 1.5oz 2017 - C": "wessex|goldslice",
     "William Taylor Ashton:  OLD LONDON PEBBLE CUT 100g 1985- C": "ashton|oldlondonpebblecut",
+    "C&D Carolina Red Flake 2018": "cornelldiehl|carolinaredflake",
     "Balkan Sasieni": "stg|balkansasieni",
     "Captain Black Grape": "captainblack|grape",
     "F&T Cut VA Plug": "fribourgtreyer|cutvirginiaplug",
@@ -100917,7 +100938,6 @@
     "C&D Jolly Old St. Nick 2018": "cornelldiehl|jollyoldstnick",
     "Butera Royal Vintage 2017": "butera|royalvintage",
     "Benjamin Hartwell Chesdin 2002": "benjaminhartwell|chesdinmixture",
-    "C&D Carolina Red Flake 2018": "cornelldiehl|carolinaredflake",
     "MacBaren HH Mature Virginia 2010": "macbaren|hhmaturevirginia",
     "McClelland 2015 VaPer Feb 2018 (bulk SJW) 1oz zip +3oz Jar": "mcclelland|vaper",
     "MacBaren HH Mature Virginia 2010 14g zip and 2oz jar": "macbaren|hhmaturevirginia",
