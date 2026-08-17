@@ -355,10 +355,18 @@
         {
           "price": "$150.00",
           "date": "2026-08-16T15:14:20.001719+00:00"
+        },
+        {
+          "price": "$140.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        },
+        {
+          "price": "$150.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica And So To Bed 2oz",
-      "last_updated": "2026-08-16T15:14:20.001719+00:00"
+      "last_updated": "2026-08-17T15:14:12.893723+00:00"
     },
     {
       "name": "Esoterica: MARGATE 8oz - C",
@@ -707,10 +715,18 @@
         {
           "price": "$525.00",
           "date": "2026-08-16T15:14:20.001719+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Margate 8oz",
-      "last_updated": "2026-08-16T15:14:20.001719+00:00"
+      "last_updated": "2026-08-17T15:14:12.893723+00:00"
     },
     {
       "name": "Esoterica: ST. IVES 8oz - C",
@@ -1095,10 +1111,18 @@
         {
           "price": "$545.00",
           "date": "2026-08-16T15:14:20.001719+00:00"
+        },
+        {
+          "price": "$575.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        },
+        {
+          "price": "$545.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica St Ives 8oz",
-      "last_updated": "2026-08-16T15:14:20.001719+00:00"
+      "last_updated": "2026-08-17T15:14:12.893723+00:00"
     },
     {
       "name": "Butera: PELICAN 2014 2oz - C",
@@ -1435,10 +1459,18 @@
         {
           "price": "$245.00",
           "date": "2026-08-16T15:14:20.001719+00:00"
+        },
+        {
+          "price": "$285.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        },
+        {
+          "price": "$245.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Butera Pelican 2oz Tin 2014 .",
-      "last_updated": "2026-08-16T15:14:20.001719+00:00"
+      "last_updated": "2026-08-17T15:14:12.893723+00:00"
     },
     {
       "name": "Esoterica: DORCHESTER 8oz - C",
@@ -1446,7 +1478,7 @@
       "url": "https://www.4noggins.com/products/copy-of-esoterica-dorchester-8oz-c",
       "source": "4noggins.com",
       "first_seen": "2026-06-24T15:14:15.069299+00:00",
-      "last_updated": "2026-08-16T15:14:20.001719+00:00",
+      "last_updated": "2026-08-17T15:14:12.893723+00:00",
       "price_history": [
         {
           "price": "$495.00",
@@ -1603,6 +1635,14 @@
         {
           "price": "$495.00",
           "date": "2026-08-16T15:14:20.001719+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        },
+        {
+          "price": "$495.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
         }
       ],
       "description": "Default Title Consignement tin owned by 3rd party seller Esoterica 8oz Bag"
@@ -1730,10 +1770,153 @@
         {
           "price": "$135.00",
           "date": "2026-08-16T15:14:20.001719+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        },
+        {
+          "price": "$135.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
         }
       ],
       "description": "Default Title Consignment tins owned by 3rd party seller JF Germain Bridge Old Brown Flake 50g",
-      "last_updated": "2026-08-16T15:14:20.001719+00:00"
+      "last_updated": "2026-08-17T15:14:12.893723+00:00"
+    },
+    {
+      "name": "Dunhill: EARLY MORNING PIPE 2oz 1996 - C",
+      "price": "$235.00",
+      "url": "https://www.4noggins.com/products/dunhill-early-morning-pipe-2oz-1996-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-17T15:14:12.893723+00:00",
+      "last_updated": "2026-08-17T15:14:12.893723+00:00",
+      "price_history": [
+        {
+          "price": "$235.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller Dunhill Early Morning Pipe 2oz 1996"
+    },
+    {
+      "name": "Esoterica: MARGATE 8oz 2005 - C",
+      "price": "$1585.00",
+      "url": "https://www.4noggins.com/products/esoterica-margate-8oz-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-17T15:14:12.893723+00:00",
+      "last_updated": "2026-08-17T15:14:12.893723+00:00",
+      "price_history": [
+        {
+          "price": "$1585.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Margate 8oz 2005"
+    },
+    {
+      "name": "Fribourg & Treyer: SPECIAL BROWN FLAKE 50g 2012 - C",
+      "price": "$195.00",
+      "url": "https://www.4noggins.com/products/fribourg-treyer-special-brown-flake-50g-2012-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-17T15:14:12.893723+00:00",
+      "last_updated": "2026-08-17T15:14:12.893723+00:00",
+      "price_history": [
+        {
+          "price": "$195.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller A medium brown Virginia flake with a top note of Navy rum. Strength: Medium Flavoring: None Detected Taste: Mild to Medium Room Note: Pleasant"
+    },
+    {
+      "name": "Friedman & Pease: WINTER'S TALE 1999 - C",
+      "price": "$325.00",
+      "url": "https://www.4noggins.com/products/friedman-pease-winters-tale-1998-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-17T15:14:12.893723+00:00",
+      "last_updated": "2026-08-17T15:14:12.893723+00:00",
+      "price_history": [
+        {
+          "price": "$325.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller Friedman &amp; Pease Winter's Tale 1999"
+    },
+    {
+      "name": "Gawith & Hoggarth Seasonal Reserve",
+      "price": "$135.00",
+      "url": "https://www.4noggins.com/products/gawith-hoggarth-seasonal-reserve",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-17T15:14:12.893723+00:00",
+      "last_updated": "2026-08-17T15:14:12.893723+00:00",
+      "price_history": [
+        {
+          "price": "$135.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller Gawith &amp; Hoggarth Seasonal Reserve"
+    },
+    {
+      "name": "Murray Sons & Co: ERINMORE MIXTURE 50g 1996 - C",
+      "price": "$195.00",
+      "url": "https://www.4noggins.com/products/murray-sons-co-erinmore-mixture-2004-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-17T15:14:12.893723+00:00",
+      "last_updated": "2026-08-17T15:14:12.893723+00:00",
+      "price_history": [
+        {
+          "price": "$195.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owed by 3rd party seller Erinmore Mixture 1996 Made in Northern Ireland by Murray Sons &amp; Co."
+    },
+    {
+      "name": "Rattray's: OLD GOWRIE 100g 2016 - C",
+      "price": "$145.00",
+      "url": "https://www.4noggins.com/products/rattrays-old-gowrie-100g-1995-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-17T15:14:12.893723+00:00",
+      "last_updated": "2026-08-17T15:14:12.893723+00:00",
+      "price_history": [
+        {
+          "price": "$145.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller Rattray's Old Gowrie 100g 2016"
+    },
+    {
+      "name": "Samuel Gawith: 1792 FLAKE 50g 2019 - C",
+      "price": "$155.00",
+      "url": "https://www.4noggins.com/products/samuel-gawith-1792-flake-50g-1",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-17T15:14:12.893723+00:00",
+      "last_updated": "2026-08-17T15:14:12.893723+00:00",
+      "price_history": [
+        {
+          "price": "$155.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller Dark-fired leaf hot pressed and cut into a 6\" flake before adding a dressing of Tonquin flavor. A full strength, full flavored pipe tobacco. Strength: Very Strong Flavoring: Medium Taste: Very Full Room Note: Tolerable to Strong"
+    },
+    {
+      "name": "Samuel Gawith: CABBIE'S MIXTURE 50g 2016 - C",
+      "price": "$195.00",
+      "url": "https://www.4noggins.com/products/samuel-gawith-cabbies-mixture-50g-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-17T15:14:12.893723+00:00",
+      "last_updated": "2026-08-17T15:14:12.893723+00:00",
+      "price_history": [
+        {
+          "price": "$195.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller A Virginia and Perique twist hand rolled, then hand sliced. A sweet natural Virginia taste takes center stage when lit with the Perique, giving a spicy undertone to the flavour. Strength: Medium Flavoring: None Detected Taste: Medium to Full Room Note: Pleasant to Tolerable"
     },
     {
       "name": "Esoterica: DUNBAR 8oz 2022 - C",
@@ -6605,7 +6788,7 @@
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
     }
   ],
-  "last_scraped": "2026-08-16T15:14:20.001719+00:00",
+  "last_scraped": "2026-08-17T15:14:12.893723+00:00",
   "latest_scrape": [
     {
       "name": "A&C Peterson: PREMIER CRU - C",
@@ -7476,10 +7659,18 @@
         {
           "price": "$245.00",
           "date": "2026-08-16T15:14:20.001719+00:00"
+        },
+        {
+          "price": "$285.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        },
+        {
+          "price": "$245.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Butera Pelican 2oz Tin 2014 .",
-      "last_updated": "2026-08-16T15:14:20.001719+00:00"
+      "last_updated": "2026-08-17T15:14:12.893723+00:00"
     },
     {
       "name": "Butera: PELICAN 2014 2oz - C",
@@ -7816,10 +8007,18 @@
         {
           "price": "$245.00",
           "date": "2026-08-16T15:14:20.001719+00:00"
+        },
+        {
+          "price": "$285.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        },
+        {
+          "price": "$245.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Butera Pelican 2oz Tin 2014 .",
-      "last_updated": "2026-08-16T15:14:20.001719+00:00"
+      "last_updated": "2026-08-17T15:14:12.893723+00:00"
     },
     {
       "name": "CAO: MOONTRANCE 50g 2011 - C",
@@ -8281,6 +8480,21 @@
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Dunhill Durbar 50g 2005",
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
+    },
+    {
+      "name": "Dunhill: EARLY MORNING PIPE 2oz 1996 - C",
+      "price": "$235.00",
+      "url": "https://www.4noggins.com/products/dunhill-early-morning-pipe-2oz-1996-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-17T15:14:12.893723+00:00",
+      "last_updated": "2026-08-17T15:14:12.893723+00:00",
+      "price_history": [
+        {
+          "price": "$235.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller Dunhill Early Morning Pipe 2oz 1996"
     },
     {
       "name": "Dunhill: ELIZABETHAN MIXTURE 50g 2017 -C",
@@ -8872,10 +9086,18 @@
         {
           "price": "$150.00",
           "date": "2026-08-16T15:14:20.001719+00:00"
+        },
+        {
+          "price": "$140.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        },
+        {
+          "price": "$150.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica And So To Bed 2oz",
-      "last_updated": "2026-08-16T15:14:20.001719+00:00"
+      "last_updated": "2026-08-17T15:14:12.893723+00:00"
     },
     {
       "name": "Esoterica: AND SO TO BED 2oz - C",
@@ -9232,10 +9454,18 @@
         {
           "price": "$150.00",
           "date": "2026-08-16T15:14:20.001719+00:00"
+        },
+        {
+          "price": "$140.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        },
+        {
+          "price": "$150.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica And So To Bed 2oz",
-      "last_updated": "2026-08-16T15:14:20.001719+00:00"
+      "last_updated": "2026-08-17T15:14:12.893723+00:00"
     },
     {
       "name": "Esoterica: AND SO TO BED 8oz - C",
@@ -9342,7 +9572,7 @@
       "url": "https://www.4noggins.com/products/copy-of-esoterica-dorchester-8oz-c",
       "source": "4noggins.com",
       "first_seen": "2026-06-24T15:14:15.069299+00:00",
-      "last_updated": "2026-08-16T15:14:20.001719+00:00",
+      "last_updated": "2026-08-17T15:14:12.893723+00:00",
       "price_history": [
         {
           "price": "$495.00",
@@ -9499,6 +9729,14 @@
         {
           "price": "$495.00",
           "date": "2026-08-16T15:14:20.001719+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        },
+        {
+          "price": "$495.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
         }
       ],
       "description": "Default Title Consignement tin owned by 3rd party seller Esoterica 8oz Bag"
@@ -9509,7 +9747,7 @@
       "url": "https://www.4noggins.com/products/copy-of-esoterica-dorchester-8oz-c",
       "source": "4noggins.com",
       "first_seen": "2026-06-24T15:14:15.069299+00:00",
-      "last_updated": "2026-08-16T15:14:20.001719+00:00",
+      "last_updated": "2026-08-17T15:14:12.893723+00:00",
       "price_history": [
         {
           "price": "$495.00",
@@ -9666,6 +9904,14 @@
         {
           "price": "$495.00",
           "date": "2026-08-16T15:14:20.001719+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        },
+        {
+          "price": "$495.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
         }
       ],
       "description": "Default Title Consignement tin owned by 3rd party seller Esoterica 8oz Bag"
@@ -10328,10 +10574,18 @@
         {
           "price": "$525.00",
           "date": "2026-08-16T15:14:20.001719+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Margate 8oz",
-      "last_updated": "2026-08-16T15:14:20.001719+00:00"
+      "last_updated": "2026-08-17T15:14:12.893723+00:00"
     },
     {
       "name": "Esoterica: MARGATE 8oz - C",
@@ -10680,10 +10934,33 @@
         {
           "price": "$525.00",
           "date": "2026-08-16T15:14:20.001719+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Margate 8oz",
-      "last_updated": "2026-08-16T15:14:20.001719+00:00"
+      "last_updated": "2026-08-17T15:14:12.893723+00:00"
+    },
+    {
+      "name": "Esoterica: MARGATE 8oz 2005 - C",
+      "price": "$1585.00",
+      "url": "https://www.4noggins.com/products/esoterica-margate-8oz-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-17T15:14:12.893723+00:00",
+      "last_updated": "2026-08-17T15:14:12.893723+00:00",
+      "price_history": [
+        {
+          "price": "$1585.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Margate 8oz 2005"
     },
     {
       "name": "Esoterica: PEMBROKE 2oz - C",
@@ -11214,10 +11491,18 @@
         {
           "price": "$545.00",
           "date": "2026-08-16T15:14:20.001719+00:00"
+        },
+        {
+          "price": "$575.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        },
+        {
+          "price": "$545.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica St Ives 8oz",
-      "last_updated": "2026-08-16T15:14:20.001719+00:00"
+      "last_updated": "2026-08-17T15:14:12.893723+00:00"
     },
     {
       "name": "Esoterica: ST. IVES 8oz - C",
@@ -11602,10 +11887,18 @@
         {
           "price": "$545.00",
           "date": "2026-08-16T15:14:20.001719+00:00"
+        },
+        {
+          "price": "$575.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        },
+        {
+          "price": "$545.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica St Ives 8oz",
-      "last_updated": "2026-08-16T15:14:20.001719+00:00"
+      "last_updated": "2026-08-17T15:14:12.893723+00:00"
     },
     {
       "name": "Esoterica: STONEHAVEN 2oz - C",
@@ -11670,26 +11963,6 @@
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Tibury 2oz",
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
-    },
-    {
-      "name": "Esoterica: TILBURY 2oz - C",
-      "price": "$130.00",
-      "url": "https://www.4noggins.com/products/esoterica-tilbury-2oz-c-1",
-      "source": "4noggins.com",
-      "first_seen": "2026-06-21T02:45:17.226279+00:00",
-      "last_seen": "2026-06-23T15:14:19.145115+00:00",
-      "price_history": [
-        {
-          "price": "$150.00",
-          "date": "2026-06-21T02:45:17.226279+00:00"
-        },
-        {
-          "price": "$130.00",
-          "date": "2026-06-24T15:14:15.069299+00:00"
-        }
-      ],
-      "description": "Default Title Consignment tin owned by 3rd party seller A harmonious blend of Golden and Dark Virginias with small portions of Burley and air-cured leaf. Matured by a special process over 100 years old, producing a unique natural aroma and piquant flavor. This is a potent pipe tobacco. Strength: Medium Flavoring: None Detected Taste: Medium Room Note: Pleasant to Tolerable",
-      "last_updated": "2026-06-24T15:14:15.069299+00:00"
     },
     {
       "name": "Esoterica: TILBURY 8oz - C",
@@ -11776,6 +12049,21 @@
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
     },
     {
+      "name": "Fribourg & Treyer: SPECIAL BROWN FLAKE 50g 2012 - C",
+      "price": "$195.00",
+      "url": "https://www.4noggins.com/products/fribourg-treyer-special-brown-flake-50g-2012-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-17T15:14:12.893723+00:00",
+      "last_updated": "2026-08-17T15:14:12.893723+00:00",
+      "price_history": [
+        {
+          "price": "$195.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller A medium brown Virginia flake with a top note of Navy rum. Strength: Medium Flavoring: None Detected Taste: Mild to Medium Room Note: Pleasant"
+    },
+    {
       "name": "Fribourg & Treyer: VINTAGE FLAKE 50g 2004 - C",
       "price": "$165.00",
       "url": "https://www.4noggins.com/products/fribourg-treyer-vintage-flake-50g-2004-c",
@@ -11790,6 +12078,21 @@
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Fribourg &amp; Treyer Vintage Flake 50g 2004",
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
+    },
+    {
+      "name": "Friedman & Pease: WINTER'S TALE 1999 - C",
+      "price": "$325.00",
+      "url": "https://www.4noggins.com/products/friedman-pease-winters-tale-1998-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-17T15:14:12.893723+00:00",
+      "last_updated": "2026-08-17T15:14:12.893723+00:00",
+      "price_history": [
+        {
+          "price": "$325.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller Friedman &amp; Pease Winter's Tale 1999"
     },
     {
       "name": "G. L. Pease: ARAGORN 2004 - C",
@@ -12175,6 +12478,21 @@
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
     },
     {
+      "name": "Gawith & Hoggarth Seasonal Reserve",
+      "price": "$135.00",
+      "url": "https://www.4noggins.com/products/gawith-hoggarth-seasonal-reserve",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-17T15:14:12.893723+00:00",
+      "last_updated": "2026-08-17T15:14:12.893723+00:00",
+      "price_history": [
+        {
+          "price": "$135.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller Gawith &amp; Hoggarth Seasonal Reserve"
+    },
+    {
       "name": "Gawith Hoggarth: BRIGHT CR BURNT ENDS 500g - C",
       "price": "$295.00",
       "url": "https://www.4noggins.com/products/gawith-hoggarth-bright-cr-burnt-ends-500g-c",
@@ -12377,10 +12695,18 @@
         {
           "price": "$135.00",
           "date": "2026-08-16T15:14:20.001719+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        },
+        {
+          "price": "$135.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
         }
       ],
       "description": "Default Title Consignment tins owned by 3rd party seller JF Germain Bridge Old Brown Flake 50g",
-      "last_updated": "2026-08-16T15:14:20.001719+00:00"
+      "last_updated": "2026-08-17T15:14:12.893723+00:00"
     },
     {
       "name": "J.F. Germain: BRIDGE OLD BROWN FLAKE 50g -C",
@@ -12505,10 +12831,18 @@
         {
           "price": "$135.00",
           "date": "2026-08-16T15:14:20.001719+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        },
+        {
+          "price": "$135.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
         }
       ],
       "description": "Default Title Consignment tins owned by 3rd party seller JF Germain Bridge Old Brown Flake 50g",
-      "last_updated": "2026-08-16T15:14:20.001719+00:00"
+      "last_updated": "2026-08-17T15:14:12.893723+00:00"
     },
     {
       "name": "J.F. Germain: BROWN FLAKE 50g - C",
@@ -13940,6 +14274,21 @@
       "description": "Default Title Consignment tin owned by 3rd party seller Mullingar's Moyhall 2oz. 1992"
     },
     {
+      "name": "Murray Sons & Co: ERINMORE MIXTURE 50g 1996 - C",
+      "price": "$195.00",
+      "url": "https://www.4noggins.com/products/murray-sons-co-erinmore-mixture-2004-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-17T15:14:12.893723+00:00",
+      "last_updated": "2026-08-17T15:14:12.893723+00:00",
+      "price_history": [
+        {
+          "price": "$195.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owed by 3rd party seller Erinmore Mixture 1996 Made in Northern Ireland by Murray Sons &amp; Co."
+    },
+    {
       "name": "Nording: Hunter Blend: BEAGLE 1.75oz - C",
       "price": "$165.00",
       "url": "https://www.4noggins.com/products/nording-hunter-blend-beagle-50g",
@@ -14033,6 +14382,21 @@
       "description": "Default Title Consignment tin owned by 3rd party seller Rattrays Marlin Flake 100g 2014"
     },
     {
+      "name": "Rattray's: OLD GOWRIE 100g 2016 - C",
+      "price": "$145.00",
+      "url": "https://www.4noggins.com/products/rattrays-old-gowrie-100g-1995-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-17T15:14:12.893723+00:00",
+      "last_updated": "2026-08-17T15:14:12.893723+00:00",
+      "price_history": [
+        {
+          "price": "$145.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller Rattray's Old Gowrie 100g 2016"
+    },
+    {
       "name": "Robert Lewis: TREE MIXTURE 50g 2011 - C",
       "price": "$125.00",
       "url": "https://www.4noggins.com/products/robert-lewis-tree-mixture-50g-2011-c",
@@ -14097,6 +14461,21 @@
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
     },
     {
+      "name": "Samuel Gawith: 1792 FLAKE 50g 2019 - C",
+      "price": "$155.00",
+      "url": "https://www.4noggins.com/products/samuel-gawith-1792-flake-50g-1",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-17T15:14:12.893723+00:00",
+      "last_updated": "2026-08-17T15:14:12.893723+00:00",
+      "price_history": [
+        {
+          "price": "$155.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller Dark-fired leaf hot pressed and cut into a 6\" flake before adding a dressing of Tonquin flavor. A full strength, full flavored pipe tobacco. Strength: Very Strong Flavoring: Medium Taste: Very Full Room Note: Tolerable to Strong"
+    },
+    {
       "name": "Samuel Gawith: BOTHY FLAKE 50g 2018 - C",
       "price": "$135.00",
       "url": "https://www.4noggins.com/products/samuel-gawith-bothy-flake-50g-2018-c",
@@ -14142,6 +14521,21 @@
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Samuel Gawith Brown No. 4 50g 2011",
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
+    },
+    {
+      "name": "Samuel Gawith: CABBIE'S MIXTURE 50g 2016 - C",
+      "price": "$195.00",
+      "url": "https://www.4noggins.com/products/samuel-gawith-cabbies-mixture-50g-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-08-17T15:14:12.893723+00:00",
+      "last_updated": "2026-08-17T15:14:12.893723+00:00",
+      "price_history": [
+        {
+          "price": "$195.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller A Virginia and Perique twist hand rolled, then hand sliced. A sweet natural Virginia taste takes center stage when lit with the Perique, giving a spicy undertone to the flavour. Strength: Medium Flavoring: None Detected Taste: Medium to Full Room Note: Pleasant to Tolerable"
     },
     {
       "name": "Samuel Gawith: COMMONWEALTH MIXTURE 50g 2003 - C",
@@ -14850,6 +15244,13 @@
       "added": 0,
       "price_changed": 12,
       "total": 280
+    },
+    {
+      "date": "2026-08-17T15:14:12.893723+00:00",
+      "found": 269,
+      "added": 9,
+      "price_changed": 12,
+      "total": 289
     }
   ]
 }
