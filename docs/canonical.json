@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-16T19:16:19.795765+00:00",
+  "generated": "2026-08-17T04:09:08.870373+00:00",
   "stats": {
-    "total_listings": 6022,
-    "excluded_multipacks": 1915,
+    "total_listings": 6048,
+    "excluded_multipacks": 1917,
     "total_tins": 1223,
     "multi_member_tins": 585,
     "listings_in_groups": 2842,
@@ -26463,15 +26463,19 @@
             {
               "name": "2014 Esoterica Penzance - 8 oz bag",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/206771/",
-              "price": "$1010.00",
-              "last_updated": "2026-07-22T04:00:23.846594+00:00",
+              "url": "https://tinbids.com/auction/215277/",
+              "price": "$1230.00",
+              "last_updated": "2026-08-17T04:00:20.327706+00:00",
               "first_seen": "2026-07-21T23:10:12+00:00",
               "year": "2014",
               "price_history": [
                 {
                   "price": "$1010.00",
                   "date": "2026-07-21T23:10:12+00:00"
+                },
+                {
+                  "price": "$1230.00",
+                  "date": "2026-08-17T04:00:20.327706+00:00"
                 }
               ]
             },
@@ -44915,9 +44919,9 @@
             {
               "name": "Jewel Of St James Genuine Louisiana Perique 1 OZ sealed jar",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/213070/",
-              "price": "$125.00",
-              "last_updated": "2026-08-08T16:00:27.016980+00:00",
+              "url": "https://tinbids.com/auction/216396/",
+              "price": "$129.00",
+              "last_updated": "2026-08-17T04:00:20.327706+00:00",
               "first_seen": "2026-06-26T23:39:43+00:00",
               "year": "",
               "price_history": [
@@ -44936,6 +44940,10 @@
                 {
                   "price": "$125.00",
                   "date": "2026-08-08T16:00:27.016980+00:00"
+                },
+                {
+                  "price": "$129.00",
+                  "date": "2026-08-17T04:00:20.327706+00:00"
                 }
               ]
             }
@@ -61179,9 +61187,9 @@
             {
               "name": "2017 Frog Morton on the log 50 gram",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203344/",
-              "price": "$100.00",
-              "last_updated": "2026-07-08T16:00:52.356818+00:00",
+              "url": "https://tinbids.com/auction/219102/",
+              "price": "$120.00",
+              "last_updated": "2026-08-17T04:00:20.327706+00:00",
               "first_seen": "2026-06-24T20:11:05+00:00",
               "year": "2017",
               "price_history": [
@@ -61196,6 +61204,10 @@
                 {
                   "price": "$100.00",
                   "date": "2026-07-08T16:00:52.356818+00:00"
+                },
+                {
+                  "price": "$120.00",
+                  "date": "2026-08-17T04:00:20.327706+00:00"
                 }
               ]
             },
@@ -80722,15 +80734,19 @@
             {
               "name": "(2017) Samuel Gawith Full Virginia Flake",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/207088/",
-              "price": "$74.00",
-              "last_updated": "2026-07-19T04:00:29.560109+00:00",
+              "url": "https://tinbids.com/auction/217213/",
+              "price": "$80.00",
+              "last_updated": "2026-08-17T04:00:20.327706+00:00",
               "first_seen": "2026-07-19T02:43:06+00:00",
               "year": "2017",
               "price_history": [
                 {
                   "price": "$74.00",
                   "date": "2026-07-19T02:43:06+00:00"
+                },
+                {
+                  "price": "$80.00",
+                  "date": "2026-08-17T04:00:20.327706+00:00"
                 }
               ]
             },
@@ -96289,9 +96305,9 @@
             {
               "name": "(2020) Wessex Campaign Dark Flake",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/207426/",
-              "price": "$30.00",
-              "last_updated": "2026-07-20T04:00:25.054246+00:00",
+              "url": "https://tinbids.com/auction/218336/",
+              "price": "$35.00",
+              "last_updated": "2026-08-17T04:00:20.327706+00:00",
               "first_seen": "2026-07-12T03:06:56+00:00",
               "year": "2020",
               "price_history": [
@@ -96302,6 +96318,10 @@
                 {
                   "price": "$30.00",
                   "date": "2026-07-20T04:00:25.054246+00:00"
+                },
+                {
+                  "price": "$35.00",
+                  "date": "2026-08-17T04:00:20.327706+00:00"
                 }
               ]
             },
@@ -98155,6 +98175,11 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Jewel Of St James Genuine Louisiana Perique 1 OZ sealed jar": "jewelofstjames|perique",
+    "2014 Esoterica Penzance - 8 oz bag": "esoterica|penzance",
+    "(2020) Wessex Campaign Dark Flake": "wessex|brigadecampaigndarkflake",
+    "(2017) Samuel Gawith Full Virginia Flake": "samuelgawith|fullvirginiaflake",
+    "2017 Frog Morton on the log 50 gram": "mcclelland|frogmorton",
     "Collectible Samuel Gawith Bob’s Chocolate Flake 50gm Sealed Pipe Tobacco Tin ‘24": "gawithhoggarthco|bobschocolateflake",
     "GL Pease 25th Anniversary Silver Jubilee": "glpease|25thanniversary",
     "Esoterica - Penzance - 2oz": "esoterica|penzance",
@@ -98199,7 +98224,6 @@
     "Very Nice Sealed 2018 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
     "Very Nice Sealed in Package Gallaher's Condor Plug 25g Tiny Pack": "condor|plug",
     "Gawith & Hoggarth-Balkan Mixture": "gawithhoggarthco|balkanmixture",
-    "Jewel Of St James Genuine Louisiana Perique 1 OZ sealed jar": "jewelofstjames|perique",
     "McClelland 40th Anniversary - NR BIN $225": "mcclelland|40thanniversary",
     "Ashton Artisan’s Blend Tobacco Sealed Tin Century 2012 50g Syrian Latakia Pipe Tobacco": "ashton|artisansblend",
     "Fox Bankers Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|bankers",
@@ -98569,7 +98593,6 @@
     "2018 Esoterica Margate 8oz Bag (1 DAY AUCTION)": "esoterica|margate",
     "2017 McClelland Beacon - 50 grams": "mcclelland|beacon",
     "Esoterica Tobacciana Tilbury 2oz Tin": "esoterica|tilbury",
-    "2014 Esoterica Penzance - 8 oz bag": "esoterica|penzance",
     "100g Frog Morton on the log 2018": "mcclelland|frogmorton",
     "Cringle Flake 2023 (12 year old Virginias & 22 Year Old Perique)": "sutliff|cringleflake",
     "2021 C&D Small Batch -Sun Bear Black Locust-": "cornelldiehl|sunbearblacklocust",
@@ -98646,7 +98669,6 @@
     "2016 McClelland’s Blackwoods Flake - 1 Tin NR BIN $225": "mcclelland|blackwoodsflake",
     "Very Nice Sealed 2012 McCranie's Red Flake Prime 2008 Red Virginia 50g. Tin": "mccranies|redflake",
     "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
-    "(2020) Wessex Campaign Dark Flake": "wessex|brigadecampaigndarkflake",
     "Excellent Sealed Sutliff Cringle Flake Holiday Edition 2022 Tobacco Tin": "sutliff|cringleflake",
     "Very Nice Sealed 2018 Dunhill Durbar Mixture 50g. Tin": "dunhill|durbar",
     "2017 Frog Morton on the Bayou - 1 Tin NR BIN $225": "mcclelland|frogmortononthebayou",
@@ -98715,7 +98737,6 @@
     "Sutliff - Great Outdoors": "sutliff|greatoutdoors",
     "'24 Samuel Gawith 1792 - Burnt Ends": "samuelgawith|flakeburntends",
     "'15 Dunhill Flake": "dunhill|flake",
-    "(2017) Samuel Gawith Full Virginia Flake": "samuelgawith|fullvirginiaflake",
     "(2018) Samuel Gawith ST James Flake": "samuelgawith|stjamesflake",
     "Germain's B.K. Flake - 1 Tin NR BIN $80": "jfgermain|bkflake",
     "Esoterica And So To Bed - No Reserve": "esoterica|andsotobed",
@@ -99011,7 +99032,6 @@
     "Vintage ERINMORE PIPE TOBACCO MIXTURE John Murray (2017) 100g - Sealed Tin": "erinmore|mixture",
     "Samuel Gawith Bracken Flake - pre-2009": "samuelgawith|brackenflake",
     "Savinelli Doblone d'Oro 100g 2018": "savinelli|doblonedoro",
-    "2017 Frog Morton on the log 50 gram": "mcclelland|frogmorton",
     "Sutliff - Crumble Kake Barrel Aged Series No.4 Limited Edition 64/4200": "sutliff|crumblekakebarrelagedno4",
     "Sutliff - Crumble Kake Red Virginia": "sutliff|crumblekakeredvirginias",
     "Cornell & Diehl Midnight Orchard 2oz Pipe Tobacco": "cornelldiehl|midnightorchard",
