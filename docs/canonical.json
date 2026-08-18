@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-18T15:14:17.105765+00:00",
+  "generated": "2026-08-18T16:08:54.129924+00:00",
   "stats": {
-    "total_listings": 6121,
-    "excluded_multipacks": 1931,
+    "total_listings": 6134,
+    "excluded_multipacks": 1933,
     "total_tins": 1223,
     "multi_member_tins": 585,
     "listings_in_groups": 2842,
@@ -1412,9 +1412,9 @@
             {
               "name": "Ashton Rainy Day NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/211349/",
-              "price": "$16.00",
-              "last_updated": "2026-08-04T04:00:32.453136+00:00",
+              "url": "https://tinbids.com/auction/216958/",
+              "price": "$10.50",
+              "last_updated": "2026-08-18T16:00:25.835408+00:00",
               "first_seen": "2026-06-30T05:02:53+00:00",
               "year": "",
               "price_history": [
@@ -1425,6 +1425,10 @@
                 {
                   "price": "$16.00",
                   "date": "2026-08-04T04:00:32.453136+00:00"
+                },
+                {
+                  "price": "$10.50",
+                  "date": "2026-08-18T16:00:25.835408+00:00"
                 }
               ]
             }
@@ -18550,7 +18554,7 @@
             {
               "name": "Dunhill Durbar Mixture 2017 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/214110/",
+              "url": "https://tinbids.com/auction/216948/",
               "price": "$46.00",
               "last_updated": "2026-08-11T04:00:27.216448+00:00",
               "first_seen": "2026-07-14T04:53:06+00:00",
@@ -20554,9 +20558,9 @@
             {
               "name": "Dunhill Ready Rubbed 2017 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/214116/",
-              "price": "$20.00",
-              "last_updated": "2026-08-11T04:00:27.216448+00:00",
+              "url": "https://tinbids.com/auction/216951/",
+              "price": "$20.50",
+              "last_updated": "2026-08-18T16:00:25.835408+00:00",
               "first_seen": "2026-06-30T04:21:19+00:00",
               "year": "2017",
               "price_history": [
@@ -20575,6 +20579,10 @@
                 {
                   "price": "$20.00",
                   "date": "2026-08-11T04:00:27.216448+00:00"
+                },
+                {
+                  "price": "$20.50",
+                  "date": "2026-08-18T16:00:25.835408+00:00"
                 }
               ]
             },
@@ -55467,15 +55475,19 @@
             {
               "name": "Mac Baren’s Stockton Spun Cut 2023 3.5 oz tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/211004/",
-              "price": "$54.00",
-              "last_updated": "2026-08-03T16:00:31.933243+00:00",
+              "url": "https://tinbids.com/auction/216959/",
+              "price": "$41.00",
+              "last_updated": "2026-08-18T16:00:25.835408+00:00",
               "first_seen": "2026-08-03T06:57:23+00:00",
               "year": "2023",
               "price_history": [
                 {
                   "price": "$54.00",
                   "date": "2026-08-03T06:57:23+00:00"
+                },
+                {
+                  "price": "$41.00",
+                  "date": "2026-08-18T16:00:25.835408+00:00"
                 }
               ]
             }
@@ -98319,6 +98331,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
+    "Ashton Rainy Day NR": "ashton|rainyday",
+    "Mac Baren’s Stockton Spun Cut 2023 3.5 oz tin": "macbaren|stocktonspuncut",
     "Very Nice 2004 G. L. Pease Bohemian Scandal Jarred in 2017 Seal Tight Jar": "glpease|bohemianscandal",
     "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
     "Dunhill standard mixture 50 g tin": "dunhill|standardmixture",
@@ -98358,7 +98373,6 @@
     "Dunhill The “Royal Yacht” Mixture 2016 NR": "dunhill|royalyacht",
     "C&D 2026 Firebird Flake": "cornelldiehl|firebirdflake",
     "1 pound S&G Full Virginia Flake": "samuelgawith|fullvirginiaflake",
-    "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
     "Midnight Orchard": "cornelldiehl|midnightorchard",
     "Wessex Burley Slice 50g Tin": "wessex|burleyslice",
     "Esoterica Stonehaven 2017 | 8oz Bag | La Clave Collection": "esoterica|stonehaven",
@@ -98397,8 +98411,6 @@
     "Excellent Sealed 2010 McClelland's Wilderness 50g. Tin": "mcclelland|wilderness",
     "Cornell & Diehl Small Batch Sun Bear Navy Cask": "cornelldiehl|sunbearnavycask",
     "Excellent Sealed 2018 Dunhill Nightcap 50g. Tin": "dunhill|nightcap",
-    "Ashton Rainy Day NR": "ashton|rainyday",
-    "Mac Baren’s Stockton Spun Cut 2023 3.5 oz tin": "macbaren|stocktonspuncut",
     "Mac Baren Dark Twist Roll Cake 2021 3.5 oz tin": "macbaren|darktwist",
     "Mac Baren Old Dark Fired 2024 3.5 oz tin": "macbaren|hholddarkfired",
     "Cornell & Diehl 2022 Carolina Red Flake 2oz": "cornelldiehl|carolinaredflake",
