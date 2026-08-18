@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-17T19:16:16.883477+00:00",
+  "generated": "2026-08-18T04:11:06.513225+00:00",
   "stats": {
-    "total_listings": 6077,
-    "excluded_multipacks": 1918,
+    "total_listings": 6121,
+    "excluded_multipacks": 1931,
     "total_tins": 1223,
     "multi_member_tins": 585,
     "listings_in_groups": 2842,
@@ -18236,9 +18236,9 @@
             {
               "name": "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/212086/",
-              "price": "$41.00",
-              "last_updated": "2026-08-04T04:00:32.453136+00:00",
+              "url": "https://tinbids.com/auction/217852/",
+              "price": "$43.00",
+              "last_updated": "2026-08-18T04:00:24.255785+00:00",
               "first_seen": "2026-06-22T13:53:20.063064+00:00",
               "year": "2018",
               "price_history": [
@@ -18249,6 +18249,10 @@
                 {
                   "price": "$41.00",
                   "date": "2026-08-04T04:00:32.453136+00:00"
+                },
+                {
+                  "price": "$43.00",
+                  "date": "2026-08-18T04:00:24.255785+00:00"
                 }
               ]
             },
@@ -20899,15 +20903,19 @@
             {
               "name": "Dunhill standard mixture 50 g tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/211664/",
-              "price": "$41.00",
-              "last_updated": "2026-08-03T04:00:33.191532+00:00",
+              "url": "https://tinbids.com/auction/217685/",
+              "price": "$31.00",
+              "last_updated": "2026-08-18T04:00:24.255785+00:00",
               "first_seen": "2026-08-02T22:57:51+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$41.00",
                   "date": "2026-08-02T22:57:51+00:00"
+                },
+                {
+                  "price": "$31.00",
+                  "date": "2026-08-18T04:00:24.255785+00:00"
                 }
               ]
             }
@@ -30085,9 +30093,9 @@
             {
               "name": "Very Nice 2004 G. L. Pease Bohemian Scandal Jarred in 2017 Seal Tight Jar",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/213994/",
-              "price": "$34.49",
-              "last_updated": "2026-08-09T04:00:23.523672+00:00",
+              "url": "https://tinbids.com/auction/217873/",
+              "price": "$62.49",
+              "last_updated": "2026-08-18T04:00:24.255785+00:00",
               "first_seen": "2026-07-14T19:28:55+00:00",
               "year": "2004",
               "price_history": [
@@ -30098,6 +30106,10 @@
                 {
                   "price": "$34.49",
                   "date": "2026-08-09T04:00:23.523672+00:00"
+                },
+                {
+                  "price": "$62.49",
+                  "date": "2026-08-18T04:00:24.255785+00:00"
                 }
               ]
             }
@@ -57029,6 +57041,29 @@
               ]
             },
             {
+              "name": "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/217891/",
+              "price": "$194.00",
+              "last_updated": "2026-08-18T04:00:24.255785+00:00",
+              "first_seen": "2026-07-11T22:13:59+00:00",
+              "year": "2017",
+              "price_history": [
+                {
+                  "price": "$205.00",
+                  "date": "2026-07-11T22:13:59+00:00"
+                },
+                {
+                  "price": "$172.00",
+                  "date": "2026-07-20T04:00:25.054246+00:00"
+                },
+                {
+                  "price": "$194.00",
+                  "date": "2026-08-18T04:00:24.255785+00:00"
+                }
+              ]
+            },
+            {
               "name": "2017 McClelland 40th Anniversary 100g",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/212798/",
@@ -57040,25 +57075,6 @@
                 {
                   "price": "$220.00",
                   "date": "2026-07-26T23:52:59+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/206702/",
-              "price": "$172.00",
-              "last_updated": "2026-07-20T04:00:25.054246+00:00",
-              "first_seen": "2026-07-11T22:13:59+00:00",
-              "year": "2017",
-              "price_history": [
-                {
-                  "price": "$205.00",
-                  "date": "2026-07-11T22:13:59+00:00"
-                },
-                {
-                  "price": "$172.00",
-                  "date": "2026-07-20T04:00:25.054246+00:00"
                 }
               ]
             },
@@ -57738,15 +57754,19 @@
             {
               "name": "McCLELLAND BALKAN BLUE",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/211519/",
-              "price": "$100.00",
-              "last_updated": "2026-07-14T04:00:50.482103+00:00",
+              "url": "https://tinbids.com/auction/217910/",
+              "price": "$85.00",
+              "last_updated": "2026-08-18T04:00:24.255785+00:00",
               "first_seen": "2026-07-13T23:47:58+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$100.00",
                   "date": "2026-07-13T23:47:58+00:00"
+                },
+                {
+                  "price": "$85.00",
+                  "date": "2026-08-18T04:00:24.255785+00:00"
                 }
               ]
             },
@@ -67751,9 +67771,9 @@
             {
               "name": "Very Nice Sealed 2012 McCranie's Red Flake Prime 2008 Red Virginia 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/206658/",
-              "price": "$112.00",
-              "last_updated": "2026-07-20T04:00:25.054246+00:00",
+              "url": "https://tinbids.com/auction/217858/",
+              "price": "$90.00",
+              "last_updated": "2026-08-18T04:00:24.255785+00:00",
               "first_seen": "2026-06-22T13:53:20.063064+00:00",
               "year": "2012",
               "price_history": [
@@ -67768,6 +67788,10 @@
                 {
                   "price": "$112.00",
                   "date": "2026-07-20T04:00:25.054246+00:00"
+                },
+                {
+                  "price": "$90.00",
+                  "date": "2026-08-18T04:00:24.255785+00:00"
                 }
               ]
             },
@@ -84891,15 +84915,19 @@
             {
               "name": "Excellent Sealed 2018 Exotique Mixture Smokers' Haven 2oz. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203577/",
-              "price": "$86.01",
-              "last_updated": "2026-07-12T04:00:50.529539+00:00",
+              "url": "https://tinbids.com/auction/217831/",
+              "price": "$84.00",
+              "last_updated": "2026-08-18T04:00:24.255785+00:00",
               "first_seen": "2026-07-11T22:09:50+00:00",
               "year": "2018",
               "price_history": [
                 {
                   "price": "$86.01",
                   "date": "2026-07-11T22:09:50+00:00"
+                },
+                {
+                  "price": "$84.00",
+                  "date": "2026-08-18T04:00:24.255785+00:00"
                 }
               ]
             }
@@ -85365,15 +85393,19 @@
             {
               "name": "Excellent Sealed 2018 Smokers Haven Cognac 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/204747/",
-              "price": "$101.00",
-              "last_updated": "2026-07-15T04:00:49.070316+00:00",
+              "url": "https://tinbids.com/auction/217898/",
+              "price": "$110.00",
+              "last_updated": "2026-08-18T04:00:24.255785+00:00",
               "first_seen": "2026-07-14T19:09:42+00:00",
               "year": "2018",
               "price_history": [
                 {
                   "price": "$101.00",
                   "date": "2026-07-14T19:09:42+00:00"
+                },
+                {
+                  "price": "$110.00",
+                  "date": "2026-08-18T04:00:24.255785+00:00"
                 }
               ]
             }
@@ -89134,9 +89166,9 @@
             {
               "name": "Excellent Sealed Sutliff Cringle Flake Holiday Edition 2022 Tobacco Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/212073/",
-              "price": "$19.99",
-              "last_updated": "2026-07-20T04:00:25.054246+00:00",
+              "url": "https://tinbids.com/auction/217888/",
+              "price": "$27.00",
+              "last_updated": "2026-08-18T04:00:24.255785+00:00",
               "first_seen": "2026-07-07T18:43:08+00:00",
               "year": "2022",
               "price_history": [
@@ -89147,6 +89179,10 @@
                 {
                   "price": "$19.99",
                   "date": "2026-07-20T04:00:25.054246+00:00"
+                },
+                {
+                  "price": "$27.00",
+                  "date": "2026-08-18T04:00:24.255785+00:00"
                 }
               ]
             },
@@ -95992,15 +96028,19 @@
             {
               "name": "Excellent Sealed 2019 Wellauer & Co. Latakia 100g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/206699/",
-              "price": "$122.00",
-              "last_updated": "2026-07-20T04:00:25.054246+00:00",
+              "url": "https://tinbids.com/auction/217846/",
+              "price": "$112.00",
+              "last_updated": "2026-08-18T04:00:24.255785+00:00",
               "first_seen": "2026-07-19T21:17:41+00:00",
               "year": "2019",
               "price_history": [
                 {
                   "price": "$122.00",
                   "date": "2026-07-19T21:17:41+00:00"
+                },
+                {
+                  "price": "$112.00",
+                  "date": "2026-08-18T04:00:24.255785+00:00"
                 }
               ]
             }
@@ -98239,6 +98279,16 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Very Nice 2004 G. L. Pease Bohemian Scandal Jarred in 2017 Seal Tight Jar": "glpease|bohemianscandal",
+    "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
+    "Dunhill standard mixture 50 g tin": "dunhill|standardmixture",
+    "Very Nice Sealed 2012 McCranie's Red Flake Prime 2008 Red Virginia 50g. Tin": "mccranies|redflake",
+    "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
+    "Excellent Sealed Sutliff Cringle Flake Holiday Edition 2022 Tobacco Tin": "sutliff|cringleflake",
+    "Excellent Sealed 2019 Wellauer & Co. Latakia 100g. Tin": "wellauerco|latakiamixture",
+    "Excellent Sealed 2018 Smokers Haven Cognac 50g. Tin": "smokershaven|cognacblend",
+    "McCLELLAND BALKAN BLUE": "mcclelland|balkanblue",
+    "Excellent Sealed 2018 Exotique Mixture Smokers' Haven 2oz. Tin": "smokershaven|exotique",
     "Jewel Of St James Genuine Louisiana Perique 1 OZ sealed jar": "jewelofstjames|perique",
     "2014 Esoterica Penzance - 8 oz bag": "esoterica|penzance",
     "(2020) Wessex Campaign Dark Flake": "wessex|brigadecampaigndarkflake",
@@ -98283,7 +98333,6 @@
     "Very Nice Sealed 2021 Cornell & Diehl Small Batch Sun Bear 2oz. Tin": "cornelldiehl|sunbear",
     "Esoterica Penzance": "esoterica|penzance",
     "Excellent Sealed 2020 Reiner Golden Flake Gold Blend 71 100g. Tin": "reiner|longgoldenflake",
-    "Very Nice 2004 G. L. Pease Bohemian Scandal Jarred in 2017 Seal Tight Jar": "glpease|bohemianscandal",
     "Very Nice Sealed 2016 McClelland 3 Oaks With Syrian Latakia 50g. Tin": "mcclelland|3oakssyrian",
     "Very Nice Sealed 2018 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
     "Very Nice Sealed in Package Gallaher's Condor Plug 25g Tiny Pack": "condor|plug",
@@ -98309,7 +98358,6 @@
     "Cornell & Diehl Small Batch Sun Bear Navy Cask": "cornelldiehl|sunbearnavycask",
     "Excellent Sealed 2018 Dunhill Nightcap 50g. Tin": "dunhill|nightcap",
     "Ashton Rainy Day NR": "ashton|rainyday",
-    "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
     "Mac Baren’s Stockton Spun Cut 2023 3.5 oz tin": "macbaren|stocktonspuncut",
     "Mac Baren Dark Twist Roll Cake 2021 3.5 oz tin": "macbaren|darktwist",
     "Mac Baren Old Dark Fired 2024 3.5 oz tin": "macbaren|hholddarkfired",
@@ -98349,7 +98397,6 @@
     "Dunhill Flake 50g 2014 tin": "dunhill|flake",
     "'16 Our Best Blend by Smokers' Haven": "smokershaven|ourbestblend",
     "Germain's Original Latakia Mixture": "jfgermain|originallatakiamixture",
-    "Dunhill standard mixture 50 g tin": "dunhill|standardmixture",
     "'24 Samuel Gawith Full Virginia Flake - Burnt Ends": "samuelgawith|fullvirginiaflakeburntends",
     "2015 - G. L. Pease, Sextant. 2oz": "glpease|sextant",
     "Peter Heinrich’s Dark Strong 100g": "peterheinrichs|darkstrongflake",
@@ -98731,9 +98778,6 @@
     "2024 Germain's 1820": "jfgermain|eighteentwenty",
     "Mac Baren 2020 Vanilla Roll Cake 1lb.": "macbaren|vanillarollcake",
     "2016 McClelland’s Blackwoods Flake - 1 Tin NR BIN $225": "mcclelland|blackwoodsflake",
-    "Very Nice Sealed 2012 McCranie's Red Flake Prime 2008 Red Virginia 50g. Tin": "mccranies|redflake",
-    "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
-    "Excellent Sealed Sutliff Cringle Flake Holiday Edition 2022 Tobacco Tin": "sutliff|cringleflake",
     "Very Nice Sealed 2018 Dunhill Durbar Mixture 50g. Tin": "dunhill|durbar",
     "2017 Frog Morton on the Bayou - 1 Tin NR BIN $225": "mcclelland|frogmortononthebayou",
     "ESOTERICA \"TILBURY\" FACTORY SEALED UNOPENED": "esoterica|tilbury",
@@ -98757,7 +98801,6 @@
     "Very Nice Sealed 2020 Mac Baren HH Rustica Limited Edition No. 3868 of 7100 3.5oz. Tin": "macbaren|hhrustica",
     "Esoterica - And so to bed - 50g": "esoterica|andsotobed",
     "Very Nice Sealed 2014 McClelland 3 Oaks With Syrian Latakia 50g. Tin": "mcclelland|3oakssyrian",
-    "Excellent Sealed 2019 Wellauer & Co. Latakia 100g. Tin": "wellauerco|latakiamixture",
     "(2020) Rattray’s Hal O’ The Wynd 100g Tin": "rattrays|halothewynd",
     "(2020) Rattray’s Marlin Flake 100g Tin": "rattrays|marlinflake",
     "G. L. Pease Chelsea Morning (2016) - 1 Tin (BIN 35)": "cornelldiehl|chelseamorning",
@@ -98892,7 +98935,6 @@
     "Vintage 2015 - Dunhill Baby's Bottom (Last time they spelled out the words)": "dunhill|babysbottom",
     "Ravenwood - Smaug's Breath - 50g": "ravenwood|smaugsbreath",
     "Ravenwood - The Idol - 50g": "ravenwood|theidol",
-    "Excellent Sealed 2018 Smokers Haven Cognac 50g. Tin": "smokershaven|cognacblend",
     "Excellent Sealed 2019 Schurch Onyx 50g. Tin": "schrch|onyx128",
     "Excellent Sealed 2023 Samuel Gawith Bosun Cut Plug 500g. Bag": "gawithhoggarthco|bosuncutplug",
     "Wessex Campaign Dark Flake 50g": "wessex|brigadecampaigndarkflake",
@@ -98933,7 +98975,6 @@
     "Vintage 2014 - Orlik Club Mixture - 50g": "orlik|clubmixture",
     "Rare CORPS 15th Anniversary by McCLELLAND 50g Sealed Tin": "mcclelland|corps15thanniversary",
     "2006  Dunhill De Luxe Navy Rolls 20 years of aging!": "dunhill|deluxenavyrolls",
-    "McCLELLAND BALKAN BLUE": "mcclelland|balkanblue",
     "Watch City Cigar Simply Red (2020) - 7.8oz": "watchcity|simplyred",
     "WWI Alfred Dunhill “Campaign” Mixture | Expeditionary Forces | Original Tin + Tobacco": "dunhill|campaignmixture",
     "Ashton Artisan's Blend": "ashton|artisansblend",
@@ -98993,7 +99034,6 @@
     "Very Nice Sealed 2018 Samuel Gawith Squadron Leader Special Edition No. 15/3000 50g. Tin": "samuelgawith|squadronleaderspecialedition",
     "Excellent Sealed 2018 Mac Baren's Navy Flake 3.5oz. Tin": "macbaren|navyflake",
     "Excellent Sealed 2020 Mac Baren HH Acadian Perique 1.75oz. Tin": "macbaren|hhacadianperique",
-    "Excellent Sealed 2018 Exotique Mixture Smokers' Haven 2oz. Tin": "smokershaven|exotique",
     "Cornell & Diehl Carolina Red Flake Small Batch 2 oz Sealed Tin Pipe Tobacco 8/25": "cornelldiehl|carolinaredflake",
     "Collectible Mac Baren Old Dark Fired Cake 1.75 oz Sealed Pipe Tobacco Tin 2023": "macbaren|hholddarkfired",
     "Collectible Sealed Tin Maple Shadows Smoking Mixture 8 oz’s Pipe Tobacco Tin 2024": "sutliff|mapleshadows",
