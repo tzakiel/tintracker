@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-18T19:16:17.896891+00:00",
+  "generated": "2026-08-19T04:07:56.260372+00:00",
   "stats": {
-    "total_listings": 6134,
-    "excluded_multipacks": 1933,
+    "total_listings": 6154,
+    "excluded_multipacks": 1934,
     "total_tins": 1223,
     "multi_member_tins": 585,
-    "listings_in_groups": 2842,
+    "listings_in_groups": 2844,
     "cross_source_tins": 444
   },
   "tins": [
@@ -22701,15 +22701,19 @@
             {
               "name": "Esoterica - And so to bed - 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/205780/",
-              "price": "$100.00",
-              "last_updated": "2026-07-20T04:00:25.054246+00:00",
+              "url": "https://tinbids.com/auction/217288/",
+              "price": "$95.00",
+              "last_updated": "2026-08-19T04:00:23.279252+00:00",
               "first_seen": "2026-07-19T21:11:23+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$100.00",
                   "date": "2026-07-19T21:11:23+00:00"
+                },
+                {
+                  "price": "$95.00",
+                  "date": "2026-08-19T04:00:23.279252+00:00"
                 }
               ]
             },
@@ -26106,6 +26110,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "Pembroke",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/217210/",
+              "price": "$356.00",
+              "last_updated": "2026-08-19T04:00:23.279252+00:00",
+              "first_seen": "2026-08-18T19:40:41+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$356.00",
+                  "date": "2026-08-18T19:40:41+00:00"
+                }
+              ]
+            },
             {
               "name": "'23 Esoterica Pembroke",
               "source": "Tinbids Auction (Sold)",
@@ -91898,6 +91917,21 @@
           "quantity": "",
           "members": [
             {
+              "name": "Seattle Pipe Club Mississippi River",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/217077/",
+              "price": "$33.00",
+              "last_updated": "2026-08-19T04:00:23.279252+00:00",
+              "first_seen": "2026-08-18T16:38:17+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$33.00",
+                  "date": "2026-08-18T16:38:17+00:00"
+                }
+              ]
+            },
+            {
               "name": "SPC MR",
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
@@ -91959,6 +91993,7 @@
             }
           ],
           "sources": [
+            "Tinbids Auction (Sold)",
             "Speak-Easy.Club"
           ]
         }
@@ -98347,6 +98382,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Esoterica - And so to bed - 50g": "esoterica|andsotobed",
+    "Seattle Pipe Club Mississippi River": "sutliff|spcmississippiriver",
+    "Pembroke": "esoterica|pembroke",
     "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
     "Ashton Rainy Day NR": "ashton|rainyday",
     "Mac Baren’s Stockton Spun Cut 2023 3.5 oz tin": "macbaren|stocktonspuncut",
@@ -98867,7 +98905,6 @@
     "Escudo Navy De Luxe 50g Tin (2014)": "stg|escudonavydeluxe",
     "Escudo Navy De Luxe 50g Tin (2011)": "stg|escudonavydeluxe",
     "Very Nice Sealed 2020 Mac Baren HH Rustica Limited Edition No. 3868 of 7100 3.5oz. Tin": "macbaren|hhrustica",
-    "Esoterica - And so to bed - 50g": "esoterica|andsotobed",
     "Very Nice Sealed 2014 McClelland 3 Oaks With Syrian Latakia 50g. Tin": "mcclelland|3oakssyrian",
     "(2020) Rattray’s Hal O’ The Wynd 100g Tin": "rattrays|halothewynd",
     "(2020) Rattray’s Marlin Flake 100g Tin": "rattrays|marlinflake",
@@ -100228,7 +100265,6 @@
     "Sam Gawith Skiff Mixture": "samuelgawith|skiffmixture",
     "Sam Gawith Squadron Leader": "samuelgawith|squadronleader",
     "Sam Gawith Squadron Leader SE w/ Perique": "samuelgawith|squadronleaderspecialedition",
-    "Seattle Pipe Club Mississippi River": "sutliff|spcmississippiriver",
     "STG Half and Half": "halfandhalf|halfandhalf",
     "STG Velvet": "velvet|velvet",
     "Sutliff Cringle Flake (Sweated)": "sutliff|cringleflakesweated",
@@ -100263,7 +100299,6 @@
     "XX Flake": "cornelldiehl|spcom20thanniversaryxxflake",
     "XX Flake Dark": "cornelldiehl|spcom20thanniversaryxxflakedark",
     "Margate": "esoterica|margate",
-    "Pembroke": "esoterica|pembroke",
     "Golden Mixture": "fribourgtreyer|goldenmixture",
     "Special Brown Flake": "fribourgtreyer|specialbrownflake",
     "B. K. Flake": "jfgermain|bkflake",
