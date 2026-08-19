@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-19T15:14:16.533692+00:00",
+  "generated": "2026-08-19T16:08:30.415978+00:00",
   "stats": {
-    "total_listings": 6175,
-    "excluded_multipacks": 1938,
+    "total_listings": 6186,
+    "excluded_multipacks": 1939,
     "total_tins": 1223,
     "multi_member_tins": 585,
     "listings_in_groups": 2844,
@@ -24950,15 +24950,19 @@
             {
               "name": "Esoterica Margate 2oz Tin Released 2025",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/197489/",
-              "price": "$82.00",
-              "last_updated": "2026-06-30T04:00:36.030360+00:00",
+              "url": "https://tinbids.com/auction/217533/",
+              "price": "$66.00",
+              "last_updated": "2026-08-19T16:00:21.668326+00:00",
               "first_seen": "2026-06-29T13:18:34+00:00",
               "year": "2025",
               "price_history": [
                 {
                   "price": "$82.00",
                   "date": "2026-06-29T13:18:34+00:00"
+                },
+                {
+                  "price": "$66.00",
+                  "date": "2026-08-19T16:00:21.668326+00:00"
                 }
               ]
             }
@@ -27753,15 +27757,19 @@
             {
               "name": "Esoterica Tilbury 2oz Tin Released 2025",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/197487/",
-              "price": "$90.00",
-              "last_updated": "2026-06-29T16:00:32.641924+00:00",
+              "url": "https://tinbids.com/auction/217530/",
+              "price": "$79.00",
+              "last_updated": "2026-08-19T16:00:21.668326+00:00",
               "first_seen": "2026-06-29T13:18:12+00:00",
               "year": "2025",
               "price_history": [
                 {
                   "price": "$90.00",
                   "date": "2026-06-29T13:18:12+00:00"
+                },
+                {
+                  "price": "$79.00",
+                  "date": "2026-08-19T16:00:21.668326+00:00"
                 }
               ]
             }
@@ -57257,9 +57265,9 @@
             {
               "name": "McClelland 40th Anniversary - NR BIN $225",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/215395/",
-              "price": "$220.00",
-              "last_updated": "2026-08-08T16:00:27.016980+00:00",
+              "url": "https://tinbids.com/auction/220133/",
+              "price": "$225.00",
+              "last_updated": "2026-08-19T16:00:21.668326+00:00",
               "first_seen": "2026-06-22T13:53:20.063064+00:00",
               "year": "",
               "price_history": [
@@ -57270,6 +57278,10 @@
                 {
                   "price": "$220.00",
                   "date": "2026-08-08T16:00:27.016980+00:00"
+                },
+                {
+                  "price": "$225.00",
+                  "date": "2026-08-19T16:00:21.668326+00:00"
                 }
               ]
             },
@@ -98422,6 +98434,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "McClelland 40th Anniversary - NR BIN $225": "mcclelland|40thanniversary",
+    "Esoterica Margate 2oz Tin Released 2025": "esoterica|margate",
+    "Esoterica Tilbury 2oz Tin Released 2025": "esoterica|tilbury",
     "Esoterica - And so to bed - 50g": "esoterica|andsotobed",
     "Seattle Pipe Club Mississippi River": "sutliff|spcmississippiriver",
     "Pembroke": "esoterica|pembroke",
@@ -98485,7 +98500,6 @@
     "Very Nice Sealed 2018 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
     "Very Nice Sealed in Package Gallaher's Condor Plug 25g Tiny Pack": "condor|plug",
     "Gawith & Hoggarth-Balkan Mixture": "gawithhoggarthco|balkanmixture",
-    "McClelland 40th Anniversary - NR BIN $225": "mcclelland|40thanniversary",
     "Ashton Artisan’s Blend Tobacco Sealed Tin Century 2012 50g Syrian Latakia Pipe Tobacco": "ashton|artisansblend",
     "Fox Bankers Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|bankers",
     "c. 1970s GBD Black Cavendish Mixture 50g Full Unopened English Pipe Tobacco Tin": "gbd|blackcavendishmixture",
@@ -99525,7 +99539,6 @@
     "50g tin of BENGAL SLICES from 2018 has 8 years of age on it": "sutliff|bengalslices",
     "Per Jensen Signature Series - Paradoxical  (Bird Blends)": "sutliff|paradoxical",
     "Vintage RATTRAY’S Jocks Mixture 4oz Sealed Tin": "rattrays|jocksmixture",
-    "Esoterica Margate 2oz Tin Released 2025": "esoterica|margate",
     "Aged 2013 Esoterica Tilbury 2 Ounce Tin": "esoterica|tilbury",
     "2023 Savinelli Brunello Flake by Mac Baren 100g Pipe Tobacco Tin - New Sealed": "savinelli|brunelloflake",
     "Esoterica Tobacciana St. Ives 8 oz": "esoterica|stives",
@@ -99541,7 +99554,6 @@
     "RARE! Larus (1970s) EDGEWORTH EXTRA HIGH GRADE SLICED Pipe Tobacco - 1 1/2 oz Cellophane Sealed Tin": "larusbroco|edgeworthextrahighgradesliced",
     "EDGEWORTH (1970s Larus) READY-RUBBED \"BLUE\" Pipe Tobacco - 14 OZ. Sealed Tin": "edgeworth|readyrubbed",
     "Esoterica Dorchester 2oz Tin Released 2025": "esoterica|dorchester",
-    "Esoterica Tilbury 2oz Tin Released 2025": "esoterica|tilbury",
     "2011 \"Butera Era\" Esoterica Pembroke": "esoterica|pembroke",
     "Esoterica Margate Butera Production - 1 Tin NR BIN $140": "esoterica|margate",
     "Cornell & Diehl Small Batch Sun Bear Navy Cask 2 oz Pipe Tobacco Tin - New Sealed": "cornelldiehl|sunbearnavycask",
