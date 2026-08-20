@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-20T15:14:18.305350+00:00",
+  "generated": "2026-08-20T16:08:52.281883+00:00",
   "stats": {
-    "total_listings": 6219,
+    "total_listings": 6226,
     "excluded_multipacks": 1942,
     "total_tins": 1223,
     "multi_member_tins": 585,
@@ -11701,15 +11701,19 @@
             {
               "name": "Cornell & Diehl Palmetto Balkan - 1 Tin BIN $100",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/201345/",
-              "price": "$100.00",
-              "last_updated": "2026-06-28T16:00:29.276414+00:00",
+              "url": "https://tinbids.com/auction/220621/",
+              "price": "$95.00",
+              "last_updated": "2026-08-20T16:00:23.674966+00:00",
               "first_seen": "2026-06-28T13:55:26+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$100.00",
                   "date": "2026-06-28T13:55:26+00:00"
+                },
+                {
+                  "price": "$95.00",
+                  "date": "2026-08-20T16:00:23.674966+00:00"
                 }
               ]
             },
@@ -57321,9 +57325,9 @@
             {
               "name": "McClelland 40th Anniversary - NR BIN $225",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/220133/",
-              "price": "$225.00",
-              "last_updated": "2026-08-19T16:00:21.668326+00:00",
+              "url": "https://tinbids.com/auction/220625/",
+              "price": "$220.00",
+              "last_updated": "2026-08-20T16:00:23.674966+00:00",
               "first_seen": "2026-06-22T13:53:20.063064+00:00",
               "year": "",
               "price_history": [
@@ -57338,6 +57342,10 @@
                 {
                   "price": "$225.00",
                   "date": "2026-08-19T16:00:21.668326+00:00"
+                },
+                {
+                  "price": "$220.00",
+                  "date": "2026-08-20T16:00:23.674966+00:00"
                 }
               ]
             },
@@ -98494,8 +98502,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
-    "Per Jensen Pipe Force - Episode 4": "sutliff|pipeforceepisodeiv",
     "McClelland 40th Anniversary - NR BIN $225": "mcclelland|40thanniversary",
+    "Cornell & Diehl Palmetto Balkan - 1 Tin BIN $100": "cornelldiehl|palmettobalkan",
+    "Per Jensen Pipe Force - Episode 4": "sutliff|pipeforceepisodeiv",
     "Esoterica Margate 2oz Tin Released 2025": "esoterica|margate",
     "Esoterica Tilbury 2oz Tin Released 2025": "esoterica|tilbury",
     "Esoterica - And so to bed - 50g": "esoterica|andsotobed",
@@ -99647,7 +99656,6 @@
     "Sutliff - Crumble Kake Barrel Aged Series No.1 (2020) Limited Edition": "sutliff|crumblekakebarrelagedno1",
     "Astleys - No.109 Medium Flake (2020) (Discontinued)": "astleys|no109mediumvirginiaflake",
     "Seattle Pipe Club - Down Yonder (2023) (Original)": "sutliff|spcdownyonder",
-    "Cornell & Diehl Palmetto Balkan - 1 Tin BIN $100": "cornelldiehl|palmettobalkan",
     "2017 McClelland’s Christmas Cheer - 1 tin NR BIN $225": "mcclelland|christmascheer",
     "Esoterica Penzance 8oz": "esoterica|penzance",
     "Mac Baren Dark Twist 2022 - 100g": "macbaren|darktwist",
