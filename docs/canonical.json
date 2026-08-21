@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-20T19:16:18.395574+00:00",
+  "generated": "2026-08-21T04:08:20.580998+00:00",
   "stats": {
-    "total_listings": 6226,
+    "total_listings": 6240,
     "excluded_multipacks": 1942,
     "total_tins": 1223,
     "multi_member_tins": 585,
@@ -56311,9 +56311,9 @@
             {
               "name": "MacBaren Virginia No. 1 2017 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/215303/",
-              "price": "$30.00",
-              "last_updated": "2026-08-07T04:00:24.603236+00:00",
+              "url": "https://tinbids.com/auction/218370/",
+              "price": "$31.00",
+              "last_updated": "2026-08-21T04:00:20.880783+00:00",
               "first_seen": "2026-07-14T05:01:44+00:00",
               "year": "2017",
               "price_history": [
@@ -56328,6 +56328,10 @@
                 {
                   "price": "$30.00",
                   "date": "2026-08-07T04:00:24.603236+00:00"
+                },
+                {
+                  "price": "$31.00",
+                  "date": "2026-08-21T04:00:20.880783+00:00"
                 }
               ]
             }
@@ -90879,15 +90883,19 @@
             {
               "name": "Sutliff MATCH VICTORIAN 2024 - ONE POUND",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/211473/",
-              "price": "$90.00",
-              "last_updated": "2026-07-31T16:00:35.556161+00:00",
+              "url": "https://tinbids.com/auction/220675/",
+              "price": "$75.00",
+              "last_updated": "2026-08-21T04:00:20.880783+00:00",
               "first_seen": "2026-07-31T15:05:23+00:00",
               "year": "2024",
               "price_history": [
                 {
                   "price": "$90.00",
                   "date": "2026-07-31T15:05:23+00:00"
+                },
+                {
+                  "price": "$75.00",
+                  "date": "2026-08-21T04:00:20.880783+00:00"
                 }
               ]
             }
@@ -98518,6 +98526,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "MacBaren Virginia No. 1 2017 NR": "macbaren|virginiano1",
+    "Sutliff MATCH VICTORIAN 2024 - ONE POUND": "sutliff|matchvictorian",
     "McClelland 40th Anniversary - NR BIN $225": "mcclelland|40thanniversary",
     "Cornell & Diehl Palmetto Balkan - 1 Tin BIN $100": "cornelldiehl|palmettobalkan",
     "Per Jensen Pipe Force - Episode 4": "sutliff|pipeforceepisodeiv",
@@ -98590,7 +98600,6 @@
     "Fox Bankers Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|bankers",
     "c. 1970s GBD Black Cavendish Mixture 50g Full Unopened English Pipe Tobacco Tin": "gbd|blackcavendishmixture",
     "2012 Germain's Production Butera Pelican": "butera|pelican",
-    "MacBaren Virginia No. 1 2017 NR": "macbaren|virginiano1",
     "'22 ASTB 8 oz Bag": "esoterica|andsotobed",
     "Mac Baren HH Old Dark Fired 3.5 ounce tin from 2024": "macbaren|hholddarkfired",
     "Captain Black Premium Edition: Black Sea - Discontinued Rare Sealed 50g Tin": "captainblack|blacksea",
@@ -98699,7 +98708,6 @@
     "Samuel Gawith-Navy Flake": "samuelgawith|navyflake",
     "2025 Mac Baren HH Balkan Blend 16 oz sealed bag.": "macbaren|hhbalkanblend",
     "A&C Petersen Caledonian Highland Cream Melange No.10": "acpetersen|caledonianmelangeno10highlandcream",
-    "Sutliff MATCH VICTORIAN 2024 - ONE POUND": "sutliff|matchvictorian",
     "Dunhill Durbar Mixture 50 g Sealed Tin": "dunhill|durbar",
     "2010-2020 Rygning Barber B.S. Flake-50g": "samuelgawith|brownsugarflake",
     "Samuel Gawth Winter Time Flake-50g": "samuelgawith|wintertimeflake",
