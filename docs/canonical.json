@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-21T19:16:14.891540+00:00",
+  "generated": "2026-08-22T04:09:31.893694+00:00",
   "stats": {
-    "total_listings": 6245,
-    "excluded_multipacks": 1942,
+    "total_listings": 6271,
+    "excluded_multipacks": 1948,
     "total_tins": 1223,
     "multi_member_tins": 585,
-    "listings_in_groups": 2844,
+    "listings_in_groups": 2846,
     "cross_source_tins": 444
   },
   "tins": [
@@ -60150,6 +60150,21 @@
           "quantity": "",
           "members": [
             {
+              "name": "McClelland Christmas Cheer",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/218556/",
+              "price": "$225.00",
+              "last_updated": "2026-08-22T04:00:23.076559+00:00",
+              "first_seen": "2026-08-21T22:02:50+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$225.00",
+                  "date": "2026-08-21T22:02:50+00:00"
+                }
+              ]
+            },
+            {
               "name": "*Pending* '16 Christmas Cheer",
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/mcc-and-sjf.44884/unread",
@@ -61759,6 +61774,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "Frog Morton",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/218543/",
+              "price": "$200.00",
+              "last_updated": "2026-08-22T04:00:23.076559+00:00",
+              "first_seen": "2026-08-21T21:52:14+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$200.00",
+                  "date": "2026-08-21T21:52:14+00:00"
+                }
+              ]
+            },
             {
               "name": "'17 Frog Morton",
               "source": "Tinbids Auction (Sold)",
@@ -98582,6 +98612,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Frog Morton": "mcclelland|frogmorton",
+    "McClelland Christmas Cheer": "mcclelland|christmascheer",
     "MacBaren Virginia No. 1 2017 NR": "macbaren|virginiano1",
     "Sutliff MATCH VICTORIAN 2024 - ONE POUND": "sutliff|matchvictorian",
     "McClelland 40th Anniversary - NR BIN $225": "mcclelland|40thanniversary",
@@ -100512,7 +100544,6 @@
     "Christmas Cheer 2014": "mcclelland|christmascheer",
     "Christmas Cheer 2017": "mcclelland|christmascheer",
     "CPCC Scottish Woods": "mcclelland|cpccscottishwoods",
-    "Frog Morton": "mcclelland|frogmorton",
     "Frog Morton Across the Pond": "mcclelland|frogmortonacrossthepond",
     "No. 25 Virginia": "mcclelland|no25",
     "Ringlow Syrian Reserve": "mcclelland|ringlowsyrianreserve",
@@ -100567,7 +100598,6 @@
     "Cloud Hopper": "warped|cloudhopper",
     "Kings Stride": "warped|kingsstride",
     "Sarto": "warped|sarto",
-    "McClelland Christmas Cheer": "mcclelland|christmascheer",
     "Sir John's Flake": "johnaylesbury|sirjohnsflakevirginia",
     "SmokingPipes 20th Anniversary XX Flake": "cornelldiehl|spcom20thanniversaryxxflake",
     "Patriot Flake": "dantobacco|patriotflake",
