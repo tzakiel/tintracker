@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-22T17:47:14.098534+00:00",
+  "generated": "2026-08-22T17:51:58.398156+00:00",
   "stats": {
-    "total_listings": 6323,
-    "excluded_multipacks": 2075,
+    "total_listings": 6397,
+    "excluded_multipacks": 2080,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3555,
@@ -6385,6 +6385,29 @@
           "quantity": "",
           "members": [
             {
+              "name": "Charatan’s Original Mild Ready Rubbed – 1970’s era & Made by Dunhill in London",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/charatans-original-mild-ready-rubbed-1970s-era-made-by-dunhill-in-london/",
+              "price": "$95.00",
+              "last_updated": "2026-08-22T17:13:37.308857+00:00",
+              "first_seen": "2026-06-27T19:29:21.362652+00:00",
+              "year": "1970",
+              "price_history": [
+                {
+                  "price": "$125.00",
+                  "date": "2026-06-27T19:29:21.362652+00:00"
+                },
+                {
+                  "price": "$85.00",
+                  "date": "2026-08-08T17:13:45.731929+00:00"
+                },
+                {
+                  "price": "$95.00",
+                  "date": "2026-08-22T17:13:37.308857+00:00"
+                }
+              ]
+            },
+            {
               "name": "Charatan’s Original Mild Ready Rubbed – 1970’s era & Made by Dunhill",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/charatans-original-mild-ready-rubbed-1970s-era-made-by-dunhill-2/",
@@ -6396,25 +6419,6 @@
                 {
                   "price": "$125.00",
                   "date": "2026-08-15T17:13:34.289812+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Charatan’s Original Mild Ready Rubbed – 1970’s era & Made by Dunhill in London",
-              "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/charatans-original-mild-ready-rubbed-1970s-era-made-by-dunhill-in-london/",
-              "price": "$85.00",
-              "last_updated": "2026-08-08T17:13:45.731929+00:00",
-              "first_seen": "2026-06-27T19:29:21.362652+00:00",
-              "year": "1970",
-              "price_history": [
-                {
-                  "price": "$125.00",
-                  "date": "2026-06-27T19:29:21.362652+00:00"
-                },
-                {
-                  "price": "$85.00",
-                  "date": "2026-08-08T17:13:45.731929+00:00"
                 }
               ]
             },
@@ -10936,14 +10940,18 @@
               "name": "Cornell & Diehl’s Small Batch Ltd. Ed. Folklore One Pound Factory Vacuum Sealed Bag – Year 2022",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/cornell-diehls-small-batch-ltd-ed-folklore-one-pound-factory-vacuum-sealed-bag-year-2022/",
-              "price": "$225.00",
-              "last_updated": "2026-07-18T17:13:38.985666+00:00",
+              "price": "$175.00",
+              "last_updated": "2026-08-22T17:13:37.308857+00:00",
               "first_seen": "2026-07-18T17:13:38.985666+00:00",
               "year": "2022",
               "price_history": [
                 {
                   "price": "$225.00",
                   "date": "2026-07-18T17:13:38.985666+00:00"
+                },
+                {
+                  "price": "$175.00",
+                  "date": "2026-08-22T17:13:37.308857+00:00"
                 }
               ]
             },
@@ -34641,14 +34649,18 @@
               "name": "G.L. Pease NASPC Show Limited Edition Arrakis Spice 2oz tin – Year 2011",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-naspc-show-limited-edition-arrakis-spice-2oz-tin-year-2011/",
-              "price": "$70.00",
-              "last_updated": "2026-07-25T17:13:37.916898+00:00",
+              "price": "$75.00",
+              "last_updated": "2026-08-22T17:13:37.308857+00:00",
               "first_seen": "2026-07-25T17:13:37.916898+00:00",
               "year": "2011",
               "price_history": [
                 {
                   "price": "$70.00",
                   "date": "2026-07-25T17:13:37.916898+00:00"
+                },
+                {
+                  "price": "$75.00",
+                  "date": "2026-08-22T17:13:37.308857+00:00"
                 }
               ]
             }
@@ -40653,14 +40665,18 @@
               "name": "G.L. Pease Classic Collection Stratford 2oz tin – First Year 2003 Production",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-classic-collection-stratford-2oz-tin-first-year-2003-production/",
-              "price": "$70.00",
-              "last_updated": "2026-07-18T17:13:38.985666+00:00",
+              "price": "$50.00",
+              "last_updated": "2026-08-22T17:13:37.308857+00:00",
               "first_seen": "2026-07-18T17:13:38.985666+00:00",
               "year": "2003",
               "price_history": [
                 {
                   "price": "$70.00",
                   "date": "2026-07-18T17:13:38.985666+00:00"
+                },
+                {
+                  "price": "$50.00",
+                  "date": "2026-08-22T17:13:37.308857+00:00"
                 }
               ]
             },
@@ -71621,6 +71637,25 @@
               ]
             },
             {
+              "name": "McClelland’s Frog Morton On the Bayou 50g tin – Year 2002",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-frog-morton-on-the-bayou-50g-tin-year-2002/",
+              "price": "$70.00",
+              "last_updated": "2026-08-22T17:13:37.308857+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2002",
+              "price_history": [
+                {
+                  "price": "$80.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                },
+                {
+                  "price": "$70.00",
+                  "date": "2026-08-22T17:13:37.308857+00:00"
+                }
+              ]
+            },
+            {
               "name": "McClelland’s Frog Morton On the Bayou 50g tin – First Year 2002 Production",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-frog-morton-on-the-bayou-50g-tin-first-year-2002-production/",
@@ -71632,21 +71667,6 @@
                 {
                   "price": "$85.00",
                   "date": "2026-07-25T17:13:37.916898+00:00"
-                }
-              ]
-            },
-            {
-              "name": "McClelland’s Frog Morton On the Bayou 50g tin – Year 2002",
-              "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-frog-morton-on-the-bayou-50g-tin-year-2002/",
-              "price": "$80.00",
-              "last_updated": "2026-07-04T17:13:42.317217+00:00",
-              "first_seen": "2026-07-04T17:13:42.317217+00:00",
-              "year": "2002",
-              "price_history": [
-                {
-                  "price": "$80.00",
-                  "date": "2026-07-04T17:13:42.317217+00:00"
                 }
               ]
             },
@@ -73030,8 +73050,8 @@
               "name": "McClelland’s Grand Oriental Series Classic Samsun 50g tin – First Year 2007 Production",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-grand-oriental-series-classic-samsun-50g-tin-first-year-2007-production/",
-              "price": "$80.00",
-              "last_updated": "2026-07-18T17:13:38.985666+00:00",
+              "price": "$75.00",
+              "last_updated": "2026-08-22T17:13:37.308857+00:00",
               "first_seen": "2026-07-11T17:13:37.793839+00:00",
               "year": "2007",
               "price_history": [
@@ -73042,6 +73062,10 @@
                 {
                   "price": "$80.00",
                   "date": "2026-07-18T17:13:38.985666+00:00"
+                },
+                {
+                  "price": "$75.00",
+                  "date": "2026-08-22T17:13:37.308857+00:00"
                 }
               ]
             },
@@ -106377,7 +106401,7 @@
             {
               "name": "Seattle Pipe Club Plum Pudding Special Reserve Flake 2oz tin – Year 2021",
               "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/seattle-pipe-club-plum-pudding-special-reserve-flake-2oz-tin-year-2021/",
+              "url": "https://www.pipestud.com/product/tobacco-tins/seattle-pipe-club-plum-pudding-special-reserve-flake-2oz-tin-year-2021-2/",
               "price": "$40.00",
               "last_updated": "2026-08-15T17:13:34.289812+00:00",
               "first_seen": "2026-08-15T17:13:34.289812+00:00",
@@ -112704,6 +112728,12 @@
     }
   ],
   "name_to_id": {
+    "Charatan’s Original Mild Ready Rubbed – 1970’s era & Made by Dunhill in London": "charatans|originalmildreadyrubbed",
+    "G.L. Pease NASPC Show Limited Edition Arrakis Spice 2oz tin – Year 2011": "glpease|arrakisspice",
+    "McClelland’s Grand Oriental Series Classic Samsun 50g tin – First Year 2007 Production": "mcclelland|grandorientalsclassicsamsun",
+    "Cornell & Diehl’s Small Batch Ltd. Ed. Folklore One Pound Factory Vacuum Sealed Bag – Year 2022": "cornelldiehl|folklore",
+    "G.L. Pease Classic Collection Stratford 2oz tin – First Year 2003 Production": "glpease|stratford",
+    "McClelland’s Frog Morton On the Bayou 50g tin – Year 2002": "mcclelland|frogmortononthebayou",
     "McClelland’s Frog Morton Cellar 50g tin – Year 2017": "mcclelland|frogmortonscellar",
     "Theodorus Niemeyer Flying Dutchman 1-3/4oz tin – 1960’s – 1970’s era": "theodorusniemeyer|flyingdutchman",
     "Stokkebye’s Balkan Sasieni 50g tin – Year 2014": "stg|balkansasieni",
@@ -112779,7 +112809,6 @@
     "Robert McConnell’s Original Black & Gold Scottish Blend 50g tins – Late 1990’s or Early 2000’s": "robertmcconnell|blackgold",
     "Orlik Dark Strong Kentucky 50g tins – Year 2017": "orlik|darkstrongkentucky",
     "Samuel Gawith Cabbie’s Mixture 50g tin – Year 2016": "samuelgawith|cabbiesmixture",
-    "Charatan’s Original Mild Ready Rubbed – 1970’s era & Made by Dunhill in London": "charatans|originalmildreadyrubbed",
     "Dunhill Murray’s era Aperitif 50g tin – Year 2000": "dunhill|aperitif",
     "McClelland’s Holiday Spirit 50g tins – Year 2016": "mcclelland|holidayspirit",
     "Germain’s Smoker’s Haven Our Best Blend 2oz tin – Year 2016": "smokershaven|ourbestblend",
@@ -112924,7 +112953,6 @@
     "G.L. Pease NASPC Show Limited Edition Golum’s Precioussss 2oz tins – Year 2013": "glpease|golumsprecioussss",
     "G.L. Pease NASPC Show Limited Edition Goblin Weed 2oz tins – Year 2014": "glpease|goblinweedgray",
     "G.L. Pease NASPC Show Lord of the Rings Elf Weed 2oz tins – Year 2015": "glpease|elfweed",
-    "G.L. Pease NASPC Show Limited Edition Arrakis Spice 2oz tin – Year 2011": "glpease|arrakisspice",
     "G.L. Pease NASPC Show Limited Edition Dragon Weed 2oz tins – Year 2018": "glpease|dragonweed",
     "G.L. Pease NASPC Show Limited Edition Gimli’s Stash 2oz tin – Year 2009": "glpease|gimlisstash",
     "G.L. Pease NASPC Show Limited Edition Smaug’s Weed 2oz tin – Year 2013": "glpease|smaugweed",
@@ -112972,12 +113000,10 @@
     "McClelland’s Christmas Cheer 100g tin – Year 1995": "mcclelland|christmascheer",
     "C.O.R.P.S. Baker Street Black Shag 50g tins- Year 1997": "mcclelland|221bblackshag",
     "McClelland’s Original Red Wax Anniversary 100g tins – Year 2002": "mcclelland|anniversary",
-    "McClelland’s Grand Oriental Series Classic Samsun 50g tin – First Year 2007 Production": "mcclelland|grandorientalsclassicsamsun",
     "Ashton Type 5 in 50g tins – 1990s era & Made in Denmark by Orlik": "ashton|type5",
     "McClelland’s Christmas Cheer 100g tins – Year 2011": "mcclelland|christmascheer",
     "Theodorus Niemeyer Flying Dutchman oz tins – 1960’s – 1970’s era": "theodorusniemeyer|flyingdutchman",
     "Wessex Dark Flake 50g tins – Year 2016": "wessex|brigadecampaigndarkflake",
-    "Cornell & Diehl’s Small Batch Ltd. Ed. Folklore One Pound Factory Vacuum Sealed Bag – Year 2022": "cornelldiehl|folklore",
     "Germain’s Esoterica Pembroke 8oz bag – Year 2020": "esoterica|pembroke",
     "Mac Baren’s Limited Edition Stockton Spun Cut 100g tins – Year 2021": "macbaren|stocktonspuncut",
     "Germain’s Smoker’s Haven Our Best Blend 2oz tins – Year 2018": "smokershaven|ourbestblend",
@@ -113043,7 +113069,6 @@
     "Mullingar’s Syr. Latakia Belgravia Oriental Mixture – 1960’s or 1970’s era": "mullingar|belgraviaorientalmixture",
     "Germain’s Esoterica Penzance Original 8oz Factory Hard Plastic Tub W/ Original Commercial Grade Outer Cover  – Year 1999": "esoterica|penzance",
     "Germain’s Esoterica Stonehaven Original 8oz Factory Hard Plastic Tub W/ Original Commercial Grade Outer Cover  – 1990’s era)": "esoterica|stonehaven",
-    "G.L. Pease Classic Collection Stratford 2oz tin – First Year 2003 Production": "glpease|stratford",
     "James J. Fox Original Dorisco Mixture 50g tin – Year 1998": "jamesjfox|doriscomixture",
     "James J. Fox Original Dorisco Mixture 50g tin – Year 2012": "jamesjfox|doriscomixture",
     "Wessex Premier Subtle Aroma 50g tin – 1990’s era": "wessex|premiersubtlearoma",
@@ -113143,7 +113168,6 @@
     "McClelland’s Frog Morton On the Town 100g tin – Year 2006": "mcclelland|frogmortononthetown",
     "McClelland’s Frog Morton Across the Pond – First Year 2004 Production": "mcclelland|frogmortonacrossthepond",
     "McClelland’s Frog Morton On the Bayou 100g tin – Year 2003": "mcclelland|frogmortononthebayou",
-    "McClelland’s Frog Morton On the Bayou 50g tin – Year 2002": "mcclelland|frogmortononthebayou",
     "McClelland’s Frog Morton On the Bayou 50g tin – Year 2013": "mcclelland|frogmortononthebayou",
     "McClelland’s Award Winning Blue Mountain 50g tins – First Year 2011 Production": "mcclelland|bluemountain",
     "McClelland’s Syr. Latakia UPCA Traveler 50g tin – Year 2015": "mcclelland|traveler",
