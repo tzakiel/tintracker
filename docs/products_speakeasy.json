@@ -1,6 +1,70 @@
 {
   "products": [
     {
+      "name": "Galloping Gertie",
+      "price": "$25",
+      "url": "https://speak-easy.club/threads/spc-tins-no-flipping.45076/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2024-10-06T22:24:57+00:00",
+      "last_updated": "2026-08-23T06:38:14.464067+00:00",
+      "price_history": [
+        {
+          "price": "$17",
+          "date": "2024-10-06T22:24:57+00:00"
+        },
+        {
+          "price": "$25",
+          "date": "2026-08-23T06:38:14.464067+00:00"
+        }
+      ],
+      "tag": "SOLD"
+    },
+    {
+      "name": "Roll Cake 100g",
+      "price": "$30",
+      "url": "https://speak-easy.club/threads/spc-tins-no-flipping.45076/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-08-22T16:56:29+00:00",
+      "last_updated": "2026-08-23T06:38:14.464067+00:00",
+      "price_history": [
+        {
+          "price": "$30",
+          "date": "2026-08-22T16:56:29+00:00"
+        }
+      ],
+      "tag": "SOLD"
+    },
+    {
+      "name": "Give Me Liberty 4oz",
+      "price": "$35",
+      "url": "https://speak-easy.club/threads/spc-tins-no-flipping.45076/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-08-22T16:56:29+00:00",
+      "last_updated": "2026-08-23T06:38:14.464067+00:00",
+      "price_history": [
+        {
+          "price": "$35",
+          "date": "2026-08-22T16:56:29+00:00"
+        }
+      ],
+      "tag": "SOLD"
+    },
+    {
+      "name": "Down Yonder 2oz",
+      "price": "$25",
+      "url": "https://speak-easy.club/threads/spc-tins-no-flipping.45076/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-08-22T16:56:29+00:00",
+      "last_updated": "2026-08-23T06:38:14.464067+00:00",
+      "price_history": [
+        {
+          "price": "$25",
+          "date": "2026-08-22T16:56:29+00:00"
+        }
+      ],
+      "tag": "SOLD"
+    },
+    {
       "name": "tin of c&d XX flake",
       "price": "$13.77",
       "url": "https://speak-easy.club/threads/trade-tobacco-for-a-horn-stem.45071/unread",
@@ -19488,21 +19552,6 @@
       "price_history": [
         {
           "price": "$11",
-          "date": "2024-10-06T22:24:57+00:00"
-        }
-      ],
-      "tag": "WTS"
-    },
-    {
-      "name": "Galloping Gertie",
-      "price": "$17",
-      "url": "https://speak-easy.club/threads/cellar-sale.41150/",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2024-10-06T22:24:57+00:00",
-      "last_updated": "2026-06-27T20:00:39.387042+00:00",
-      "price_history": [
-        {
-          "price": "$17",
           "date": "2024-10-06T22:24:57+00:00"
         }
       ],
@@ -52011,8 +52060,102 @@
       "tag": "WTS"
     }
   ],
-  "last_scraped": "2026-08-22T06:38:13.952017+00:00",
+  "last_scraped": "2026-08-23T06:38:14.464067+00:00",
   "latest_scrape": [
+    {
+      "name": "Roll Cake 100g",
+      "price": "$30",
+      "url": "https://speak-easy.club/threads/spc-tins-no-flipping.45076/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-08-22T16:56:29+00:00",
+      "last_updated": "2026-08-23T06:38:14.464067+00:00",
+      "price_history": [
+        {
+          "price": "$30",
+          "date": "2026-08-22T16:56:29+00:00"
+        }
+      ],
+      "tag": "SOLD"
+    },
+    {
+      "name": "Galloping Gertie",
+      "price": "$25",
+      "url": "https://speak-easy.club/threads/spc-tins-no-flipping.45076/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2024-10-06T22:24:57+00:00",
+      "last_updated": "2026-08-23T06:38:14.464067+00:00",
+      "price_history": [
+        {
+          "price": "$17",
+          "date": "2024-10-06T22:24:57+00:00"
+        },
+        {
+          "price": "$25",
+          "date": "2026-08-23T06:38:14.464067+00:00"
+        }
+      ],
+      "tag": "SOLD"
+    },
+    {
+      "name": "Give Me Liberty 4oz",
+      "price": "$35",
+      "url": "https://speak-easy.club/threads/spc-tins-no-flipping.45076/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-08-22T16:56:29+00:00",
+      "last_updated": "2026-08-23T06:38:14.464067+00:00",
+      "price_history": [
+        {
+          "price": "$35",
+          "date": "2026-08-22T16:56:29+00:00"
+        }
+      ],
+      "tag": "SOLD"
+    },
+    {
+      "name": "Give Me Liberty 4oz",
+      "price": "$35",
+      "url": "https://speak-easy.club/threads/spc-tins-no-flipping.45076/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-08-22T16:56:29+00:00",
+      "last_updated": "2026-08-23T06:38:14.464067+00:00",
+      "price_history": [
+        {
+          "price": "$35",
+          "date": "2026-08-22T16:56:29+00:00"
+        }
+      ],
+      "tag": "SOLD"
+    },
+    {
+      "name": "Down Yonder 2oz",
+      "price": "$25",
+      "url": "https://speak-easy.club/threads/spc-tins-no-flipping.45076/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-08-22T16:56:29+00:00",
+      "last_updated": "2026-08-23T06:38:14.464067+00:00",
+      "price_history": [
+        {
+          "price": "$25",
+          "date": "2026-08-22T16:56:29+00:00"
+        }
+      ],
+      "tag": "SOLD"
+    },
+    {
+      "name": "Down Yonder 2oz",
+      "price": "$25",
+      "url": "https://speak-easy.club/threads/spc-tins-no-flipping.45076/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-08-22T16:56:29+00:00",
+      "last_updated": "2026-08-23T06:38:14.464067+00:00",
+      "price_history": [
+        {
+          "price": "$25",
+          "date": "2026-08-22T16:56:29+00:00"
+        }
+      ],
+      "tag": "SOLD"
+    },
     {
       "name": "tin of c&d XX flake",
       "price": "$13.77",
@@ -54166,6 +54309,13 @@
       "added": 5,
       "price_changed": 0,
       "total": 2651
+    },
+    {
+      "date": "2026-08-23T06:38:14.464067+00:00",
+      "found": 76,
+      "added": 3,
+      "price_changed": 1,
+      "total": 2654
     }
   ],
   "thread_recheck": {
@@ -54188,7 +54338,8 @@
     "https://speak-easy.club/threads/aged-garth-and-some-hard-to-find-gems-3rd-and-final-summer-sale.45059/unread": "2026-09-03T06:38:17.101637+00:00",
     "https://speak-easy.club/threads/aged-garth-3rd-and-final-summer-sale-now-open-to-all-members.45059/unread": "2026-09-04T06:38:26.757238+00:00",
     "https://speak-easy.club/threads/eccentric-anomalous.45068/unread": "2026-09-04T06:38:26.757238+00:00",
-    "https://speak-easy.club/threads/trade-tobacco-for-a-horn-stem.45071/unread": "2026-09-05T06:38:13.952017+00:00"
+    "https://speak-easy.club/threads/trade-tobacco-for-a-horn-stem.45071/unread": "2026-09-05T06:38:13.952017+00:00",
+    "https://speak-easy.club/threads/spc-tins-no-flipping.45076/unread": "2026-09-06T06:38:14.464067+00:00"
   },
   "thread_recheck_tags": {
     "https://speak-easy.club/threads/brigham-and-peterson.44723/unread": "WTS",
@@ -55049,6 +55200,7 @@
     "https://speak-easy.club/threads/aged-garth-and-some-hard-to-find-gems-3rd-and-final-summer-sale.45059/unread": "WTS",
     "https://speak-easy.club/threads/aged-garth-3rd-and-final-summer-sale-now-open-to-all-members.45059/unread": "WTS",
     "https://speak-easy.club/threads/eccentric-anomalous.45068/unread": "WTS",
-    "https://speak-easy.club/threads/trade-tobacco-for-a-horn-stem.45071/unread": "CLOSED"
+    "https://speak-easy.club/threads/trade-tobacco-for-a-horn-stem.45071/unread": "CLOSED",
+    "https://speak-easy.club/threads/spc-tins-no-flipping.45076/unread": "SOLD"
   }
 }
