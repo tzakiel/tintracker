@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-23T04:11:21.536698+00:00",
+  "generated": "2026-08-23T06:38:49.845522+00:00",
   "stats": {
-    "total_listings": 6434,
+    "total_listings": 6437,
     "excluded_multipacks": 2086,
     "total_tins": 1315,
     "multi_member_tins": 671,
@@ -105265,15 +105265,19 @@
             {
               "name": "Galloping Gertie",
               "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
-              "price": "$17",
-              "last_updated": "2026-06-27T20:00:39.387042+00:00",
+              "url": "https://speak-easy.club/threads/spc-tins-no-flipping.45076/unread",
+              "price": "$25",
+              "last_updated": "2026-08-23T06:38:14.464067+00:00",
               "first_seen": "2024-10-06T22:24:57+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$17",
                   "date": "2024-10-06T22:24:57+00:00"
+                },
+                {
+                  "price": "$25",
+                  "date": "2026-08-23T06:38:14.464067+00:00"
                 }
               ]
             },
@@ -115597,6 +115601,7 @@
     "Wessex: BURLEY SLICE 50g 2014 - C": "wessex|burleyslice",
     "Wessex: GOLD SLICE 1.5oz 2017 - C": "wessex|goldslice",
     "William Taylor Ashton:  OLD LONDON PEBBLE CUT 100g 1985- C": "ashton|oldlondonpebblecut",
+    "Galloping Gertie": "sutliff|spcgallopinggertie",
     "tin of c&d XX flake": "cornelldiehl|spcom20thanniversaryxxflake",
     "tin of c&d Carolina red flake with perique": "cornelldiehl|carolinaredflakewithperique",
     "tin of Orlik dark strong Kentucky": "orlik|darkstrongkentucky",
@@ -115924,7 +115929,6 @@
     "Giubileo d’Oro": "savinelli|giubileodoro",
     "Janus": "savinelli|janus",
     "Jupiter": "savinelli|jupiter",
-    "Galloping Gertie": "sutliff|spcgallopinggertie",
     "Club Hood Canal": "sutliff|spchoodcanal",
     "Mississippi River Rum Barrel Aged": "sutliff|spcmississippiriverrumbarrelaged",
     "Mississippi River Special Reserve": "sutliff|spcmississippiriverspecialreserve",
