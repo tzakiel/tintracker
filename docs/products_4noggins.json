@@ -395,10 +395,18 @@
         {
           "price": "$525.00",
           "date": "2026-08-22T15:14:13.903580+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Margate 8oz",
-      "last_updated": "2026-08-22T15:14:13.903580+00:00"
+      "last_updated": "2026-08-23T15:14:17.518822+00:00"
     },
     {
       "name": "Esoterica: ST. IVES 8oz - C",
@@ -831,10 +839,18 @@
         {
           "price": "$545.00",
           "date": "2026-08-22T15:14:13.903580+00:00"
+        },
+        {
+          "price": "$575.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
+        },
+        {
+          "price": "$545.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica St Ives 8oz",
-      "last_updated": "2026-08-22T15:14:13.903580+00:00"
+      "last_updated": "2026-08-23T15:14:17.518822+00:00"
     },
     {
       "name": "Butera: PELICAN 2014 2oz - C",
@@ -1219,10 +1235,18 @@
         {
           "price": "$245.00",
           "date": "2026-08-22T15:14:13.903580+00:00"
+        },
+        {
+          "price": "$285.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
+        },
+        {
+          "price": "$245.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Butera Pelican 2oz Tin 2014 .",
-      "last_updated": "2026-08-22T15:14:13.903580+00:00"
+      "last_updated": "2026-08-23T15:14:17.518822+00:00"
     },
     {
       "name": "Esoterica: DORCHESTER 8oz - C",
@@ -1230,7 +1254,7 @@
       "url": "https://www.4noggins.com/products/copy-of-esoterica-dorchester-8oz-c",
       "source": "4noggins.com",
       "first_seen": "2026-06-24T15:14:15.069299+00:00",
-      "last_updated": "2026-08-22T15:14:13.903580+00:00",
+      "last_updated": "2026-08-23T15:14:17.518822+00:00",
       "price_history": [
         {
           "price": "$495.00",
@@ -1435,6 +1459,14 @@
         {
           "price": "$495.00",
           "date": "2026-08-22T15:14:13.903580+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
+        },
+        {
+          "price": "$495.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
         }
       ],
       "description": "Default Title Consignement tin owned by 3rd party seller Esoterica 8oz Bag"
@@ -1610,10 +1642,18 @@
         {
           "price": "$135.00",
           "date": "2026-08-22T15:14:13.903580+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
+        },
+        {
+          "price": "$135.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
         }
       ],
       "description": "Default Title Consignment tins owned by 3rd party seller JF Germain Bridge Old Brown Flake 50g",
-      "last_updated": "2026-08-22T15:14:13.903580+00:00"
+      "last_updated": "2026-08-23T15:14:17.518822+00:00"
     },
     {
       "name": "Esoterica: BLACKPOOL 8oz - C",
@@ -1634,10 +1674,18 @@
         {
           "price": "$625.00",
           "date": "2026-08-22T15:14:13.903580+00:00"
+        },
+        {
+          "price": "$550.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
+        },
+        {
+          "price": "$625.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Blackpool 8oz",
-      "last_updated": "2026-08-22T15:14:13.903580+00:00"
+      "last_updated": "2026-08-23T15:14:17.518822+00:00"
     },
     {
       "name": "Esoterica: AND SO TO BED 2oz - C",
@@ -6996,7 +7044,7 @@
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
     }
   ],
-  "last_scraped": "2026-08-22T15:14:13.903580+00:00",
+  "last_scraped": "2026-08-23T15:14:17.518822+00:00",
   "latest_scrape": [
     {
       "name": "A&C Peterson: PREMIER CRU - C",
@@ -7107,270 +7155,6 @@
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller With deep flavored, heat cured, naturally fermented and matured black Cavendish, Astley's No. 88 Matured Dark Virginia is rich and complex. Strength: Mild Flavoring: Extremely Mild Taste: Mild Room Note: Pleasant"
-    },
-    {
-      "name": "Balkan Sobranie: BALKAN SOBRANIE 50g -C",
-      "price": "$145.00",
-      "url": "https://www.4noggins.com/products/balkan-sobranie-balkan-sobranie-50g-2018-c-1",
-      "source": "4noggins.com",
-      "first_seen": "2026-06-23T15:14:19.145115+00:00",
-      "last_seen": "2026-06-23T15:14:19.145115+00:00",
-      "price_history": [
-        {
-          "price": "$145.00",
-          "date": "2026-06-23T15:14:19.145115+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-06-23T15:14:19.145115+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-06-24T15:14:15.069299+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-06-24T15:14:15.069299+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-06-25T15:14:21.789530+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-06-25T15:14:21.789530+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-06-26T15:14:15.656788+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-06-26T15:14:15.656788+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-06-27T15:14:15.518385+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-06-27T15:14:15.518385+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-06-28T15:14:16.232426+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-06-28T15:14:16.232426+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-06-29T15:14:15.480833+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-06-29T15:14:15.480833+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-06-30T15:14:15.051806+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-06-30T15:14:15.051806+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-01T15:14:15.587407+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-01T15:14:15.587407+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-02T15:14:15.277148+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-02T15:14:15.277148+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-03T15:14:15.182829+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-03T15:14:15.182829+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-04T15:14:13.300394+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-04T15:14:13.300394+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-05T15:14:13.574529+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-05T15:14:13.574529+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-06T15:14:20.808796+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-06T15:14:20.808796+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-07T15:14:16.638390+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-07T15:14:16.638390+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-08T15:14:18.833557+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-08T15:14:18.833557+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-09T15:14:20.628029+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-09T15:14:20.628029+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-10T15:14:15.513531+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-10T15:14:15.513531+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-11T15:14:14.890213+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-11T15:14:14.890213+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-12T15:14:15.711149+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-12T15:14:15.711149+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-13T15:14:25.508492+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-13T15:14:25.508492+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-14T15:14:17.145563+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-14T15:14:17.145563+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-15T19:20:51.504365+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-15T19:20:51.504365+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-16T15:14:19.874465+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-16T15:14:19.874465+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-17T15:14:19.407829+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-17T15:14:19.407829+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-18T15:14:16.769428+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-18T15:14:16.769428+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-19T15:14:15.074234+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-19T15:14:15.074234+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-22T15:14:20.441106+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-22T15:14:20.441106+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-27T15:14:21.683283+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-27T15:14:21.683283+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-28T15:14:18.866329+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-28T15:14:18.866329+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-29T15:14:20.972566+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-29T15:14:20.972566+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-08-05T15:14:17.198082+00:00"
-        }
-      ],
-      "description": "Default Title Consignment tin owned by 3rd Party Seller Balkan Sobranie 50g",
-      "last_updated": "2026-08-05T15:14:17.198082+00:00"
     },
     {
       "name": "Brebbia: CLASSIC ENGLISH MIX No. 80 2012 50g - C",
@@ -7915,10 +7699,18 @@
         {
           "price": "$245.00",
           "date": "2026-08-22T15:14:13.903580+00:00"
+        },
+        {
+          "price": "$285.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
+        },
+        {
+          "price": "$245.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Butera Pelican 2oz Tin 2014 .",
-      "last_updated": "2026-08-22T15:14:13.903580+00:00"
+      "last_updated": "2026-08-23T15:14:17.518822+00:00"
     },
     {
       "name": "Butera: PELICAN 2014 2oz - C",
@@ -8303,10 +8095,18 @@
         {
           "price": "$245.00",
           "date": "2026-08-22T15:14:13.903580+00:00"
+        },
+        {
+          "price": "$285.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
+        },
+        {
+          "price": "$245.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Butera Pelican 2oz Tin 2014 .",
-      "last_updated": "2026-08-22T15:14:13.903580+00:00"
+      "last_updated": "2026-08-23T15:14:17.518822+00:00"
     },
     {
       "name": "CAO: MOONTRANCE 50g 2011 - C",
@@ -8485,21 +8285,6 @@
       ],
       "description": "Default Title Consignment tin sold by 3rd party seller C&amp;D Carolina Red Flake 2oz 2016",
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
-    },
-    {
-      "name": "Cornell & Diehl: Small Batch: CAROLINA RED FLAKE 2oz 2017 -C",
-      "price": "$125.00",
-      "url": "https://www.4noggins.com/products/cornell-diehl-small-batch-carolina-red-flake-2oz-2017-c",
-      "source": "4noggins.com",
-      "first_seen": "2026-06-25T15:14:21.789530+00:00",
-      "last_updated": "2026-06-25T15:14:21.789530+00:00",
-      "price_history": [
-        {
-          "price": "$125.00",
-          "date": "2026-06-25T15:14:21.789530+00:00"
-        }
-      ],
-      "description": "Default Title Consignment tin sold by 3rd party seller C&amp;D Carolina Red Flake 2oz 2017"
     },
     {
       "name": "Cornell & Diehl: Small Batch: CAROLINA RED FLAKE 2oz 2018 -C",
@@ -9406,10 +9191,18 @@
         {
           "price": "$625.00",
           "date": "2026-08-22T15:14:13.903580+00:00"
+        },
+        {
+          "price": "$550.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
+        },
+        {
+          "price": "$625.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Blackpool 8oz",
-      "last_updated": "2026-08-22T15:14:13.903580+00:00"
+      "last_updated": "2026-08-23T15:14:17.518822+00:00"
     },
     {
       "name": "Esoterica: BLACKPOOL 8oz - C",
@@ -9430,10 +9223,18 @@
         {
           "price": "$625.00",
           "date": "2026-08-22T15:14:13.903580+00:00"
+        },
+        {
+          "price": "$550.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
+        },
+        {
+          "price": "$625.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Blackpool 8oz",
-      "last_updated": "2026-08-22T15:14:13.903580+00:00"
+      "last_updated": "2026-08-23T15:14:17.518822+00:00"
     },
     {
       "name": "Esoterica: BRIGHTON 8oz-C",
@@ -9492,7 +9293,7 @@
       "url": "https://www.4noggins.com/products/copy-of-esoterica-dorchester-8oz-c",
       "source": "4noggins.com",
       "first_seen": "2026-06-24T15:14:15.069299+00:00",
-      "last_updated": "2026-08-22T15:14:13.903580+00:00",
+      "last_updated": "2026-08-23T15:14:17.518822+00:00",
       "price_history": [
         {
           "price": "$495.00",
@@ -9697,6 +9498,14 @@
         {
           "price": "$495.00",
           "date": "2026-08-22T15:14:13.903580+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
+        },
+        {
+          "price": "$495.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
         }
       ],
       "description": "Default Title Consignement tin owned by 3rd party seller Esoterica 8oz Bag"
@@ -9707,7 +9516,7 @@
       "url": "https://www.4noggins.com/products/copy-of-esoterica-dorchester-8oz-c",
       "source": "4noggins.com",
       "first_seen": "2026-06-24T15:14:15.069299+00:00",
-      "last_updated": "2026-08-22T15:14:13.903580+00:00",
+      "last_updated": "2026-08-23T15:14:17.518822+00:00",
       "price_history": [
         {
           "price": "$495.00",
@@ -9912,6 +9721,14 @@
         {
           "price": "$495.00",
           "date": "2026-08-22T15:14:13.903580+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
+        },
+        {
+          "price": "$495.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
         }
       ],
       "description": "Default Title Consignement tin owned by 3rd party seller Esoterica 8oz Bag"
@@ -10622,10 +10439,18 @@
         {
           "price": "$525.00",
           "date": "2026-08-22T15:14:13.903580+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Margate 8oz",
-      "last_updated": "2026-08-22T15:14:13.903580+00:00"
+      "last_updated": "2026-08-23T15:14:17.518822+00:00"
     },
     {
       "name": "Esoterica: MARGATE 8oz - C",
@@ -11022,10 +10847,18 @@
         {
           "price": "$525.00",
           "date": "2026-08-22T15:14:13.903580+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Margate 8oz",
-      "last_updated": "2026-08-22T15:14:13.903580+00:00"
+      "last_updated": "2026-08-23T15:14:17.518822+00:00"
     },
     {
       "name": "Esoterica: MARGATE 8oz 2005 - C",
@@ -11603,10 +11436,18 @@
         {
           "price": "$545.00",
           "date": "2026-08-22T15:14:13.903580+00:00"
+        },
+        {
+          "price": "$575.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
+        },
+        {
+          "price": "$545.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica St Ives 8oz",
-      "last_updated": "2026-08-22T15:14:13.903580+00:00"
+      "last_updated": "2026-08-23T15:14:17.518822+00:00"
     },
     {
       "name": "Esoterica: ST. IVES 8oz - C",
@@ -12039,10 +11880,18 @@
         {
           "price": "$545.00",
           "date": "2026-08-22T15:14:13.903580+00:00"
+        },
+        {
+          "price": "$575.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
+        },
+        {
+          "price": "$545.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica St Ives 8oz",
-      "last_updated": "2026-08-22T15:14:13.903580+00:00"
+      "last_updated": "2026-08-23T15:14:17.518822+00:00"
     },
     {
       "name": "Esoterica: STONEHAVEN 2oz - C",
@@ -12887,10 +12736,18 @@
         {
           "price": "$135.00",
           "date": "2026-08-22T15:14:13.903580+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
+        },
+        {
+          "price": "$135.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
         }
       ],
       "description": "Default Title Consignment tins owned by 3rd party seller JF Germain Bridge Old Brown Flake 50g",
-      "last_updated": "2026-08-22T15:14:13.903580+00:00"
+      "last_updated": "2026-08-23T15:14:17.518822+00:00"
     },
     {
       "name": "J.F. Germain: BRIDGE OLD BROWN FLAKE 50g -C",
@@ -13063,10 +12920,18 @@
         {
           "price": "$135.00",
           "date": "2026-08-22T15:14:13.903580+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
+        },
+        {
+          "price": "$135.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
         }
       ],
       "description": "Default Title Consignment tins owned by 3rd party seller JF Germain Bridge Old Brown Flake 50g",
-      "last_updated": "2026-08-22T15:14:13.903580+00:00"
+      "last_updated": "2026-08-23T15:14:17.518822+00:00"
     },
     {
       "name": "J.F. Germain: BROWN FLAKE 50g - C",
@@ -15491,6 +15356,13 @@
     {
       "date": "2026-08-22T15:14:13.903580+00:00",
       "found": 265,
+      "added": 0,
+      "price_changed": 12,
+      "total": 289
+    },
+    {
+      "date": "2026-08-23T15:14:17.518822+00:00",
+      "found": 263,
       "added": 0,
       "price_changed": 12,
       "total": 289
