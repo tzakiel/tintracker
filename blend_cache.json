@@ -30545,8 +30545,7 @@
     "brand": "",
     "blend": "",
     "is_tin": true,
-    "confidence": 0.2,
-    "source": "llm"
+    "confidence": 0.3
   },
   "James J. Fox Original Dorisco Mixture 50g tin – Year 2006": {
     "blend": "Dorisco Mixture",
@@ -31082,7 +31081,7 @@
   },
   "Crumble Cake": {
     "brand": "",
-    "blend": "Crumble Cake",
+    "blend": "",
     "is_tin": true,
     "confidence": 0.3
   },
@@ -36647,11 +36646,10 @@
     "source": "llm"
   },
   "PCCA Constantinople Virginia/Perique 50g tin – Year 1997 & Made by McClelland’s": {
-    "brand": "",
-    "blend": "",
+    "brand": "McClelland",
+    "blend": "PCCA Constantinople",
     "is_tin": true,
-    "confidence": 0.2,
-    "source": "llm"
+    "confidence": 0.75
   },
   "Peterson’s Irish Flake 50g tins – Years 2016 & 2017": {
     "brand": "",
@@ -36892,11 +36890,10 @@
     "source": "llm"
   },
   "Wessex Gold Standard 50g tins – Year 2015 (Copy)": {
-    "brand": "",
-    "blend": "",
+    "brand": "Wessex",
+    "blend": "Gold Standard",
     "is_tin": true,
-    "confidence": 0.2,
-    "source": "llm"
+    "confidence": 0.9
   },
   "Wessex Red Virginia Flake 50g tin – Year 2012": {
     "brand": "Wessex",
@@ -37333,9 +37330,9 @@
   },
   "NASPC 2023 Limited Edition Show Blend Founders Favorite": {
     "brand": "",
-    "blend": "Founders Favorite",
+    "blend": "",
     "is_tin": true,
-    "confidence": 0.35
+    "confidence": 0.3
   },
   "Penzance 2019": {
     "brand": "Esoterica",
@@ -37528,5 +37525,353 @@
     "blend": "Kajun Kake",
     "is_tin": true,
     "confidence": 0.9
+  },
+  "Cornell & Diehl Pirate Kake One Pound Vacuum Sealed bag – Year 2013": {
+    "brand": "Cornell & Diehl",
+    "blend": "Pirate Kake",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Cornell & Diehl Small Batch Sansepolcro 2oz tin – Years 2016 & 2019 Production": {
+    "brand": "Cornell & Diehl",
+    "blend": "Small Batch Sansepolcro",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "D&R Tobacco NASPC Show Limited Edition English Hoopla 50g tins – Year 2019": {
+    "brand": "Daughters & Ryan",
+    "blend": "English Hoopla",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "Dan Tobacco’s Tordenskjold Virginia Slices One Pound Bag – Year 2010": {
+    "brand": "Dan Tobacco",
+    "blend": "Tordenskjold Virginia Slices",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Davidoff Red Mixture 50g tin – Year 2006 & Made by Orlik": {
+    "brand": "Davidoff",
+    "blend": "Red Mixture",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Dobie’s Four Square Curlies 50g tins – Late 1970’s UK Made Era": {
+    "brand": "",
+    "blend": "",
+    "is_tin": true,
+    "confidence": 0.3
+  },
+  "Dunhill Murray’s era Durbar 50g tin – Year 2005": {
+    "brand": "Dunhill",
+    "blend": "Durbar",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Dunhill Murray’s era Nightcap 50g tins – Year 2005": {
+    "brand": "Dunhill",
+    "blend": "Nightcap",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Dunhill Murray’s era Ultra Mild 50g tin – Year 2002": {
+    "brand": "Dunhill",
+    "blend": "Ultra Mild",
+    "is_tin": true,
+    "confidence": 0.8
+  },
+  "Edinburgh, Scotland Made Clan Gordon Full Dark Mixture 2oz tin – 1950’s – 1960’s era": {
+    "brand": "",
+    "blend": "",
+    "is_tin": true,
+    "confidence": 0.3
+  },
+  "G.L. Pease Classic Collection Piccadilly 2oz tin – Year 2003": {
+    "brand": "G.L. Pease",
+    "blend": "Piccadilly",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "G.L. Pease Haddo’s Delight 2oz tins – Year 2006": {
+    "brand": "G.L. Pease",
+    "blend": "Haddo's Delight",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "G.L. Pease Lombard 2oz tins – Year 2005": {
+    "brand": "G.L. Pease",
+    "blend": "Lombard",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "G.L. Pease Virginia Cream 8oz tin – Year 2016": {
+    "brand": "G.L. Pease",
+    "blend": "The Virginia Cream",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "Gawith Hoggarth Black Irish X Factory Vacuum Sealed 500g bag – Year 2014": {
+    "brand": "Gawith, Hoggarth & Co.",
+    "blend": "Black Irish X",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Gawith Hoggarth Bob’s Chocolate Flake Factory Vacuum Sealed 500g box – Year 2016": {
+    "brand": "Gawith, Hoggarth & Co.",
+    "blend": "Bob's Chocolate Flake",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Germain’s Balkan Sobranie 50g tin – Year 2018 (One Tin Per Customer)": {
+    "brand": "J.F. Germain",
+    "blend": "Balkan Sobranie",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Golden Gate 50g tin – 1980’s era & Made by Davidoff in Switzerland for the Golden Gate Tobacco Corp., Located in San Francisco, CA.": {
+    "brand": "",
+    "blend": "",
+    "is_tin": true,
+    "confidence": 0.3
+  },
+  "John Cotton’s Honeydew 50g tins – Made From 1968-1972 by Orlik": {
+    "brand": "John Cotton's",
+    "blend": "Honeydew",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "Larsen’s Choice 2oz tin –  1980’s – 1990’s era": {
+    "brand": "",
+    "blend": "",
+    "is_tin": true,
+    "confidence": 0.3
+  },
+  "Low Country Pipes & Cigars Waccamaw 2oz tin – Year 2009": {
+    "brand": "Low Country",
+    "blend": "Waccamaw",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Low Country Tobacco’s Cooper 2oz tin – Year 2007 & Made by Cornell & Diehl": {
+    "brand": "Low Country",
+    "blend": "Cooper",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "Mac Baren HH Vintage Syr. Latakia 3-1/2oz tin – Year 2008": {
+    "brand": "Mac Baren",
+    "blend": "HH Vintage Syrian",
+    "is_tin": true,
+    "confidence": 0.8
+  },
+  "Mac Baren Navy Flake 50g tin – Year 2007": {
+    "brand": "Mac Baren",
+    "blend": "Navy Flake",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Mac Baren’s HH Latakia Flake 100g tin – Year 2014": {
+    "brand": "Mac Baren",
+    "blend": "HH Latakia Flake",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Mac Baren’s HH Old Dark Fired 100g tin – Year 2018": {
+    "brand": "Mac Baren",
+    "blend": "HH Old Dark Fired",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Mac Baren’s HH Old Dark Fired 50g tin – Year 2015": {
+    "brand": "Mac Baren",
+    "blend": "HH Old Dark Fired",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Mac Baren’s Limited Ed. HH Old Dark Fired Plug Cut 50g tin – Year 2019": {
+    "brand": "Mac Baren",
+    "blend": "HH Old Dark Fired Plug Cut",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "McClelland’s Butera’s Royal Vintage Latakia No.2 in a 50g tin – Year 1998": {
+    "brand": "Butera",
+    "blend": "Royal Vintage Latakia No. 2",
+    "is_tin": true,
+    "confidence": 0.75
+  },
+  "McClelland’s Deep Hollow 100g tin – Year 2000": {
+    "brand": "McClelland",
+    "blend": "Deep Hollow",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "McClelland’s Frog Morton On the Bayou 100g tin – Year 2002 (Lot #2)": {
+    "brand": "McClelland",
+    "blend": "Frog Morton On the Bayou",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "McClelland’s Frog Morton On the Bayou 100g tins – Year 2002": {
+    "brand": "McClelland",
+    "blend": "Frog Morton On the Bayou",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "McClelland’s Frog Morton On the Bayou 50g tin – Year 2003": {
+    "brand": "McClelland",
+    "blend": "Frog Morton On the Bayou",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "McClelland’s Grand Oriental Series Black Sea Sokhoum 50g tin – First year 2007 Production": {
+    "brand": "McClelland",
+    "blend": "Grand Orientals Black Sea Sokhoum",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "McClelland’s No. 24 Matured Virginia 100g tin – Year 2007": {
+    "brand": "McClelland",
+    "blend": "No. 24 Matured Virginia",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "McClelland’s Original Frog Morton 100g tins – Year 2015": {
+    "brand": "McClelland",
+    "blend": "Frog Morton",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "McClelland’s Original Frog Morton 100g tins – Years 1999 to 2005": {
+    "brand": "McClelland",
+    "blend": "Frog Morton",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "McClelland’s Personal Reserve Series Dark Star 50g tin – Year 2009": {
+    "brand": "McClelland",
+    "blend": "Dark Star",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "McClelland’s Syr. Latakia Frog Morton Across the Pond 100g tins – Year 2005 & 2007": {
+    "brand": "McClelland",
+    "blend": "Frog Morton Across the Pond",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "McClelland’s Syr. Latakia Frog Morton Across the Pond 100g tins – Year 2017": {
+    "brand": "McClelland",
+    "blend": "Frog Morton Across the Pond",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Murray’s Original Erinmore Mixture 50g tin – Year 2002": {
+    "brand": "Murray's",
+    "blend": "Erinmore Mixture",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Nat Sherman’s High Noon 2oz tin – Early 2000’s era & Made by Lane Limited": {
+    "brand": "",
+    "blend": "",
+    "is_tin": true,
+    "confidence": 0.3
+  },
+  "Orlik Original Dark Kentucky “Tall Boy” 100g tin – Year 2005": {
+    "brand": "Orlik",
+    "blend": "Dark Strong Kentucky",
+    "is_tin": true,
+    "confidence": 0.65
+  },
+  "Rattray’s Red Rapparee 50g tins – Year 2017": {
+    "brand": "Rattray's",
+    "blend": "Red Rapparee",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Robert McConnell’s Original Black Shag 50g tin – 1980’s era & Made by MConnell’s in England": {
+    "brand": "Robert McConnell",
+    "blend": "Black Shag",
+    "is_tin": true,
+    "confidence": 0.7
+  },
+  "Robert McConnell’s Original Rich Dark Virginia 50g tin – 1980’s era & Made by MConnell’s in England": {
+    "brand": "Robert McConnell",
+    "blend": "Rich Dark Va",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "Robert McConnell’s Original Scottish Flake 50g tin – Year 2010": {
+    "brand": "Robert McConnell",
+    "blend": "Scottish Flake",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Samuel Gawith Cabbie’s Mixture 50g tins – Year 2017": {
+    "brand": "Samuel Gawith",
+    "blend": "Cabbie's Mixture",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Samuel Gawith Limited Edition Hansom Flake 50g tin – Year 2020": {
+    "brand": "Samuel Gawith",
+    "blend": "Hansom Flake",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Skandinavik Ultra Light 100g tin – 1980’s era": {
+    "brand": "",
+    "blend": "",
+    "is_tin": true,
+    "confidence": 0.3
+  },
+  "Solani No 779 Syr. Latakia English Luxury Mixture 50g tin – Years 2003": {
+    "brand": "Solani",
+    "blend": "779",
+    "is_tin": true,
+    "confidence": 0.85
+  },
+  "The Bufflehead Shop Tinned Gawith Hoggarth Bright CR 8oz tin – Year 2002": {
+    "brand": "Gawith, Hoggarth & Co.",
+    "blend": "Bright CR Flake",
+    "is_tin": true,
+    "confidence": 0.8
+  },
+  "The Bufflehead Shop Tinned Gawith Hoggarth Brown Flake 8oz tin – Year 2002": {
+    "brand": "",
+    "blend": "",
+    "is_tin": true,
+    "confidence": 0.3
+  },
+  "Theodorus Niemeyer Flying Dutchman 2oz tin – 1960’s – 1970’s era": {
+    "brand": "Theodorus Niemeyer",
+    "blend": "Flying Dutchman",
+    "is_tin": true,
+    "confidence": 0.9
+  },
+  "Uptown’s Big Bend 50g tin – Year 1997": {
+    "brand": "",
+    "blend": "",
+    "is_tin": true,
+    "confidence": 0.3
+  },
+  "Van Rossem’s Troost Special Cavendish 100g tin- 1990’s era": {
+    "brand": "",
+    "blend": "",
+    "is_tin": true,
+    "confidence": 0.3
+  },
+  "Von Eicken Private Club 100g tin – Year 2006": {
+    "brand": "Von Eicken",
+    "blend": "Private Club",
+    "is_tin": true,
+    "confidence": 0.8
+  },
+  "Von Eikens Rosebud Country Cut 100g tin – Year 2006": {
+    "brand": "",
+    "blend": "",
+    "is_tin": true,
+    "confidence": 0.3
   }
 }
