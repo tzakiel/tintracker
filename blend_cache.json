@@ -2065,7 +2065,7 @@
   },
   "McClelland Full Balkan Reserve": {
     "blend": "Full Balkan Reserve",
-    "brand": "McClelland",
+    "brand": "PCCA",
     "confidence": 0.9,
     "is_tin": true,
     "source": "llm"
@@ -9533,7 +9533,7 @@
     "source": "llm"
   },
   "Macbaren Brunello Flake, 3.5oz square tin,": {
-    "brand": "Mac Baren",
+    "brand": "Savinelli",
     "blend": "Brunello Flake",
     "confidence": 0.9,
     "is_tin": true,
@@ -10114,8 +10114,8 @@
     "source": "llm"
   },
   "Grousemoor 2023": {
-    "brand": "Dunhill",
-    "blend": "Grousemoor",
+    "brand": "Samuel Gawith",
+    "blend": "Grousemoor Plug",
     "confidence": 0.9,
     "is_tin": true,
     "source": "llm"
@@ -13523,7 +13523,7 @@
     "confidence": 0.9
   },
   "Macbaren Brunello Flake, 3.5oz round tin,": {
-    "brand": "Mac Baren",
+    "brand": "Savinelli",
     "blend": "Brunello Flake",
     "is_tin": true,
     "confidence": 0.9
@@ -16499,7 +16499,7 @@
     "confidence": 0.99
   },
   "VINTAGE and RARE Flying Dutchman 2oz cutter top": {
-    "brand": "Flying Dutchman",
+    "brand": "Theodorus Niemeyer",
     "blend": "Flying Dutchman",
     "is_tin": true,
     "confidence": 0.75
@@ -18222,7 +18222,7 @@
     "confidence": 0.95
   },
   "Mac Baren Brunello Flake": {
-    "brand": "Mac Baren",
+    "brand": "Savinelli",
     "blend": "Brunello Flake",
     "is_tin": true,
     "confidence": 0.92
@@ -29908,7 +29908,7 @@
     "source": "llm"
   },
   "NASPC Show 2004 McClelland Scottish Woods Tobacco Sealed 50g Tin Out of Production": {
-    "blend": "Scottish Woods",
+    "blend": "CPCC Scottish Woods",
     "brand": "McClelland",
     "confidence": 0.6,
     "is_tin": true,
@@ -36549,14 +36549,14 @@
   },
   "McClelland’s Scottish Woods 50g tin – Year 2015 (Lot #1)": {
     "brand": "McClelland",
-    "blend": "Scottish Woods",
+    "blend": "CPCC Scottish Woods",
     "is_tin": true,
     "confidence": 0.9,
     "source": "llm"
   },
   "McClelland’s Scottish Woods 50g tins – Year 2009": {
     "brand": "McClelland",
-    "blend": "Scottish Woods",
+    "blend": "CPCC Scottish Woods",
     "is_tin": true,
     "confidence": 0.9,
     "source": "llm"

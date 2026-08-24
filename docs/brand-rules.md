@@ -334,6 +334,16 @@ These are confirmed tobacco brands not yet heavily represented in the cache. Whe
 - **Peter Heinrichs** also makes **No. 39** and **Dark Strong Flake**.
 - **Gawith, Hoggarth & Co.** makes **Best Brown #2** ("GH BB2" / "Best Brown No. 2").
 
+## Session Learnings (2026-08-24, round-11 dupe audit)
+
+- **Brunello Flake** → brand **Savinelli** (NOT Mac Baren), even though Mac Baren is the contract manufacturer — Savinelli launched it (~2013) and it's filed under Savinelli everywhere (tobaccoreviews.com, smokingpipes.com). Same pattern as the Seattle Pipe Club split: brand = the label on the tin, not the contract blender.
+- **McClelland Scottish Woods** → canonical blend name is always **"CPCC Scottish Woods"** (Chicagoland Pipe Collectors Club blend) — never leave the bare "Scottish Woods" form, normalize it.
+- **PCCA Full Balkan Reserve** → brand **PCCA** (NOT McClelland), even though McClelland blended it — same club-brand pattern as PCCA Constantinople. Note: McClelland also made a distinct **CORPS Full Balkan Reserve** for a different club — don't conflate the two club editions.
+- **Grousemoor Plug** → brand **Samuel Gawith** (NOT Dunhill) — confirmed a Lakeland scented plug, unrelated to any Dunhill product of a similar name.
+- **Flying Dutchman** → brand **Theodorus Niemeyer** (original maker; later sold to Orlik ~2013). Don't file it under a bare self-titled "Flying Dutchman" brand.
+- **Bosun Cut Plug** vs **Bosun Plug** (Gawith, Hoggarth & Co.) — confirmed these are two *distinct* products (separate tobaccoreviews.com listings), not alternate spellings of one blend. Keep them separate despite the similar names.
+- **Wessex Red Virginia Flake** vs **Dark Red Virginia Flake** — confirmed distinct products (different grades), not a naming variant. Keep separate.
+
 ---
 
 ## How to Apply

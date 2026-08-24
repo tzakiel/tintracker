@@ -1,12 +1,12 @@
 {
-  "generated": "2026-08-24T20:34:37.735806+00:00",
+  "generated": "2026-08-24T20:42:36.431056+00:00",
   "stats": {
     "total_listings": 6507,
     "excluded_multipacks": 2111,
-    "total_tins": 1345,
-    "multi_member_tins": 686,
-    "listings_in_groups": 3686,
-    "cross_source_tins": 528
+    "total_tins": 1340,
+    "multi_member_tins": 685,
+    "listings_in_groups": 3690,
+    "cross_source_tins": 527
   },
   "tins": [
     {
@@ -23060,44 +23060,6 @@
       "source": "Tinbids Auction (Sold)"
     },
     {
-      "id": "dunhill|grousemoor",
-      "brand": "Dunhill",
-      "blend": "Grousemoor",
-      "display_name": "Dunhill Grousemoor",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Grousemoor 2023",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/cellary.43592/",
-              "price": "$15",
-              "last_updated": "2026-06-24T02:02:09.029335+00:00",
-              "first_seen": "2025-12-07T19:05:46+00:00",
-              "year": "2023",
-              "price_history": [
-                {
-                  "price": "$15",
-                  "date": "2026-06-24T02:02:09.029335+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [
-        "2023"
-      ],
-      "source": "Speak-Easy.Club"
-    },
-    {
       "id": "dunhill|lightflake",
       "brand": "Dunhill",
       "blend": "Light Flake",
@@ -33680,42 +33642,6 @@
       "years": [
         "2024"
       ],
-      "source": "Tinbids Auction (Sold)"
-    },
-    {
-      "id": "flyingdutchman|flyingdutchman",
-      "brand": "Flying Dutchman",
-      "blend": "Flying Dutchman",
-      "display_name": "Flying Dutchman Flying Dutchman",
-      "sources": [
-        "Tinbids Auction (Sold)"
-      ],
-      "sizes": [
-        {
-          "quantity": "2oz",
-          "members": [
-            {
-              "name": "VINTAGE and RARE Flying Dutchman 2oz cutter top",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/196807/",
-              "price": "$305.00",
-              "last_updated": "2026-06-26T16:00:27.901345+00:00",
-              "first_seen": "2026-06-26T13:36:17+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$305.00",
-                  "date": "2026-06-26T13:36:17+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Tinbids Auction (Sold)"
-          ]
-        }
-      ],
-      "years": [],
       "source": "Tinbids Auction (Sold)"
     },
     {
@@ -58478,164 +58404,6 @@
       "source": "Treasured Smokes"
     },
     {
-      "id": "macbaren|brunelloflake",
-      "brand": "Mac Baren",
-      "blend": "Brunello Flake",
-      "display_name": "Mac Baren Brunello Flake",
-      "sources": [
-        "Speak-Easy.Club"
-      ],
-      "sizes": [
-        {
-          "quantity": "3.5oz",
-          "members": [
-            {
-              "name": "Macbaren Brunello Flake, 3.5oz round tin,",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/selling-a-chunk-of-my-cellar.44637/",
-              "price": "$35",
-              "last_updated": "2026-06-25T20:26:40.398134+00:00",
-              "first_seen": "2026-06-24T14:49:03+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$35",
-                  "date": "2026-06-24T14:49:03+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Macbaren Brunello Flake, 3.5oz square tin,",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/selling-a-chunk-of-my-cellar.44637/",
-              "price": "$45",
-              "last_updated": "2026-06-24T02:02:09.029335+00:00",
-              "first_seen": "2026-06-13T02:23:45+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$45",
-                  "date": "2026-06-24T02:02:09.029335+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        },
-        {
-          "quantity": "",
-          "members": [
-            {
-              "name": "Mac Baren Brunello Flake",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/selling-a-chunk-of-my-cellar.44637/",
-              "price": "$45.00",
-              "last_updated": "2026-07-09T06:48:17.821792+00:00",
-              "first_seen": "2026-06-13T00:39:45+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$55.00",
-                  "date": "2026-06-13T00:39:45+00:00"
-                },
-                {
-                  "price": "$45.00",
-                  "date": "2026-06-29T23:33:11.991005+00:00"
-                },
-                {
-                  "price": "$55.00",
-                  "date": "2026-06-30T06:38:13.389175+00:00"
-                },
-                {
-                  "price": "$45.00",
-                  "date": "2026-06-30T06:38:13.389175+00:00"
-                },
-                {
-                  "price": "$55.00",
-                  "date": "2026-07-01T06:38:15.820264+00:00"
-                },
-                {
-                  "price": "$45.00",
-                  "date": "2026-07-01T06:38:15.820264+00:00"
-                },
-                {
-                  "price": "$55.00",
-                  "date": "2026-07-02T06:38:15.290903+00:00"
-                },
-                {
-                  "price": "$45.00",
-                  "date": "2026-07-02T06:38:15.290903+00:00"
-                },
-                {
-                  "price": "$55.00",
-                  "date": "2026-07-03T06:38:13.807432+00:00"
-                },
-                {
-                  "price": "$45.00",
-                  "date": "2026-07-03T06:38:13.807432+00:00"
-                },
-                {
-                  "price": "$55.00",
-                  "date": "2026-07-04T06:38:13.655775+00:00"
-                },
-                {
-                  "price": "$45.00",
-                  "date": "2026-07-04T06:38:13.655775+00:00"
-                },
-                {
-                  "price": "$55.00",
-                  "date": "2026-07-05T06:38:17.100207+00:00"
-                },
-                {
-                  "price": "$45.00",
-                  "date": "2026-07-05T06:38:17.100207+00:00"
-                },
-                {
-                  "price": "$55.00",
-                  "date": "2026-07-06T06:38:16.469296+00:00"
-                },
-                {
-                  "price": "$45.00",
-                  "date": "2026-07-06T06:38:16.469296+00:00"
-                },
-                {
-                  "price": "$55.00",
-                  "date": "2026-07-07T06:38:18.067942+00:00"
-                },
-                {
-                  "price": "$45.00",
-                  "date": "2026-07-07T06:38:18.067942+00:00"
-                },
-                {
-                  "price": "$55.00",
-                  "date": "2026-07-08T06:38:16.123014+00:00"
-                },
-                {
-                  "price": "$45.00",
-                  "date": "2026-07-08T06:38:16.123014+00:00"
-                },
-                {
-                  "price": "$55.00",
-                  "date": "2026-07-09T06:48:17.821792+00:00"
-                },
-                {
-                  "price": "$45.00",
-                  "date": "2026-07-09T06:48:17.821792+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Speak-Easy.Club"
-          ]
-        }
-      ],
-      "years": [],
-      "source": "Speak-Easy.Club"
-    },
-    {
       "id": "macbaren|burleylondonblend",
       "brand": "Mac Baren",
       "blend": "Burley London Blend",
@@ -72327,6 +72095,7 @@
       "blend": "CPCC Scottish Woods",
       "display_name": "McClelland CPCC Scottish Woods",
       "sources": [
+        "pipestud.com",
         "Tinbids Auction (Sold)",
         "Speak-Easy.Club"
       ],
@@ -72334,6 +72103,36 @@
         {
           "quantity": "50g",
           "members": [
+            {
+              "name": "NASPC Show 2004 McClelland Scottish Woods Tobacco Sealed 50g Tin Out of Production",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/209443/",
+              "price": "$83.00",
+              "last_updated": "2026-07-30T04:00:28.295890+00:00",
+              "first_seen": "2026-07-29T20:29:31+00:00",
+              "year": "2004",
+              "price_history": [
+                {
+                  "price": "$83.00",
+                  "date": "2026-07-29T20:29:31+00:00"
+                }
+              ]
+            },
+            {
+              "name": "McClelland’s Scottish Woods 50g tins – Year 2009",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-scottish-woods-50g-tins-year-2009/",
+              "price": "$70.00",
+              "last_updated": "2026-08-15T17:13:34.289812+00:00",
+              "first_seen": "2026-08-15T17:13:34.289812+00:00",
+              "year": "2009",
+              "price_history": [
+                {
+                  "price": "$70.00",
+                  "date": "2026-08-15T17:13:34.289812+00:00"
+                }
+              ]
+            },
             {
               "name": "2009 McClelland Scottish Woods CPCC 50g Sealed Vintage Pipe Tobacco",
               "source": "Tinbids Auction (Sold)",
@@ -72348,9 +72147,25 @@
                   "date": "2026-08-07T19:54:12+00:00"
                 }
               ]
+            },
+            {
+              "name": "McClelland’s Scottish Woods 50g tin – Year 2015 (Lot #1)",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-scottish-woods-50g-tin-year-2015-lot-1/",
+              "price": "$65.00",
+              "last_updated": "2026-08-15T17:13:34.289812+00:00",
+              "first_seen": "2026-08-15T17:13:34.289812+00:00",
+              "year": "2015",
+              "price_history": [
+                {
+                  "price": "$65.00",
+                  "date": "2026-08-15T17:13:34.289812+00:00"
+                }
+              ]
             }
           ],
           "sources": [
+            "pipestud.com",
             "Tinbids Auction (Sold)"
           ]
         },
@@ -72395,6 +72210,7 @@
         }
       ],
       "years": [
+        "2004",
         "2009",
         "2015"
       ],
@@ -75268,42 +75084,6 @@
         "2018"
       ],
       "source": "Multiple sources"
-    },
-    {
-      "id": "mcclelland|fullbalkanreserve",
-      "brand": "McClelland",
-      "blend": "Full Balkan Reserve",
-      "display_name": "McClelland Full Balkan Reserve",
-      "sources": [
-        "Treasured Smokes"
-      ],
-      "sizes": [
-        {
-          "quantity": "50g",
-          "members": [
-            {
-              "name": "McClelland Full Balkan Reserve",
-              "source": "Treasured Smokes",
-              "url": "https://www.treasuredsmokes.com/product-page/mcclelland-corps-full-balkan-reserve-2-tins",
-              "price": "$85.00",
-              "last_updated": "2026-06-20T18:32:06.142896+00:00",
-              "first_seen": "2026-06-20T18:32:06.142896+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$85.00",
-                  "date": "2026-06-20T18:32:06.142896+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "Treasured Smokes"
-          ]
-        }
-      ],
-      "years": [],
-      "source": "Treasured Smokes"
     },
     {
       "id": "mcclelland|grandorientalsblackseasokhoum",
@@ -78807,78 +78587,6 @@
       ],
       "years": [
         "2006"
-      ],
-      "source": "Multiple sources"
-    },
-    {
-      "id": "mcclelland|scottishwoods",
-      "brand": "McClelland",
-      "blend": "Scottish Woods",
-      "display_name": "McClelland Scottish Woods",
-      "sources": [
-        "pipestud.com",
-        "Tinbids Auction (Sold)"
-      ],
-      "sizes": [
-        {
-          "quantity": "50g",
-          "members": [
-            {
-              "name": "NASPC Show 2004 McClelland Scottish Woods Tobacco Sealed 50g Tin Out of Production",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/209443/",
-              "price": "$83.00",
-              "last_updated": "2026-07-30T04:00:28.295890+00:00",
-              "first_seen": "2026-07-29T20:29:31+00:00",
-              "year": "2004",
-              "price_history": [
-                {
-                  "price": "$83.00",
-                  "date": "2026-07-29T20:29:31+00:00"
-                }
-              ]
-            },
-            {
-              "name": "McClelland’s Scottish Woods 50g tins – Year 2009",
-              "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-scottish-woods-50g-tins-year-2009/",
-              "price": "$70.00",
-              "last_updated": "2026-08-15T17:13:34.289812+00:00",
-              "first_seen": "2026-08-15T17:13:34.289812+00:00",
-              "year": "2009",
-              "price_history": [
-                {
-                  "price": "$70.00",
-                  "date": "2026-08-15T17:13:34.289812+00:00"
-                }
-              ]
-            },
-            {
-              "name": "McClelland’s Scottish Woods 50g tin – Year 2015 (Lot #1)",
-              "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-scottish-woods-50g-tin-year-2015-lot-1/",
-              "price": "$65.00",
-              "last_updated": "2026-08-15T17:13:34.289812+00:00",
-              "first_seen": "2026-08-15T17:13:34.289812+00:00",
-              "year": "2015",
-              "price_history": [
-                {
-                  "price": "$65.00",
-                  "date": "2026-08-15T17:13:34.289812+00:00"
-                }
-              ]
-            }
-          ],
-          "sources": [
-            "pipestud.com",
-            "Tinbids Auction (Sold)"
-          ]
-        }
-      ],
-      "years": [
-        "2004",
-        "2009",
-        "2015"
       ],
       "source": "Multiple sources"
     },
@@ -83699,12 +83407,28 @@
       "display_name": "PCCA Full Balkan Reserve",
       "sources": [
         "Tinbids Auction (Sold)",
+        "Treasured Smokes",
         "4noggins.com"
       ],
       "sizes": [
         {
           "quantity": "50g",
           "members": [
+            {
+              "name": "McClelland Full Balkan Reserve",
+              "source": "Treasured Smokes",
+              "url": "https://www.treasuredsmokes.com/product-page/mcclelland-corps-full-balkan-reserve-2-tins",
+              "price": "$85.00",
+              "last_updated": "2026-06-20T18:32:06.142896+00:00",
+              "first_seen": "2026-06-20T18:32:06.142896+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$85.00",
+                  "date": "2026-06-20T18:32:06.142896+00:00"
+                }
+              ]
+            },
             {
               "name": "PCCA: FULL BALKAN RESERVE 2000 - C",
               "source": "4noggins.com",
@@ -83722,6 +83446,7 @@
             }
           ],
           "sources": [
+            "Treasured Smokes",
             "4noggins.com"
           ]
         },
@@ -96603,6 +96328,21 @@
                   "date": "2026-07-26T00:59:43+00:00"
                 }
               ]
+            },
+            {
+              "name": "Grousemoor 2023",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/cellary.43592/",
+              "price": "$15",
+              "last_updated": "2026-06-24T02:02:09.029335+00:00",
+              "first_seen": "2025-12-07T19:05:46+00:00",
+              "year": "2023",
+              "price_history": [
+                {
+                  "price": "$15",
+                  "date": "2026-06-24T02:02:09.029335+00:00"
+                }
+              ]
             }
           ],
           "sources": [
@@ -96610,7 +96350,9 @@
           ]
         }
       ],
-      "years": [],
+      "years": [
+        "2023"
+      ],
       "source": "Speak-Easy.Club"
     },
     {
@@ -99396,6 +99138,44 @@
       ],
       "sizes": [
         {
+          "quantity": "3.5oz",
+          "members": [
+            {
+              "name": "Macbaren Brunello Flake, 3.5oz round tin,",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/selling-a-chunk-of-my-cellar.44637/",
+              "price": "$35",
+              "last_updated": "2026-06-25T20:26:40.398134+00:00",
+              "first_seen": "2026-06-24T14:49:03+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$35",
+                  "date": "2026-06-24T14:49:03+00:00"
+                }
+              ]
+            },
+            {
+              "name": "Macbaren Brunello Flake, 3.5oz square tin,",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/selling-a-chunk-of-my-cellar.44637/",
+              "price": "$45",
+              "last_updated": "2026-06-24T02:02:09.029335+00:00",
+              "first_seen": "2026-06-13T02:23:45+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$45",
+                  "date": "2026-06-24T02:02:09.029335+00:00"
+                }
+              ]
+            }
+          ],
+          "sources": [
+            "Speak-Easy.Club"
+          ]
+        },
+        {
           "quantity": "100g",
           "members": [
             {
@@ -99543,6 +99323,105 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "Mac Baren Brunello Flake",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/selling-a-chunk-of-my-cellar.44637/",
+              "price": "$45.00",
+              "last_updated": "2026-07-09T06:48:17.821792+00:00",
+              "first_seen": "2026-06-13T00:39:45+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$55.00",
+                  "date": "2026-06-13T00:39:45+00:00"
+                },
+                {
+                  "price": "$45.00",
+                  "date": "2026-06-29T23:33:11.991005+00:00"
+                },
+                {
+                  "price": "$55.00",
+                  "date": "2026-06-30T06:38:13.389175+00:00"
+                },
+                {
+                  "price": "$45.00",
+                  "date": "2026-06-30T06:38:13.389175+00:00"
+                },
+                {
+                  "price": "$55.00",
+                  "date": "2026-07-01T06:38:15.820264+00:00"
+                },
+                {
+                  "price": "$45.00",
+                  "date": "2026-07-01T06:38:15.820264+00:00"
+                },
+                {
+                  "price": "$55.00",
+                  "date": "2026-07-02T06:38:15.290903+00:00"
+                },
+                {
+                  "price": "$45.00",
+                  "date": "2026-07-02T06:38:15.290903+00:00"
+                },
+                {
+                  "price": "$55.00",
+                  "date": "2026-07-03T06:38:13.807432+00:00"
+                },
+                {
+                  "price": "$45.00",
+                  "date": "2026-07-03T06:38:13.807432+00:00"
+                },
+                {
+                  "price": "$55.00",
+                  "date": "2026-07-04T06:38:13.655775+00:00"
+                },
+                {
+                  "price": "$45.00",
+                  "date": "2026-07-04T06:38:13.655775+00:00"
+                },
+                {
+                  "price": "$55.00",
+                  "date": "2026-07-05T06:38:17.100207+00:00"
+                },
+                {
+                  "price": "$45.00",
+                  "date": "2026-07-05T06:38:17.100207+00:00"
+                },
+                {
+                  "price": "$55.00",
+                  "date": "2026-07-06T06:38:16.469296+00:00"
+                },
+                {
+                  "price": "$45.00",
+                  "date": "2026-07-06T06:38:16.469296+00:00"
+                },
+                {
+                  "price": "$55.00",
+                  "date": "2026-07-07T06:38:18.067942+00:00"
+                },
+                {
+                  "price": "$45.00",
+                  "date": "2026-07-07T06:38:18.067942+00:00"
+                },
+                {
+                  "price": "$55.00",
+                  "date": "2026-07-08T06:38:16.123014+00:00"
+                },
+                {
+                  "price": "$45.00",
+                  "date": "2026-07-08T06:38:16.123014+00:00"
+                },
+                {
+                  "price": "$55.00",
+                  "date": "2026-07-09T06:48:17.821792+00:00"
+                },
+                {
+                  "price": "$45.00",
+                  "date": "2026-07-09T06:48:17.821792+00:00"
+                }
+              ]
+            },
             {
               "name": "Brunello Flake",
               "source": "Speak-Easy.Club",
@@ -111350,6 +111229,21 @@
           "quantity": "2oz",
           "members": [
             {
+              "name": "VINTAGE and RARE Flying Dutchman 2oz cutter top",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/196807/",
+              "price": "$305.00",
+              "last_updated": "2026-06-26T16:00:27.901345+00:00",
+              "first_seen": "2026-06-26T13:36:17+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$305.00",
+                  "date": "2026-06-26T13:36:17+00:00"
+                }
+              ]
+            },
+            {
               "name": "Theodorus Niemeyer Flying Dutchman 2oz tin – 1960’s – 1970’s era",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/theodorus-niemeyer-flying-dutchman-2oz-tin-1960s-1970s-era/",
@@ -111381,7 +111275,8 @@
             }
           ],
           "sources": [
-            "pipestud.com"
+            "pipestud.com",
+            "Tinbids Auction (Sold)"
           ]
         },
         {
@@ -116303,7 +116198,7 @@
     "Seattle Pipe Club Mississippi River Reserve 4oz tin – Year 2018": "sutliff|spcmississippiriverspecialreserve",
     "Samuel Gawith Perfection 80z Vacuum Sealed Bag – Year Unknown": "samuelgawith|perfection",
     "McClelland’s Award Winning Blue Mountain 50g tin – Years 2013": "mcclelland|bluemountain",
-    "McClelland’s Scottish Woods 50g tins – Year 2009": "mcclelland|scottishwoods",
+    "McClelland’s Scottish Woods 50g tins – Year 2009": "mcclelland|cpccscottishwoods",
     "McClelland’s Blending Perique 50g tin – Year 2007": "mcclelland|blendingperique",
     "G.L. Pease NASPC Show Limited Edition Smaugweed 2oz tin – Year 2003": "glpease|smaugweed",
     "McClelland’s Frog Morton On the Town 100g tin – Year 2017": "mcclelland|frogmortononthetown",
@@ -116336,7 +116231,7 @@
     "McClelland’s Christmas Cheer 100g tin – Year 2002": "mcclelland|christmascheer",
     "McClelland’s 40th Anniversary 100g tins – Year 2017 (Lot No. 1)": "mcclelland|40thanniversary",
     "Germain’s Esoterica Tilbury 2oz tin – Year 2012": "esoterica|tilbury",
-    "McClelland’s Scottish Woods 50g tin – Year 2015 (Lot #1)": "mcclelland|scottishwoods",
+    "McClelland’s Scottish Woods 50g tin – Year 2015 (Lot #1)": "mcclelland|cpccscottishwoods",
     "McClelland’s Frog Morton On the Town 50g tin – Year 2003 (Lot #1)": "mcclelland|frogmortononthetown",
     "McClelland’s Stave-Aged Virginia Ribbon 50g tin – Year 2013": "mcclelland|staveagedvirginia",
     "Mac Baren’s Virginia No. 1 in a 3.5oz tin – Year 2013": "macbaren|virginiano1",
@@ -117728,7 +117623,7 @@
     "G.L. Pease NASPC Goblin’s Weed Red 2 oz’s Sealed Pipe Tobacco Tin Annual 2014 Show": "glpease|goblinsweedred",
     "G.L. Pease NASPC Shelob’s Lair 2 oz’s Sealed Pipe Tobacco Tin Annual 2006 Show": "glpease|shelobslair",
     "Brebbia Rondo Mix no. 27 50g Pipe Sealed Tobacco Tin": "brebbia|rondomixno27",
-    "NASPC Show 2004 McClelland Scottish Woods Tobacco Sealed 50g Tin Out of Production": "mcclelland|scottishwoods",
+    "NASPC Show 2004 McClelland Scottish Woods Tobacco Sealed 50g Tin Out of Production": "mcclelland|cpccscottishwoods",
     "19 yrs old McClelland’s Mixture No. 14 Sealed 50g Pipe Tobacco Tin 2007": "mcclelland|orientalmixtureno14",
     "18 yrs old McCranies “Red Ribbon Prime 2000” Red Virginia 50g Sealed Pipe Tobacco Tin 2008": "mccranies|redribbon",
     "Tobacco Tin Sutliff Crumble Kake 2020 2 Oz. Sealed Pipe Tobacco Tin by Sutliff": "sutliff|crumblekake",
@@ -118700,7 +118595,7 @@
     "Peterson Irish Oak 50g Tin": "peterson|irishoak",
     "Vintage Dunhill My Mixture 965 (1980s-90s) Older Logo, Painted Lid (40 GRAMS) Open 50g Tin": "dunhill|mymixtureno965",
     "2013 McClelland’s British Woods - 1 Tin NR BIN $220": "mcclelland|britishwoods",
-    "VINTAGE and RARE Flying Dutchman 2oz cutter top": "flyingdutchman|flyingdutchman",
+    "VINTAGE and RARE Flying Dutchman 2oz cutter top": "theodorusniemeyer|flyingdutchman",
     "VINTAGE and RARE Sealed Player's Whiskey Ready Rubbed 25g tin": "players|whiskeyreadyrubbed",
     "VINTAGE and RARE sealed Bengal Slices (aromatic) 50g tin": "sutliff|bengalslices",
     "VINTAGE and RARE sealed 1960s Dunhill Flake 4oz": "dunhill|flake",
@@ -118876,7 +118771,7 @@
     "Anomalous - Birds of a Feather": "cornelldiehl|anomalous",
     "Uno - Birds of a Feather": "cornelldiehl|uno",
     "Paradoxical - Birds of a Feather": "sutliff|paradoxical",
-    "McClelland Full Balkan Reserve": "mcclelland|fullbalkanreserve",
+    "McClelland Full Balkan Reserve": "pcca|fullbalkanreserve",
     "Villiger - Mid-Day - 2013!": "villiger|midday",
     "Stanwell - Melange - 2015!": "stanwell|melange",
     "Sasieni - Balkan - 2018!": "stg|balkansasieni",
@@ -119307,7 +119202,7 @@
     "110g 2023 Evening Flake": "erikstokkebye|eveningflake",
     "65g 2021 GdO Flake": "savinelli|giubileodoroflake",
     "Mac Baren Golden Extra": "macbaren|goldenextra",
-    "Mac Baren Brunello Flake": "macbaren|brunelloflake",
+    "Mac Baren Brunello Flake": "savinelli|brunelloflake",
     "Mac Baren HH Mature Virginia": "macbaren|hhmaturevirginia",
     "Rattray Brown Clunee": "rattrays|brownclunee",
     "Sam Gawith St. James Plug": "samuelgawith|stjamesplug",
@@ -119949,7 +119844,7 @@
     "GLP Abingdon 2 oz – 2009": "glpease|abingdon",
     "GLP Caravan 2 oz – 2009": "glpease|caravan",
     "Vintage Syrian Bulk– 2017 – 7 oz jarred. (Discontinued obviously)  I got this quite a long time ago, probably on here.    It has been in the jar ever since, it has not been opened.    Not sure of pricing on this especially in bulk.   Starting at": "macbaren|hhvintagesyrian",
-    "Macbaren Brunello Flake, 3.5oz round tin,": "macbaren|brunelloflake",
+    "Macbaren Brunello Flake, 3.5oz round tin,": "savinelli|brunelloflake",
     "Grainger, 12oz sealed tub,": "granger|granger",
     "Velvet, 12oz sealed tub,": "velvet|velvet",
     "Amphora Black Cavendish, 7.5oz jar,": "amphora|blackcavendish",
@@ -119957,7 +119852,7 @@
     "Aylesbury Green, 1.76oz jar,": "johnaylesbury|green",
     "Aylesbury Red, 1.76oz jar,": "johnaylesbury|red",
     "Dan Milonga, 1.76oz tin,": "dantobacco|milonga",
-    "Macbaren Brunello Flake, 3.5oz square tin,": "macbaren|brunelloflake",
+    "Macbaren Brunello Flake, 3.5oz square tin,": "savinelli|brunelloflake",
     "Macbaren Doblone D'oro, 3.5oz round tin + 1oz loose,": "savinelli|doblonedoro",
     "Macbaren Golden Extra, 6.5oz jar,": "macbaren|goldenextra",
     "Macbaren Vanilla Cream loose cut, 3.5oz jar,": "macbaren|vanillacreamflake",
@@ -120207,7 +120102,7 @@
     "x 2020 skiff mixture": "samuelgawith|skiffmixture",
     "Va Slices 7.4 oz": "sutliff|virginiaslices",
     "x Sam’s Flake 2020": "samuelgawith|samsflake",
-    "Grousemoor 2023": "dunhill|grousemoor",
+    "Grousemoor 2023": "samuelgawith|grousemoorplug",
     "x 2018 100g Brunello Flake": "savinelli|brunelloflake",
     "x 2020  100g Brunello Falke": "savinelli|brunelloflake",
     "x 202O SG Navy Flake": "samuelgawith|navyflake",
