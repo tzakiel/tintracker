@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-25T15:14:18.534395+00:00",
+  "generated": "2026-08-25T16:09:27.446305+00:00",
   "stats": {
-    "total_listings": 6531,
-    "excluded_multipacks": 2102,
+    "total_listings": 6548,
+    "excluded_multipacks": 2105,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3555,
@@ -23977,9 +23977,9 @@
             {
               "name": "Dunhill Ready Rubbed 2017 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/216951/",
-              "price": "$20.50",
-              "last_updated": "2026-08-18T16:00:25.835408+00:00",
+              "url": "https://tinbids.com/auction/220077/",
+              "price": "$28.01",
+              "last_updated": "2026-08-25T16:00:22.009910+00:00",
               "first_seen": "2026-06-30T04:21:19+00:00",
               "year": "2017",
               "price_history": [
@@ -24002,6 +24002,10 @@
                 {
                   "price": "$20.50",
                   "date": "2026-08-18T16:00:25.835408+00:00"
+                },
+                {
+                  "price": "$28.01",
+                  "date": "2026-08-25T16:00:22.009910+00:00"
                 }
               ]
             },
@@ -26434,15 +26438,19 @@
             {
               "name": "Murray Erinmore Mixture Pre-2005 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203836/",
-              "price": "$60.00",
-              "last_updated": "2026-07-14T16:00:57.634372+00:00",
+              "url": "https://tinbids.com/auction/220079/",
+              "price": "$62.00",
+              "last_updated": "2026-08-25T16:00:22.009910+00:00",
               "first_seen": "2026-07-14T05:09:22+00:00",
               "year": "2005",
               "price_history": [
                 {
                   "price": "$60.00",
                   "date": "2026-07-14T05:09:22+00:00"
+                },
+                {
+                  "price": "$62.00",
+                  "date": "2026-08-25T16:00:22.009910+00:00"
                 }
               ]
             }
@@ -113599,6 +113607,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
+    "Murray Erinmore Mixture Pre-2005 NR": "erinmore|mixture",
     "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996": "butera|pelican",
     "Ashton Artisan’s Blend Tobacco Sealed Tin Century 50g Cyprian Latakia Pipe Tobacco": "ashton|artisansblend",
     "Ashton Artisan’s Blend Tobacco Sealed Tin Century 50g Syrian Latakia Pipe Tobacco": "ashton|artisansblend",
@@ -113747,7 +113757,6 @@
     "OPEN TIN C&D Small Batch Midnight Orchard": "cornelldiehl|midnightorchard",
     "Ravenwood - Three Farthing Stone - 50g": "ravenwood|threefarthingstone",
     "Sutliff 526 Old Professor - ONE POUND": "sutliff|526oldprofessor",
-    "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
     "Ashton Rainy Day NR": "ashton|rainyday",
     "Mac Baren’s Stockton Spun Cut 2023 3.5 oz tin": "macbaren|stocktonspuncut",
     "17 Year Vintage Mac Baren Dark Twist Roll Cake. Jar/sealed 3 ozo. May 2009.": "macbaren|darktwistrollcake",
@@ -114815,7 +114824,6 @@
     "Vintage - 2016 - Dunhill Durbar": "dunhill|durbar",
     "1970s Balkan Sobranie Smoking Mixture 100g Unopened Ring Pull Tin": "jfgermain|balkansobranie",
     "MacBaren Virginia Flake 2017 NR": "macbaren|virginiaflake",
-    "Murray Erinmore Mixture Pre-2005 NR": "erinmore|mixture",
     "Stanislaw / Samuel Gawith English Summer Flake 2015 NR": "samuelgawith|englishsummerflake",
     "CAO Flavours 2-Bella Vanilla": "cao|bellavanilla",
     "(2012) McClelland #2010 (4oz)": "mcclelland|2010classicvirginia",
