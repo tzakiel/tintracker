@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-26T06:38:39.360874+00:00",
+  "generated": "2026-08-26T16:08:50.242092+00:00",
   "stats": {
-    "total_listings": 6578,
+    "total_listings": 6591,
     "excluded_multipacks": 2109,
     "total_tins": 1315,
     "multi_member_tins": 671,
-    "listings_in_groups": 3555,
+    "listings_in_groups": 3556,
     "cross_source_tins": 508
   },
   "tins": [
@@ -28757,15 +28757,19 @@
             {
               "name": "Esoterica - Margate - 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/215739/",
-              "price": "$75.00",
-              "last_updated": "2026-08-15T16:00:24.652855+00:00",
+              "url": "https://tinbids.com/auction/220643/",
+              "price": "$80.00",
+              "last_updated": "2026-08-26T16:00:22.761207+00:00",
               "first_seen": "2026-08-15T12:23:01+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$75.00",
                   "date": "2026-08-15T12:23:01+00:00"
+                },
+                {
+                  "price": "$80.00",
+                  "date": "2026-08-26T16:00:22.761207+00:00"
                 }
               ]
             },
@@ -62112,6 +62116,21 @@
           "members": [
             {
               "name": "HH Vintage Syrian",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/221340/",
+              "price": "$150.00",
+              "last_updated": "2026-08-26T16:00:22.761207+00:00",
+              "first_seen": "2026-08-26T14:58:10+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$150.00",
+                  "date": "2026-08-26T14:58:10+00:00"
+                }
+              ]
+            },
+            {
+              "name": "HH Vintage Syrian",
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/cellar-sale.41150/",
               "price": "$75",
@@ -80403,15 +80422,19 @@
             {
               "name": "2016 Orlik Dark Strong Kentucky - 1 Tin NR BIN $70",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/220622/",
-              "price": "$65.00",
-              "last_updated": "2026-08-19T16:00:21.668326+00:00",
+              "url": "https://tinbids.com/auction/223084/",
+              "price": "$70.00",
+              "last_updated": "2026-08-26T16:00:22.761207+00:00",
               "first_seen": "2026-08-19T12:49:06+00:00",
               "year": "2016",
               "price_history": [
                 {
                   "price": "$65.00",
                   "date": "2026-08-19T12:49:06+00:00"
+                },
+                {
+                  "price": "$70.00",
+                  "date": "2026-08-26T16:00:22.761207+00:00"
                 }
               ]
             },
@@ -113655,6 +113678,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "2016 Orlik Dark Strong Kentucky - 1 Tin NR BIN $70": "orlik|darkstrongkentucky",
+    "Esoterica - Margate - 50g": "esoterica|margate",
+    "HH Vintage Syrian": "macbaren|hhvintagesyrian",
     "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
     "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
     "McCLELLAND BALKAN BLUE": "mcclelland|balkanblue",
@@ -113785,7 +113811,6 @@
     "McClellan's Bombay Extra - 50g - 2013": "mcclelland|bombayextra",
     "Esoterica Margate 2oz Tin Released 2025": "esoterica|margate",
     "Esoterica Tilbury 2oz Tin Released 2025": "esoterica|tilbury",
-    "2016 Orlik Dark Strong Kentucky - 1 Tin NR BIN $70": "orlik|darkstrongkentucky",
     "Peter Stokkebye-Luxury Navy Flake": "peterstokkebye|luxurynavyflake",
     "Esoterica Pembroke 2oz Tin 2025 Release": "esoterica|pembroke",
     "Esoterica \"And So To Bed\" 2oz Tin 2025 Release": "esoterica|andsotobed",
@@ -113928,7 +113953,6 @@
     "Mac Baren Old Dark Fired 3.5 ounce 2024": "macbaren|hholddarkfired",
     "Balkan Sobranie Original Smoking Mixture 50 grams 2023": "jfgermain|balkansobranie",
     "Sutliff Blend No.5 Bid or Buy Now": "sutliff|privatestockblendno5",
-    "Esoterica - Margate - 50g": "esoterica|margate",
     "Esoterica - Pembroke - 50g": "esoterica|pembroke",
     "McClellands-Quantum": "mcclelland|corpsquantum",
     "VINTAGE and RARE sealed Dobies Four Square Matured Virginia 2oz - NR": "dobies|foursquare",
@@ -116212,7 +116236,6 @@
     "HH Burley Flake": "macbaren|hhburleyflake",
     "HH Old Dark Fired": "macbaren|hholddarkfired",
     "HH Pure Virginia": "macbaren|hhpurevirginia",
-    "HH Vintage Syrian": "macbaren|hhvintagesyrian",
     "Peter Heinrich’sCurly Special": "peterheinrichs|curlyspecial",
     "Noggins": "rattrays|3noggins",
     "Bagpiper’s Dream": "rattrays|bagpipersdream",
