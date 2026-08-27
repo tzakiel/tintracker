@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-26T19:16:17.162567+00:00",
+  "generated": "2026-08-27T04:08:51.271775+00:00",
   "stats": {
-    "total_listings": 6591,
+    "total_listings": 6604,
     "excluded_multipacks": 2109,
     "total_tins": 1315,
     "multi_member_tins": 671,
@@ -4495,15 +4495,19 @@
             {
               "name": "Very Nice Sealed Butera Pelican English/Oriental 2 oz. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/218142/",
-              "price": "$190.50",
-              "last_updated": "2026-08-21T04:00:20.880783+00:00",
+              "url": "https://tinbids.com/auction/220695/",
+              "price": "$152.00",
+              "last_updated": "2026-08-27T04:00:22.131775+00:00",
               "first_seen": "2026-08-20T17:14:46+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$190.50",
                   "date": "2026-08-20T17:14:46+00:00"
+                },
+                {
+                  "price": "$152.00",
+                  "date": "2026-08-27T04:00:22.131775+00:00"
                 }
               ]
             },
@@ -23216,15 +23220,19 @@
             {
               "name": "Peterson’s Dunhill My Mixture 965 1.76 oz’s Pipe Tobacco Tin Made in England (United Kingdon)",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/215111/",
-              "price": "$10.74",
-              "last_updated": "2026-08-14T04:00:26.247608+00:00",
+              "url": "https://tinbids.com/auction/220720/",
+              "price": "$10.24",
+              "last_updated": "2026-08-27T04:00:22.131775+00:00",
               "first_seen": "2026-08-13T19:00:21+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$10.74",
                   "date": "2026-08-13T19:00:21+00:00"
+                },
+                {
+                  "price": "$10.24",
+                  "date": "2026-08-27T04:00:22.131775+00:00"
                 }
               ]
             }
@@ -26943,7 +26951,7 @@
             {
               "name": "Esoterica \"And So To Bed\" 2oz Tin 2025 Release",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/217539/",
+              "url": "https://tinbids.com/auction/220661/",
               "price": "$77.00",
               "last_updated": "2026-08-19T16:00:21.668326+00:00",
               "first_seen": "2026-08-19T13:23:06+00:00",
@@ -52260,7 +52268,7 @@
             {
               "name": "Fox Dorisco Smoking English Mixture Sealed 50g Pipe Tobacco Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/211540/",
+              "url": "https://tinbids.com/auction/220710/",
               "price": "$9.99",
               "last_updated": "2026-08-05T04:00:32.878864+00:00",
               "first_seen": "2026-07-29T20:13:38+00:00",
@@ -61768,7 +61776,7 @@
             {
               "name": "Mac Baren’s 2024 HH Rustica 4oz",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/216615/",
+              "url": "https://tinbids.com/auction/222410/",
               "price": "$45.00",
               "last_updated": "2026-08-06T04:00:29.373625+00:00",
               "first_seen": "2026-07-24T07:03:47+00:00",
@@ -113694,6 +113702,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Very Nice Sealed Butera Pelican English/Oriental 2 oz. Tin": "butera|pelican",
+    "Peterson’s Dunhill My Mixture 965 1.76 oz’s Pipe Tobacco Tin Made in England (United Kingdon)": "dunhill|mymixtureno965",
     "2016 Orlik Dark Strong Kentucky - 1 Tin NR BIN $70": "orlik|darkstrongkentucky",
     "Esoterica - Margate - 50g": "esoterica|margate",
     "HH Vintage Syrian": "macbaren|hhvintagesyrian",
@@ -113789,7 +113799,6 @@
     "MacBaren Virginia No. 1 2017 NR": "macbaren|virginiano1",
     "Gawith Best Brown Flake 2016 NR": "samuelgawith|bestbrownflake",
     "Sutliff MATCH VICTORIAN 2024 - ONE POUND": "sutliff|matchvictorian",
-    "Very Nice Sealed Butera Pelican English/Oriental 2 oz. Tin": "butera|pelican",
     "Esoterica - Penzance - 4 oz. - 2019": "esoterica|penzance",
     "Rattray's - Black Mallory - 100g tin - 2019": "rattrays|blackmallory",
     "Balkan Sobranie - 50 gram tin (2016?)": "jfgermain|balkansobranie",
@@ -114001,7 +114010,6 @@
     "Esoterica - Dorchester - 8oz": "esoterica|dorchester",
     "Vintage Half and Half 14oz Sealed Tin with Key": "halfandhalf|halfandhalf",
     "Original Navy Cut Capstan Ready Rubbed Blend Pipe Tobacco in 2024 1.75 oz’s Sealed Tin": "macbaren|capstanoriginalflake",
-    "Peterson’s Dunhill My Mixture 965 1.76 oz’s Pipe Tobacco Tin Made in England (United Kingdon)": "dunhill|mymixtureno965",
     "Vintage 2012 FROG MORTON CELLAR McClelland 100g Sealed Tin": "mcclelland|frogmortonscellar",
     "Tobacco Tin Sutliff Holiday Edition Cringle Flake 2020 2 Oz. Sealed Pipe Tobacco Tin by Sutliff": "sutliff|cringleflakeholidayedition",
     "Tobacco Tin Sutliff Cringle Flake 2021 2 Oz. Sealed Pipe Tobacco Tin by Sutliff": "sutliff|cringleflake",
