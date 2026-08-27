@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-27T15:14:19.486065+00:00",
+  "generated": "2026-08-27T16:09:25.987511+00:00",
   "stats": {
-    "total_listings": 6612,
-    "excluded_multipacks": 2109,
+    "total_listings": 6621,
+    "excluded_multipacks": 2111,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3556,
@@ -27735,15 +27735,19 @@
             {
               "name": "Esoterica Dorchester 2oz Tin Released 2025",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/197484/",
-              "price": "$84.00",
-              "last_updated": "2026-06-29T16:00:32.641924+00:00",
+              "url": "https://tinbids.com/auction/220667/",
+              "price": "$82.00",
+              "last_updated": "2026-08-27T16:00:23.200436+00:00",
               "first_seen": "2026-06-29T13:17:53+00:00",
               "year": "2025",
               "price_history": [
                 {
                   "price": "$84.00",
                   "date": "2026-06-29T13:17:53+00:00"
+                },
+                {
+                  "price": "$82.00",
+                  "date": "2026-08-27T16:00:23.200436+00:00"
                 }
               ]
             }
@@ -29212,9 +29216,9 @@
             {
               "name": "Esoterica Margate 2oz Tin Released 2025",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/217533/",
-              "price": "$66.00",
-              "last_updated": "2026-08-19T16:00:21.668326+00:00",
+              "url": "https://tinbids.com/auction/220664/",
+              "price": "$75.50",
+              "last_updated": "2026-08-27T16:00:23.200436+00:00",
               "first_seen": "2026-06-29T13:18:34+00:00",
               "year": "2025",
               "price_history": [
@@ -29225,6 +29229,10 @@
                 {
                   "price": "$66.00",
                   "date": "2026-08-19T16:00:21.668326+00:00"
+                },
+                {
+                  "price": "$75.50",
+                  "date": "2026-08-27T16:00:23.200436+00:00"
                 }
               ]
             }
@@ -113750,6 +113758,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Esoterica Margate 2oz Tin Released 2025": "esoterica|margate",
+    "Esoterica Dorchester 2oz Tin Released 2025": "esoterica|dorchester",
     "Very Nice Sealed Butera Pelican English/Oriental 2 oz. Tin": "butera|pelican",
     "Peterson’s Dunhill My Mixture 965 1.76 oz’s Pipe Tobacco Tin Made in England (United Kingdon)": "dunhill|mymixtureno965",
     "2016 Orlik Dark Strong Kentucky - 1 Tin NR BIN $70": "orlik|darkstrongkentucky",
@@ -113882,7 +113892,6 @@
     "2009 G.L. PEASE KENSINGTON approx. 2.2 ounces": "glpease|kensington",
     "2002 2 oz GL Pease Robusto": "glpease|robusto",
     "McClellan's Bombay Extra - 50g - 2013": "mcclelland|bombayextra",
-    "Esoterica Margate 2oz Tin Released 2025": "esoterica|margate",
     "Esoterica Tilbury 2oz Tin Released 2025": "esoterica|tilbury",
     "Peter Stokkebye-Luxury Navy Flake": "peterstokkebye|luxurynavyflake",
     "Esoterica Pembroke 2oz Tin 2025 Release": "esoterica|pembroke",
@@ -115411,7 +115420,6 @@
     "Very Nice Sealed 2021 Gawith Hoggarth Ennerdale 500g. in Box": "gawithhoggarthco|ennerdaleflake",
     "RARE! Larus (1970s) EDGEWORTH EXTRA HIGH GRADE SLICED Pipe Tobacco - 1 1/2 oz Cellophane Sealed Tin": "larusbroco|edgeworthextrahighgradesliced",
     "EDGEWORTH (1970s Larus) READY-RUBBED \"BLUE\" Pipe Tobacco - 14 OZ. Sealed Tin": "edgeworth|readyrubbed",
-    "Esoterica Dorchester 2oz Tin Released 2025": "esoterica|dorchester",
     "2011 \"Butera Era\" Esoterica Pembroke": "esoterica|pembroke",
     "Esoterica Margate Butera Production - 1 Tin NR BIN $140": "esoterica|margate",
     "Cornell & Diehl Small Batch Sun Bear Navy Cask 2 oz Pipe Tobacco Tin - New Sealed": "cornelldiehl|sunbearnavycask",
