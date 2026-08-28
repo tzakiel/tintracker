@@ -52185,7 +52185,7 @@
       "tag": "WTS"
     }
   ],
-  "last_scraped": "2026-08-27T06:38:16.514313+00:00",
+  "last_scraped": "2026-08-28T06:38:17.385196+00:00",
   "latest_scrape": [
     {
       "name": "First up, a rusticated Dublin, maybe not quite nosewarmer territory but coming in at 4.5\" it's compact but has a standard size chamber",
@@ -52228,51 +52228,6 @@
         {
           "price": "$150",
           "date": "2026-08-27T03:56:24+00:00"
-        }
-      ],
-      "tag": "WTS"
-    },
-    {
-      "name": "The Blonde One",
-      "price": "$120",
-      "url": "https://speak-easy.club/threads/three-radices-120-each-because-apparently-i-own-too-many-pipes.45093/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-08-26T22:08:12+00:00",
-      "last_updated": "2026-08-27T06:38:16.514313+00:00",
-      "price_history": [
-        {
-          "price": "$120",
-          "date": "2026-08-26T22:08:12+00:00"
-        }
-      ],
-      "tag": "WTS"
-    },
-    {
-      "name": "The Red One",
-      "price": "$120",
-      "url": "https://speak-easy.club/threads/three-radices-120-each-because-apparently-i-own-too-many-pipes.45093/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-08-26T22:08:12+00:00",
-      "last_updated": "2026-08-27T06:38:16.514313+00:00",
-      "price_history": [
-        {
-          "price": "$120",
-          "date": "2026-08-26T22:08:12+00:00"
-        }
-      ],
-      "tag": "WTS"
-    },
-    {
-      "name": "The Bamboo One",
-      "price": "$120",
-      "url": "https://speak-easy.club/threads/three-radices-120-each-because-apparently-i-own-too-many-pipes.45093/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-08-26T22:08:12+00:00",
-      "last_updated": "2026-08-27T06:38:16.514313+00:00",
-      "price_history": [
-        {
-          "price": "$120",
-          "date": "2026-08-26T22:08:12+00:00"
         }
       ],
       "tag": "WTS"
@@ -52791,6 +52746,51 @@
         }
       ],
       "tag": "SOLD"
+    },
+    {
+      "name": "The Blonde One",
+      "price": "$120",
+      "url": "https://speak-easy.club/threads/three-radices-120-each-because-apparently-i-own-too-many-pipes.45093/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-08-26T22:08:12+00:00",
+      "last_updated": "2026-08-27T06:38:16.514313+00:00",
+      "price_history": [
+        {
+          "price": "$120",
+          "date": "2026-08-26T22:08:12+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
+      "name": "The Red One",
+      "price": "$120",
+      "url": "https://speak-easy.club/threads/three-radices-120-each-because-apparently-i-own-too-many-pipes.45093/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-08-26T22:08:12+00:00",
+      "last_updated": "2026-08-27T06:38:16.514313+00:00",
+      "price_history": [
+        {
+          "price": "$120",
+          "date": "2026-08-26T22:08:12+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
+      "name": "The Bamboo One",
+      "price": "$120",
+      "url": "https://speak-easy.club/threads/three-radices-120-each-because-apparently-i-own-too-many-pipes.45093/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-08-26T22:08:12+00:00",
+      "last_updated": "2026-08-27T06:38:16.514313+00:00",
+      "price_history": [
+        {
+          "price": "$120",
+          "date": "2026-08-26T22:08:12+00:00"
+        }
+      ],
+      "tag": "WTS"
     }
   ],
   "scrape_history": [
@@ -53262,6 +53262,13 @@
       "added": 6,
       "price_changed": 0,
       "total": 2661
+    },
+    {
+      "date": "2026-08-28T06:38:17.385196+00:00",
+      "found": 39,
+      "added": 0,
+      "price_changed": 0,
+      "total": 2661
     }
   ],
   "thread_recheck": {
@@ -53282,7 +53289,8 @@
     "https://speak-easy.club/threads/3-pounds-of-walnut-match.45082/unread": "2026-09-07T06:38:15.778128+00:00",
     "https://speak-easy.club/threads/cemih-pipes.45081/unread": "2026-09-07T06:38:15.778128+00:00",
     "https://speak-easy.club/threads/finished-up-3-pipes.45097/unread": "2026-09-10T06:38:16.514313+00:00",
-    "https://speak-easy.club/threads/three-radices-120-each-because-apparently-i-own-too-many-pipes.45093/unread": "2026-09-10T06:38:16.514313+00:00"
+    "https://speak-easy.club/threads/three-radices-120-each-because-apparently-i-own-too-many-pipes.45093/unread": "2026-09-10T06:38:16.514313+00:00",
+    "https://speak-easy.club/threads/selling-out-for-now.45101/unread": "2026-09-11T06:38:17.385196+00:00"
   },
   "thread_recheck_tags": {
     "https://speak-easy.club/threads/brigham-and-peterson.44723/unread": "WTS",
@@ -54149,6 +54157,7 @@
     "https://speak-easy.club/threads/3-pounds-of-walnut-match.45082/unread": "SOLD",
     "https://speak-easy.club/threads/cemih-pipes.45081/unread": "WTS",
     "https://speak-easy.club/threads/finished-up-3-pipes.45097/unread": "WTS",
-    "https://speak-easy.club/threads/three-radices-120-each-because-apparently-i-own-too-many-pipes.45093/unread": "WTS"
+    "https://speak-easy.club/threads/three-radices-120-each-because-apparently-i-own-too-many-pipes.45093/unread": "WTS",
+    "https://speak-easy.club/threads/selling-out-for-now.45101/unread": "SOLD"
   }
 }
