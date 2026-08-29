@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-29T15:14:16.731298+00:00",
+  "generated": "2026-08-29T16:09:19.123017+00:00",
   "stats": {
-    "total_listings": 6686,
-    "excluded_multipacks": 2128,
+    "total_listings": 6711,
+    "excluded_multipacks": 2132,
     "total_tins": 1315,
     "multi_member_tins": 671,
-    "listings_in_groups": 3556,
+    "listings_in_groups": 3557,
     "cross_source_tins": 508
   },
   "tins": [
@@ -22504,15 +22504,19 @@
             {
               "name": "VINTAGE and RARE Dunhill Gold Blend (compromised seal) 2oz - NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/213033/",
-              "price": "$20.50",
-              "last_updated": "2026-08-08T16:00:27.016980+00:00",
+              "url": "https://tinbids.com/auction/221675/",
+              "price": "$31.00",
+              "last_updated": "2026-08-29T16:00:25.139124+00:00",
               "first_seen": "2026-08-08T14:46:09+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$20.50",
                   "date": "2026-08-08T14:46:09+00:00"
+                },
+                {
+                  "price": "$31.00",
+                  "date": "2026-08-29T16:00:25.139124+00:00"
                 }
               ]
             }
@@ -101835,6 +101839,21 @@
           "quantity": "",
           "members": [
             {
+              "name": "Bengal Slices",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/221720/",
+              "price": "$30.99",
+              "last_updated": "2026-08-29T16:00:25.139124+00:00",
+              "first_seen": "2026-08-29T15:16:57+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$30.99",
+                  "date": "2026-08-29T15:16:57+00:00"
+                }
+              ]
+            },
+            {
               "name": "Bengal Slices tin Discontinued Sutliff Redgrave",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/197366/",
@@ -108651,15 +108670,19 @@
             {
               "name": "VINTAGE and RARE Flying Dutchman Aromatic (compromised seal) 10oz - NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/215873/",
-              "price": "$23.50",
-              "last_updated": "2026-08-16T04:00:25.738353+00:00",
+              "url": "https://tinbids.com/auction/221654/",
+              "price": "$41.00",
+              "last_updated": "2026-08-29T16:00:25.139124+00:00",
               "first_seen": "2026-08-15T14:52:22+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$23.50",
                   "date": "2026-08-15T14:52:22+00:00"
+                },
+                {
+                  "price": "$41.00",
+                  "date": "2026-08-29T16:00:25.139124+00:00"
                 }
               ]
             }
@@ -113922,6 +113945,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "VINTAGE and RARE Flying Dutchman Aromatic (compromised seal) 10oz - NR": "theodorusniemeyer|flyingdutchman",
+    "VINTAGE and RARE Dunhill Gold Blend (compromised seal) 2oz - NR": "dunhill|goldblend",
+    "Bengal Slices": "sutliff|bengalslices",
     "Collectible James Fox “The Provost Mixture” 50g Sealed Pipe Tobacco": "jamesjfox|provostmixture",
     "Fox Dorisco Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|doriscomixture",
     "2014 SAMUEL GAWITH PERFECTION 2 oz jarred": "samuelgawith|perfection",
@@ -114173,7 +114199,6 @@
     "2018 HU Tobacco Old Fredder’s Broken Flake – 100g – Aged / Sealed Tin": "hutobacco|oldfreddersbrokenflake",
     "C/D Palmetto Balkan Small Batch 8oz Bid or Buy Now N.R.": "cornelldiehl|palmettobalkan",
     "Nice Sealed 2016 Borkum Riff Limited Edition 100g. Tin": "borkumriff|limitededition11mixturewithtrinidadrum",
-    "VINTAGE and RARE Flying Dutchman Aromatic (compromised seal) 10oz - NR": "theodorusniemeyer|flyingdutchman",
     "Samuel Gawith - SKIFF MIXTURE - Sealed Danish Tin": "samuelgawith|skiffmixture",
     "Pelican 2018 Sealed 2 oz Tin": "butera|pelican",
     "2012 Mac Baren HH Old Dark Fired 3.5oz": "macbaren|hholddarkfired",
@@ -114424,7 +114449,6 @@
     "Sutliff Summertime Blend (Taste of Summer) - 1 Bag NR BIN $90": "sutliff|tasteofsummer",
     "1980s Mac Baren Dark Twist- 1 Tin NR BIN $200": "macbaren|darktwist",
     "2006 McClelland’s British Woods - 1 Tin NR BIN $150": "mcclelland|britishwoods",
-    "VINTAGE and RARE Dunhill Gold Blend (compromised seal) 2oz - NR": "dunhill|goldblend",
     "VINTAGE and RARE Dunhill Ye Olde Signe (compromised seal) 4oz - NR": "dunhill|yeoldesigne",
     "VINTAGE and RARE sealed Dobies Four Square Curlies 2oz - NR": "dobies|foursquare",
     "VINTAGE and RARE sealed Mullingar's Kenmare 2oz - NR": "mullingar|syrianlatakiakenmare",
@@ -116359,7 +116383,6 @@
     "Black Bogie 7 oz. in Mylar (Two  1 bag available)": "gawithhoggarthco|blackbogie",
     "Sutliff Cringle Flake | 2021": "sutliff|cringleflake",
     "Sutliff Cringle Flake | 2024": "sutliff|cringleflake",
-    "Bengal Slices": "sutliff|bengalslices",
     "C&D Palmetto Balkan | 2022": "cornelldiehl|palmettobalkan",
     "SG Choco Flake Burnt Ends – 8 oz. Box (stored sealed in Mylar, factory seal intact)": "samuelgawith|chocolateflakeburntends",
     "Acadian Gold": "russouellette|acadiangold",
