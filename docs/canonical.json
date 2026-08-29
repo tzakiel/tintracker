@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-28T19:16:19.969929+00:00",
+  "generated": "2026-08-29T04:06:55.509613+00:00",
   "stats": {
-    "total_listings": 6656,
-    "excluded_multipacks": 2121,
+    "total_listings": 6685,
+    "excluded_multipacks": 2128,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3556,
@@ -38176,7 +38176,7 @@
             {
               "name": "2009 G.L. PEASE KENSINGTON approx. 2 ounces",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/210217/",
+              "url": "https://tinbids.com/auction/221416/",
               "price": "$10.00",
               "last_updated": "2026-08-01T04:00:25.121923+00:00",
               "first_seen": "2026-07-31T21:56:19+00:00",
@@ -52391,6 +52391,29 @@
           "quantity": "50g",
           "members": [
             {
+              "name": "Fox Dorisco Smoking English Mixture Sealed 50g Pipe Tobacco Tin",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/221582/",
+              "price": "$18.00",
+              "last_updated": "2026-08-29T04:00:23.119830+00:00",
+              "first_seen": "2026-07-29T20:13:38+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$18.26",
+                  "date": "2026-07-29T20:13:38+00:00"
+                },
+                {
+                  "price": "$9.99",
+                  "date": "2026-08-05T04:00:32.878864+00:00"
+                },
+                {
+                  "price": "$18.00",
+                  "date": "2026-08-29T04:00:23.119830+00:00"
+                }
+              ]
+            },
+            {
               "name": ": Fox Dorisco Smoking English Mixture Sealed 50g Pipe Tobacco Tin",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/212855/",
@@ -52402,25 +52425,6 @@
                 {
                   "price": "$11.24",
                   "date": "2026-08-07T22:22:47+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Fox Dorisco Smoking English Mixture Sealed 50g Pipe Tobacco Tin",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/220710/",
-              "price": "$9.99",
-              "last_updated": "2026-08-05T04:00:32.878864+00:00",
-              "first_seen": "2026-07-29T20:13:38+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$18.26",
-                  "date": "2026-07-29T20:13:38+00:00"
-                },
-                {
-                  "price": "$9.99",
-                  "date": "2026-08-05T04:00:32.878864+00:00"
                 }
               ]
             },
@@ -52498,15 +52502,19 @@
             {
               "name": "Collectible James Fox “The Provost Mixture” 50g Sealed Pipe Tobacco",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/217718/",
-              "price": "$9.99",
-              "last_updated": "2026-08-20T04:00:22.197556+00:00",
+              "url": "https://tinbids.com/auction/221591/",
+              "price": "$16.50",
+              "last_updated": "2026-08-29T04:00:23.119830+00:00",
               "first_seen": "2026-08-19T17:39:01+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$9.99",
                   "date": "2026-08-19T17:39:01+00:00"
+                },
+                {
+                  "price": "$16.50",
+                  "date": "2026-08-29T04:00:23.119830+00:00"
                 }
               ]
             }
@@ -94935,15 +94943,19 @@
             {
               "name": "2014 SAMUEL GAWITH PERFECTION 2 oz jarred",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/207045/",
-              "price": "$10.50",
-              "last_updated": "2026-07-23T04:00:25.798843+00:00",
+              "url": "https://tinbids.com/auction/221412/",
+              "price": "$8.00",
+              "last_updated": "2026-08-29T04:00:23.119830+00:00",
               "first_seen": "2026-07-22T23:58:11+00:00",
               "year": "2014",
               "price_history": [
                 {
                   "price": "$10.50",
                   "date": "2026-07-22T23:58:11+00:00"
+                },
+                {
+                  "price": "$8.00",
+                  "date": "2026-08-29T04:00:23.119830+00:00"
                 }
               ]
             }
@@ -113862,6 +113874,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Collectible James Fox “The Provost Mixture” 50g Sealed Pipe Tobacco": "jamesjfox|provostmixture",
+    "Fox Dorisco Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|doriscomixture",
+    "2014 SAMUEL GAWITH PERFECTION 2 oz jarred": "samuelgawith|perfection",
     "MacBaren HH Pure Virginia 2015 NR": "macbaren|hhpurevirginia",
     "MacBaren Virginia No. 1 2017 NR": "macbaren|virginiano1",
     "Gawith Best Brown Flake 2016 NR": "samuelgawith|bestbrownflake",
@@ -113989,7 +114004,6 @@
     "Esoterica Pembroke - 8oz": "esoterica|pembroke",
     "Per Jensen Pipe Force - Episode 4": "sutliff|pipeforceepisodeiv",
     "UNOPENED 2007 Samuel Gawith Perfection": "samuelgawith|perfection",
-    "Collectible James Fox “The Provost Mixture” 50g Sealed Pipe Tobacco": "jamesjfox|provostmixture",
     "72 Hour Auction! 2018 Mac Baren Virginia Flake 1.75 oz – July 2018 – 8 Year Aged Sealed Tin": "macbaren|virginiaflake",
     "2017 McClelland Balkan Blue": "mcclelland|balkanblue",
     "Brebbia - Balkan (Syrian Blend)": "brebbia|balkan",
@@ -114456,7 +114470,6 @@
     "GL PEASE SIX PENCE": "glpease|sixpence",
     "2016 McClelland’s Frog Morton - 1 Tin NR BIN $165": "mcclelland|frogmorton",
     "MIDNIGHT ORCHARD - SEALED TIN - Small Batch by Cornell and Diehl": "cornelldiehl|midnightorchard",
-    "Fox Dorisco Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|doriscomixture",
     "2016 Frog Morton Across The Pond with Syrian Latakia by McClelland 10 Years of Age": "mcclelland|frogmortonacrossthepond",
     "ESCUDO NAVY DE LUXE": "stg|escudonavydeluxe",
     "16oz - 2026 Watch City Crumble Bee vacuum sealed - Last run of this blend by watch city": "watchcity|crumblebee",
@@ -114819,7 +114832,6 @@
     "2024 Esoterica Pembroke - 8oz Bag  (J.F. Germain & Son)": "esoterica|pembroke",
     "2010 G.L. PEASE HADDO'S DELIGHT approx. 1.8 ounces": "glpease|haddosdelight",
     "2011 RATTRAY'S OLD GOWRIE approx. 2.8 ounces": "rattrays|oldgowrie",
-    "2014 SAMUEL GAWITH PERFECTION 2 oz jarred": "samuelgawith|perfection",
     "2010 PETER HEINRICHS No. 39 --- ALMOST FULL OPENED TIN": "peterheinrichs|no39",
     "Esoterica Margate 8oz Bag.": "esoterica|margate",
     "Cornell and Diehl Eight State Burley 2026 Small Batch": "cornelldiehl|smallbatcheightstateburley",
