@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-29T19:16:17.193108+00:00",
+  "generated": "2026-08-30T04:05:33.193712+00:00",
   "stats": {
-    "total_listings": 6796,
-    "excluded_multipacks": 2145,
+    "total_listings": 6820,
+    "excluded_multipacks": 2150,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3557,
@@ -51284,15 +51284,19 @@
             {
               "name": "Germain's Medium Flake 50g tin 2018",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/217686/",
-              "price": "$94.00",
-              "last_updated": "2026-08-18T04:00:24.255785+00:00",
+              "url": "https://tinbids.com/auction/222897/",
+              "price": "$102.50",
+              "last_updated": "2026-08-30T04:00:22.435289+00:00",
               "first_seen": "2026-08-17T17:21:18+00:00",
               "year": "2018",
               "price_history": [
                 {
                   "price": "$94.00",
                   "date": "2026-08-17T17:21:18+00:00"
+                },
+                {
+                  "price": "$102.50",
+                  "date": "2026-08-30T04:00:22.435289+00:00"
                 }
               ]
             },
@@ -66194,9 +66198,9 @@
             {
               "name": "Very Nice Sealed 2016 McClelland 3 Oaks With Syrian Latakia 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/213976/",
-              "price": "$147.00",
-              "last_updated": "2026-08-09T04:00:23.523672+00:00",
+              "url": "https://tinbids.com/auction/222947/",
+              "price": "$129.57",
+              "last_updated": "2026-08-30T04:00:22.435289+00:00",
               "first_seen": "2026-07-11T21:55:16+00:00",
               "year": "2016",
               "price_history": [
@@ -66207,6 +66211,10 @@
                 {
                   "price": "$147.00",
                   "date": "2026-08-09T04:00:23.523672+00:00"
+                },
+                {
+                  "price": "$129.57",
+                  "date": "2026-08-30T04:00:22.435289+00:00"
                 }
               ]
             }
@@ -66388,9 +66396,9 @@
             {
               "name": "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/221067/",
-              "price": "$182.00",
-              "last_updated": "2026-08-26T04:00:21.405781+00:00",
+              "url": "https://tinbids.com/auction/222930/",
+              "price": "$197.00",
+              "last_updated": "2026-08-30T04:00:22.435289+00:00",
               "first_seen": "2026-07-11T22:13:59+00:00",
               "year": "2017",
               "price_history": [
@@ -66409,6 +66417,10 @@
                 {
                   "price": "$182.00",
                   "date": "2026-08-26T04:00:21.405781+00:00"
+                },
+                {
+                  "price": "$197.00",
+                  "date": "2026-08-30T04:00:22.435289+00:00"
                 }
               ]
             },
@@ -108953,6 +108965,25 @@
           "quantity": "2oz",
           "members": [
             {
+              "name": "Toscano Maestro Puccini Limited Edition 2oz",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/222856/",
+              "price": "$40.00",
+              "last_updated": "2026-08-30T04:00:22.435289+00:00",
+              "first_seen": "2026-08-12T16:21:40+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$42.00",
+                  "date": "2026-08-12T16:21:40+00:00"
+                },
+                {
+                  "price": "$40.00",
+                  "date": "2026-08-30T04:00:22.435289+00:00"
+                }
+              ]
+            },
+            {
               "name": "Maestro Puccini 2oz Pipe Tobacco / Buy It Now $65",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/215045/",
@@ -108964,21 +108995,6 @@
                 {
                   "price": "$65.00",
                   "date": "2026-08-13T15:33:05+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Toscano Maestro Puccini Limited Edition 2oz",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/215425/",
-              "price": "$42.00",
-              "last_updated": "2026-08-13T04:00:35.603963+00:00",
-              "first_seen": "2026-08-12T16:21:40+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$42.00",
-                  "date": "2026-08-12T16:21:40+00:00"
                 }
               ]
             },
@@ -111418,9 +111434,9 @@
             {
               "name": "Excellent Sealed 2019 Wellauer & Co. Latakia 100g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/220328/",
-              "price": "$102.00",
-              "last_updated": "2026-08-24T04:00:25.142266+00:00",
+              "url": "https://tinbids.com/auction/222958/",
+              "price": "$87.00",
+              "last_updated": "2026-08-30T04:00:22.435289+00:00",
               "first_seen": "2026-07-19T21:17:41+00:00",
               "year": "2019",
               "price_history": [
@@ -111435,6 +111451,10 @@
                 {
                   "price": "$102.00",
                   "date": "2026-08-24T04:00:25.142266+00:00"
+                },
+                {
+                  "price": "$87.00",
+                  "date": "2026-08-30T04:00:22.435289+00:00"
                 }
               ]
             }
@@ -113989,6 +114009,11 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
+    "Excellent Sealed 2019 Wellauer & Co. Latakia 100g. Tin": "wellauerco|latakiamixture",
+    "Germain's Medium Flake 50g tin 2018": "jfgermain|mediumflake",
+    "Toscano Maestro Puccini Limited Edition 2oz": "toscano|maestropuccini",
+    "Very Nice Sealed 2016 McClelland 3 Oaks With Syrian Latakia 50g. Tin": "mcclelland|3oakssyrian",
     "VINTAGE and RARE Flying Dutchman Aromatic (compromised seal) 10oz - NR": "theodorusniemeyer|flyingdutchman",
     "VINTAGE and RARE Dunhill Gold Blend (compromised seal) 2oz - NR": "dunhill|goldblend",
     "Bengal Slices": "sutliff|bengalslices",
@@ -114009,7 +114034,6 @@
     "Esoterica - Margate - 50g": "esoterica|margate",
     "HH Vintage Syrian": "macbaren|hhvintagesyrian",
     "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
-    "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
     "McCLELLAND BALKAN BLUE": "mcclelland|balkanblue",
     "Esoterica - Pembroke - 4 oz. 2018": "esoterica|pembroke",
     "Jewel Of St James Genuine Louisiana Perique 1 OZ sealed jar": "jewelofstjames|perique",
@@ -114023,7 +114047,6 @@
     "Ashton Artisan’s Blend Tobacco Sealed Tin Century 50g Syrian Latakia Pipe Tobacco": "ashton|artisansblend",
     "Tobacco Tin Mc Clelland Syrian Super Balkan 2004 Out of Production": "mcclelland|syriansuperbalkan",
     "Peterson’s Old Dublin Smoking English Mixture Sealed 50g Pipe Tobacco Tin 2012": "peterson|olddublin",
-    "Excellent Sealed 2019 Wellauer & Co. Latakia 100g. Tin": "wellauerco|latakiamixture",
     "Excellent Sealed 2018 Exotique Mixture Smokers' Haven 2oz. Tin": "smokershaven|exotique",
     "Very Nice Sealed 2015 McClelland 3 Oaks With Syrian Latakia 50g. Tin": "mcclelland|3oakssyrian",
     "(2020) Rattray’s Old Gowrie 100g Tin": "rattrays|oldgowrie",
@@ -114178,7 +114201,6 @@
     "Very Nice Sealed 2011 G. L. Pease Jack Knife Plug 2oz Tin": "glpease|jackknifeplug",
     "Excellent Sealed 2011 McClelland Celebrated Sovereign 50g. Tin": "ashton|celebratedsovereign",
     "Excellent Sealed 2006 McCranie's Murdock's Pipe, Soft Rich Scottish Blend Pipe 50g. Tin": "mccranies|murdockspipe",
-    "Germain's Medium Flake 50g tin 2018": "jfgermain|mediumflake",
     "Samuel Gawith Full Virginia Flake – 50g Tin (October 2015) – Factory Sealed": "samuelgawith|fullvirginiaflake",
     "Samuel Gawith St. James Flake – 50g Tin (December 2015)": "samuelgawith|stjamesflake",
     "Dunhill Flake – 50g Sealed Tin ~ Aged 10 Years": "dunhill|flake",
@@ -114343,7 +114365,6 @@
     "2017 CORNELL & DIEHL BILLY BUDD approx. 2.2 ounces": "cornelldiehl|billybudd",
     "SYRIAN! 2018 Ashton Artisan's Blend 50g": "ashton|artisansblend",
     "2005 McClelland’s Frog Morton Across the Pond Syrian Latakia - 1 Tin NR BIN $400": "mcclelland|frogmortonacrossthepond",
-    "Toscano Maestro Puccini Limited Edition 2oz": "toscano|maestropuccini",
     "Collectible MacBaren HH Vintage Syrian Balkan Smoking Mixture Sealed 3.5 Oz’s Pipe Tobacco Tin": "macbaren|hhvintagesyrian",
     "2025 Solani Gold 779 English Mixture 50g": "solani|779",
     "2015 Mac Baren Bold Kentucky 3.5oz": "macbaren|hhboldkentucky",
@@ -114467,7 +114488,6 @@
     "Mac Baren’s 2021 Royal Twist DeLuxe Roll Cake 3.5 oz": "macbaren|royaltwist",
     "Very Nice Sealed 2021 Cornell & Diehl Small Batch Sun Bear 2oz. Tin": "cornelldiehl|sunbear",
     "Esoterica Penzance": "esoterica|penzance",
-    "Very Nice Sealed 2016 McClelland 3 Oaks With Syrian Latakia 50g. Tin": "mcclelland|3oakssyrian",
     "Very Nice Sealed 2018 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
     "Gawith & Hoggarth-Balkan Mixture": "gawithhoggarthco|balkanmixture",
     "2015 Mac Baren HH Pure Virginia - 1 Tin NR BIN $80": "macbaren|hhpurevirginia",
