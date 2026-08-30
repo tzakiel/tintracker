@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-30T15:14:16.463875+00:00",
+  "generated": "2026-08-30T16:09:17.968687+00:00",
   "stats": {
-    "total_listings": 6820,
+    "total_listings": 6834,
     "excluded_multipacks": 2150,
     "total_tins": 1315,
     "multi_member_tins": 671,
@@ -59803,15 +59803,19 @@
             {
               "name": "2015 Mac Baren Bold Kentucky 3.5oz",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/215489/",
-              "price": "$100.00",
-              "last_updated": "2026-08-13T04:00:35.603963+00:00",
+              "url": "https://tinbids.com/auction/223903/",
+              "price": "$90.00",
+              "last_updated": "2026-08-30T16:00:22.298171+00:00",
               "first_seen": "2026-08-12T17:09:08+00:00",
               "year": "2015",
               "price_history": [
                 {
                   "price": "$100.00",
                   "date": "2026-08-12T17:09:08+00:00"
+                },
+                {
+                  "price": "$90.00",
+                  "date": "2026-08-30T16:00:22.298171+00:00"
                 }
               ]
             },
@@ -99579,7 +99583,7 @@
             {
               "name": "Solani Aged Burley Flake - 656 50g Pipe Tobacco",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/217044/",
+              "url": "https://tinbids.com/auction/222038/",
               "price": "$40.00",
               "last_updated": "2026-08-18T16:00:25.835408+00:00",
               "first_seen": "2026-08-18T13:25:24+00:00",
@@ -114057,6 +114061,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "2015 Mac Baren Bold Kentucky 3.5oz": "macbaren|hhboldkentucky",
     "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
     "Excellent Sealed 2019 Wellauer & Co. Latakia 100g. Tin": "wellauerco|latakiamixture",
     "Germain's Medium Flake 50g tin 2018": "jfgermain|mediumflake",
@@ -114415,7 +114420,6 @@
     "2005 McClelland’s Frog Morton Across the Pond Syrian Latakia - 1 Tin NR BIN $400": "mcclelland|frogmortonacrossthepond",
     "Collectible MacBaren HH Vintage Syrian Balkan Smoking Mixture Sealed 3.5 Oz’s Pipe Tobacco Tin": "macbaren|hhvintagesyrian",
     "2025 Solani Gold 779 English Mixture 50g": "solani|779",
-    "2015 Mac Baren Bold Kentucky 3.5oz": "macbaren|hhboldkentucky",
     "2004 Samuel Gawith's Balkan Flake-50g": "samuelgawith|balkanflake",
     "SYRIAN! Balkan by Brebbia 50g": "brebbia|balkan",
     "2017 Dunhill Durbar 50g": "dunhill|durbar",
