@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-31T15:14:18.176126+00:00",
+  "generated": "2026-08-31T16:09:33.843644+00:00",
   "stats": {
-    "total_listings": 6875,
-    "excluded_multipacks": 2155,
+    "total_listings": 6882,
+    "excluded_multipacks": 2157,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3557,
@@ -16141,9 +16141,9 @@
             {
               "name": "Cornell & Diehl Small Batch Sun Bear Navy Cask",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/216125/",
-              "price": "$55.00",
-              "last_updated": "2026-08-04T04:00:32.453136+00:00",
+              "url": "https://tinbids.com/auction/222755/",
+              "price": "$74.99",
+              "last_updated": "2026-08-31T16:00:24.609873+00:00",
               "first_seen": "2026-07-10T18:38:07+00:00",
               "year": "",
               "price_history": [
@@ -16158,6 +16158,10 @@
                 {
                   "price": "$55.00",
                   "date": "2026-08-04T04:00:32.453136+00:00"
+                },
+                {
+                  "price": "$74.99",
+                  "date": "2026-08-31T16:00:24.609873+00:00"
                 }
               ]
             },
@@ -32855,9 +32859,9 @@
             {
               "name": "Esoterica Tilbury 2oz Tin Released 2025",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/217530/",
-              "price": "$79.00",
-              "last_updated": "2026-08-19T16:00:21.668326+00:00",
+              "url": "https://tinbids.com/auction/222742/",
+              "price": "$78.00",
+              "last_updated": "2026-08-31T16:00:24.609873+00:00",
               "first_seen": "2026-06-29T13:18:12+00:00",
               "year": "2025",
               "price_history": [
@@ -32868,6 +32872,10 @@
                 {
                   "price": "$79.00",
                   "date": "2026-08-19T16:00:21.668326+00:00"
+                },
+                {
+                  "price": "$78.00",
+                  "date": "2026-08-31T16:00:24.609873+00:00"
                 }
               ]
             }
@@ -114129,6 +114137,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Esoterica Tilbury 2oz Tin Released 2025": "esoterica|tilbury",
+    "Cornell & Diehl Small Batch Sun Bear Navy Cask": "cornelldiehl|sunbearnavycask",
     "Esoterica Stonehaven 2016 | 8oz Bag | La Clave Collection": "esoterica|stonehaven",
     "2015 Mac Baren Bold Kentucky 3.5oz": "macbaren|hhboldkentucky",
     "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
@@ -114276,7 +114286,6 @@
     "2009 G.L. PEASE KENSINGTON approx. 2.2 ounces": "glpease|kensington",
     "2002 2 oz GL Pease Robusto": "glpease|robusto",
     "McClellan's Bombay Extra - 50g - 2013": "mcclelland|bombayextra",
-    "Esoterica Tilbury 2oz Tin Released 2025": "esoterica|tilbury",
     "Peter Stokkebye-Luxury Navy Flake": "peterstokkebye|luxurynavyflake",
     "Esoterica Pembroke 2oz Tin 2025 Release": "esoterica|pembroke",
     "Esoterica \"And So To Bed\" 2oz Tin 2025 Release": "esoterica|andsotobed",
@@ -114751,7 +114760,6 @@
     "Esoterica Stonehaven (2020) (8oz bag)": "esoterica|stonehaven",
     "Very Nice Sealed 2017 McClelland's Frog Morton on the Bayou 100g. Tin": "mcclelland|frogmortononthebayou",
     "Excellent Sealed 2019 Wellauer & Co. Latakia Mixture 50g. Tin": "wellauerco|latakiamixture",
-    "Cornell & Diehl Small Batch Sun Bear Navy Cask": "cornelldiehl|sunbearnavycask",
     "Excellent Sealed 2018 Dunhill Nightcap 50g. Tin": "dunhill|nightcap",
     "MacBaren Dark Twist Roll Cake Bid or Buy Now NR": "macbaren|darktwistrollcake",
     "MacBaren Plumcake Navy Blend Bid or Buy Now NR": "macbaren|plumcakenavyblend",
