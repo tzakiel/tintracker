@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-01T15:14:17.196607+00:00",
+  "generated": "2026-09-01T16:07:42.973603+00:00",
   "stats": {
-    "total_listings": 6912,
-    "excluded_multipacks": 2169,
+    "total_listings": 6922,
+    "excluded_multipacks": 2171,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3557,
@@ -24113,9 +24113,9 @@
             {
               "name": "Dunhill Ready Rubbed 2017 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/220077/",
-              "price": "$28.01",
-              "last_updated": "2026-08-25T16:00:22.009910+00:00",
+              "url": "https://tinbids.com/auction/223044/",
+              "price": "$20.00",
+              "last_updated": "2026-09-01T16:00:28.872566+00:00",
               "first_seen": "2026-06-30T04:21:19+00:00",
               "year": "2017",
               "price_history": [
@@ -24142,6 +24142,10 @@
                 {
                   "price": "$28.01",
                   "date": "2026-08-25T16:00:22.009910+00:00"
+                },
+                {
+                  "price": "$20.00",
+                  "date": "2026-09-01T16:00:28.872566+00:00"
                 }
               ]
             },
@@ -70449,15 +70453,19 @@
             {
               "name": "2017 McClelland’s Christmas Cheer - 1 tin NR BIN $200",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/217021/",
-              "price": "$200.00",
-              "last_updated": "2026-08-12T16:00:29.494501+00:00",
+              "url": "https://tinbids.com/auction/225500/",
+              "price": "$195.00",
+              "last_updated": "2026-09-01T16:00:28.872566+00:00",
               "first_seen": "2026-08-12T12:35:05+00:00",
               "year": "2017",
               "price_history": [
                 {
                   "price": "$200.00",
                   "date": "2026-08-12T12:35:05+00:00"
+                },
+                {
+                  "price": "$195.00",
+                  "date": "2026-09-01T16:00:28.872566+00:00"
                 }
               ]
             },
@@ -111749,9 +111757,9 @@
             {
               "name": "Wessex Brigade Campaign Dark Flake 50g / 1.75oz Unopened Tin Straight Virginia Tobacco",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/217045/",
-              "price": "$30.00",
-              "last_updated": "2026-08-19T04:00:23.279252+00:00",
+              "url": "https://tinbids.com/auction/223172/",
+              "price": "$35.00",
+              "last_updated": "2026-09-01T16:00:28.872566+00:00",
               "first_seen": "2026-08-03T18:25:17+00:00",
               "year": "",
               "price_history": [
@@ -111762,6 +111770,10 @@
                 {
                   "price": "$30.00",
                   "date": "2026-08-19T04:00:23.279252+00:00"
+                },
+                {
+                  "price": "$35.00",
+                  "date": "2026-09-01T16:00:28.872566+00:00"
                 }
               ]
             },
@@ -114233,6 +114245,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
+    "Wessex Brigade Campaign Dark Flake 50g / 1.75oz Unopened Tin Straight Virginia Tobacco": "wessex|brigadecampaigndarkflake",
+    "2017 McClelland’s Christmas Cheer - 1 tin NR BIN $200": "mcclelland|christmascheer",
     "Cornell & Diehl Small Batch Sun Bear Navy Cask": "cornelldiehl|sunbearnavycask",
     "Very Nice Sealed Butera Pelican English/Oriental 2 oz. Tin": "butera|pelican",
     "2014 Esoterica Penzance - 8 oz bag": "esoterica|penzance",
@@ -114274,7 +114289,6 @@
     "Excellent Sealed 2016 Our Best Blend by Smokers Haven 2oz. Tin": "smokershaven|ourbestblend",
     "GAWITH SQUADRON LEADER": "samuelgawith|squadronleader",
     "Very Nice Sealed 2017 McClelland's Frog Morton on the Town 100g. Tin": "mcclelland|frogmortononthetown",
-    "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
     "Murray Erinmore Mixture Pre-2005 NR": "erinmore|mixture",
     "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996": "butera|pelican",
     "Ashton Artisan’s Blend Tobacco Sealed Tin Century 50g Cyprian Latakia Pipe Tobacco": "ashton|artisansblend",
@@ -114395,7 +114409,6 @@
     "KBV - Eldritch Pipes --Goblin City  -- 2023": "kenbyronventures|goblincity",
     "Esoterica Dorchester - 8oz": "esoterica|dorchester",
     "Esoterica Margate - 8oz": "esoterica|margate",
-    "Wessex Brigade Campaign Dark Flake 50g / 1.75oz Unopened Tin Straight Virginia Tobacco": "wessex|brigadecampaigndarkflake",
     "Esoterica - And so to bed - 50g": "esoterica|andsotobed",
     "Seattle Pipe Club Mississippi River": "sutliff|spcmississippiriver",
     "Germain's Uncle Tom's Smoking Mixture": "jfgermain|uncletomssmokingmixture",
@@ -114618,7 +114631,6 @@
     "Dunhill Durbar 50 g tin 2014": "dunhill|durbar",
     "Dunhill London Mixture 50 g tin 2015": "dunhill|londonmixture",
     "Sutliff - Moulin Rouge - Sealed Tin - Out of Production": "sutliff|moulinrouge",
-    "2017 McClelland’s Christmas Cheer - 1 tin NR BIN $200": "mcclelland|christmascheer",
     "Astley's-No. 2": "astleys|no2mixture",
     "2019 Bob's Chocolate Flake vacuum sealed - 50g": "gawithhoggarthco|bobschocolateflake",
     "Peter Heinrichs Golden Sliced - 200g": "peterheinrichs|goldensliced",
