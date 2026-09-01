@@ -39482,7 +39482,7 @@
     {
       "name": "I am asking",
       "price": "$12",
-      "url": "https://speak-easy.club/threads/wts-limerick-and-gh-broken-flake-7.44277/",
+      "url": "https://speak-easy.club/threads/wts-ennerdale-and-firedance-flake.45126/unread",
       "source": "Speak-Easy.Club",
       "first_seen": "2026-04-04T02:11:10+00:00",
       "last_updated": "2026-06-24T02:02:09.029335+00:00",
@@ -52200,8 +52200,23 @@
       "tag": "WTS"
     }
   ],
-  "last_scraped": "2026-08-31T06:38:20.542803+00:00",
+  "last_scraped": "2026-09-01T06:38:16.069988+00:00",
   "latest_scrape": [
+    {
+      "name": "I am asking",
+      "price": "$12",
+      "url": "https://speak-easy.club/threads/wts-ennerdale-and-firedance-flake.45126/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-04-04T02:11:10+00:00",
+      "last_updated": "2026-06-24T02:02:09.029335+00:00",
+      "price_history": [
+        {
+          "price": "$12",
+          "date": "2026-06-24T02:02:09.029335+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
     {
       "name": "As part of our group buy, I took the liberty of buying two extra pipes in case any SpEZers were feeling left out.  These lovelies are regularly",
       "price": "$140",
@@ -53154,6 +53169,13 @@
       "added": 0,
       "price_changed": 0,
       "total": 2662
+    },
+    {
+      "date": "2026-09-01T06:38:16.069988+00:00",
+      "found": 31,
+      "added": 0,
+      "price_changed": 0,
+      "total": 2662
     }
   ],
   "thread_recheck": {
@@ -53173,7 +53195,8 @@
     "https://speak-easy.club/threads/selling-out-for-now.45101/unread": "2026-09-11T06:38:17.385196+00:00",
     "https://speak-easy.club/threads/sg-fvf-be.45055/unread": "2026-09-13T06:38:13.869598+00:00",
     "https://speak-easy.club/threads/peterson-standard-314.45119/unread": "2026-09-14T06:38:20.542803+00:00",
-    "https://speak-easy.club/threads/peterson-standard-system-303.45118/unread": "2026-09-14T06:38:20.542803+00:00"
+    "https://speak-easy.club/threads/peterson-standard-system-303.45118/unread": "2026-09-14T06:38:20.542803+00:00",
+    "https://speak-easy.club/threads/wts-ennerdale-and-firedance-flake.45126/unread": "2026-09-15T06:38:16.069988+00:00"
   },
   "thread_recheck_tags": {
     "https://speak-easy.club/threads/brigham-and-peterson.44723/unread": "WTS",
@@ -54044,6 +54067,7 @@
     "https://speak-easy.club/threads/selling-out-for-now.45101/unread": "SOLD",
     "https://speak-easy.club/threads/sg-fvf-be.45055/unread": "SOLD",
     "https://speak-easy.club/threads/peterson-standard-314.45119/unread": "WTS",
-    "https://speak-easy.club/threads/peterson-standard-system-303.45118/unread": "WTS"
+    "https://speak-easy.club/threads/peterson-standard-system-303.45118/unread": "WTS",
+    "https://speak-easy.club/threads/wts-ennerdale-and-firedance-flake.45126/unread": "WTS"
   }
 }
