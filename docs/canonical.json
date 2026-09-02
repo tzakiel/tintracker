@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-02T15:14:28.576952+00:00",
+  "generated": "2026-09-02T16:05:02.047804+00:00",
   "stats": {
-    "total_listings": 6945,
+    "total_listings": 6956,
     "excluded_multipacks": 2173,
     "total_tins": 1315,
     "multi_member_tins": 671,
@@ -101599,9 +101599,9 @@
             {
               "name": "Sutliff 526 Old Professor - ONE POUND",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/220956/",
-              "price": "$85.00",
-              "last_updated": "2026-08-18T16:00:25.835408+00:00",
+              "url": "https://tinbids.com/auction/225910/",
+              "price": "$75.00",
+              "last_updated": "2026-09-02T16:00:24.536497+00:00",
               "first_seen": "2026-08-13T19:51:34+00:00",
               "year": "",
               "price_history": [
@@ -101612,6 +101612,10 @@
                 {
                   "price": "$85.00",
                   "date": "2026-08-18T16:00:25.835408+00:00"
+                },
+                {
+                  "price": "$75.00",
+                  "date": "2026-09-02T16:00:24.536497+00:00"
                 }
               ]
             }
@@ -114309,6 +114313,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Sutliff 526 Old Professor - ONE POUND": "sutliff|526oldprofessor",
     "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
     "Wessex Brigade Campaign Dark Flake 50g / 1.75oz Unopened Tin Straight Virginia Tobacco": "wessex|brigadecampaigndarkflake",
     "2017 McClelland’s Christmas Cheer - 1 tin NR BIN $200": "mcclelland|christmascheer",
@@ -114491,7 +114496,6 @@
     "C&D Small Batch Sun Bear Bourbon Cask (2oz)": "cornelldiehl|sunbearbourboncask",
     "OPEN TIN C&D Small Batch Midnight Orchard": "cornelldiehl|midnightorchard",
     "Ravenwood - Three Farthing Stone - 50g": "ravenwood|threefarthingstone",
-    "Sutliff 526 Old Professor - ONE POUND": "sutliff|526oldprofessor",
     "Ashton Rainy Day NR": "ashton|rainyday",
     "Mac Baren’s Stockton Spun Cut 2023 3.5 oz tin": "macbaren|stocktonspuncut",
     "17 Year Vintage Mac Baren Dark Twist Roll Cake. Jar/sealed 3 ozo. May 2009.": "macbaren|darktwistrollcake",
