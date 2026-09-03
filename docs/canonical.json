@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-02T19:16:19.390224+00:00",
+  "generated": "2026-09-03T04:07:04.293287+00:00",
   "stats": {
-    "total_listings": 6956,
-    "excluded_multipacks": 2173,
+    "total_listings": 6971,
+    "excluded_multipacks": 2177,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3557,
@@ -88797,15 +88797,19 @@
             {
               "name": "Ravenwood - Three Farthing Stone - 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/217346/",
-              "price": "$45.00",
-              "last_updated": "2026-08-19T04:00:23.279252+00:00",
+              "url": "https://tinbids.com/auction/223795/",
+              "price": "$40.00",
+              "last_updated": "2026-09-03T04:00:22.284549+00:00",
               "first_seen": "2026-08-19T00:28:35+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$45.00",
                   "date": "2026-08-19T00:28:35+00:00"
+                },
+                {
+                  "price": "$40.00",
+                  "date": "2026-09-03T04:00:22.284549+00:00"
                 }
               ]
             }
@@ -90148,9 +90152,9 @@
             {
               "name": "Vintage 1980 - Robert McConnell's Original Red Virginia - 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/205569/",
-              "price": "$100.00",
-              "last_updated": "2026-07-19T04:00:29.560109+00:00",
+              "url": "https://tinbids.com/auction/223780/",
+              "price": "$85.00",
+              "last_updated": "2026-09-03T04:00:22.284549+00:00",
               "first_seen": "2026-07-11T02:23:49+00:00",
               "year": "1980",
               "price_history": [
@@ -90161,6 +90165,10 @@
                 {
                   "price": "$100.00",
                   "date": "2026-07-19T04:00:29.560109+00:00"
+                },
+                {
+                  "price": "$85.00",
+                  "date": "2026-09-03T04:00:22.284549+00:00"
                 }
               ]
             },
@@ -114329,6 +114337,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Ravenwood - Three Farthing Stone - 50g": "ravenwood|threefarthingstone",
+    "Vintage 1980 - Robert McConnell's Original Red Virginia - 50g": "robertmcconnell|redvirginia",
     "Sutliff 526 Old Professor - ONE POUND": "sutliff|526oldprofessor",
     "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
     "Wessex Brigade Campaign Dark Flake 50g / 1.75oz Unopened Tin Straight Virginia Tobacco": "wessex|brigadecampaigndarkflake",
@@ -114511,7 +114521,6 @@
     "Sutliff Blackthorn Shillelagh (8oz) Limited Edition 2024": "sutliff|blackthorn",
     "C&D Small Batch Sun Bear Bourbon Cask (2oz)": "cornelldiehl|sunbearbourboncask",
     "OPEN TIN C&D Small Batch Midnight Orchard": "cornelldiehl|midnightorchard",
-    "Ravenwood - Three Farthing Stone - 50g": "ravenwood|threefarthingstone",
     "Ashton Rainy Day NR": "ashton|rainyday",
     "Mac Baren’s Stockton Spun Cut 2023 3.5 oz tin": "macbaren|stocktonspuncut",
     "17 Year Vintage Mac Baren Dark Twist Roll Cake. Jar/sealed 3 ozo. May 2009.": "macbaren|darktwistrollcake",
@@ -115420,7 +115429,6 @@
     "Sutliff 175th Anniversary: The Old Boss (1.75 oz)": "sutliff|theoldboss",
     "Smoker’s Pride 1-Black Cavendish": "smokerspride|blackcavendish",
     "Cobblestone Indulge - Vanilla Custard - 50g": "cobblestone|vanillacustard",
-    "Vintage 1980 - Robert McConnell's Original Red Virginia - 50g": "robertmcconnell|redvirginia",
     "2014 McClelland Blackwoods Flake 100g": "mcclelland|blackwoodsflake",
     "McClelland Domincan Glory 1998 8oz": "mcclelland|dominicanglory",
     "Discontinued: Mac Baren Mature Virginia - Limited run - 100g (2007)": "macbaren|hhmaturevirginia",
