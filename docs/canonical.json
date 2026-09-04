@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-04T15:14:17.877617+00:00",
+  "generated": "2026-09-04T16:10:49.149988+00:00",
   "stats": {
-    "total_listings": 6999,
-    "excluded_multipacks": 2177,
+    "total_listings": 7010,
+    "excluded_multipacks": 2180,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3557,
@@ -62124,7 +62124,7 @@
             {
               "name": "MacBaren HH Pure Virginia 2015 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/221180/",
+              "url": "https://tinbids.com/auction/224343/",
               "price": "$41.00",
               "last_updated": "2026-08-28T04:00:24.193818+00:00",
               "first_seen": "2026-08-07T02:39:51+00:00",
@@ -66937,9 +66937,9 @@
             {
               "name": "McClelland 40th Anniversary - NR BIN $225",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/220625/",
-              "price": "$220.00",
-              "last_updated": "2026-08-20T16:00:23.674966+00:00",
+              "url": "https://tinbids.com/auction/226662/",
+              "price": "$225.00",
+              "last_updated": "2026-09-04T16:00:22.521397+00:00",
               "first_seen": "2026-06-22T13:53:20.063064+00:00",
               "year": "",
               "price_history": [
@@ -66958,6 +66958,10 @@
                 {
                   "price": "$220.00",
                   "date": "2026-08-20T16:00:23.674966+00:00"
+                },
+                {
+                  "price": "$225.00",
+                  "date": "2026-09-04T16:00:22.521397+00:00"
                 }
               ]
             },
@@ -114453,6 +114457,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "McClelland 40th Anniversary - NR BIN $225": "mcclelland|40thanniversary",
     "Collectible Samuel Gawith Bob’s Chocolate Flake 50gm Sealed Pipe Tobacco Tin ‘24": "gawithhoggarthco|bobschocolateflake",
     "Ravenwood - Three Farthing Stone - 50g": "ravenwood|threefarthingstone",
     "Vintage 1980 - Robert McConnell's Original Red Virginia - 50g": "robertmcconnell|redvirginia",
@@ -114592,7 +114597,6 @@
     "Germain’s RJ Latakia Mixture": "jfgermain|royaljerseylatakia",
     "Gawith Squadron Leader Pre-2009 NR": "samuelgawith|squadronleader",
     "Sutliff Eastfarthing 50g - No longer produced": "sutliff|eastfarthing",
-    "McClelland 40th Anniversary - NR BIN $225": "mcclelland|40thanniversary",
     "Cornell & Diehl Palmetto Balkan - 1 Tin BIN $100": "cornelldiehl|palmettobalkan",
     "Dunhill Ye Olde Signe - 2016 tin": "dunhill|yeoldesigne",
     "Dunhill Elizabethan Mixture from 2013": "dunhill|elizabethanmixture",
