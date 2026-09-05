@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-04T19:16:21.168143+00:00",
+  "generated": "2026-09-05T04:05:07.914780+00:00",
   "stats": {
-    "total_listings": 7010,
-    "excluded_multipacks": 2180,
+    "total_listings": 7012,
+    "excluded_multipacks": 2182,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3557,
@@ -31612,15 +31612,19 @@
             {
               "name": "2016 Esoterica Penzance - 8oz Sealed - NO RESERVE",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/218493/",
-              "price": "$1360.00",
-              "last_updated": "2026-08-21T16:00:23.780376+00:00",
+              "url": "https://tinbids.com/auction/224534/",
+              "price": "$1365.00",
+              "last_updated": "2026-09-05T04:00:20.523154+00:00",
               "first_seen": "2026-08-21T15:40:42+00:00",
               "year": "2016",
               "price_history": [
                 {
                   "price": "$1360.00",
                   "date": "2026-08-21T15:40:42+00:00"
+                },
+                {
+                  "price": "$1365.00",
+                  "date": "2026-09-05T04:00:20.523154+00:00"
                 }
               ]
             },
@@ -95727,15 +95731,19 @@
             {
               "name": "2020 SAMUEL GAWITH SAM'S FLAKE",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/216378/",
-              "price": "$27.00",
-              "last_updated": "2026-08-17T04:00:20.327706+00:00",
+              "url": "https://tinbids.com/auction/224548/",
+              "price": "$25.00",
+              "last_updated": "2026-09-05T04:00:20.523154+00:00",
               "first_seen": "2026-08-17T00:39:53+00:00",
               "year": "2020",
               "price_history": [
                 {
                   "price": "$27.00",
                   "date": "2026-08-17T00:39:53+00:00"
+                },
+                {
+                  "price": "$25.00",
+                  "date": "2026-09-05T04:00:20.523154+00:00"
                 }
               ]
             },
@@ -114473,6 +114481,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "2016 Esoterica Penzance - 8oz Sealed - NO RESERVE": "esoterica|penzance",
+    "2020 SAMUEL GAWITH SAM'S FLAKE": "samuelgawith|samsflake",
     "McClelland 40th Anniversary - NR BIN $225": "mcclelland|40thanniversary",
     "Collectible Samuel Gawith Bob’s Chocolate Flake 50gm Sealed Pipe Tobacco Tin ‘24": "gawithhoggarthco|bobschocolateflake",
     "Ravenwood - Three Farthing Stone - 50g": "ravenwood|threefarthingstone",
@@ -114599,7 +114609,6 @@
     "Unannounced Limited Release *Small Batch * Low Country Crescent Rising by Cornell & Diehl 2026 2oz": "lowcountry|crescentrising",
     "Sutliff Crumble Kake Red Virginia (Discontinued) BIN": "sutliff|crumblekakeredvirginias",
     "Solani Silver Flake Blend 660 / 4.8 Out Of 5 Stars Rating / Red Virginia & Dark Fire Kentucky Tobacco 100g Tin": "solani|silver660",
-    "2016 Esoterica Penzance - 8oz Sealed - NO RESERVE": "esoterica|penzance",
     "Sutliff MATCH VICTORIAN 2024 - ONE POUND": "sutliff|matchvictorian",
     "Esoterica - Penzance - 4 oz. - 2019": "esoterica|penzance",
     "Rattray's - Black Mallory - 100g tin - 2019": "rattrays|blackmallory",
@@ -114731,7 +114740,6 @@
     "2009 McCLELLAND BOMBAY COURT 3 ounces": "mcclelland|bombaycourt",
     "Samuel Gawith St James Flake Burnt Ends": "samuelgawith|stjamesflakeburntends",
     "2014 - Cornell & Diehl - Star of the East 2oz": "cornelldiehl|staroftheeast",
-    "2020 SAMUEL GAWITH SAM'S FLAKE": "samuelgawith|samsflake",
     "(2026) Samuel Gawith Full Virginia Mixture": "samuelgawith|fullvirginiamixture",
     "(2020) Wessex Red Flake": "wessex|redvirginiaflake",
     "(2020) Cornell & Diehl Carolina Red Flake w/ Perique (Small Batch)": "cornelldiehl|smallbatchcarolinaredflakewithperique",
