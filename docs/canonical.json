@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-05T16:09:26.985596+00:00",
+  "generated": "2026-09-05T17:18:00.730977+00:00",
   "stats": {
-    "total_listings": 7026,
-    "excluded_multipacks": 2182,
+    "total_listings": 7089,
+    "excluded_multipacks": 2190,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3557,
@@ -60133,6 +60133,25 @@
           "quantity": "50g",
           "members": [
             {
+              "name": "Mac Baren’s HH Bold Kentucky 50g tin – Year 2015",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mac-barens-hh-bold-kentucky-50g-tin-year-2015-2/",
+              "price": "$40.00",
+              "last_updated": "2026-09-05T17:14:09.712238+00:00",
+              "first_seen": "2026-07-11T17:13:37.793839+00:00",
+              "year": "2015",
+              "price_history": [
+                {
+                  "price": "$45.00",
+                  "date": "2026-07-11T17:13:37.793839+00:00"
+                },
+                {
+                  "price": "$40.00",
+                  "date": "2026-09-05T17:14:09.712238+00:00"
+                }
+              ]
+            },
+            {
               "name": "Mac Baren’s HH Bold Kentucky 50g tins – First Year 2015 Production",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/mac-barens-hh-bold-kentucky-50g-tins-first-year-2015-production/",
@@ -60159,21 +60178,6 @@
                 {
                   "price": "$45.00",
                   "date": "2026-07-25T17:13:37.916898+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Mac Baren’s HH Bold Kentucky 50g tin – Year 2015",
-              "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/mac-barens-hh-bold-kentucky-50g-tin-year-2015/",
-              "price": "$45.00",
-              "last_updated": "2026-07-11T17:13:37.793839+00:00",
-              "first_seen": "2026-07-11T17:13:37.793839+00:00",
-              "year": "2015",
-              "price_history": [
-                {
-                  "price": "$45.00",
-                  "date": "2026-07-11T17:13:37.793839+00:00"
                 }
               ]
             },
@@ -61419,15 +61423,19 @@
             {
               "name": "Mac Baren’s HH Old Dark Fired 50g tin – Year 2016",
               "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/mac-barens-hh-old-dark-fired-50g-tin-year-2016/",
-              "price": "$45.00",
-              "last_updated": "2026-07-11T17:13:37.793839+00:00",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mac-barens-hh-old-dark-fired-50g-tin-year-2016-2/",
+              "price": "$40.00",
+              "last_updated": "2026-09-05T17:14:09.712238+00:00",
               "first_seen": "2026-07-11T17:13:37.793839+00:00",
               "year": "2016",
               "price_history": [
                 {
                   "price": "$45.00",
                   "date": "2026-07-11T17:13:37.793839+00:00"
+                },
+                {
+                  "price": "$40.00",
+                  "date": "2026-09-05T17:14:09.712238+00:00"
                 }
               ]
             }
@@ -64595,14 +64603,18 @@
               "name": "Mac Baren Syr. Latakia Solent Mixture 3-1/2oz tin – Year 2005",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/mac-baren-syr-latakia-solent-mixture-3-1-2oz-tin-year-2005/",
-              "price": "$90.00",
-              "last_updated": "2026-08-15T17:13:34.289812+00:00",
+              "price": "$95.00",
+              "last_updated": "2026-09-05T17:14:09.712238+00:00",
               "first_seen": "2026-08-15T17:13:34.289812+00:00",
               "year": "2005",
               "price_history": [
                 {
                   "price": "$90.00",
                   "date": "2026-08-15T17:13:34.289812+00:00"
+                },
+                {
+                  "price": "$95.00",
+                  "date": "2026-09-05T17:14:09.712238+00:00"
                 }
               ]
             }
@@ -113942,6 +113954,9 @@
     }
   ],
   "name_to_id": {
+    "Mac Baren Syr. Latakia Solent Mixture 3-1/2oz tin – Year 2005": "macbaren|solentmixture",
+    "Mac Baren’s HH Old Dark Fired 50g tin – Year 2016": "macbaren|hholddarkfired",
+    "Mac Baren’s HH Bold Kentucky 50g tin – Year 2015": "macbaren|hhboldkentucky",
     "Mac Baren’s St. Bruno Flake 50g tins – Year 2016": "macbaren|stbrunoflake",
     "Gawith Hoggarth Vacuum Sealed Bob’s Square Cut 500g bag – Year 2015": "gawithhoggarthco|bobssquarecut",
     "Dunhill Murray’s era Nightcap 50g tin – Year 2005": "dunhill|nightcap",
@@ -114019,7 +114034,6 @@
     "G.L. Pease Classic Collection Blackpoint 2oz tin – Year 2009": "glpease|blackpoint",
     "Davidoff Royalty 50g tins – Year 2021": "davidoff|royalty",
     "Solani Aged Burley Flake 50g tins – Year 2016": "solani|agedburleyflake656",
-    "Mac Baren Syr. Latakia Solent Mixture 3-1/2oz tin – Year 2005": "macbaren|solentmixture",
     "Vauen Virginia Flake No. 14 in 50g tins – Year 2017 & Made by Kopp": "vauen|virginiaflakeno14",
     "Rattray’s Marlin Flake 50g tin – Year 2015": "rattrays|marlinflake",
     "Dunhill Royal Yacht 50g tin – Year 2011": "dunhill|royalyacht",
@@ -114334,9 +114348,7 @@
     "Fribourg & Treyer Vintage 50g tins – Year 2015": "fribourgtreyer|vintageflake",
     "Fribourg & Treyer Special Brown Flake 50g tin – Year 2015": "fribourgtreyer|specialbrownflake",
     "Robert McConnell’s Folded Flake 50g tins – Year 2015": "robertmcconnell|foldedflake",
-    "Mac Baren’s HH Old Dark Fired 50g tin – Year 2016": "macbaren|hholddarkfired",
     "McClelland’s Boston 1776 in a 50g tin – Year 2010": "mcclelland|boston1776",
-    "Mac Baren’s HH Bold Kentucky 50g tin – Year 2015": "macbaren|hhboldkentucky",
     "McClelland’s CPCC Rich Virginia Ribbon 50g tins – Year 2016": "mcclelland|cpccrichvirginiaribbon",
     "McClelland’s Boston 1776 in a 50g tin – Year 2017": "mcclelland|boston1776",
     "McClelland’s Butera’s Royal Vintage Latakia No.1 in a 50g tin – Year 2010": "butera|latakiano1",
