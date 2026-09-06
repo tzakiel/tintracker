@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-06T15:14:17.925706+00:00",
+  "generated": "2026-09-06T16:11:13.073784+00:00",
   "stats": {
-    "total_listings": 7115,
-    "excluded_multipacks": 2197,
+    "total_listings": 7137,
+    "excluded_multipacks": 2198,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3557,
@@ -30442,6 +30442,25 @@
           "quantity": "",
           "members": [
             {
+              "name": "Esoterica Margate",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/226647/",
+              "price": "$330.00",
+              "last_updated": "2026-09-06T16:00:23.036865+00:00",
+              "first_seen": "2026-07-16T02:57:15+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$100.00",
+                  "date": "2026-07-16T02:57:15+00:00"
+                },
+                {
+                  "price": "$330.00",
+                  "date": "2026-09-06T16:00:23.036865+00:00"
+                }
+              ]
+            },
+            {
               "name": "Esotericia Margate Bid or Buy Now NR",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/216487/",
@@ -30483,21 +30502,6 @@
                 {
                   "price": "$95.00",
                   "date": "2026-07-31T13:02:31+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Esoterica Margate",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/205819/",
-              "price": "$100.00",
-              "last_updated": "2026-07-16T04:00:47.048591+00:00",
-              "first_seen": "2026-07-16T02:57:15+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$100.00",
-                  "date": "2026-07-16T02:57:15+00:00"
                 }
               ]
             },
@@ -103830,7 +103834,7 @@
             {
               "name": "Sutliff Cringle Flake 2024",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/214399/",
+              "url": "https://tinbids.com/auction/225927/",
               "price": "$50.00",
               "last_updated": "2026-08-10T04:00:26.623315+00:00",
               "first_seen": "2026-08-09T19:17:38+00:00",
@@ -109571,7 +109575,7 @@
             {
               "name": "Toscano Maestro Puccini Limited Edition 2oz",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/222856/",
+              "url": "https://tinbids.com/auction/225627/",
               "price": "$40.00",
               "last_updated": "2026-08-30T04:00:22.435289+00:00",
               "first_seen": "2026-08-12T16:21:40+00:00",
@@ -114621,6 +114625,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Esoterica Margate": "esoterica|margate",
     "Stonehaven 2018": "esoterica|stonehaven",
     "Very Nice Sealed 2018 Dunhill My Mixture 965 50g. Tin": "dunhill|mymixtureno965",
     "Excellent Sealed 2022 Mac Baren Virginia Flake 1.75oz. Tin": "macbaren|virginiaflake",
@@ -115820,7 +115825,6 @@
     "CAPTAIN BLACK (2021?) ORIGINAL Pipe Tobacco (STG / LANE) 12 OZ Sealed Can": "captainblack|original",
     "Vintage HEINE'S BLEND Smoking Tobacco, by SUTLIFF - 14oz Sealed White Can": "sutliff|heinesblend",
     "Vintage HICKORY Pipe Tobacco (1998) John Middleton's - 12oz Sealed Can": "johnmiddleton|hickory",
-    "Esoterica Margate": "esoterica|margate",
     "Davidoff Flake Medallions 2016": "davidoff|flakemedallions",
     "Very Nice Sealed Butera Pelican English-Oriental 2oz. Tin": "butera|pelican",
     "2014 Klondike Gold - 50g": "brigham|klondikegold",
