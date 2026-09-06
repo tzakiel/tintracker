@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-05T19:16:19.225537+00:00",
+  "generated": "2026-09-06T04:07:26.712114+00:00",
   "stats": {
-    "total_listings": 7089,
-    "excluded_multipacks": 2190,
+    "total_listings": 7114,
+    "excluded_multipacks": 2197,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3557,
@@ -23558,9 +23558,9 @@
             {
               "name": "Very Nice Sealed 2018 Dunhill My Mixture 965 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/215029/",
-              "price": "$20.99",
-              "last_updated": "2026-08-11T16:00:32.058211+00:00",
+              "url": "https://tinbids.com/auction/225660/",
+              "price": "$29.00",
+              "last_updated": "2026-09-06T04:00:24.064140+00:00",
               "first_seen": "2026-06-21T05:37:17.147469+00:00",
               "year": "2018",
               "price_history": [
@@ -23575,6 +23575,10 @@
                 {
                   "price": "$20.99",
                   "date": "2026-08-11T16:00:32.058211+00:00"
+                },
+                {
+                  "price": "$29.00",
+                  "date": "2026-09-06T04:00:24.064140+00:00"
                 }
               ]
             }
@@ -32916,15 +32920,19 @@
             {
               "name": "Stonehaven 2018",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/216097/",
-              "price": "$1150.00",
-              "last_updated": "2026-08-16T04:00:25.738353+00:00",
+              "url": "https://tinbids.com/auction/226553/",
+              "price": "$1231.00",
+              "last_updated": "2026-09-06T04:00:24.064140+00:00",
               "first_seen": "2026-08-16T01:01:31+00:00",
               "year": "2018",
               "price_history": [
                 {
                   "price": "$1150.00",
                   "date": "2026-08-16T01:01:31+00:00"
+                },
+                {
+                  "price": "$1231.00",
+                  "date": "2026-09-06T04:00:24.064140+00:00"
                 }
               ]
             },
@@ -65635,15 +65643,19 @@
             {
               "name": "Excellent Sealed 2022 Mac Baren Virginia Flake 1.75oz. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/209811/",
-              "price": "$33.24",
-              "last_updated": "2026-07-29T04:00:29.707112+00:00",
+              "url": "https://tinbids.com/auction/225690/",
+              "price": "$19.99",
+              "last_updated": "2026-09-06T04:00:24.064140+00:00",
               "first_seen": "2026-07-28T23:44:59+00:00",
               "year": "2022",
               "price_history": [
                 {
                   "price": "$33.24",
                   "date": "2026-07-28T23:44:59+00:00"
+                },
+                {
+                  "price": "$19.99",
+                  "date": "2026-09-06T04:00:24.064140+00:00"
                 }
               ]
             }
@@ -95775,6 +95787,25 @@
           "quantity": "",
           "members": [
             {
+              "name": "Samuel Gawith-Sam's Flake",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/224788/",
+              "price": "$46.00",
+              "last_updated": "2026-09-06T04:00:24.064140+00:00",
+              "first_seen": "2026-07-13T20:07:52+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$60.00",
+                  "date": "2026-07-13T20:07:52+00:00"
+                },
+                {
+                  "price": "$46.00",
+                  "date": "2026-09-06T04:00:24.064140+00:00"
+                }
+              ]
+            },
+            {
               "name": "Samuel Gawith Sam's Flake",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/216223/",
@@ -95786,21 +95817,6 @@
                 {
                   "price": "$22.50",
                   "date": "2026-08-16T18:08:28+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Samuel Gawith-Sam's Flake",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203500/",
-              "price": "$60.00",
-              "last_updated": "2026-07-14T04:00:50.482103+00:00",
-              "first_seen": "2026-07-13T20:07:52+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$60.00",
-                  "date": "2026-07-13T20:07:52+00:00"
                 }
               ]
             },
@@ -114557,6 +114573,10 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Stonehaven 2018": "esoterica|stonehaven",
+    "Very Nice Sealed 2018 Dunhill My Mixture 965 50g. Tin": "dunhill|mymixtureno965",
+    "Excellent Sealed 2022 Mac Baren Virginia Flake 1.75oz. Tin": "macbaren|virginiaflake",
+    "Samuel Gawith-Sam's Flake": "samuelgawith|samsflake",
     "2016 Esoterica Penzance - 8oz Sealed - NO RESERVE": "esoterica|penzance",
     "2020 SAMUEL GAWITH SAM'S FLAKE": "samuelgawith|samsflake",
     "McClelland 40th Anniversary - NR BIN $225": "mcclelland|40thanniversary",
@@ -114836,7 +114856,6 @@
     "Pelican 2020": "butera|pelican",
     "VTG SUTLIFF 515 RC-1 BULK TOBACCO 4oz /  SIMILAR TO MCCLELLAN 5100": "sutliff|515rc1",
     "2018 Mac Baren HH Pure Virginia 3.5 oz 100g – Aged 8 Years – Sealed Tin": "macbaren|hhpurevirginia",
-    "Stonehaven 2018": "esoterica|stonehaven",
     "Penzance 2017": "esoterica|penzance",
     "BROWN SUGAR FLAKE - Samuel Gawith - 2022": "samuelgawith|brownsugarflake",
     "Cobblestone Walnut Maple Pie (Discontinued) BIN": "cobblestone|walnutmaplepie",
@@ -114965,7 +114984,6 @@
     "Gawith Hoggarth American Delite 4th of July": "gawithhoggarthco|americandelight",
     "ANTHOLOGY 2023 by CORNELL & DIEHL": "cornelldiehl|anthology2023",
     "JANNEMAN FLAKE": "hutobacco|jannemanflake",
-    "Very Nice Sealed 2018 Dunhill My Mixture 965 50g. Tin": "dunhill|mymixtureno965",
     "Very Nice Sealed 2021 Hearth & Home Black House 50g. Tin": "hearthhome|blackhouse",
     "Very Nice Sealed 2019 Cornell & Diehl Small Batch Carolina Red Flake 2oz. Tin": "cornelldiehl|smallbatchcarolinaredflake",
     "Excellent Sealed HU Fayyum Special Kake Latakia 100g. Tin": "hutobacco|fayyumkake",
@@ -115377,7 +115395,6 @@
     "Esoterica Tobacciana Margate 8 oz": "esoterica|margate",
     "Excellent Sealed 2020 Ashton Artisan's Blend 50g. Tin": "ashton|artisansblend",
     "Excellent Sealed 2021 G. L. Pease Windjammer 2oz. Tin": "glpease|windjammer",
-    "Excellent Sealed 2022 Mac Baren Virginia Flake 1.75oz. Tin": "macbaren|virginiaflake",
     "Very Nice Sealed 2011 Hearth & Home Magnum Opus Marquee Series 50g. Tin": "hearthhome|magnumopus",
     "Excellent Sealed 2021 G.L. Pease Abingdon 2oz. Tin": "glpease|abingdon",
     "Very Nice Ravenwood Cross of Coronado 50g. Tin": "ravenwood|crossofcoronado",
@@ -115798,7 +115815,6 @@
     "2008 McClelland Royal Cajun Dark-50g": "mcclelland|royalcajundark",
     "C&D HighRoller": "cornelldiehl|highroller",
     "Cornell and Diehl Nutty Irishman": "cornelldiehl|nuttyirishman",
-    "Samuel Gawith-Sam's Flake": "samuelgawith|samsflake",
     "Esoterica - Stonehaven - 2oz": "esoterica|stonehaven",
     "Vintage 2014 - Orlik Golden Mixture - 50g": "orlik|goldenmixture",
     "Vintage 2014 - Orlik Club Mixture - 50g": "orlik|clubmixture",
