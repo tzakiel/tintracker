@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-06T19:16:16.967128+00:00",
+  "generated": "2026-09-07T04:09:17.037172+00:00",
   "stats": {
-    "total_listings": 7137,
-    "excluded_multipacks": 2198,
+    "total_listings": 7177,
+    "excluded_multipacks": 2201,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3557,
@@ -12359,15 +12359,19 @@
             {
               "name": "Midnight Orchard 2oz Pipe Tobacco",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/213746/",
-              "price": "$40.00",
-              "last_updated": "2026-08-10T16:00:29.779954+00:00",
+              "url": "https://tinbids.com/auction/225129/",
+              "price": "$45.00",
+              "last_updated": "2026-09-07T04:00:22.007870+00:00",
               "first_seen": "2026-08-10T15:00:32+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$40.00",
                   "date": "2026-08-10T15:00:32+00:00"
+                },
+                {
+                  "price": "$45.00",
+                  "date": "2026-09-07T04:00:22.007870+00:00"
                 }
               ]
             },
@@ -96939,7 +96943,7 @@
             {
               "name": "Samuel Gawith St. James Flake",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/196320/",
+              "url": "https://tinbids.com/auction/225292/",
               "price": "$40.00",
               "last_updated": "2026-06-25T16:00:26.745346+00:00",
               "first_seen": "2026-06-25T13:22:49+00:00",
@@ -114641,6 +114645,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Midnight Orchard 2oz Pipe Tobacco": "cornelldiehl|midnightorchard",
     "Esoterica Margate": "esoterica|margate",
     "Stonehaven 2018": "esoterica|stonehaven",
     "Very Nice Sealed 2018 Dunhill My Mixture 965 50g. Tin": "dunhill|mymixtureno965",
@@ -115096,7 +115101,6 @@
     "2002 McClelland Frog Morton - 1 Tin NR BIN $240": "mcclelland|frogmorton",
     "Maestro Puccini 2oz Pipe Tobacco": "toscano|maestropuccini",
     "Dan Tobacco Hamborger Veermaster 50g Pipe Tobacco": "dantobacco|hamborgerveermaster",
-    "Midnight Orchard 2oz Pipe Tobacco": "cornelldiehl|midnightorchard",
     "2015 Lane Limited Medal of Valor": "lanelimited|medalofhonor",
     "HU Janneman Flake 100g Pipe Tobacco": "hutobacco|jannemanflake",
     "2016 McClelland's Wilderness": "mcclelland|wilderness",
