@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-08T15:14:17.355846+00:00",
+  "generated": "2026-09-08T16:10:24.226328+00:00",
   "stats": {
-    "total_listings": 7217,
-    "excluded_multipacks": 2201,
+    "total_listings": 7226,
+    "excluded_multipacks": 2204,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3557,
@@ -24241,9 +24241,9 @@
             {
               "name": "Dunhill Ready Rubbed 2017 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/223044/",
-              "price": "$20.00",
-              "last_updated": "2026-09-01T16:00:28.872566+00:00",
+              "url": "https://tinbids.com/auction/225817/",
+              "price": "$28.00",
+              "last_updated": "2026-09-08T16:00:28.412810+00:00",
               "first_seen": "2026-06-30T04:21:19+00:00",
               "year": "2017",
               "price_history": [
@@ -24274,6 +24274,10 @@
                 {
                   "price": "$20.00",
                   "date": "2026-09-01T16:00:28.872566+00:00"
+                },
+                {
+                  "price": "$28.00",
+                  "date": "2026-09-08T16:00:28.412810+00:00"
                 }
               ]
             },
@@ -30841,9 +30845,9 @@
             {
               "name": "Esoterica - Pembroke - 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/221151/",
-              "price": "$95.00",
-              "last_updated": "2026-08-28T04:00:24.193818+00:00",
+              "url": "https://tinbids.com/auction/225900/",
+              "price": "$94.00",
+              "last_updated": "2026-09-08T16:00:28.412810+00:00",
               "first_seen": "2026-08-15T12:23:55+00:00",
               "year": "",
               "price_history": [
@@ -30854,6 +30858,10 @@
                 {
                   "price": "$95.00",
                   "date": "2026-08-28T04:00:24.193818+00:00"
+                },
+                {
+                  "price": "$94.00",
+                  "date": "2026-09-08T16:00:28.412810+00:00"
                 }
               ]
             }
@@ -67991,9 +67999,9 @@
             {
               "name": "McCLELLAND BALKAN BLUE",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/220914/",
-              "price": "$100.00",
-              "last_updated": "2026-08-26T04:00:21.405781+00:00",
+              "url": "https://tinbids.com/auction/227371/",
+              "price": "$102.00",
+              "last_updated": "2026-09-08T16:00:28.412810+00:00",
               "first_seen": "2026-07-13T23:47:58+00:00",
               "year": "",
               "price_history": [
@@ -68008,6 +68016,10 @@
                 {
                   "price": "$100.00",
                   "date": "2026-08-26T04:00:21.405781+00:00"
+                },
+                {
+                  "price": "$102.00",
+                  "date": "2026-09-08T16:00:28.412810+00:00"
                 }
               ]
             },
@@ -114805,6 +114817,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
+    "Esoterica - Pembroke - 50g": "esoterica|pembroke",
+    "McCLELLAND BALKAN BLUE": "mcclelland|balkanblue",
     "Esoterica Tobacciana Butera’s Margate 8 oz. Sealed Pipe Tobacco Germain & Son, UK": "esoterica|margate",
     "Midnight Orchard 2oz Pipe Tobacco": "cornelldiehl|midnightorchard",
     "Esoterica Margate": "esoterica|margate",
@@ -114819,7 +114834,6 @@
     "Ravenwood - Three Farthing Stone - 50g": "ravenwood|threefarthingstone",
     "Vintage 1980 - Robert McConnell's Original Red Virginia - 50g": "robertmcconnell|redvirginia",
     "Sutliff 526 Old Professor - ONE POUND": "sutliff|526oldprofessor",
-    "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
     "Wessex Brigade Campaign Dark Flake 50g / 1.75oz Unopened Tin Straight Virginia Tobacco": "wessex|brigadecampaigndarkflake",
     "2017 McClelland’s Christmas Cheer - 1 tin NR BIN $200": "mcclelland|christmascheer",
     "Cornell & Diehl Small Batch Sun Bear Navy Cask": "cornelldiehl|sunbearnavycask",
@@ -114847,7 +114861,6 @@
     "MacBaren HH Pure Virginia 2015 NR": "macbaren|hhpurevirginia",
     "MacBaren Virginia No. 1 2017 NR": "macbaren|virginiano1",
     "Gawith Best Brown Flake 2016 NR": "samuelgawith|bestbrownflake",
-    "Esoterica - Pembroke - 50g": "esoterica|pembroke",
     "Gawith Westmorland Mixture Pre-2009 NR": "samuelgawith|westmorlandmixture",
     "Gawith Bothy Flake 2016 NR": "samuelgawith|bothyflake",
     "Esoterica Margate 2oz Tin Released 2025": "esoterica|margate",
@@ -114857,7 +114870,6 @@
     "Esoterica - Margate - 50g": "esoterica|margate",
     "HH Vintage Syrian": "macbaren|hhvintagesyrian",
     "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
-    "McCLELLAND BALKAN BLUE": "mcclelland|balkanblue",
     "Esoterica - Pembroke - 4 oz. 2018": "esoterica|pembroke",
     "Jewel Of St James Genuine Louisiana Perique 1 OZ sealed jar": "jewelofstjames|perique",
     "Excellent Sealed 2016 Our Best Blend by Smokers Haven 2oz. Tin": "smokershaven|ourbestblend",
