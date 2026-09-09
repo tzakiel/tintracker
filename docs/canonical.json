@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-08T19:16:20.374495+00:00",
+  "generated": "2026-09-09T04:06:56.230916+00:00",
   "stats": {
-    "total_listings": 7226,
-    "excluded_multipacks": 2204,
+    "total_listings": 7244,
+    "excluded_multipacks": 2207,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3557,
@@ -21402,9 +21402,9 @@
             {
               "name": "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/221036/",
-              "price": "$75.67",
-              "last_updated": "2026-08-26T04:00:21.405781+00:00",
+              "url": "https://tinbids.com/auction/226963/",
+              "price": "$56.00",
+              "last_updated": "2026-09-09T04:00:23.817968+00:00",
               "first_seen": "2026-06-22T13:53:20.063064+00:00",
               "year": "2018",
               "price_history": [
@@ -21423,6 +21423,10 @@
                 {
                   "price": "$75.67",
                   "date": "2026-08-26T04:00:21.405781+00:00"
+                },
+                {
+                  "price": "$56.00",
+                  "date": "2026-09-09T04:00:23.817968+00:00"
                 }
               ]
             },
@@ -47502,15 +47506,19 @@
             {
               "name": "Very Nice Sealed 2021 Hearth & Home Black House 10 Year Anniversary 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/217835/",
-              "price": "$46.00",
-              "last_updated": "2026-08-18T04:00:24.255785+00:00",
+              "url": "https://tinbids.com/auction/226945/",
+              "price": "$34.00",
+              "last_updated": "2026-09-09T04:00:23.817968+00:00",
               "first_seen": "2026-08-17T21:29:13+00:00",
               "year": "2021",
               "price_history": [
                 {
                   "price": "$46.00",
                   "date": "2026-08-17T21:29:13+00:00"
+                },
+                {
+                  "price": "$34.00",
+                  "date": "2026-09-09T04:00:23.817968+00:00"
                 }
               ]
             },
@@ -83074,15 +83082,19 @@
             {
               "name": "Excellent Sealed 2023 Peter Heinrichs Dark Strong 100g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/209157/",
-              "price": "$62.00",
-              "last_updated": "2026-07-27T04:00:25.986860+00:00",
+              "url": "https://tinbids.com/auction/226989/",
+              "price": "$22.49",
+              "last_updated": "2026-09-09T04:00:23.817968+00:00",
               "first_seen": "2026-07-26T21:29:38+00:00",
               "year": "2023",
               "price_history": [
                 {
                   "price": "$62.00",
                   "date": "2026-07-26T21:29:38+00:00"
+                },
+                {
+                  "price": "$22.49",
+                  "date": "2026-09-09T04:00:23.817968+00:00"
                 }
               ]
             }
@@ -89458,9 +89470,9 @@
             {
               "name": "Excellent Sealed 2020 Reiner Golden Flake Gold Blend 71 100g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/219855/",
-              "price": "$102.00",
-              "last_updated": "2026-08-23T04:00:21.633690+00:00",
+              "url": "https://tinbids.com/auction/226959/",
+              "price": "$55.00",
+              "last_updated": "2026-09-09T04:00:23.817968+00:00",
               "first_seen": "2026-07-19T21:07:57+00:00",
               "year": "2020",
               "price_history": [
@@ -89475,6 +89487,10 @@
                 {
                   "price": "$102.00",
                   "date": "2026-08-23T04:00:21.633690+00:00"
+                },
+                {
+                  "price": "$55.00",
+                  "date": "2026-09-09T04:00:23.817968+00:00"
                 }
               ]
             }
@@ -112219,7 +112235,7 @@
             {
               "name": "Excellent Sealed 2019 Wellauer & Co. Latakia Mixture 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/223838/",
+              "url": "https://tinbids.com/auction/226956/",
               "price": "$19.99",
               "last_updated": "2026-09-01T04:00:21.992683+00:00",
               "first_seen": "2026-07-11T22:08:54+00:00",
@@ -114833,6 +114849,10 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
+    "Excellent Sealed 2020 Reiner Golden Flake Gold Blend 71 100g. Tin": "reiner|longgoldenflake",
+    "Very Nice Sealed 2021 Hearth & Home Black House 10 Year Anniversary 50g. Tin": "hearthhome|blackhouse10thanniversary",
+    "Excellent Sealed 2023 Peter Heinrichs Dark Strong 100g. Tin": "peterheinrichs|darkstrongflake",
     "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
     "Esoterica - Pembroke - 50g": "esoterica|pembroke",
     "McCLELLAND BALKAN BLUE": "mcclelland|balkanblue",
@@ -114885,7 +114905,6 @@
     "2016 Orlik Dark Strong Kentucky - 1 Tin NR BIN $70": "orlik|darkstrongkentucky",
     "Esoterica - Margate - 50g": "esoterica|margate",
     "HH Vintage Syrian": "macbaren|hhvintagesyrian",
-    "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
     "Esoterica - Pembroke - 4 oz. 2018": "esoterica|pembroke",
     "Jewel Of St James Genuine Louisiana Perique 1 OZ sealed jar": "jewelofstjames|perique",
     "Excellent Sealed 2016 Our Best Blend by Smokers Haven 2oz. Tin": "smokershaven|ourbestblend",
@@ -114908,7 +114927,6 @@
     "ORLIK GOLDEN SLICED from 2011 - AGED FOR 15 YEARS": "orlik|goldensliced",
     "Maestro Puccini - Limited Edition - Kentucky Fire Cured": "toscano|maestropuccini",
     "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
-    "Excellent Sealed 2020 Reiner Golden Flake Gold Blend 71 100g. Tin": "reiner|longgoldenflake",
     "Very Nice Sealed 2019 Schurch Onyx 50g. Tin": "schrch|onyx128",
     "Sutliff Cringle Flake 2020 (No Reserve)": "sutliff|cringleflake",
     "Very Nice Sealed 2016 Orlik Racing Green 50g. Tin": "orlik|racinggreen",
@@ -115051,7 +115069,6 @@
     "Peterson Irish Flake ~ Aged 10 Years 10 months": "peterson|irishflake",
     "17 Year Vintage ~ McClelland No. 5100 Red Cake. Jar/sealed 8ozo.+/-  May 2009.": "mcclelland|5100redcake",
     "17 Year+! ~Former Bird's Eye Flake. True Vintage.": "former|birdseyeflake",
-    "Very Nice Sealed 2021 Hearth & Home Black House 10 Year Anniversary 50g. Tin": "hearthhome|blackhouse10thanniversary",
     "Very Nice Sealed 2018 Mac Baren's Navy Flake 3.5oz. Tin": "macbaren|navyflake",
     "Excellent Sealed 2023 Mac Baren HH Pure Virginia 1.75oz. Tin": "macbaren|hhpurevirginia",
     "Excellent 2020 Cornell & Diehl Warped Series Until the End 2oz. Tin": "warped|untiltheend",
@@ -115700,7 +115717,6 @@
     "50g Of C&D's Opening Night From 2015!": "cornelldiehl|openingnight",
     "2oz. Cornell & Diehl Bijou from 2016": "cornelldiehl|bijou",
     "Excellent Sealed 2021 Balkan by Brebbia 50g. Tin": "brebbia|balkan",
-    "Excellent Sealed 2023 Peter Heinrichs Dark Strong 100g. Tin": "peterheinrichs|darkstrongflake",
     "Excellent Sealed 2021 C&D Small Batch Eight State Burley #5184/7500 2oz. Tin": "cornelldiehl|eightstateburley",
     "Very Nice Sealed 2020 Solani Aged burley Flake 50g. Tin": "solani|agedburleyflake656",
     "Excellent Sealed 2020 Carter Hall 14oz. Tobacco Tin": "johnmiddleton|carterhall",
