@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-09T15:14:20.470028+00:00",
+  "generated": "2026-09-09T16:08:40.351536+00:00",
   "stats": {
-    "total_listings": 7244,
-    "excluded_multipacks": 2207,
+    "total_listings": 7261,
+    "excluded_multipacks": 2212,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3557,
@@ -50618,9 +50618,9 @@
             {
               "name": "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/219839/",
-              "price": "$161.00",
-              "last_updated": "2026-08-23T04:00:21.633690+00:00",
+              "url": "https://tinbids.com/auction/227229/",
+              "price": "$150.00",
+              "last_updated": "2026-09-09T16:00:23.157000+00:00",
               "first_seen": "2026-06-29T23:23:52+00:00",
               "year": "2005",
               "price_history": [
@@ -50639,6 +50639,10 @@
                 {
                   "price": "$161.00",
                   "date": "2026-08-23T04:00:21.633690+00:00"
+                },
+                {
+                  "price": "$150.00",
+                  "date": "2026-09-09T16:00:23.157000+00:00"
                 }
               ]
             },
@@ -67252,9 +67256,9 @@
             {
               "name": "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/222930/",
-              "price": "$197.00",
-              "last_updated": "2026-08-30T04:00:22.435289+00:00",
+              "url": "https://tinbids.com/auction/226993/",
+              "price": "$230.92",
+              "last_updated": "2026-09-09T16:00:23.157000+00:00",
               "first_seen": "2026-07-11T22:13:59+00:00",
               "year": "2017",
               "price_history": [
@@ -67277,6 +67281,10 @@
                 {
                   "price": "$197.00",
                   "date": "2026-08-30T04:00:22.435289+00:00"
+                },
+                {
+                  "price": "$230.92",
+                  "date": "2026-09-09T16:00:23.157000+00:00"
                 }
               ]
             },
@@ -102801,15 +102809,19 @@
             {
               "name": "Bengal Slices",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/221720/",
-              "price": "$30.99",
-              "last_updated": "2026-08-29T16:00:25.139124+00:00",
+              "url": "https://tinbids.com/auction/226159/",
+              "price": "$29.99",
+              "last_updated": "2026-09-09T16:00:23.157000+00:00",
               "first_seen": "2026-08-29T15:16:57+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$30.99",
                   "date": "2026-08-29T15:16:57+00:00"
+                },
+                {
+                  "price": "$29.99",
+                  "date": "2026-09-09T16:00:23.157000+00:00"
                 }
               ]
             },
@@ -114921,6 +114933,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
+    "Bengal Slices": "sutliff|bengalslices",
+    "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
     "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
     "Excellent Sealed 2020 Reiner Golden Flake Gold Blend 71 100g. Tin": "reiner|longgoldenflake",
     "Very Nice Sealed 2021 Hearth & Home Black House 10 Year Anniversary 50g. Tin": "hearthhome|blackhouse10thanniversary",
@@ -114955,14 +114970,12 @@
     "Esoterica Tilbury 2oz Tin Released 2025": "esoterica|tilbury",
     "Esoterica Stonehaven 2016 | 8oz Bag | La Clave Collection": "esoterica|stonehaven",
     "2015 Mac Baren Bold Kentucky 3.5oz": "macbaren|hhboldkentucky",
-    "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
     "Excellent Sealed 2019 Wellauer & Co. Latakia 100g. Tin": "wellauerco|latakiamixture",
     "Germain's Medium Flake 50g tin 2018": "jfgermain|mediumflake",
     "Toscano Maestro Puccini Limited Edition 2oz": "toscano|maestropuccini",
     "Very Nice Sealed 2016 McClelland 3 Oaks With Syrian Latakia 50g. Tin": "mcclelland|3oakssyrian",
     "VINTAGE and RARE Flying Dutchman Aromatic (compromised seal) 10oz - NR": "theodorusniemeyer|flyingdutchman",
     "VINTAGE and RARE Dunhill Gold Blend (compromised seal) 2oz - NR": "dunhill|goldblend",
-    "Bengal Slices": "sutliff|bengalslices",
     "Collectible James Fox “The Provost Mixture” 50g Sealed Pipe Tobacco": "jamesjfox|provostmixture",
     "Fox Dorisco Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|doriscomixture",
     "2014 SAMUEL GAWITH PERFECTION 2 oz jarred": "samuelgawith|perfection",
@@ -114998,7 +115011,6 @@
     "(2020) Rattray’s Marlin Flake 100g Tin": "rattrays|marlinflake",
     "ORLIK GOLDEN SLICED from 2011 - AGED FOR 15 YEARS": "orlik|goldensliced",
     "Maestro Puccini - Limited Edition - Kentucky Fire Cured": "toscano|maestropuccini",
-    "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
     "Very Nice Sealed 2019 Schurch Onyx 50g. Tin": "schrch|onyx128",
     "Sutliff Cringle Flake 2020 (No Reserve)": "sutliff|cringleflake",
     "Very Nice Sealed 2016 Orlik Racing Green 50g. Tin": "orlik|racinggreen",
