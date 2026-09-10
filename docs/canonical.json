@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-10T15:14:18.682236+00:00",
+  "generated": "2026-09-10T16:10:33.491110+00:00",
   "stats": {
-    "total_listings": 7325,
-    "excluded_multipacks": 2218,
+    "total_listings": 7359,
+    "excluded_multipacks": 2228,
     "total_tins": 1315,
     "multi_member_tins": 671,
-    "listings_in_groups": 3557,
+    "listings_in_groups": 3558,
     "cross_source_tins": 508
   },
   "tins": [
@@ -53129,6 +53129,21 @@
             },
             {
               "name": "Germain’s Special Latakia Flake 2015",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/227508/",
+              "price": "$365.00",
+              "last_updated": "2026-09-10T16:00:22.280094+00:00",
+              "first_seen": "2026-09-10T12:50:22+00:00",
+              "year": "2015",
+              "price_history": [
+                {
+                  "price": "$365.00",
+                  "date": "2026-09-10T12:50:22+00:00"
+                }
+              ]
+            },
+            {
+              "name": "Germain’s Special Latakia Flake 2015",
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/cellar-clean-out-esoterica-mcc-artisan-pipes-etc-price-drop-new-tins.42207/",
               "price": "$90",
@@ -89019,6 +89034,29 @@
           "quantity": "50g",
           "members": [
             {
+              "name": "Ravenwood - Frog Morton's Chalet - 50g",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/226773/",
+              "price": "$50.00",
+              "last_updated": "2026-09-10T16:00:22.280094+00:00",
+              "first_seen": "2026-07-13T20:05:21+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$50.00",
+                  "date": "2026-07-13T20:05:21+00:00"
+                },
+                {
+                  "price": "$55.00",
+                  "date": "2026-07-28T16:00:25.898435+00:00"
+                },
+                {
+                  "price": "$50.00",
+                  "date": "2026-09-10T16:00:22.280094+00:00"
+                }
+              ]
+            },
+            {
               "name": "Ravenwood Frog Morton’s Chelet 50g",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/219767/",
@@ -89030,25 +89068,6 @@
                 {
                   "price": "$50.00",
                   "date": "2026-08-10T17:47:04+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Ravenwood - Frog Morton's Chalet - 50g",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/208924/",
-              "price": "$55.00",
-              "last_updated": "2026-07-28T16:00:25.898435+00:00",
-              "first_seen": "2026-07-13T20:05:21+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$50.00",
-                  "date": "2026-07-13T20:05:21+00:00"
-                },
-                {
-                  "price": "$55.00",
-                  "date": "2026-07-28T16:00:25.898435+00:00"
                 }
               ]
             },
@@ -115025,6 +115044,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Ravenwood - Frog Morton's Chalet - 50g": "ravenwood|frogmortonschalet",
+    "Germain’s Special Latakia Flake 2015": "jfgermain|speciallatakiaflake",
     "Maestro Puccini 2oz Pipe Tobacco / Buy It Now $65": "toscano|maestropuccini",
     "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
     "Bengal Slices": "sutliff|bengalslices",
@@ -115854,7 +115875,6 @@
     "Excellent Sealed 2021 G.L. Pease Abingdon 2oz. Tin": "glpease|abingdon",
     "Very Nice Ravenwood Cross of Coronado 50g. Tin": "ravenwood|crossofcoronado",
     "Excellent Sealed 2020 Mac Baren's Stockton Spun Cut Limited Edition No. 1475 100g. Tin": "macbaren|stocktonspuncut",
-    "Ravenwood - Frog Morton's Chalet - 50g": "ravenwood|frogmortonschalet",
     "2015 Esoterica Margate - 8 oz bag": "esoterica|margate",
     "C&D 2023 CRF with Perique": "cornelldiehl|carolinaredflakewithperique",
     "Hearth & Home 2021 Black House Anniversary Tin": "hearthhome|blackhouse10thanniversary",
@@ -118490,7 +118510,6 @@
     "Esoterica Stonehaven 2015": "esoterica|stonehaven",
     "Esoterica And So To Bed 2015": "esoterica|andsotobed",
     "Esoterica Margate 2015": "esoterica|margate",
-    "Germain’s Special Latakia Flake 2015": "jfgermain|speciallatakiaflake",
     "McClelland’s Christmas Cheer 2013": "mcclelland|christmascheer",
     "McClelland’s Blakeney’s Best Tawny Flake 2006": "mcclelland|blakeneysbesttawnyflake",
     "McClelland’s Arcade 2009": "mcclelland|arcade",
