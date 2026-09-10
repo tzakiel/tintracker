@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-09T19:16:19.999507+00:00",
+  "generated": "2026-09-10T04:07:09.275945+00:00",
   "stats": {
-    "total_listings": 7261,
-    "excluded_multipacks": 2212,
+    "total_listings": 7295,
+    "excluded_multipacks": 2218,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3557,
@@ -109897,6 +109897,25 @@
           "quantity": "2oz",
           "members": [
             {
+              "name": "Maestro Puccini 2oz Pipe Tobacco / Buy It Now $65",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/226400/",
+              "price": "$50.00",
+              "last_updated": "2026-09-10T04:00:23.037843+00:00",
+              "first_seen": "2026-08-13T15:33:05+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$65.00",
+                  "date": "2026-08-13T15:33:05+00:00"
+                },
+                {
+                  "price": "$50.00",
+                  "date": "2026-09-10T04:00:23.037843+00:00"
+                }
+              ]
+            },
+            {
               "name": "Toscano Maestro Puccini Limited Edition 2oz",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/225627/",
@@ -109912,21 +109931,6 @@
                 {
                   "price": "$40.00",
                   "date": "2026-08-30T04:00:22.435289+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Maestro Puccini 2oz Pipe Tobacco / Buy It Now $65",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/215045/",
-              "price": "$65.00",
-              "last_updated": "2026-08-13T16:00:25.204268+00:00",
-              "first_seen": "2026-08-13T15:33:05+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$65.00",
-                  "date": "2026-08-13T15:33:05+00:00"
                 }
               ]
             },
@@ -114949,6 +114953,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Maestro Puccini 2oz Pipe Tobacco / Buy It Now $65": "toscano|maestropuccini",
     "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
     "Bengal Slices": "sutliff|bengalslices",
     "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
@@ -115316,7 +115321,6 @@
     "2017 McClelland’s Frog Morton Cellar - 1 BIN NR $175": "mcclelland|frogmortonscellar",
     "Gawith and Hoggarth-No.25 Mixture 500g": "gawithhoggarthco|no25mixture",
     "From Beyond by Cornell & Diehl Limited Release!  BIN Available!": "cornelldiehl|frombeyond",
-    "Maestro Puccini 2oz Pipe Tobacco / Buy It Now $65": "toscano|maestropuccini",
     "Mac Baren HH Rustica 2024.  2oz": "macbaren|hhrustica",
     "2017 CORNELL & DIEHL BILLY BUDD approx. 2.2 ounces": "cornelldiehl|billybudd",
     "SYRIAN! 2018 Ashton Artisan's Blend 50g": "ashton|artisansblend",
