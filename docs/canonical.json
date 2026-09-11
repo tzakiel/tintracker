@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-11T15:14:17.898958+00:00",
+  "generated": "2026-09-11T16:08:05.173434+00:00",
   "stats": {
-    "total_listings": 7382,
-    "excluded_multipacks": 2230,
+    "total_listings": 7387,
+    "excluded_multipacks": 2231,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3558,
@@ -11396,9 +11396,9 @@
             {
               "name": "Collectible Tobacco Sealed Tin Cornell & Diehl “From Beyond” Mixture 2 oz’s from 2025",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/202602/",
-              "price": "$10.74",
-              "last_updated": "2026-07-12T04:00:50.529539+00:00",
+              "url": "https://tinbids.com/auction/226833/",
+              "price": "$19.00",
+              "last_updated": "2026-09-11T16:00:24.408260+00:00",
               "first_seen": "2026-06-22T16:00:41.686877+00:00",
               "year": "2025",
               "price_history": [
@@ -11409,6 +11409,10 @@
                 {
                   "price": "$10.74",
                   "date": "2026-07-12T04:00:50.529539+00:00"
+                },
+                {
+                  "price": "$19.00",
+                  "date": "2026-09-11T16:00:24.408260+00:00"
                 }
               ]
             }
@@ -92979,9 +92983,9 @@
             {
               "name": "Gawith Bothy Flake 2016 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/221170/",
-              "price": "$31.00",
-              "last_updated": "2026-08-28T04:00:24.193818+00:00",
+              "url": "https://tinbids.com/auction/227068/",
+              "price": "$30.00",
+              "last_updated": "2026-09-11T16:00:24.408260+00:00",
               "first_seen": "2026-07-10T04:19:48+00:00",
               "year": "2016",
               "price_history": [
@@ -92992,6 +92996,10 @@
                 {
                   "price": "$31.00",
                   "date": "2026-08-28T04:00:24.193818+00:00"
+                },
+                {
+                  "price": "$30.00",
+                  "date": "2026-09-11T16:00:24.408260+00:00"
                 }
               ]
             },
@@ -115160,6 +115168,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Gawith Bothy Flake 2016 NR": "samuelgawith|bothyflake",
+    "Collectible Tobacco Sealed Tin Cornell & Diehl “From Beyond” Mixture 2 oz’s from 2025": "cornelldiehl|frombeyond",
     "Bengal Slices": "sutliff|bengalslices",
     "Collectible Samuel Gawith Bob’s Chocolate Flake 50gm Sealed Pipe Tobacco Tin ‘24": "gawithhoggarthco|bobschocolateflake",
     "Original Navy Cut Capstan Ready Rubbed Blend Pipe Tobacco in 2024 1.75 oz’s Sealed Tin": "macbaren|capstanoriginalflake",
@@ -115217,7 +115227,6 @@
     "MacBaren Virginia No. 1 2017 NR": "macbaren|virginiano1",
     "Gawith Best Brown Flake 2016 NR": "samuelgawith|bestbrownflake",
     "Gawith Westmorland Mixture Pre-2009 NR": "samuelgawith|westmorlandmixture",
-    "Gawith Bothy Flake 2016 NR": "samuelgawith|bothyflake",
     "Esoterica Margate 2oz Tin Released 2025": "esoterica|margate",
     "Esoterica Dorchester 2oz Tin Released 2025": "esoterica|dorchester",
     "Peterson’s Dunhill My Mixture 965 1.76 oz’s Pipe Tobacco Tin Made in England (United Kingdon)": "dunhill|mymixtureno965",
@@ -116458,7 +116467,6 @@
     "Samuel Gawith - Full Virginia Mixture": "samuelgawith|fullvirginiamixture",
     "Collectible Tobacco Sealed Tin Cornell & Diehl Fires on the Levee Mixture 2 oz’s from 2025": "cornelldiehl|firesonthelevee",
     "Collectible Tobacco Sealed Tin Cornell & Diehl Firebird Flake 2 oz’s from 2024": "cornelldiehl|firebirdflake",
-    "Collectible Tobacco Sealed Tin Cornell & Diehl “From Beyond” Mixture 2 oz’s from 2025": "cornelldiehl|frombeyond",
     "2oz tin from Sep, 2021 of Cornell and Diehl's Small-Batch Carolina Red Flake w/Perique. 11,697/15,000": "cornelldiehl|carolinaredflakewithperique",
     "Balkan Sobranie": "jfgermain|balkansobranie",
     "Cobblestone Indulge - Walnut Maple Pie - 50g": "cobblestone|walnutmaplepie",
