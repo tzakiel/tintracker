@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-11T19:16:16.534999+00:00",
+  "generated": "2026-09-12T04:09:48.955806+00:00",
   "stats": {
-    "total_listings": 7387,
-    "excluded_multipacks": 2231,
+    "total_listings": 7419,
+    "excluded_multipacks": 2245,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3558,
@@ -33627,9 +33627,9 @@
             {
               "name": "2016 Esoterica Tilbury - 8 oz bag",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/222830/",
-              "price": "$425.00",
-              "last_updated": "2026-09-01T04:00:21.992683+00:00",
+              "url": "https://tinbids.com/auction/227446/",
+              "price": "$475.00",
+              "last_updated": "2026-09-12T04:00:24.612507+00:00",
               "first_seen": "2026-08-05T00:33:32+00:00",
               "year": "2016",
               "price_history": [
@@ -33640,6 +33640,10 @@
                 {
                   "price": "$425.00",
                   "date": "2026-09-01T04:00:21.992683+00:00"
+                },
+                {
+                  "price": "$475.00",
+                  "date": "2026-09-12T04:00:24.612507+00:00"
                 }
               ]
             },
@@ -103984,7 +103988,7 @@
             {
               "name": "Sutliff Cringle Flake 2020 (No Reserve)",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/219877/",
+              "url": "https://tinbids.com/auction/228029/",
               "price": "$50.00",
               "last_updated": "2026-08-23T04:00:21.633690+00:00",
               "first_seen": "2026-07-03T22:49:21+00:00",
@@ -104106,6 +104110,25 @@
               ]
             },
             {
+              "name": "Sutliff Cringle Flake 2021 (No Reserve)",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/228030/",
+              "price": "$50.00",
+              "last_updated": "2026-09-12T04:00:24.612507+00:00",
+              "first_seen": "2026-07-15T22:26:26+00:00",
+              "year": "2021",
+              "price_history": [
+                {
+                  "price": "$40.00",
+                  "date": "2026-07-15T22:26:26+00:00"
+                },
+                {
+                  "price": "$50.00",
+                  "date": "2026-09-12T04:00:24.612507+00:00"
+                }
+              ]
+            },
+            {
               "name": "(2021) Sutliff Cringle Flake",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/207439/",
@@ -104117,21 +104140,6 @@
                 {
                   "price": "$40.00",
                   "date": "2026-07-20T01:19:31+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Sutliff Cringle Flake 2021 (No Reserve)",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/214390/",
-              "price": "$40.00",
-              "last_updated": "2026-07-16T04:00:47.048591+00:00",
-              "first_seen": "2026-07-15T22:26:26+00:00",
-              "year": "2021",
-              "price_history": [
-                {
-                  "price": "$40.00",
-                  "date": "2026-07-15T22:26:26+00:00"
                 }
               ]
             },
@@ -115184,6 +115192,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "2016 Esoterica Tilbury - 8 oz bag": "esoterica|tilbury",
+    "Sutliff Cringle Flake 2021 (No Reserve)": "sutliff|cringleflake",
     "Gawith Bothy Flake 2016 NR": "samuelgawith|bothyflake",
     "Collectible Tobacco Sealed Tin Cornell & Diehl “From Beyond” Mixture 2 oz’s from 2025": "cornelldiehl|frombeyond",
     "Bengal Slices": "sutliff|bengalslices",
@@ -115223,7 +115233,6 @@
     "Very Nice Sealed Butera Pelican English/Oriental 2 oz. Tin": "butera|pelican",
     "2014 Esoterica Penzance - 8 oz bag": "esoterica|penzance",
     "Samuel Gawith Full Virginia Flake - 250g Vintage Box (2018)": "samuelgawith|fullvirginiaflake",
-    "2016 Esoterica Tilbury - 8 oz bag": "esoterica|tilbury",
     "2020 Esoterica Brighton - 8 oz bag": "esoterica|brighton",
     "Excellent Sealed 2019 Wellauer & Co. Latakia Mixture 50g. Tin": "wellauerco|latakiamixture",
     "2020 Esoterica Cardiff - 8 oz bag": "esoterica|cardiff",
@@ -116377,7 +116386,6 @@
     "McClelland No. 2015 pre 2010 aged 2 oz.": "mcclelland|2015virginiaperiqueflake",
     "19 Years Vintage - Orlik Golden Sliced (50g. Red Painted Tin)": "orlik|goldensliced",
     "Dunhill Three Year Matured Virginia 50 gm 2017 Discontinued": "dunhill|threeyearsmaturedvirginia",
-    "Sutliff Cringle Flake 2021 (No Reserve)": "sutliff|cringleflake",
     "Cobblestone - High Spirits - Whiskey (Out of Production)": "cobblestone|whiskey",
     "Hearth & Home - Fusilier's Ration - 50g (Out of Production)": "hearthhome|fusiliersration",
     "Vintage - 2016 Dunhill Ready Rubbed - 50g": "dunhill|readyrubbed",
