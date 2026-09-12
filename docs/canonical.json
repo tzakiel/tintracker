@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-12T15:14:14.803158+00:00",
+  "generated": "2026-09-12T16:09:16.535372+00:00",
   "stats": {
-    "total_listings": 7434,
-    "excluded_multipacks": 2245,
+    "total_listings": 7449,
+    "excluded_multipacks": 2249,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3558,
@@ -104422,6 +104422,25 @@
               ]
             },
             {
+              "name": "Discontinued, Sutliff Cringle Flake 2023",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/228032/",
+              "price": "$58.00",
+              "last_updated": "2026-09-12T16:00:21.248280+00:00",
+              "first_seen": "2026-07-21T09:22:24+00:00",
+              "year": "2023",
+              "price_history": [
+                {
+                  "price": "$40.00",
+                  "date": "2026-07-21T09:22:24+00:00"
+                },
+                {
+                  "price": "$58.00",
+                  "date": "2026-09-12T16:00:21.248280+00:00"
+                }
+              ]
+            },
+            {
               "name": "Cringle Flake 2023 (12 year old Virginias & 22 Year Old Perique)",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/206814/",
@@ -104433,21 +104452,6 @@
                 {
                   "price": "$69.96",
                   "date": "2026-07-22T00:04:47+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Discontinued, Sutliff Cringle Flake 2023",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/207123/",
-              "price": "$40.00",
-              "last_updated": "2026-07-21T16:00:30.805284+00:00",
-              "first_seen": "2026-07-21T09:22:24+00:00",
-              "year": "2023",
-              "price_history": [
-                {
-                  "price": "$40.00",
-                  "date": "2026-07-21T09:22:24+00:00"
                 }
               ]
             },
@@ -104469,15 +104473,19 @@
             {
               "name": "Sutliff Cringle Flake 2024",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/225927/",
-              "price": "$50.00",
-              "last_updated": "2026-08-10T04:00:26.623315+00:00",
+              "url": "https://tinbids.com/auction/228033/",
+              "price": "$69.00",
+              "last_updated": "2026-09-12T16:00:21.248280+00:00",
               "first_seen": "2026-08-09T19:17:38+00:00",
               "year": "2024",
               "price_history": [
                 {
                   "price": "$50.00",
                   "date": "2026-08-09T19:17:38+00:00"
+                },
+                {
+                  "price": "$69.00",
+                  "date": "2026-09-12T16:00:21.248280+00:00"
                 }
               ]
             },
@@ -115264,6 +115272,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Sutliff Cringle Flake 2024": "sutliff|cringleflake",
+    "Discontinued, Sutliff Cringle Flake 2023": "sutliff|cringleflake",
     "2016 Esoterica Tilbury - 8 oz bag": "esoterica|tilbury",
     "Sutliff Cringle Flake 2021 (No Reserve)": "sutliff|cringleflake",
     "Gawith Bothy Flake 2016 NR": "samuelgawith|bothyflake",
@@ -115739,7 +115749,6 @@
     "McClelland's 221b Series ARCADIA 2003 50g": "mcclelland|221barcadia",
     "McClelland's Oriental Mixture No. 8 1999 50g": "mcclelland|orientalmixtureno8",
     "Sutliff, Cringle Flake 2019, NO RESERVE": "sutliff|cringleflake",
-    "Sutliff Cringle Flake 2024": "sutliff|cringleflake",
     "50g Lane Limited 125th Anniversary From 2015": "lanelimited|125thanniversary",
     "50g Lane Limited Crown Achievement From 2015": "lanelimited|crownachievement",
     "Sutliff Crumble Kake Va Perique (Discontinued) Excellent VaPer Blend!!": "sutliff|crumblekakevirginiaperique",
@@ -116264,7 +116273,6 @@
     "'25 Reserve XXV Dusk": "cornelldiehl|xxvdusk",
     "Mac Baren HH Rustica 2oz": "macbaren|hhrustica",
     "Seattle Pipe Club Hogshead 4oz (Discontinued Sutliff Version!!!)": "sutliff|spchogshead",
-    "Discontinued, Sutliff Cringle Flake 2023": "sutliff|cringleflake",
     "2018 Esoterica Woodbridge 8oz Bag": "esoterica|woodbridge",
     "2019 Esoterica Dunbar 8oz Bag": "esoterica|dunbar",
     "Esoterica Margate Best Full English Pipe Tobacco 2 oz - New Sealed": "esoterica|margate",
