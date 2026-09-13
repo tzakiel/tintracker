@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-12T19:16:27.605475+00:00",
+  "generated": "2026-09-13T04:07:16.899797+00:00",
   "stats": {
-    "total_listings": 7538,
+    "total_listings": 7567,
     "excluded_multipacks": 2256,
     "total_tins": 1315,
     "multi_member_tins": 671,
@@ -30804,9 +30804,9 @@
             {
               "name": "Esoterica Margate",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/226647/",
-              "price": "$330.00",
-              "last_updated": "2026-09-06T16:00:23.036865+00:00",
+              "url": "https://tinbids.com/auction/227811/",
+              "price": "$73.00",
+              "last_updated": "2026-09-13T04:00:23.967538+00:00",
               "first_seen": "2026-07-16T02:57:15+00:00",
               "year": "",
               "price_history": [
@@ -30817,6 +30817,10 @@
                 {
                   "price": "$330.00",
                   "date": "2026-09-06T16:00:23.036865+00:00"
+                },
+                {
+                  "price": "$73.00",
+                  "date": "2026-09-13T04:00:23.967538+00:00"
                 }
               ]
             },
@@ -32280,15 +32284,19 @@
             {
               "name": "Penzance 2017",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/216102/",
-              "price": "$1200.00",
-              "last_updated": "2026-08-16T04:00:25.738353+00:00",
+              "url": "https://tinbids.com/auction/227858/",
+              "price": "$305.00",
+              "last_updated": "2026-09-13T04:00:23.967538+00:00",
               "first_seen": "2026-08-16T01:08:32+00:00",
               "year": "2017",
               "price_history": [
                 {
                   "price": "$1200.00",
                   "date": "2026-08-16T01:08:32+00:00"
+                },
+                {
+                  "price": "$305.00",
+                  "date": "2026-09-13T04:00:23.967538+00:00"
                 }
               ]
             }
@@ -33416,9 +33424,9 @@
             {
               "name": "Stonehaven 2018",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/226553/",
-              "price": "$1231.00",
-              "last_updated": "2026-09-06T04:00:24.064140+00:00",
+              "url": "https://tinbids.com/auction/227839/",
+              "price": "$1310.00",
+              "last_updated": "2026-09-13T04:00:23.967538+00:00",
               "first_seen": "2026-08-16T01:01:31+00:00",
               "year": "2018",
               "price_history": [
@@ -33429,6 +33437,10 @@
                 {
                   "price": "$1231.00",
                   "date": "2026-09-06T04:00:24.064140+00:00"
+                },
+                {
+                  "price": "$1310.00",
+                  "date": "2026-09-13T04:00:23.967538+00:00"
                 }
               ]
             },
@@ -115304,6 +115316,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Esoterica Margate": "esoterica|margate",
+    "Stonehaven 2018": "esoterica|stonehaven",
+    "Penzance 2017": "esoterica|penzance",
     "Sutliff Cringle Flake 2024": "sutliff|cringleflake",
     "Discontinued, Sutliff Cringle Flake 2023": "sutliff|cringleflake",
     "2016 Esoterica Tilbury - 8 oz bag": "esoterica|tilbury",
@@ -115330,8 +115345,6 @@
     "McCLELLAND BALKAN BLUE": "mcclelland|balkanblue",
     "Esoterica Tobacciana Butera’s Margate 8 oz. Sealed Pipe Tobacco Germain & Son, UK": "esoterica|margate",
     "Midnight Orchard 2oz Pipe Tobacco": "cornelldiehl|midnightorchard",
-    "Esoterica Margate": "esoterica|margate",
-    "Stonehaven 2018": "esoterica|stonehaven",
     "Very Nice Sealed 2018 Dunhill My Mixture 965 50g. Tin": "dunhill|mymixtureno965",
     "Excellent Sealed 2022 Mac Baren Virginia Flake 1.75oz. Tin": "macbaren|virginiaflake",
     "Samuel Gawith-Sam's Flake": "samuelgawith|samsflake",
@@ -115602,7 +115615,6 @@
     "Pelican 2020": "butera|pelican",
     "VTG SUTLIFF 515 RC-1 BULK TOBACCO 4oz /  SIMILAR TO MCCLELLAN 5100": "sutliff|515rc1",
     "2018 Mac Baren HH Pure Virginia 3.5 oz 100g – Aged 8 Years – Sealed Tin": "macbaren|hhpurevirginia",
-    "Penzance 2017": "esoterica|penzance",
     "BROWN SUGAR FLAKE - Samuel Gawith - 2022": "samuelgawith|brownsugarflake",
     "Cobblestone Walnut Maple Pie (Discontinued) BIN": "cobblestone|walnutmaplepie",
     "Sutliff Crumble Kake Red Virginia (Discontinued) BIN!!": "sutliff|crumblekakeredvirginias",
