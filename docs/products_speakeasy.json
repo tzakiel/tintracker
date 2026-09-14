@@ -53116,7 +53116,7 @@
       "tag": "WTS"
     }
   ],
-  "last_scraped": "2026-09-13T06:38:16.513036+00:00",
+  "last_scraped": "2026-09-14T06:38:14.067749+00:00",
   "latest_scrape": [
     {
       "name": "I am asking",
@@ -55201,6 +55201,13 @@
       "added": 0,
       "price_changed": 0,
       "total": 2722
+    },
+    {
+      "date": "2026-09-14T06:38:14.067749+00:00",
+      "found": 14,
+      "added": 0,
+      "price_changed": 0,
+      "total": 2722
     }
   ],
   "thread_recheck": {
@@ -55222,7 +55229,8 @@
     "https://speak-easy.club/threads/jjb224s-cellar-fire-sale-sold.45179/unread": "2026-09-24T06:38:18.058315+00:00",
     "https://speak-easy.club/threads/dunhill-pipes.45181/unread": "2026-09-24T06:38:18.058315+00:00",
     "https://speak-easy.club/threads/dunhill-pipes-lowered.45181/unread": "2026-09-25T06:38:16.157776+00:00",
-    "https://speak-easy.club/threads/meelaads-mega-pipe-sale-esoterica-freebie-castello-boswell-ser-jacopo-peder-jeppesen-savinelli-autograph-vauen-the-french-pipe-bones.45200/unread": "2026-09-26T06:38:15.113846+00:00"
+    "https://speak-easy.club/threads/meelaads-mega-pipe-sale-esoterica-freebie-castello-boswell-ser-jacopo-peder-jeppesen-savinelli-autograph-vauen-the-french-pipe-bones.45200/unread": "2026-09-26T06:38:15.113846+00:00",
+    "https://speak-easy.club/threads/penzance-trade-for-insert-list.45166/unread": "2026-09-28T06:38:14.067749+00:00"
   },
   "thread_recheck_tags": {
     "https://speak-easy.club/threads/brigham-and-peterson.44723/unread": "WTS",
@@ -56109,6 +56117,7 @@
     "https://speak-easy.club/threads/jjb224s-cellar-fire-sale-sold.45179/unread": "WTS",
     "https://speak-easy.club/threads/dunhill-pipes.45181/unread": "WTS",
     "https://speak-easy.club/threads/dunhill-pipes-lowered.45181/unread": "WTS",
-    "https://speak-easy.club/threads/meelaads-mega-pipe-sale-esoterica-freebie-castello-boswell-ser-jacopo-peder-jeppesen-savinelli-autograph-vauen-the-french-pipe-bones.45200/unread": "WTS"
+    "https://speak-easy.club/threads/meelaads-mega-pipe-sale-esoterica-freebie-castello-boswell-ser-jacopo-peder-jeppesen-savinelli-autograph-vauen-the-french-pipe-bones.45200/unread": "WTS",
+    "https://speak-easy.club/threads/penzance-trade-for-insert-list.45166/unread": "SOLD"
   }
 }
