@@ -53116,23 +53116,8 @@
       "tag": "WTS"
     }
   ],
-  "last_scraped": "2026-09-14T06:38:14.067749+00:00",
+  "last_scraped": "2026-09-15T06:38:16.948375+00:00",
   "latest_scrape": [
-    {
-      "name": "I am asking",
-      "price": "$12",
-      "url": "https://speak-easy.club/threads/wts-ennerdale-and-firedance-flake.45126/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-04-04T02:11:10+00:00",
-      "last_updated": "2026-06-24T02:02:09.029335+00:00",
-      "price_history": [
-        {
-          "price": "$12",
-          "date": "2026-06-24T02:02:09.029335+00:00"
-        }
-      ],
-      "tag": "WTS"
-    },
     {
       "name": "Again, I hate to sell this one. After many years of keeping my PAD under control, I went on a little pipe spending spree, to the tune of over",
       "price": "$1000",
@@ -55208,12 +55193,16 @@
       "added": 0,
       "price_changed": 0,
       "total": 2722
+    },
+    {
+      "date": "2026-09-15T06:38:16.948375+00:00",
+      "found": 13,
+      "added": 0,
+      "price_changed": 0,
+      "total": 2722
     }
   ],
   "thread_recheck": {
-    "https://speak-easy.club/threads/peterson-standard-314.45119/unread": "2026-09-14T06:38:20.542803+00:00",
-    "https://speak-easy.club/threads/peterson-standard-system-303.45118/unread": "2026-09-14T06:38:20.542803+00:00",
-    "https://speak-easy.club/threads/wts-ennerdale-and-firedance-flake.45126/unread": "2026-09-15T06:38:16.069988+00:00",
     "https://speak-easy.club/threads/four-pipes-for-sale-because-apparently-i-need-to-pretend-i-have-self-control.45136/unread": "2026-09-16T06:38:25.563596+00:00",
     "https://speak-easy.club/threads/esoterica-pembroke-and-dorchester-8oz.45146/unread": "2026-09-18T06:38:14.267702+00:00",
     "https://speak-easy.club/threads/altinay-oom-paul-xl-lattice-meer-pub-pipe.45147/unread": "2026-09-18T06:38:14.267702+00:00",
