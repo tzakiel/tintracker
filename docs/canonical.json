@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-14T19:16:18.361924+00:00",
+  "generated": "2026-09-15T04:06:48.327431+00:00",
   "stats": {
-    "total_listings": 7621,
-    "excluded_multipacks": 2261,
+    "total_listings": 7643,
+    "excluded_multipacks": 2270,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3558,
@@ -28118,9 +28118,9 @@
             {
               "name": "2020 Esoterica Cardiff - 8 oz bag",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/222806/",
-              "price": "$465.00",
-              "last_updated": "2026-09-01T04:00:21.992683+00:00",
+              "url": "https://tinbids.com/auction/227447/",
+              "price": "$500.00",
+              "last_updated": "2026-09-15T04:00:32.620430+00:00",
               "first_seen": "2026-07-28T04:25:56+00:00",
               "year": "2020",
               "price_history": [
@@ -28131,6 +28131,10 @@
                 {
                   "price": "$465.00",
                   "date": "2026-09-01T04:00:21.992683+00:00"
+                },
+                {
+                  "price": "$500.00",
+                  "date": "2026-09-15T04:00:32.620430+00:00"
                 }
               ]
             }
@@ -53808,9 +53812,9 @@
             {
               "name": "Fox Dorisco Smoking English Mixture Sealed 50g Pipe Tobacco Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/221582/",
-              "price": "$18.00",
-              "last_updated": "2026-08-29T04:00:23.119830+00:00",
+              "url": "https://tinbids.com/auction/228471/",
+              "price": "$9.99",
+              "last_updated": "2026-09-15T04:00:32.620430+00:00",
               "first_seen": "2026-07-29T20:13:38+00:00",
               "year": "",
               "price_history": [
@@ -53825,6 +53829,10 @@
                 {
                   "price": "$18.00",
                   "date": "2026-08-29T04:00:23.119830+00:00"
+                },
+                {
+                  "price": "$9.99",
+                  "date": "2026-09-15T04:00:32.620430+00:00"
                 }
               ]
             },
@@ -99815,9 +99823,9 @@
             {
               "name": "Excellent Sealed 2016 Our Best Blend by Smokers Haven 2oz. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/221015/",
-              "price": "$84.00",
-              "last_updated": "2026-08-26T04:00:21.405781+00:00",
+              "url": "https://tinbids.com/auction/229064/",
+              "price": "$112.99",
+              "last_updated": "2026-09-15T04:00:32.620430+00:00",
               "first_seen": "2026-06-29T23:22:49+00:00",
               "year": "2016",
               "price_history": [
@@ -99832,6 +99840,10 @@
                 {
                   "price": "$84.00",
                   "date": "2026-08-26T04:00:21.405781+00:00"
+                },
+                {
+                  "price": "$112.99",
+                  "date": "2026-09-15T04:00:32.620430+00:00"
                 }
               ]
             },
@@ -115492,6 +115504,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "2020 Esoterica Cardiff - 8 oz bag": "esoterica|cardiff",
+    "Fox Dorisco Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|doriscomixture",
+    "Excellent Sealed 2016 Our Best Blend by Smokers Haven 2oz. Tin": "smokershaven|ourbestblend",
     "BROWN SUGAR FLAKE - Samuel Gawith - 2022": "samuelgawith|brownsugarflake",
     "2oz C&D's (Discontinued) Ridin' The Raid From 2013": "cornelldiehl|ridintheraid",
     "Esoterica Margate": "esoterica|margate",
@@ -115540,7 +115555,6 @@
     "Samuel Gawith Full Virginia Flake - 250g Vintage Box (2018)": "samuelgawith|fullvirginiaflake",
     "2020 Esoterica Brighton - 8 oz bag": "esoterica|brighton",
     "Excellent Sealed 2019 Wellauer & Co. Latakia Mixture 50g. Tin": "wellauerco|latakiamixture",
-    "2020 Esoterica Cardiff - 8 oz bag": "esoterica|cardiff",
     "Esoterica Tilbury 2oz Tin Released 2025": "esoterica|tilbury",
     "Esoterica Stonehaven 2016 | 8oz Bag | La Clave Collection": "esoterica|stonehaven",
     "2015 Mac Baren Bold Kentucky 3.5oz": "macbaren|hhboldkentucky",
@@ -115551,7 +115565,6 @@
     "VINTAGE and RARE Flying Dutchman Aromatic (compromised seal) 10oz - NR": "theodorusniemeyer|flyingdutchman",
     "VINTAGE and RARE Dunhill Gold Blend (compromised seal) 2oz - NR": "dunhill|goldblend",
     "Collectible James Fox “The Provost Mixture” 50g Sealed Pipe Tobacco": "jamesjfox|provostmixture",
-    "Fox Dorisco Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|doriscomixture",
     "2014 SAMUEL GAWITH PERFECTION 2 oz jarred": "samuelgawith|perfection",
     "MacBaren HH Pure Virginia 2015 NR": "macbaren|hhpurevirginia",
     "MacBaren Virginia No. 1 2017 NR": "macbaren|virginiano1",
@@ -115565,7 +115578,6 @@
     "HH Vintage Syrian": "macbaren|hhvintagesyrian",
     "Esoterica - Pembroke - 4 oz. 2018": "esoterica|pembroke",
     "Jewel Of St James Genuine Louisiana Perique 1 OZ sealed jar": "jewelofstjames|perique",
-    "Excellent Sealed 2016 Our Best Blend by Smokers Haven 2oz. Tin": "smokershaven|ourbestblend",
     "GAWITH SQUADRON LEADER": "samuelgawith|squadronleader",
     "Very Nice Sealed 2017 McClelland's Frog Morton on the Town 100g. Tin": "mcclelland|frogmortononthetown",
     "Murray Erinmore Mixture Pre-2005 NR": "erinmore|mixture",
