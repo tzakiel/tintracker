@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-15T15:14:19.107208+00:00",
+  "generated": "2026-09-15T16:09:10.829929+00:00",
   "stats": {
-    "total_listings": 7644,
+    "total_listings": 7655,
     "excluded_multipacks": 2270,
     "total_tins": 1315,
     "multi_member_tins": 671,
@@ -24365,9 +24365,9 @@
             {
               "name": "Dunhill Ready Rubbed 2017 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/225817/",
-              "price": "$28.00",
-              "last_updated": "2026-09-08T16:00:28.412810+00:00",
+              "url": "https://tinbids.com/auction/228490/",
+              "price": "$34.00",
+              "last_updated": "2026-09-15T16:00:22.998890+00:00",
               "first_seen": "2026-06-30T04:21:19+00:00",
               "year": "2017",
               "price_history": [
@@ -24402,6 +24402,10 @@
                 {
                   "price": "$28.00",
                   "date": "2026-09-08T16:00:28.412810+00:00"
+                },
+                {
+                  "price": "$34.00",
+                  "date": "2026-09-15T16:00:22.998890+00:00"
                 }
               ]
             },
@@ -30956,9 +30960,9 @@
             {
               "name": "Esoterica Margate",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/227811/",
-              "price": "$73.00",
-              "last_updated": "2026-09-13T04:00:23.967538+00:00",
+              "url": "https://tinbids.com/auction/228638/",
+              "price": "$345.00",
+              "last_updated": "2026-09-15T16:00:22.998890+00:00",
               "first_seen": "2026-07-16T02:57:15+00:00",
               "year": "",
               "price_history": [
@@ -30973,6 +30977,10 @@
                 {
                   "price": "$73.00",
                   "date": "2026-09-13T04:00:23.967538+00:00"
+                },
+                {
+                  "price": "$345.00",
+                  "date": "2026-09-15T16:00:22.998890+00:00"
                 }
               ]
             },
@@ -93731,7 +93739,7 @@
             {
               "name": "BROWN SUGAR FLAKE - Samuel Gawith - 2022",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/230502/",
+              "url": "https://tinbids.com/auction/231188/",
               "price": "$49.00",
               "last_updated": "2026-09-14T04:00:22.080630+00:00",
               "first_seen": "2026-08-16T02:05:59+00:00",
@@ -115568,12 +115576,13 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Esoterica Margate": "esoterica|margate",
+    "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
     "2020 Esoterica Cardiff - 8 oz bag": "esoterica|cardiff",
     "Fox Dorisco Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|doriscomixture",
     "Excellent Sealed 2016 Our Best Blend by Smokers Haven 2oz. Tin": "smokershaven|ourbestblend",
     "BROWN SUGAR FLAKE - Samuel Gawith - 2022": "samuelgawith|brownsugarflake",
     "2oz C&D's (Discontinued) Ridin' The Raid From 2013": "cornelldiehl|ridintheraid",
-    "Esoterica Margate": "esoterica|margate",
     "Stonehaven 2018": "esoterica|stonehaven",
     "Penzance 2017": "esoterica|penzance",
     "Sutliff Cringle Flake 2024": "sutliff|cringleflake",
@@ -115597,7 +115606,6 @@
     "Excellent Sealed 2020 Reiner Golden Flake Gold Blend 71 100g. Tin": "reiner|longgoldenflake",
     "Very Nice Sealed 2021 Hearth & Home Black House 10 Year Anniversary 50g. Tin": "hearthhome|blackhouse10thanniversary",
     "Excellent Sealed 2023 Peter Heinrichs Dark Strong 100g. Tin": "peterheinrichs|darkstrongflake",
-    "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
     "Esoterica - Pembroke - 50g": "esoterica|pembroke",
     "McCLELLAND BALKAN BLUE": "mcclelland|balkanblue",
     "Esoterica Tobacciana Butera’s Margate 8 oz. Sealed Pipe Tobacco Germain & Son, UK": "esoterica|margate",
