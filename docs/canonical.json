@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-16T15:14:20.190260+00:00",
+  "generated": "2026-09-16T16:06:44.619564+00:00",
   "stats": {
-    "total_listings": 7672,
-    "excluded_multipacks": 2272,
+    "total_listings": 7679,
+    "excluded_multipacks": 2274,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3558,
@@ -84622,15 +84622,19 @@
             {
               "name": "Peter Stokkebye-Luxury Navy Flake",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/217509/",
-              "price": "$21.50",
-              "last_updated": "2026-08-19T16:00:21.668326+00:00",
+              "url": "https://tinbids.com/auction/228921/",
+              "price": "$92.00",
+              "last_updated": "2026-09-16T16:00:30.886311+00:00",
               "first_seen": "2026-08-19T13:09:07+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$21.50",
                   "date": "2026-08-19T13:09:07+00:00"
+                },
+                {
+                  "price": "$92.00",
+                  "date": "2026-09-16T16:00:30.886311+00:00"
                 }
               ]
             },
@@ -115660,6 +115664,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Peter Stokkebye-Luxury Navy Flake": "peterstokkebye|luxurynavyflake",
     "Midnight Orchard": "cornelldiehl|midnightorchard",
     "Esoterica Margate": "esoterica|margate",
     "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
@@ -115846,7 +115851,6 @@
     "2009 G.L. PEASE KENSINGTON approx. 2.2 ounces": "glpease|kensington",
     "2002 2 oz GL Pease Robusto": "glpease|robusto",
     "McClellan's Bombay Extra - 50g - 2013": "mcclelland|bombayextra",
-    "Peter Stokkebye-Luxury Navy Flake": "peterstokkebye|luxurynavyflake",
     "Esoterica Pembroke 2oz Tin 2025 Release": "esoterica|pembroke",
     "Esoterica \"And So To Bed\" 2oz Tin 2025 Release": "esoterica|andsotobed",
     "Esoterica Dunbar 8oz Bag 2025 Release": "esoterica|dunbar",
