@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-15T19:16:17.945594+00:00",
+  "generated": "2026-09-16T04:07:23.701465+00:00",
   "stats": {
-    "total_listings": 7655,
-    "excluded_multipacks": 2270,
+    "total_listings": 7664,
+    "excluded_multipacks": 2271,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3558,
@@ -12551,6 +12551,29 @@
           "quantity": "",
           "members": [
             {
+              "name": "Midnight Orchard",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/229449/",
+              "price": "$54.99",
+              "last_updated": "2026-09-16T04:00:25.055800+00:00",
+              "first_seen": "2026-07-12T19:21:54+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$25.99",
+                  "date": "2026-07-12T19:21:54+00:00"
+                },
+                {
+                  "price": "$24.99",
+                  "date": "2026-08-11T04:00:27.216448+00:00"
+                },
+                {
+                  "price": "$54.99",
+                  "date": "2026-09-16T04:00:25.055800+00:00"
+                }
+              ]
+            },
+            {
               "name": "OPEN TIN C&D Small Batch Midnight Orchard",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/219098/",
@@ -12562,25 +12585,6 @@
                 {
                   "price": "$15.00",
                   "date": "2026-08-18T23:39:31+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Midnight Orchard",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/215600/",
-              "price": "$24.99",
-              "last_updated": "2026-08-11T04:00:27.216448+00:00",
-              "first_seen": "2026-07-12T19:21:54+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$25.99",
-                  "date": "2026-07-12T19:21:54+00:00"
-                },
-                {
-                  "price": "$24.99",
-                  "date": "2026-08-11T04:00:27.216448+00:00"
                 }
               ]
             },
@@ -115592,6 +115596,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Midnight Orchard": "cornelldiehl|midnightorchard",
     "Esoterica Margate": "esoterica|margate",
     "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
     "2020 Esoterica Cardiff - 8 oz bag": "esoterica|cardiff",
@@ -116035,7 +116040,6 @@
     "Dunhill The “Royal Yacht” Mixture 2016 NR": "dunhill|royalyacht",
     "C&D 2026 Firebird Flake": "cornelldiehl|firebirdflake",
     "1 pound S&G Full Virginia Flake": "samuelgawith|fullvirginiaflake",
-    "Midnight Orchard": "cornelldiehl|midnightorchard",
     "Wessex Burley Slice 50g Tin": "wessex|burleyslice",
     "Ravenwood Sankara Stone 50g": "ravenwood|sankarastone",
     "2011 128 g Orlik Skandinavik Regular Non-Aromatic": "skandinavik|regular",
