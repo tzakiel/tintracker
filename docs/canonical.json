@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-16T19:16:19.481288+00:00",
+  "generated": "2026-09-17T04:05:21.819643+00:00",
   "stats": {
-    "total_listings": 7679,
-    "excluded_multipacks": 2274,
+    "total_listings": 7696,
+    "excluded_multipacks": 2275,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3558,
@@ -79161,15 +79161,19 @@
             {
               "name": "McClelland Syrian Full Balkan",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/208743/",
-              "price": "$82.00",
-              "last_updated": "2026-07-28T04:00:32.783470+00:00",
+              "url": "https://tinbids.com/auction/230129/",
+              "price": "$84.00",
+              "last_updated": "2026-09-17T04:00:21.224971+00:00",
               "first_seen": "2026-07-28T01:18:50+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$82.00",
                   "date": "2026-07-28T01:18:50+00:00"
+                },
+                {
+                  "price": "$84.00",
+                  "date": "2026-09-17T04:00:21.224971+00:00"
                 }
               ]
             },
@@ -85102,15 +85106,19 @@
             {
               "name": "Peterson 6-Irish Cask",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/202342/",
-              "price": "$57.00",
-              "last_updated": "2026-07-07T16:00:50.767711+00:00",
+              "url": "https://tinbids.com/auction/231105/",
+              "price": "$56.00",
+              "last_updated": "2026-09-17T04:00:21.224971+00:00",
               "first_seen": "2026-07-07T12:22:32+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$57.00",
                   "date": "2026-07-07T12:22:32+00:00"
+                },
+                {
+                  "price": "$56.00",
+                  "date": "2026-09-17T04:00:21.224971+00:00"
                 }
               ]
             },
@@ -89979,15 +89987,19 @@
             {
               "name": "Ravenwood - Smaug's Breath - 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/204042/",
-              "price": "$49.50",
-              "last_updated": "2026-07-15T04:00:49.070316+00:00",
+              "url": "https://tinbids.com/auction/229039/",
+              "price": "$45.00",
+              "last_updated": "2026-09-17T04:00:21.224971+00:00",
               "first_seen": "2026-07-14T18:56:09+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$49.50",
                   "date": "2026-07-14T18:56:09+00:00"
+                },
+                {
+                  "price": "$45.00",
+                  "date": "2026-09-17T04:00:21.224971+00:00"
                 }
               ]
             }
@@ -93843,7 +93855,7 @@
             {
               "name": "BROWN SUGAR FLAKE - Samuel Gawith - 2022",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/231188/",
+              "url": "https://tinbids.com/auction/231792/",
               "price": "$49.00",
               "last_updated": "2026-09-14T04:00:22.080630+00:00",
               "first_seen": "2026-08-16T02:05:59+00:00",
@@ -115680,6 +115692,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "McClelland Syrian Full Balkan": "mcclelland|syrianfullbalkan",
+    "Ravenwood - Smaug's Breath - 50g": "ravenwood|smaugsbreath",
+    "Peterson 6-Irish Cask": "peterson|irishcask",
     "Peter Stokkebye-Luxury Navy Flake": "peterstokkebye|luxurynavyflake",
     "Midnight Orchard": "cornelldiehl|midnightorchard",
     "Esoterica Margate": "esoterica|margate",
@@ -116535,7 +116550,6 @@
     "Esoterica Dorchester tin 2020": "esoterica|dorchester",
     "Peter Heinrich’s Golden Sliced 100g": "peterheinrichs|goldensliced",
     "Ashton Artisan's blend 2016": "ashton|artisansblend",
-    "McClelland Syrian Full Balkan": "mcclelland|syrianfullbalkan",
     "2014 Esoterica Margate - 8 oz Bag": "esoterica|margate",
     "2002 Frog Morton on the Bayou - 1 Tin NR BIN $250": "mcclelland|frogmortononthebayou",
     "8oz Sealed Bag of Esoterica Pembroke": "esoterica|pembroke",
@@ -116890,7 +116904,6 @@
     "2009 GL Pease Maltese Falcon 8oz Tins": "glpease|maltesefalcon",
     "Davidoff - English Mixture - 50g": "davidoff|englishmixture",
     "Vintage 2015 - Dunhill Baby's Bottom (Last time they spelled out the words)": "dunhill|babysbottom",
-    "Ravenwood - Smaug's Breath - 50g": "ravenwood|smaugsbreath",
     "Ravenwood - The Idol - 50g": "ravenwood|theidol",
     "Excellent Sealed 2019 Schurch Onyx 50g. Tin": "schrch|onyx128",
     "Excellent Sealed 2023 Samuel Gawith Bosun Cut Plug 500g. Bag": "gawithhoggarthco|bosuncutplug",
@@ -117118,7 +117131,6 @@
     "Stanislaw / Samuel Gawith Winter Time Flake 2015 NR": "samuelgawith|wintertimeflake",
     "Stanislaw / Samuel Gawith Spring Time Flake 2015 NR": "samuelgawith|springtimeflake",
     "Stanislaw / Samuel Gawith Scottish Autumn Flake 2015 NR": "samuelgawith|scottishautumnflake",
-    "Peterson 6-Irish Cask": "peterson|irishcask",
     "Peterson 4-Irish Cask": "peterson|irishcask",
     "Ken Byron Jupiter Slices (2020)": "kenbyronventures|jupiterslices",
     "Ken Byron Ventures Festivus Cheer (2019)": "kenbyronventures|festivuscheer",
