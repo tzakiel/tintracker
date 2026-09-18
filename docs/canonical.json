@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-17T19:16:18.192575+00:00",
+  "generated": "2026-09-18T04:05:55.151688+00:00",
   "stats": {
-    "total_listings": 7714,
-    "excluded_multipacks": 2279,
+    "total_listings": 7731,
+    "excluded_multipacks": 2280,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3558,
@@ -89999,9 +89999,9 @@
             {
               "name": "Ravenwood - Olde Burley Bear - 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/201634/",
-              "price": "$55.00",
-              "last_updated": "2026-07-09T16:00:46.246471+00:00",
+              "url": "https://tinbids.com/auction/229431/",
+              "price": "$45.00",
+              "last_updated": "2026-09-18T04:00:24.560980+00:00",
               "first_seen": "2026-07-07T16:01:49+00:00",
               "year": "",
               "price_history": [
@@ -90012,6 +90012,10 @@
                 {
                   "price": "$55.00",
                   "date": "2026-07-09T16:00:46.246471+00:00"
+                },
+                {
+                  "price": "$45.00",
+                  "date": "2026-09-18T04:00:24.560980+00:00"
                 }
               ]
             }
@@ -115780,6 +115784,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Ravenwood - Olde Burley Bear - 50g": "ravenwood|oldeburleybear",
     "McClelland Syrian Full Balkan": "mcclelland|syrianfullbalkan",
     "Ravenwood - Smaug's Breath - 50g": "ravenwood|smaugsbreath",
     "Peterson 6-Irish Cask": "peterson|irishcask",
@@ -117157,7 +117162,6 @@
     "2001 or older Rattrays 3 Noggins Full 100g": "rattrays|3noggins",
     "15 year of age!! 2011 Rattrays Old Gowrie 100g": "rattrays|oldgowrie",
     "C&D Chenet's Cake (2016) - 1 Tin ( BIN 45 )": "cornelldiehl|chenetscake",
-    "Ravenwood - Olde Burley Bear - 50g": "ravenwood|oldeburleybear",
     "2018 Mac Baren HH Old Dark Fired 3.5 ounce - 1 Tin NR BIN $100": "macbaren|hholddarkfired",
     "(2006) 20 Years Vintage 507C Virginia Slices": "sutliff|507c",
     "Cobblestone - Hiking - 50g (Out of production)": "cobblestone|hiking",
