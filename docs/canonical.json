@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-18T15:14:15.920816+00:00",
+  "generated": "2026-09-18T16:07:02.944475+00:00",
   "stats": {
-    "total_listings": 7734,
-    "excluded_multipacks": 2280,
+    "total_listings": 7743,
+    "excluded_multipacks": 2281,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3558,
@@ -91016,15 +91016,19 @@
             {
               "name": "Very Old! Robert McConnell Carolina Gold 100g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/213467/",
-              "price": "$65.00",
-              "last_updated": "2026-08-13T04:00:35.603963+00:00",
+              "url": "https://tinbids.com/auction/228627/",
+              "price": "$69.00",
+              "last_updated": "2026-09-18T16:00:25.279212+00:00",
               "first_seen": "2026-08-12T22:11:43+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$65.00",
                   "date": "2026-08-12T22:11:43+00:00"
+                },
+                {
+                  "price": "$69.00",
+                  "date": "2026-09-18T16:00:25.279212+00:00"
                 }
               ]
             }
@@ -115856,6 +115860,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Very Old! Robert McConnell Carolina Gold 100g": "robertmcconnell|carolinagold",
     "Ravenwood - Olde Burley Bear - 50g": "ravenwood|oldeburleybear",
     "McClelland Syrian Full Balkan": "mcclelland|syrianfullbalkan",
     "Ravenwood - Smaug's Breath - 50g": "ravenwood|smaugsbreath",
@@ -116252,7 +116257,6 @@
     "Cobblestone Outdoors Hiking 50g": "cobblestone|hiking",
     "2015 Orlik Dark Strong Kentucky 50g": "orlik|darkstrongkentucky",
     "Dobie's Four Square Circles 50g": "dobies|foursquare",
-    "Very Old! Robert McConnell Carolina Gold 100g": "robertmcconnell|carolinagold",
     "Wow! 1999 C&D da Vinci 50g": "cornelldiehl|davinci",
     "Very Rare! Tsuge 4 Seasons - Summer Daydream 50g": "tsuge|4seasonssummerdaydream",
     "Very Rare! Tsuge Raijin: The Thunder God 50g": "tsuge|raijinthethundergod",
