@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-19T16:06:29.222013+00:00",
+  "generated": "2026-09-19T17:16:06.989444+00:00",
   "stats": {
-    "total_listings": 7764,
-    "excluded_multipacks": 2284,
+    "total_listings": 7828,
+    "excluded_multipacks": 2287,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3558,
@@ -4416,14 +4416,18 @@
               "name": "McClelland’s Butera’s Royal Vintage Matured Ribbon 50g tin – Year 2010",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-buteras-royal-vintage-matured-ribbon-50g-tin-year-2010/",
-              "price": "$75.00",
-              "last_updated": "2026-06-27T17:13:32.918058+00:00",
+              "price": "$65.00",
+              "last_updated": "2026-09-19T17:13:30.056012+00:00",
               "first_seen": "2026-06-27T17:13:32.918058+00:00",
               "year": "2010",
               "price_history": [
                 {
                   "price": "$75.00",
                   "date": "2026-06-27T17:13:32.918058+00:00"
+                },
+                {
+                  "price": "$65.00",
+                  "date": "2026-09-19T17:13:30.056012+00:00"
                 }
               ]
             },
@@ -67866,14 +67870,18 @@
               "name": "McClelland’s 3 Oaks 50g tin – Year 2009",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-3-oaks-50g-tin-year-2009/",
-              "price": "$70.00",
-              "last_updated": "2026-08-01T17:13:47.061174+00:00",
+              "price": "$65.00",
+              "last_updated": "2026-09-19T17:13:30.056012+00:00",
               "first_seen": "2026-08-01T17:13:47.061174+00:00",
               "year": "2009",
               "price_history": [
                 {
                   "price": "$70.00",
                   "date": "2026-08-01T17:13:47.061174+00:00"
+                },
+                {
+                  "price": "$65.00",
+                  "date": "2026-09-19T17:13:30.056012+00:00"
                 }
               ]
             },
@@ -103680,6 +103688,25 @@
               ]
             },
             {
+              "name": "Hearth & Home’s Bengal Slices 50g tin – Year 2016",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/hearth-homes-bengal-slices-50g-tin-year-2016/",
+              "price": "$50.00",
+              "last_updated": "2026-09-19T17:13:30.056012+00:00",
+              "first_seen": "2026-07-18T17:13:38.985666+00:00",
+              "year": "2016",
+              "price_history": [
+                {
+                  "price": "$45.00",
+                  "date": "2026-07-18T17:13:38.985666+00:00"
+                },
+                {
+                  "price": "$50.00",
+                  "date": "2026-09-19T17:13:30.056012+00:00"
+                }
+              ]
+            },
+            {
               "name": "Standard Tobacco Co. Bengal Slices 50g tins – Year 2016",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/standard-tobacco-co-bengal-slices-50g-tins-year-2016/",
@@ -103691,21 +103718,6 @@
                 {
                   "price": "$45.00",
                   "date": "2026-08-08T17:13:45.731929+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Hearth & Home’s Bengal Slices 50g tin – Year 2016",
-              "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/hearth-homes-bengal-slices-50g-tin-year-2016/",
-              "price": "$45.00",
-              "last_updated": "2026-07-18T17:13:38.985666+00:00",
-              "first_seen": "2026-07-18T17:13:38.985666+00:00",
-              "year": "2016",
-              "price_history": [
-                {
-                  "price": "$45.00",
-                  "date": "2026-07-18T17:13:38.985666+00:00"
                 }
               ]
             },
@@ -115365,6 +115377,9 @@
     }
   ],
   "name_to_id": {
+    "McClelland’s 3 Oaks 50g tin – Year 2009": "mcclelland|3oakssyrian",
+    "Hearth & Home’s Bengal Slices 50g tin – Year 2016": "sutliff|bengalslices",
+    "McClelland’s Butera’s Royal Vintage Matured Ribbon 50g tin – Year 2010": "butera|maturedribbon",
     "Elephant & Castle New World 50g tin – 1980’s era and Made by McConnell’s in England": "elephantcastle|newworld",
     "McClelland’s Stave-Aged Virginia Ribbon 50g tin – Year 2013": "mcclelland|staveagedvirginia",
     "Wessex Dark Flake 50g tins – Year 2017": "wessex|brigadecampaigndarkflake",
@@ -115565,7 +115580,6 @@
     "Mac Baren’s HH Burley Flake 50g tin – Year 2022": "macbaren|hhburleyflake",
     "Bell’s Three Nuns 50g tin – Year 2014": "bells|threenuns",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1990’s era": "lanelimited|crownachievement",
-    "McClelland’s 3 Oaks 50g tin – Year 2009": "mcclelland|3oakssyrian",
     "Stokkebye era Butera Pelican 2oz tin – Year 2004": "butera|pelican",
     "G.L. Pease NASPC Show Limited Edition Varoom! 2oz tins – Year 2015": "glpease|varoom",
     "G.L. Pease NASPC Show Limited Invasion 2oz tins – Year 2016": "glpease|invasion",
@@ -115666,7 +115680,6 @@
     "E. Hoffman Company Spilman Mixture 7oz tin – Year 2012": "ehoffmancompany|spilmanmixture",
     "Seattle Pipe Club Pike Place 2oz tin – Year 2015": "sutliff|spcpikeplace",
     "Seattle Pipe Club Deception Pass 2oz tin – Year 2015": "sutliff|spcdeceptionpass",
-    "Hearth & Home’s Bengal Slices 50g tin – Year 2016": "sutliff|bengalslices",
     "Sutliff Re-Make of the Original Maple Street 1.5oz tins – Year 2016": "sutliff|maplestreet",
     "McClelland’s Ringlow Syr. Reserve 50g tin – Year 2010": "mcclelland|ringlowsyrianreserve",
     "Mac Baren’s HH Vintage Syr. Latakia One-Pound Vacuum Sealed Bag – Year 2014": "macbaren|hhvintagesyrian",
@@ -115874,7 +115887,6 @@
     "Castro’s Back Room Portrait Blend 50g tin – Year 1999 & Made by McClelland’s": "castrosbackroom|portraitblend",
     "McCranie’s 2011 Crop Red Ribbon 50g tin – Year 2017 Production & Made by McClelland’s": "mccranies|redribbon",
     "McCranie’s 2008 Crop Red Ribbon 50g tin – Year 2015 Production & Made by McClelland’s": "mccranies|redribbon",
-    "McClelland’s Butera’s Royal Vintage Matured Ribbon 50g tin – Year 2010": "butera|maturedribbon",
     "McClelland’s Syr. Latakia Full Balkan 50g tin – Year 2010": "mcclelland|syrianfullbalkan",
     "Ashton Syr. Latakia Celebrated Sovereign 50g tin – Year 2003": "ashton|celebratedsovereign",
     "McClelland’s 40th Anniversary 100g tin – Year 2018": "mcclelland|40thanniversary",
