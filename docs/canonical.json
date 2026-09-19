@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-18T19:16:17.899166+00:00",
+  "generated": "2026-09-19T04:05:02.865421+00:00",
   "stats": {
-    "total_listings": 7743,
-    "excluded_multipacks": 2281,
+    "total_listings": 7755,
+    "excluded_multipacks": 2283,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3558,
@@ -68966,9 +68966,9 @@
             {
               "name": "McCLELLAND BALKAN BLUE",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/227371/",
-              "price": "$102.00",
-              "last_updated": "2026-09-08T16:00:28.412810+00:00",
+              "url": "https://tinbids.com/auction/231706/",
+              "price": "$100.00",
+              "last_updated": "2026-09-19T04:00:23.977194+00:00",
               "first_seen": "2026-07-13T23:47:58+00:00",
               "year": "",
               "price_history": [
@@ -68987,6 +68987,10 @@
                 {
                   "price": "$102.00",
                   "date": "2026-09-08T16:00:28.412810+00:00"
+                },
+                {
+                  "price": "$100.00",
+                  "date": "2026-09-19T04:00:23.977194+00:00"
                 }
               ]
             },
@@ -115876,6 +115880,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "McCLELLAND BALKAN BLUE": "mcclelland|balkanblue",
     "Very Old! Robert McConnell Carolina Gold 100g": "robertmcconnell|carolinagold",
     "Ravenwood - Olde Burley Bear - 50g": "ravenwood|oldeburleybear",
     "McClelland Syrian Full Balkan": "mcclelland|syrianfullbalkan",
@@ -115914,7 +115919,6 @@
     "Very Nice Sealed 2021 Hearth & Home Black House 10 Year Anniversary 50g. Tin": "hearthhome|blackhouse10thanniversary",
     "Excellent Sealed 2023 Peter Heinrichs Dark Strong 100g. Tin": "peterheinrichs|darkstrongflake",
     "Esoterica - Pembroke - 50g": "esoterica|pembroke",
-    "McCLELLAND BALKAN BLUE": "mcclelland|balkanblue",
     "Esoterica Tobacciana Butera’s Margate 8 oz. Sealed Pipe Tobacco Germain & Son, UK": "esoterica|margate",
     "Midnight Orchard 2oz Pipe Tobacco": "cornelldiehl|midnightorchard",
     "Very Nice Sealed 2018 Dunhill My Mixture 965 50g. Tin": "dunhill|mymixtureno965",
