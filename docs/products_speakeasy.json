@@ -1,6 +1,21 @@
 {
   "products": [
     {
+      "name": "Edit: Black Dot goes around",
+      "price": "$7",
+      "url": "https://speak-easy.club/threads/round-2-black-dot.45135/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-09-02T01:51:14+00:00",
+      "last_updated": "2026-09-19T06:38:12.997404+00:00",
+      "price_history": [
+        {
+          "price": "$7",
+          "date": "2026-09-02T01:51:14+00:00"
+        }
+      ],
+      "tag": "CLOSED"
+    },
+    {
       "name": "Sutliff Voodoo Queen - 8oz - 3 available @",
       "price": "$35",
       "url": "https://speak-easy.club/threads/more-tobacco-getting-evicted-germain%E2%80%99s-sobranie-sutliff-c-d.45219/unread",
@@ -53356,8 +53371,23 @@
       "tag": "WTS"
     }
   ],
-  "last_scraped": "2026-09-18T06:38:16.901576+00:00",
+  "last_scraped": "2026-09-19T06:38:12.997404+00:00",
   "latest_scrape": [
+    {
+      "name": "Edit: Black Dot goes around",
+      "price": "$7",
+      "url": "https://speak-easy.club/threads/round-2-black-dot.45135/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-09-02T01:51:14+00:00",
+      "last_updated": "2026-09-19T06:38:12.997404+00:00",
+      "price_history": [
+        {
+          "price": "$7",
+          "date": "2026-09-02T01:51:14+00:00"
+        }
+      ],
+      "tag": "CLOSED"
+    },
     {
       "name": "Bennie Joe Freehand Nosewarmer Squat Tomato Morta",
       "price": "$120",
@@ -55566,6 +55596,13 @@
       "added": 1,
       "price_changed": 0,
       "total": 2738
+    },
+    {
+      "date": "2026-09-19T06:38:12.997404+00:00",
+      "found": 21,
+      "added": 1,
+      "price_changed": 0,
+      "total": 2739
     }
   ],
   "thread_recheck": {
@@ -55586,7 +55623,8 @@
     "https://speak-easy.club/threads/2015-virginia-cream-opened-for.45223/unread": "2026-10-01T06:38:14.437281+00:00",
     "https://speak-easy.club/threads/largo-and-gambler-bags.45231/unread": "2026-10-01T06:38:14.437281+00:00",
     "https://speak-easy.club/threads/peterson-standard-314.45119/unread": "2026-10-01T06:38:14.437281+00:00",
-    "https://speak-easy.club/threads/radice-autumn-2022-somebody-else-rake-these-leaves-eh-eh.45227/unread": "2026-10-01T06:38:14.437281+00:00"
+    "https://speak-easy.club/threads/radice-autumn-2022-somebody-else-rake-these-leaves-eh-eh.45227/unread": "2026-10-01T06:38:14.437281+00:00",
+    "https://speak-easy.club/threads/round-2-black-dot.45135/unread": "2026-10-03T06:38:12.997404+00:00"
   },
   "thread_recheck_tags": {
     "https://speak-easy.club/threads/brigham-and-peterson.44723/unread": "WTS",
@@ -56479,6 +56517,7 @@
     "https://speak-easy.club/threads/sutliff-mb-dnr.45232/unread": "CLOSED",
     "https://speak-easy.club/threads/2015-virginia-cream-opened-for.45223/unread": "CLOSED",
     "https://speak-easy.club/threads/largo-and-gambler-bags.45231/unread": "WTS",
-    "https://speak-easy.club/threads/radice-autumn-2022-somebody-else-rake-these-leaves-eh-eh.45227/unread": "WTS"
+    "https://speak-easy.club/threads/radice-autumn-2022-somebody-else-rake-these-leaves-eh-eh.45227/unread": "WTS",
+    "https://speak-easy.club/threads/round-2-black-dot.45135/unread": "CLOSED"
   }
 }
