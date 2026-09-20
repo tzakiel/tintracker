@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-19T19:16:18.196029+00:00",
+  "generated": "2026-09-20T04:05:52.729354+00:00",
   "stats": {
-    "total_listings": 7828,
-    "excluded_multipacks": 2287,
+    "total_listings": 7851,
+    "excluded_multipacks": 2290,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3558,
@@ -4537,9 +4537,9 @@
             {
               "name": "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/219971/",
-              "price": "$255.00",
-              "last_updated": "2026-08-25T04:00:21.172735+00:00",
+              "url": "https://tinbids.com/auction/230524/",
+              "price": "$232.00",
+              "last_updated": "2026-09-20T04:00:27.263498+00:00",
               "first_seen": "2026-07-03T19:47:51+00:00",
               "year": "1996",
               "price_history": [
@@ -4582,6 +4582,10 @@
                 {
                   "price": "$255.00",
                   "date": "2026-08-25T04:00:21.172735+00:00"
+                },
+                {
+                  "price": "$232.00",
+                  "date": "2026-09-20T04:00:27.263498+00:00"
                 }
               ]
             },
@@ -94139,9 +94143,9 @@
             {
               "name": "BROWN SUGAR FLAKE - Samuel Gawith - 2022",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/231792/",
-              "price": "$49.00",
-              "last_updated": "2026-09-14T04:00:22.080630+00:00",
+              "url": "https://tinbids.com/auction/233014/",
+              "price": "$55.00",
+              "last_updated": "2026-09-20T04:00:27.263498+00:00",
               "first_seen": "2026-08-16T02:05:59+00:00",
               "year": "2022",
               "price_history": [
@@ -94152,6 +94156,10 @@
                 {
                   "price": "$49.00",
                   "date": "2026-09-14T04:00:22.080630+00:00"
+                },
+                {
+                  "price": "$55.00",
+                  "date": "2026-09-20T04:00:27.263498+00:00"
                 }
               ]
             },
@@ -115980,6 +115988,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "BROWN SUGAR FLAKE - Samuel Gawith - 2022": "samuelgawith|brownsugarflake",
+    "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996": "butera|pelican",
     "McCLELLAND BALKAN BLUE": "mcclelland|balkanblue",
     "Very Old! Robert McConnell Carolina Gold 100g": "robertmcconnell|carolinagold",
     "Ravenwood - Olde Burley Bear - 50g": "ravenwood|oldeburleybear",
@@ -115993,7 +116003,6 @@
     "2020 Esoterica Cardiff - 8 oz bag": "esoterica|cardiff",
     "Fox Dorisco Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|doriscomixture",
     "Excellent Sealed 2016 Our Best Blend by Smokers Haven 2oz. Tin": "smokershaven|ourbestblend",
-    "BROWN SUGAR FLAKE - Samuel Gawith - 2022": "samuelgawith|brownsugarflake",
     "2oz C&D's (Discontinued) Ridin' The Raid From 2013": "cornelldiehl|ridintheraid",
     "Stonehaven 2018": "esoterica|stonehaven",
     "Penzance 2017": "esoterica|penzance",
@@ -116064,7 +116073,6 @@
     "GAWITH SQUADRON LEADER": "samuelgawith|squadronleader",
     "Very Nice Sealed 2017 McClelland's Frog Morton on the Town 100g. Tin": "mcclelland|frogmortononthetown",
     "Murray Erinmore Mixture Pre-2005 NR": "erinmore|mixture",
-    "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996": "butera|pelican",
     "Ashton Artisan’s Blend Tobacco Sealed Tin Century 50g Cyprian Latakia Pipe Tobacco": "ashton|artisansblend",
     "Ashton Artisan’s Blend Tobacco Sealed Tin Century 50g Syrian Latakia Pipe Tobacco": "ashton|artisansblend",
     "Tobacco Tin Mc Clelland Syrian Super Balkan 2004 Out of Production": "mcclelland|syriansuperbalkan",
