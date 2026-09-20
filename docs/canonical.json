@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-20T15:14:19.249368+00:00",
+  "generated": "2026-09-20T16:06:37.194409+00:00",
   "stats": {
-    "total_listings": 7851,
+    "total_listings": 7864,
     "excluded_multipacks": 2290,
     "total_tins": 1315,
     "multi_member_tins": 671,
@@ -32792,9 +32792,9 @@
             {
               "name": "Penzance 2017",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/227858/",
-              "price": "$305.00",
-              "last_updated": "2026-09-13T04:00:23.967538+00:00",
+              "url": "https://tinbids.com/auction/230840/",
+              "price": "$206.00",
+              "last_updated": "2026-09-20T16:00:22.475999+00:00",
               "first_seen": "2026-08-16T01:08:32+00:00",
               "year": "2017",
               "price_history": [
@@ -32805,6 +32805,10 @@
                 {
                   "price": "$305.00",
                   "date": "2026-09-13T04:00:23.967538+00:00"
+                },
+                {
+                  "price": "$206.00",
+                  "date": "2026-09-20T16:00:22.475999+00:00"
                 }
               ]
             }
@@ -33996,9 +34000,9 @@
             {
               "name": "Stonehaven 2018",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/227839/",
-              "price": "$1310.00",
-              "last_updated": "2026-09-13T04:00:23.967538+00:00",
+              "url": "https://tinbids.com/auction/230772/",
+              "price": "$1300.00",
+              "last_updated": "2026-09-20T16:00:22.475999+00:00",
               "first_seen": "2026-08-16T01:01:31+00:00",
               "year": "2018",
               "price_history": [
@@ -34013,6 +34017,10 @@
                 {
                   "price": "$1310.00",
                   "date": "2026-09-13T04:00:23.967538+00:00"
+                },
+                {
+                  "price": "$1300.00",
+                  "date": "2026-09-20T16:00:22.475999+00:00"
                 }
               ]
             },
@@ -116060,6 +116068,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Stonehaven 2018": "esoterica|stonehaven",
+    "Penzance 2017": "esoterica|penzance",
     "BROWN SUGAR FLAKE - Samuel Gawith - 2022": "samuelgawith|brownsugarflake",
     "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996": "butera|pelican",
     "McCLELLAND BALKAN BLUE": "mcclelland|balkanblue",
@@ -116076,8 +116086,6 @@
     "Fox Dorisco Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|doriscomixture",
     "Excellent Sealed 2016 Our Best Blend by Smokers Haven 2oz. Tin": "smokershaven|ourbestblend",
     "2oz C&D's (Discontinued) Ridin' The Raid From 2013": "cornelldiehl|ridintheraid",
-    "Stonehaven 2018": "esoterica|stonehaven",
-    "Penzance 2017": "esoterica|penzance",
     "Sutliff Cringle Flake 2024": "sutliff|cringleflake",
     "Discontinued, Sutliff Cringle Flake 2023": "sutliff|cringleflake",
     "2016 Esoterica Tilbury - 8 oz bag": "esoterica|tilbury",
