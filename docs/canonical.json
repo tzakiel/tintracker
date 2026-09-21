@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-20T19:16:16.415988+00:00",
+  "generated": "2026-09-21T04:06:42.732328+00:00",
   "stats": {
-    "total_listings": 7864,
-    "excluded_multipacks": 2290,
+    "total_listings": 7923,
+    "excluded_multipacks": 2305,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3558,
@@ -21614,9 +21614,9 @@
             {
               "name": "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/226963/",
-              "price": "$56.00",
-              "last_updated": "2026-09-09T04:00:23.817968+00:00",
+              "url": "https://tinbids.com/auction/231769/",
+              "price": "$60.00",
+              "last_updated": "2026-09-21T04:00:28.452285+00:00",
               "first_seen": "2026-06-22T13:53:20.063064+00:00",
               "year": "2018",
               "price_history": [
@@ -21639,6 +21639,10 @@
                 {
                   "price": "$56.00",
                   "date": "2026-09-09T04:00:23.817968+00:00"
+                },
+                {
+                  "price": "$60.00",
+                  "date": "2026-09-21T04:00:28.452285+00:00"
                 }
               ]
             },
@@ -31252,9 +31256,9 @@
             {
               "name": "Esoterica Margate",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/228638/",
-              "price": "$345.00",
-              "last_updated": "2026-09-15T16:00:22.998890+00:00",
+              "url": "https://tinbids.com/auction/230996/",
+              "price": "$343.00",
+              "last_updated": "2026-09-21T04:00:28.452285+00:00",
               "first_seen": "2026-07-16T02:57:15+00:00",
               "year": "",
               "price_history": [
@@ -31273,6 +31277,10 @@
                 {
                   "price": "$345.00",
                   "date": "2026-09-15T16:00:22.998890+00:00"
+                },
+                {
+                  "price": "$343.00",
+                  "date": "2026-09-21T04:00:28.452285+00:00"
                 }
               ]
             },
@@ -68410,9 +68418,9 @@
             {
               "name": "Very Nice Sealed 2018 McClelland's 40th Anniversary 100g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/213981/",
-              "price": "$202.00",
-              "last_updated": "2026-08-09T04:00:23.523672+00:00",
+              "url": "https://tinbids.com/auction/231746/",
+              "price": "$195.00",
+              "last_updated": "2026-09-21T04:00:28.452285+00:00",
               "first_seen": "2026-06-21T05:37:17.147469+00:00",
               "year": "2018",
               "price_history": [
@@ -68427,6 +68435,10 @@
                 {
                   "price": "$202.00",
                   "date": "2026-08-09T04:00:23.523672+00:00"
+                },
+                {
+                  "price": "$195.00",
+                  "date": "2026-09-21T04:00:28.452285+00:00"
                 }
               ]
             }
@@ -84233,9 +84245,9 @@
             {
               "name": "Excellent Sealed 2023 Peter Heinrichs Dark Strong 100g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/226989/",
-              "price": "$22.49",
-              "last_updated": "2026-09-09T04:00:23.817968+00:00",
+              "url": "https://tinbids.com/auction/231739/",
+              "price": "$41.00",
+              "last_updated": "2026-09-21T04:00:28.452285+00:00",
               "first_seen": "2026-07-26T21:29:38+00:00",
               "year": "2023",
               "price_history": [
@@ -84246,6 +84258,10 @@
                 {
                   "price": "$22.49",
                   "date": "2026-09-09T04:00:23.817968+00:00"
+                },
+                {
+                  "price": "$41.00",
+                  "date": "2026-09-21T04:00:28.452285+00:00"
                 }
               ]
             }
@@ -111533,15 +111549,19 @@
             {
               "name": "50g Zeppelin By Vauen \"Mit Hauch Latakia Aus Syrian\"!",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/197343/",
-              "price": "$64.00",
-              "last_updated": "2026-06-29T04:00:29.999801+00:00",
+              "url": "https://tinbids.com/auction/232558/",
+              "price": "$40.00",
+              "last_updated": "2026-09-21T04:00:28.452285+00:00",
               "first_seen": "2026-06-28T20:33:09+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$64.00",
                   "date": "2026-06-28T20:33:09+00:00"
+                },
+                {
+                  "price": "$40.00",
+                  "date": "2026-09-21T04:00:28.452285+00:00"
                 }
               ]
             }
@@ -116084,6 +116104,11 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Esoterica Margate": "esoterica|margate",
+    "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
+    "Excellent Sealed 2023 Peter Heinrichs Dark Strong 100g. Tin": "peterheinrichs|darkstrongflake",
+    "Very Nice Sealed 2018 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
+    "50g Zeppelin By Vauen \"Mit Hauch Latakia Aus Syrian\"!": "vauen|zeppelin",
     "Stonehaven 2018": "esoterica|stonehaven",
     "Penzance 2017": "esoterica|penzance",
     "BROWN SUGAR FLAKE - Samuel Gawith - 2022": "samuelgawith|brownsugarflake",
@@ -116096,7 +116121,6 @@
     "Peterson 6-Irish Cask": "peterson|irishcask",
     "Peter Stokkebye-Luxury Navy Flake": "peterstokkebye|luxurynavyflake",
     "Midnight Orchard": "cornelldiehl|midnightorchard",
-    "Esoterica Margate": "esoterica|margate",
     "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
     "2020 Esoterica Cardiff - 8 oz bag": "esoterica|cardiff",
     "Fox Dorisco Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|doriscomixture",
@@ -116119,10 +116143,8 @@
     "Maestro Puccini 2oz Pipe Tobacco / Buy It Now $65": "toscano|maestropuccini",
     "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
     "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
-    "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
     "Excellent Sealed 2020 Reiner Golden Flake Gold Blend 71 100g. Tin": "reiner|longgoldenflake",
     "Very Nice Sealed 2021 Hearth & Home Black House 10 Year Anniversary 50g. Tin": "hearthhome|blackhouse10thanniversary",
-    "Excellent Sealed 2023 Peter Heinrichs Dark Strong 100g. Tin": "peterheinrichs|darkstrongflake",
     "Esoterica - Pembroke - 50g": "esoterica|pembroke",
     "Esoterica Tobacciana Butera’s Margate 8 oz. Sealed Pipe Tobacco Germain & Son, UK": "esoterica|margate",
     "Midnight Orchard 2oz Pipe Tobacco": "cornelldiehl|midnightorchard",
@@ -116585,7 +116607,6 @@
     "Mac Baren’s 2021 Royal Twist DeLuxe Roll Cake 3.5 oz": "macbaren|royaltwist",
     "Very Nice Sealed 2021 Cornell & Diehl Small Batch Sun Bear 2oz. Tin": "cornelldiehl|sunbear",
     "Esoterica Penzance": "esoterica|penzance",
-    "Very Nice Sealed 2018 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
     "Gawith & Hoggarth-Balkan Mixture": "gawithhoggarthco|balkanmixture",
     "2015 Mac Baren HH Pure Virginia - 1 Tin NR BIN $80": "macbaren|hhpurevirginia",
     "McClellan Christmas Cheer - 2010": "mcclelland|christmascheer",
@@ -117755,7 +117776,6 @@
     "The Balkan Sobranie Original Smoking Mixture 50g Pipe Tobacco Tin - New Sealed": "jfgermain|balkansobranie",
     "50g Hearth & Home Ashcroft Estate From 2016!": "hearthhome|ashcroftestate",
     "50g Hearth & Home Virginia Memory From 2016!": "hearthhome|virginiamemory",
-    "50g Zeppelin By Vauen \"Mit Hauch Latakia Aus Syrian\"!": "vauen|zeppelin",
     "50g LEO Winner 2012 John Cotton \"Throwdown\"": "lanelimited|leo",
     "50g Of C&D's After Hours Flake From 2015!": "cornelldiehl|afterhoursflake",
     "50g Cornell & Diehl Bijou From 2016!": "cornelldiehl|bijou",
