@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-22T15:14:34.629917+00:00",
+  "generated": "2026-09-22T16:06:18.105177+00:00",
   "stats": {
-    "total_listings": 7939,
+    "total_listings": 7940,
     "excluded_multipacks": 2308,
     "total_tins": 1315,
     "multi_member_tins": 671,
@@ -24493,9 +24493,9 @@
             {
               "name": "Dunhill Ready Rubbed 2017 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/228490/",
-              "price": "$34.00",
-              "last_updated": "2026-09-15T16:00:22.998890+00:00",
+              "url": "https://tinbids.com/auction/231503/",
+              "price": "$31.00",
+              "last_updated": "2026-09-22T16:00:25.527838+00:00",
               "first_seen": "2026-06-30T04:21:19+00:00",
               "year": "2017",
               "price_history": [
@@ -24534,6 +24534,10 @@
                 {
                   "price": "$34.00",
                   "date": "2026-09-15T16:00:22.998890+00:00"
+                },
+                {
+                  "price": "$31.00",
+                  "date": "2026-09-22T16:00:25.527838+00:00"
                 }
               ]
             },
@@ -102042,7 +102046,7 @@
             {
               "name": "Solani Silver Flake Blend 660 / 4.8 Out Of 5 Stars Rating / Red Virginia & Dark Fire Kentucky Tobacco 100g Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/218483/",
+              "url": "https://tinbids.com/auction/231569/",
               "price": "$80.00",
               "last_updated": "2026-08-21T16:00:23.780376+00:00",
               "first_seen": "2026-08-21T14:38:40+00:00",
@@ -116292,6 +116296,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
     "BROWN SUGAR FLAKE - Samuel Gawith - 2022": "samuelgawith|brownsugarflake",
     "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
     "Very Nice Sealed 2021 Hearth & Home Black House 10 Year Anniversary 50g. Tin": "hearthhome|blackhouse10thanniversary",
@@ -116315,7 +116320,6 @@
     "Peterson 6-Irish Cask": "peterson|irishcask",
     "Peter Stokkebye-Luxury Navy Flake": "peterstokkebye|luxurynavyflake",
     "Midnight Orchard": "cornelldiehl|midnightorchard",
-    "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
     "2020 Esoterica Cardiff - 8 oz bag": "esoterica|cardiff",
     "Fox Dorisco Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|doriscomixture",
     "Excellent Sealed 2016 Our Best Blend by Smokers Haven 2oz. Tin": "smokershaven|ourbestblend",
