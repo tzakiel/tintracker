@@ -53371,8 +53371,23 @@
       "tag": "WTS"
     }
   ],
-  "last_scraped": "2026-09-22T06:38:21.153250+00:00",
+  "last_scraped": "2026-09-23T06:38:14.606122+00:00",
   "latest_scrape": [
+    {
+      "name": "Radice Autumn 2022",
+      "price": "$250",
+      "url": "https://speak-easy.club/threads/radice-autumn-2022-somebody-else-rake-these-leaves-eh-eh.45227/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-09-16T13:56:07+00:00",
+      "last_updated": "2026-09-17T06:38:14.437281+00:00",
+      "price_history": [
+        {
+          "price": "$250",
+          "date": "2026-09-16T13:56:07+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
     {
       "name": "Sold to the possum @georgejones13 - 1963 Dunhill Shell Briar Group 4?",
       "price": "$250",
@@ -53557,21 +53572,6 @@
         {
           "price": "$17",
           "date": "2026-09-15T17:09:28+00:00"
-        }
-      ],
-      "tag": "WTS"
-    },
-    {
-      "name": "Radice Autumn 2022",
-      "price": "$250",
-      "url": "https://speak-easy.club/threads/radice-autumn-2022-somebody-else-rake-these-leaves-eh-eh.45227/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-09-16T13:56:07+00:00",
-      "last_updated": "2026-09-17T06:38:14.437281+00:00",
-      "price_history": [
-        {
-          "price": "$250",
-          "date": "2026-09-16T13:56:07+00:00"
         }
       ],
       "tag": "WTS"
@@ -54239,6 +54239,13 @@
     },
     {
       "date": "2026-09-22T06:38:21.153250+00:00",
+      "found": 14,
+      "added": 0,
+      "price_changed": 0,
+      "total": 2739
+    },
+    {
+      "date": "2026-09-23T06:38:14.606122+00:00",
       "found": 14,
       "added": 0,
       "price_changed": 0,
