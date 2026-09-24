@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-23T19:16:16.277693+00:00",
+  "generated": "2026-09-24T04:06:11.528265+00:00",
   "stats": {
-    "total_listings": 7954,
-    "excluded_multipacks": 2309,
+    "total_listings": 7979,
+    "excluded_multipacks": 2310,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3558,
@@ -31432,9 +31432,9 @@
             {
               "name": "Esoterica Margate",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/230996/",
-              "price": "$343.00",
-              "last_updated": "2026-09-21T04:00:28.452285+00:00",
+              "url": "https://tinbids.com/auction/232078/",
+              "price": "$202.00",
+              "last_updated": "2026-09-24T04:00:22.231651+00:00",
               "first_seen": "2026-07-16T02:57:15+00:00",
               "year": "",
               "price_history": [
@@ -31457,6 +31457,10 @@
                 {
                   "price": "$343.00",
                   "date": "2026-09-21T04:00:28.452285+00:00"
+                },
+                {
+                  "price": "$202.00",
+                  "date": "2026-09-24T04:00:22.231651+00:00"
                 }
               ]
             },
@@ -116400,6 +116404,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Esoterica Margate": "esoterica|margate",
     "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
     "BROWN SUGAR FLAKE - Samuel Gawith - 2022": "samuelgawith|brownsugarflake",
     "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
@@ -116408,7 +116413,6 @@
     "Erinmore Flake 50g Tin (2017)": "erinmore|flake",
     "Fox Bankers Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|bankers",
     "Escudo Navy De Luxe 50g Tin (2014)": "stg|escudonavydeluxe",
-    "Esoterica Margate": "esoterica|margate",
     "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
     "Excellent Sealed 2023 Peter Heinrichs Dark Strong 100g. Tin": "peterheinrichs|darkstrongflake",
     "Very Nice Sealed 2018 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
