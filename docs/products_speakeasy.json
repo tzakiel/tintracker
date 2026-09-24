@@ -1,6 +1,21 @@
 {
   "products": [
     {
+      "name": "Pipes are",
+      "price": "$50",
+      "url": "https://speak-easy.club/threads/crappy-pipes-are-back-48-hours-only.45274/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-09-23T15:43:35+00:00",
+      "last_updated": "2026-09-24T06:38:15.498621+00:00",
+      "price_history": [
+        {
+          "price": "$50",
+          "date": "2026-09-23T15:43:35+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
       "name": "Edit: Black Dot goes around",
       "price": "$7",
       "url": "https://speak-easy.club/threads/round-2-black-dot.45135/unread",
@@ -53371,19 +53386,19 @@
       "tag": "WTS"
     }
   ],
-  "last_scraped": "2026-09-23T06:38:14.606122+00:00",
+  "last_scraped": "2026-09-24T06:38:15.498621+00:00",
   "latest_scrape": [
     {
-      "name": "Radice Autumn 2022",
-      "price": "$250",
-      "url": "https://speak-easy.club/threads/radice-autumn-2022-somebody-else-rake-these-leaves-eh-eh.45227/unread",
+      "name": "Pipes are",
+      "price": "$50",
+      "url": "https://speak-easy.club/threads/crappy-pipes-are-back-48-hours-only.45274/unread",
       "source": "Speak-Easy.Club",
-      "first_seen": "2026-09-16T13:56:07+00:00",
-      "last_updated": "2026-09-17T06:38:14.437281+00:00",
+      "first_seen": "2026-09-23T15:43:35+00:00",
+      "last_updated": "2026-09-24T06:38:15.498621+00:00",
       "price_history": [
         {
-          "price": "$250",
-          "date": "2026-09-16T13:56:07+00:00"
+          "price": "$50",
+          "date": "2026-09-23T15:43:35+00:00"
         }
       ],
       "tag": "WTS"
@@ -53572,6 +53587,21 @@
         {
           "price": "$17",
           "date": "2026-09-15T17:09:28+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
+      "name": "Radice Autumn 2022",
+      "price": "$250",
+      "url": "https://speak-easy.club/threads/radice-autumn-2022-somebody-else-rake-these-leaves-eh-eh.45227/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-09-16T13:56:07+00:00",
+      "last_updated": "2026-09-17T06:38:14.437281+00:00",
+      "price_history": [
+        {
+          "price": "$250",
+          "date": "2026-09-16T13:56:07+00:00"
         }
       ],
       "tag": "WTS"
@@ -54250,10 +54280,16 @@
       "added": 0,
       "price_changed": 0,
       "total": 2739
+    },
+    {
+      "date": "2026-09-24T06:38:15.498621+00:00",
+      "found": 15,
+      "added": 1,
+      "price_changed": 0,
+      "total": 2740
     }
   ],
   "thread_recheck": {
-    "https://speak-easy.club/threads/glp-embarcadero-8oz.45177/unread": "2026-09-23T06:38:15.162640+00:00",
     "https://speak-easy.club/threads/frog-mortons-cellar-leftovers-from-last-sale-lower-prices.45183/unread": "2026-09-24T06:38:18.058315+00:00",
     "https://speak-easy.club/threads/the-voodoo-queen-has-entered-the-chat.45185/unread": "2026-09-24T06:38:18.058315+00:00",
     "https://speak-easy.club/threads/jjb224s-cellar-fire-sale-sold.45179/unread": "2026-09-24T06:38:18.058315+00:00",
@@ -54268,7 +54304,8 @@
     "https://speak-easy.club/threads/peterson-standard-314.45119/unread": "2026-10-01T06:38:14.437281+00:00",
     "https://speak-easy.club/threads/radice-autumn-2022-somebody-else-rake-these-leaves-eh-eh.45227/unread": "2026-10-01T06:38:14.437281+00:00",
     "https://speak-easy.club/threads/round-2-black-dot.45135/unread": "2026-10-03T06:38:12.997404+00:00",
-    "https://speak-easy.club/threads/baccy.45063/unread": "2026-10-04T06:38:16.731000+00:00"
+    "https://speak-easy.club/threads/baccy.45063/unread": "2026-10-04T06:38:16.731000+00:00",
+    "https://speak-easy.club/threads/crappy-pipes-are-back-48-hours-only.45274/unread": "2026-10-08T06:38:15.498621+00:00"
   },
   "thread_recheck_tags": {
     "https://speak-easy.club/threads/brigham-and-peterson.44723/unread": "WTS",
@@ -55162,6 +55199,7 @@
     "https://speak-easy.club/threads/2015-virginia-cream-opened-for.45223/unread": "CLOSED",
     "https://speak-easy.club/threads/largo-and-gambler-bags.45231/unread": "SOLD",
     "https://speak-easy.club/threads/radice-autumn-2022-somebody-else-rake-these-leaves-eh-eh.45227/unread": "WTS",
-    "https://speak-easy.club/threads/round-2-black-dot.45135/unread": "CLOSED"
+    "https://speak-easy.club/threads/round-2-black-dot.45135/unread": "CLOSED",
+    "https://speak-easy.club/threads/crappy-pipes-are-back-48-hours-only.45274/unread": "WTS"
   }
 }
