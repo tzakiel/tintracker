@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-24T19:16:17.523663+00:00",
+  "generated": "2026-09-25T04:05:41.665759+00:00",
   "stats": {
-    "total_listings": 7985,
-    "excluded_multipacks": 2311,
+    "total_listings": 8001,
+    "excluded_multipacks": 2313,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3558,
@@ -29925,9 +29925,9 @@
             {
               "name": "Esoterica - Margate - 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/220643/",
-              "price": "$80.00",
-              "last_updated": "2026-08-26T16:00:22.761207+00:00",
+              "url": "https://tinbids.com/auction/232566/",
+              "price": "$100.00",
+              "last_updated": "2026-09-25T04:00:24.606726+00:00",
               "first_seen": "2026-08-15T12:23:01+00:00",
               "year": "",
               "price_history": [
@@ -29938,6 +29938,10 @@
                 {
                   "price": "$80.00",
                   "date": "2026-08-26T16:00:22.761207+00:00"
+                },
+                {
+                  "price": "$100.00",
+                  "date": "2026-09-25T04:00:24.606726+00:00"
                 }
               ]
             },
@@ -71782,9 +71786,9 @@
             {
               "name": "Vintage McClelland 2016 CHRISTMAS CHEER 100g Sealed Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/215121/",
-              "price": "$167.00",
-              "last_updated": "2026-08-12T04:00:26.322351+00:00",
+              "url": "https://tinbids.com/auction/232462/",
+              "price": "$144.00",
+              "last_updated": "2026-09-25T04:00:24.606726+00:00",
               "first_seen": "2026-06-26T13:10:37+00:00",
               "year": "2016",
               "price_history": [
@@ -71795,6 +71799,10 @@
                 {
                   "price": "$167.00",
                   "date": "2026-08-12T04:00:26.322351+00:00"
+                },
+                {
+                  "price": "$144.00",
+                  "date": "2026-09-25T04:00:24.606726+00:00"
                 }
               ]
             },
@@ -116492,6 +116500,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Esoterica - Margate - 50g": "esoterica|margate",
+    "Vintage McClelland 2016 CHRISTMAS CHEER 100g Sealed Tin": "mcclelland|christmascheer",
     "Esoterica Margate": "esoterica|margate",
     "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
     "BROWN SUGAR FLAKE - Samuel Gawith - 2022": "samuelgawith|brownsugarflake",
@@ -116575,7 +116585,6 @@
     "Esoterica Dorchester 2oz Tin Released 2025": "esoterica|dorchester",
     "Peterson’s Dunhill My Mixture 965 1.76 oz’s Pipe Tobacco Tin Made in England (United Kingdon)": "dunhill|mymixtureno965",
     "2016 Orlik Dark Strong Kentucky - 1 Tin NR BIN $70": "orlik|darkstrongkentucky",
-    "Esoterica - Margate - 50g": "esoterica|margate",
     "HH Vintage Syrian": "macbaren|hhvintagesyrian",
     "Esoterica - Pembroke - 4 oz. 2018": "esoterica|pembroke",
     "Jewel Of St James Genuine Louisiana Perique 1 OZ sealed jar": "jewelofstjames|perique",
@@ -116909,7 +116918,6 @@
     "2019 Bob's Chocolate Flake vacuum sealed - 50g": "gawithhoggarthco|bobschocolateflake",
     "Peter Heinrichs Golden Sliced - 200g": "peterheinrichs|goldensliced",
     "McClelland 40th Anniversary - 2018 tin date": "mcclelland|40thanniversary",
-    "Vintage McClelland 2016 CHRISTMAS CHEER 100g Sealed Tin": "mcclelland|christmascheer",
     "Very Nice Sealed Russ Ouellette's Fire Storm 50g. Tin": "russouellette|firestorm",
     "Very Nice Sealed 2024 Cornell & Diehl Small Batch Sansepolcro 2oz. Tin": "cornelldiehl|smallbatchsansepolcro",
     "Cornell & Diehl - Small Batch Palmetto Balkan 2026": "cornelldiehl|palmettobalkan",
