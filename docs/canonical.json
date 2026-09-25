@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-25T15:14:18.248538+00:00",
+  "generated": "2026-09-25T16:07:25.212847+00:00",
   "stats": {
-    "total_listings": 8001,
-    "excluded_multipacks": 2313,
+    "total_listings": 8008,
+    "excluded_multipacks": 2314,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3558,
@@ -60099,15 +60099,19 @@
             {
               "name": "Capstan Gold Navy Cut - 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/216116/",
-              "price": "$55.00",
-              "last_updated": "2026-08-16T04:00:25.738353+00:00",
+              "url": "https://tinbids.com/auction/232748/",
+              "price": "$50.00",
+              "last_updated": "2026-09-25T16:00:30.244200+00:00",
               "first_seen": "2026-08-16T02:42:05+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$55.00",
                   "date": "2026-08-16T02:42:05+00:00"
+                },
+                {
+                  "price": "$50.00",
+                  "date": "2026-09-25T16:00:30.244200+00:00"
                 }
               ]
             },
@@ -72628,7 +72632,7 @@
             {
               "name": "2017 McClelland’s Christmas Cheer - 1 tin NR BIN $200",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/225500/",
+              "url": "https://tinbids.com/auction/235112/",
               "price": "$195.00",
               "last_updated": "2026-09-01T16:00:28.872566+00:00",
               "first_seen": "2026-08-12T12:35:05+00:00",
@@ -116564,6 +116568,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Capstan Gold Navy Cut - 50g": "macbaren|capstangoldflake",
     "Esoterica - Margate - 50g": "esoterica|margate",
     "Vintage McClelland 2016 CHRISTMAS CHEER 100g Sealed Tin": "mcclelland|christmascheer",
     "Esoterica Margate": "esoterica|margate",
@@ -116881,7 +116886,6 @@
     "Sutliff Crumble Kake Red Virginia (Discontinued) BIN!!": "sutliff|crumblekakeredvirginias",
     "Hearth & Home White Knight": "hearthhome|whiteknight",
     "Hearth & Home Black House": "hearthhome|blackhouse",
-    "Capstan Gold Navy Cut - 50g": "macbaren|capstangoldflake",
     "Hearth & Home Fusilier's Ration": "hearthhome|fusiliersration",
     "Esoterica Dorchester 2019 2oz tin": "esoterica|dorchester",
     "McClelland Syrian Full Balkan 50 g tin": "mcclelland|syrianfullbalkan",
