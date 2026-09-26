@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-25T19:16:16.923274+00:00",
+  "generated": "2026-09-26T04:04:50.833886+00:00",
   "stats": {
-    "total_listings": 8008,
-    "excluded_multipacks": 2314,
+    "total_listings": 8020,
+    "excluded_multipacks": 2315,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3558,
@@ -105356,7 +105356,7 @@
             {
               "name": "Sutliff Cringle Flake 2020 (No Reserve)",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/228029/",
+              "url": "https://tinbids.com/auction/233604/",
               "price": "$50.00",
               "last_updated": "2026-08-23T04:00:21.633690+00:00",
               "first_seen": "2026-07-03T22:49:21+00:00",
@@ -105480,7 +105480,7 @@
             {
               "name": "Sutliff Cringle Flake 2021 (No Reserve)",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/228030/",
+              "url": "https://tinbids.com/auction/233605/",
               "price": "$50.00",
               "last_updated": "2026-09-12T04:00:24.612507+00:00",
               "first_seen": "2026-07-15T22:26:26+00:00",
@@ -105720,9 +105720,9 @@
             {
               "name": "Discontinued, Sutliff Cringle Flake 2023",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/228032/",
-              "price": "$58.00",
-              "last_updated": "2026-09-12T16:00:21.248280+00:00",
+              "url": "https://tinbids.com/auction/233607/",
+              "price": "$80.00",
+              "last_updated": "2026-09-26T04:00:29.993323+00:00",
               "first_seen": "2026-07-21T09:22:24+00:00",
               "year": "2023",
               "price_history": [
@@ -105733,6 +105733,10 @@
                 {
                   "price": "$58.00",
                   "date": "2026-09-12T16:00:21.248280+00:00"
+                },
+                {
+                  "price": "$80.00",
+                  "date": "2026-09-26T04:00:29.993323+00:00"
                 }
               ]
             },
@@ -105769,9 +105773,9 @@
             {
               "name": "Sutliff Cringle Flake 2024",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/228033/",
-              "price": "$69.00",
-              "last_updated": "2026-09-12T16:00:21.248280+00:00",
+              "url": "https://tinbids.com/auction/233608/",
+              "price": "$60.00",
+              "last_updated": "2026-09-26T04:00:29.993323+00:00",
               "first_seen": "2026-08-09T19:17:38+00:00",
               "year": "2024",
               "price_history": [
@@ -105782,6 +105786,10 @@
                 {
                   "price": "$69.00",
                   "date": "2026-09-12T16:00:21.248280+00:00"
+                },
+                {
+                  "price": "$60.00",
+                  "date": "2026-09-26T04:00:29.993323+00:00"
                 }
               ]
             },
@@ -116584,6 +116592,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Sutliff Cringle Flake 2024": "sutliff|cringleflake",
+    "Discontinued, Sutliff Cringle Flake 2023": "sutliff|cringleflake",
     "Capstan Gold Navy Cut - 50g": "macbaren|capstangoldflake",
     "Esoterica - Margate - 50g": "esoterica|margate",
     "Vintage McClelland 2016 CHRISTMAS CHEER 100g Sealed Tin": "mcclelland|christmascheer",
@@ -116615,8 +116625,6 @@
     "Fox Dorisco Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|doriscomixture",
     "Excellent Sealed 2016 Our Best Blend by Smokers Haven 2oz. Tin": "smokershaven|ourbestblend",
     "2oz C&D's (Discontinued) Ridin' The Raid From 2013": "cornelldiehl|ridintheraid",
-    "Sutliff Cringle Flake 2024": "sutliff|cringleflake",
-    "Discontinued, Sutliff Cringle Flake 2023": "sutliff|cringleflake",
     "2016 Esoterica Tilbury - 8 oz bag": "esoterica|tilbury",
     "Sutliff Cringle Flake 2021 (No Reserve)": "sutliff|cringleflake",
     "Gawith Bothy Flake 2016 NR": "samuelgawith|bothyflake",
