@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-26T15:14:15.700154+00:00",
+  "generated": "2026-09-26T16:03:45.901608+00:00",
   "stats": {
-    "total_listings": 8020,
-    "excluded_multipacks": 2315,
+    "total_listings": 8025,
+    "excluded_multipacks": 2316,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3558,
@@ -87013,15 +87013,19 @@
             {
               "name": "Peterson 3-Sweet Killarney",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/206334/",
-              "price": "$30.00",
-              "last_updated": "2026-07-17T16:00:34.409951+00:00",
+              "url": "https://tinbids.com/auction/234605/",
+              "price": "$15.00",
+              "last_updated": "2026-09-26T16:00:25.119204+00:00",
               "first_seen": "2026-07-17T11:00:17+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$30.00",
                   "date": "2026-07-17T11:00:17+00:00"
+                },
+                {
+                  "price": "$15.00",
+                  "date": "2026-09-26T16:00:25.119204+00:00"
                 }
               ]
             }
@@ -116656,6 +116660,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Peterson 3-Sweet Killarney": "peterson|sweetkillarney",
     "Sutliff Cringle Flake 2024": "sutliff|cringleflake",
     "Discontinued, Sutliff Cringle Flake 2023": "sutliff|cringleflake",
     "Capstan Gold Navy Cut - 50g": "macbaren|capstangoldflake",
@@ -117819,7 +117824,6 @@
     "Rattray’s Hal O’ the Wynd 2018 NR": "rattrays|halothewynd",
     "Rattray’s Old Gowrie 2018 NR": "rattrays|oldgowrie",
     "Gawith & Hoggarth Rum Flake 2009 NR": "gawithhoggarthco|rumflake",
-    "Peterson 3-Sweet Killarney": "peterson|sweetkillarney",
     "2012 McClelland’s Frog Morton Cellar - 1 Tin NR BIN $250": "mcclelland|frogmortonscellar",
     "HOLY GRAIL - 1970s Balkan Sobranie No 759 Mixture - NR": "jfgermain|balkansobranie",
     "Rare vintage COPE'S ESCUDO 100g full tin NR": "stg|escudonavydeluxe",
