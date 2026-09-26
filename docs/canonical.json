@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-26T16:03:45.901608+00:00",
+  "generated": "2026-09-26T17:14:31.286782+00:00",
   "stats": {
-    "total_listings": 8025,
-    "excluded_multipacks": 2316,
+    "total_listings": 8092,
+    "excluded_multipacks": 2326,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3558,
@@ -20703,14 +20703,18 @@
               "name": "Orlik’s Drew Estate Grand Central 50g tin – Year 2013",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/orliks-drew-estate-grand-central-50g-tin-year-2013-2/",
-              "price": "$40.00",
-              "last_updated": "2026-08-08T17:13:45.731929+00:00",
+              "price": "$45.00",
+              "last_updated": "2026-09-26T17:13:39.192166+00:00",
               "first_seen": "2026-08-08T17:13:45.731929+00:00",
               "year": "2013",
               "price_history": [
                 {
                   "price": "$40.00",
                   "date": "2026-08-08T17:13:45.731929+00:00"
+                },
+                {
+                  "price": "$45.00",
+                  "date": "2026-09-26T17:13:39.192166+00:00"
                 }
               ]
             }
@@ -43081,6 +43085,25 @@
           "quantity": "2oz",
           "members": [
             {
+              "name": "G.L Pease Limited Edition Stonehenge Flake 2oz tin – Year 2017",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-limited-edition-stonehenge-flake-2oz-tin-year-2017/",
+              "price": "$65.00",
+              "last_updated": "2026-09-26T17:13:39.192166+00:00",
+              "first_seen": "2026-07-11T17:13:37.793839+00:00",
+              "year": "2017",
+              "price_history": [
+                {
+                  "price": "$50.00",
+                  "date": "2026-07-11T17:13:37.793839+00:00"
+                },
+                {
+                  "price": "$65.00",
+                  "date": "2026-09-26T17:13:39.192166+00:00"
+                }
+              ]
+            },
+            {
               "name": "G.L Pease Limited Edition Stonehenge Flake 2oz tins – Year 2017",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-limited-edition-stonehenge-flake-2oz-tins-year-2017-2/",
@@ -43092,21 +43115,6 @@
                 {
                   "price": "$50.00",
                   "date": "2026-08-01T17:13:47.061174+00:00"
-                }
-              ]
-            },
-            {
-              "name": "G.L Pease Limited Edition Stonehenge Flake 2oz tin – Year 2017",
-              "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-limited-edition-stonehenge-flake-2oz-tin-year-2017/",
-              "price": "$50.00",
-              "last_updated": "2026-07-11T17:13:37.793839+00:00",
-              "first_seen": "2026-07-11T17:13:37.793839+00:00",
-              "year": "2017",
-              "price_history": [
-                {
-                  "price": "$50.00",
-                  "date": "2026-07-11T17:13:37.793839+00:00"
                 }
               ]
             },
@@ -65200,9 +65208,9 @@
             {
               "name": "Mac Baren Limited Edition Latakia Rolls 3-1/2oz tins – Year 2020",
               "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/mac-baren-limited-edition-latakia-rolls-3-1-2oz-tins-year-2020/",
-              "price": "$65.00",
-              "last_updated": "2026-07-25T17:13:37.916898+00:00",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mac-baren-limited-edition-latakia-rolls-3-1-2oz-tins-year-2020-2/",
+              "price": "$75.00",
+              "last_updated": "2026-09-26T17:13:39.192166+00:00",
               "first_seen": "2026-07-18T17:13:38.985666+00:00",
               "year": "2020",
               "price_history": [
@@ -65213,6 +65221,10 @@
                 {
                   "price": "$65.00",
                   "date": "2026-07-25T17:13:37.916898+00:00"
+                },
+                {
+                  "price": "$75.00",
+                  "date": "2026-09-26T17:13:39.192166+00:00"
                 }
               ]
             }
@@ -66554,8 +66566,8 @@
               "name": "Mac Baren Syr. Latakia Solent Mixture 3-1/2oz tin – Year 2005",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/mac-baren-syr-latakia-solent-mixture-3-1-2oz-tin-year-2005/",
-              "price": "$95.00",
-              "last_updated": "2026-09-05T17:14:09.712238+00:00",
+              "price": "$100.00",
+              "last_updated": "2026-09-26T17:13:39.192166+00:00",
               "first_seen": "2026-08-15T17:13:34.289812+00:00",
               "year": "2005",
               "price_history": [
@@ -66566,6 +66578,10 @@
                 {
                   "price": "$95.00",
                   "date": "2026-09-05T17:14:09.712238+00:00"
+                },
+                {
+                  "price": "$100.00",
+                  "date": "2026-09-26T17:13:39.192166+00:00"
                 }
               ]
             }
@@ -68639,14 +68655,18 @@
               "name": "McClelland’s 3 Oaks Syr. Latakia 50g tins – Year 2016",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-3-oaks-syr-latakia-50g-tins-year-2016-2/",
-              "price": "$85.00",
-              "last_updated": "2026-07-11T17:13:37.793839+00:00",
+              "price": "$90.00",
+              "last_updated": "2026-09-26T17:13:39.192166+00:00",
               "first_seen": "2026-07-11T17:13:37.793839+00:00",
               "year": "2016",
               "price_history": [
                 {
                   "price": "$85.00",
                   "date": "2026-07-11T17:13:37.793839+00:00"
+                },
+                {
+                  "price": "$90.00",
+                  "date": "2026-09-26T17:13:39.192166+00:00"
                 }
               ]
             },
@@ -71610,14 +71630,18 @@
               "name": "McClelland’s Christmas Cheer 100g tin – Year 2007",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-christmas-cheer-100g-tin-year-2007-2/",
-              "price": "$135.00",
-              "last_updated": "2026-07-25T17:13:37.916898+00:00",
+              "price": "$130.00",
+              "last_updated": "2026-09-26T17:13:39.192166+00:00",
               "first_seen": "2026-07-25T17:13:37.916898+00:00",
               "year": "2007",
               "price_history": [
                 {
                   "price": "$135.00",
                   "date": "2026-07-25T17:13:37.916898+00:00"
+                },
+                {
+                  "price": "$130.00",
+                  "date": "2026-09-26T17:13:39.192166+00:00"
                 }
               ]
             },
@@ -98623,6 +98647,25 @@
               ]
             },
             {
+              "name": "Samuel Gawith Special Edition Squadron Leader W/ Perique 50g tins – Year 2015",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/samuel-gawith-special-edition-squadron-leader-w-perique-50g-tins-year-2015/",
+              "price": "$50.00",
+              "last_updated": "2026-09-26T17:13:39.192166+00:00",
+              "first_seen": "2026-07-04T17:13:42.317217+00:00",
+              "year": "2015",
+              "price_history": [
+                {
+                  "price": "$55.00",
+                  "date": "2026-07-04T17:13:42.317217+00:00"
+                },
+                {
+                  "price": "$50.00",
+                  "date": "2026-09-26T17:13:39.192166+00:00"
+                }
+              ]
+            },
+            {
               "name": "Samuel Gawith Special Edition Squadron Leader W/ Perique 50g tin – Year 2015",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/samuel-gawith-special-edition-squadron-leader-w-perique-50g-tin-year-2015/",
@@ -98634,21 +98677,6 @@
                 {
                   "price": "$45.00",
                   "date": "2026-08-15T17:13:34.289812+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Samuel Gawith Special Edition Squadron Leader W/ Perique 50g tins – Year 2015",
-              "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/samuel-gawith-special-edition-squadron-leader-w-perique-50g-tins-year-2015/",
-              "price": "$55.00",
-              "last_updated": "2026-07-04T17:13:42.317217+00:00",
-              "first_seen": "2026-07-04T17:13:42.317217+00:00",
-              "year": "2015",
-              "price_history": [
-                {
-                  "price": "$55.00",
-                  "date": "2026-07-04T17:13:42.317217+00:00"
                 }
               ]
             },
@@ -102156,14 +102184,18 @@
               "name": "Solani Aged Burley Flake 50g tins – Year 2014",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/solani-aged-burley-flake-50g-tins-year-2014/",
-              "price": "$45.00",
-              "last_updated": "2026-07-11T17:13:37.793839+00:00",
+              "price": "$40.00",
+              "last_updated": "2026-09-26T17:13:39.192166+00:00",
               "first_seen": "2026-07-11T17:13:37.793839+00:00",
               "year": "2014",
               "price_history": [
                 {
                   "price": "$45.00",
                   "date": "2026-07-11T17:13:37.793839+00:00"
+                },
+                {
+                  "price": "$40.00",
+                  "date": "2026-09-26T17:13:39.192166+00:00"
                 }
               ]
             },
@@ -115653,15 +115685,19 @@
             {
               "name": "Wessex Golden Virginia Flake 50g tins – Year 2013",
               "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/wessex-golden-virginia-flake-50g-tins-year-2013/",
-              "price": "$40.00",
-              "last_updated": "2026-08-01T17:13:47.061174+00:00",
+              "url": "https://www.pipestud.com/product/tobacco-tins/wessex-golden-virginia-flake-50g-tins-year-2013-2/",
+              "price": "$45.00",
+              "last_updated": "2026-09-26T17:13:39.192166+00:00",
               "first_seen": "2026-08-01T17:13:47.061174+00:00",
               "year": "2013",
               "price_history": [
                 {
                   "price": "$40.00",
                   "date": "2026-08-01T17:13:47.061174+00:00"
+                },
+                {
+                  "price": "$45.00",
+                  "date": "2026-09-26T17:13:39.192166+00:00"
                 }
               ]
             }
@@ -116073,6 +116109,15 @@
     }
   ],
   "name_to_id": {
+    "Mac Baren Syr. Latakia Solent Mixture 3-1/2oz tin – Year 2005": "macbaren|solentmixture",
+    "Orlik’s Drew Estate Grand Central 50g tin – Year 2013": "drewestate|grandcentral",
+    "Wessex Golden Virginia Flake 50g tins – Year 2013": "wessex|goldenvirginiaflake",
+    "Mac Baren Limited Edition Latakia Rolls 3-1/2oz tins – Year 2020": "macbaren|latakiarolls",
+    "McClelland’s Christmas Cheer 100g tin – Year 2007": "mcclelland|christmascheer",
+    "McClelland’s 3 Oaks Syr. Latakia 50g tins – Year 2016": "mcclelland|3oakssyrian",
+    "Solani Aged Burley Flake 50g tins – Year 2014": "solani|agedburleyflake656",
+    "G.L Pease Limited Edition Stonehenge Flake 2oz tin – Year 2017": "glpease|stonehengeflake",
+    "Samuel Gawith Special Edition Squadron Leader W/ Perique 50g tins – Year 2015": "samuelgawith|squadronleaderwithperique",
     "McClelland’s 3 Oaks 50g tin – Year 2009": "mcclelland|3oakssyrian",
     "Hearth & Home’s Bengal Slices 50g tin – Year 2016": "sutliff|bengalslices",
     "McClelland’s Butera’s Royal Vintage Matured Ribbon 50g tin – Year 2010": "butera|maturedribbon",
@@ -116080,7 +116125,6 @@
     "McClelland’s Stave-Aged Virginia Ribbon 50g tin – Year 2013": "mcclelland|staveagedvirginia",
     "Wessex Dark Flake 50g tins – Year 2017": "wessex|brigadecampaigndarkflake",
     "Theodorus Niemeyer Flying Dutchman 2oz tins – 1960’s – 1970’s era": "theodorusniemeyer|flyingdutchman",
-    "Mac Baren Syr. Latakia Solent Mixture 3-1/2oz tin – Year 2005": "macbaren|solentmixture",
     "Mac Baren’s HH Old Dark Fired 50g tin – Year 2016": "macbaren|hholddarkfired",
     "Mac Baren’s HH Bold Kentucky 50g tin – Year 2015": "macbaren|hhboldkentucky",
     "Mac Baren’s St. Bruno Flake 50g tins – Year 2016": "macbaren|stbrunoflake",
@@ -116173,7 +116217,6 @@
     "Rattray’s Old Gowrie 50g tins – Year 2016": "rattrays|oldgowrie",
     "Erinmore Flake 50g tins – Year 2017": "erinmore|flake",
     "Hearth & Home White Knight 50g tins – Year 2016": "hearthhome|whiteknight",
-    "Orlik’s Drew Estate Grand Central 50g tin – Year 2013": "drewestate|grandcentral",
     "Orlik Dark Strong Kentucky 50g tin – Year 2016": "orlik|darkstrongkentucky",
     "Standard Tobacco Co. Bengal Slices 50g tins – Year 2016": "sutliff|bengalslices",
     "Orlik Golden Sliced 50g tin – Year 2016": "orlik|goldensliced",
@@ -116232,7 +116275,6 @@
     "McClelland’s Frog Morton On the Town 50g tin – Year 2017": "mcclelland|frogmortononthetown",
     "McClelland’s Ashton Revival Series Old Dog 50g tin – Year 2010": "ashton|olddog",
     "McClelland’s Balkan Beauty 50g tin -Year 2017": "mcclelland|balkanbeauty",
-    "Wessex Golden Virginia Flake 50g tins – Year 2013": "wessex|goldenvirginiaflake",
     "Dunhill Murray’s era My Mixture 965 in 50g tins – Year 2002": "dunhill|mymixtureno965",
     "McClelland’s Boston 1776 in 50g tins – Year 2013": "mcclelland|boston1776",
     "Fribourg & Treyer BlackJack Red Virginia 50g tin – Year 2004": "fribourgtreyer|blackjack",
@@ -116284,7 +116326,6 @@
     "G.L Pease Limited Edition Stonehenge Flake 2oz tins – Year 2017": "glpease|stonehengeflake",
     "Gallaher’s Rich Dark Honeydew 50g tin – 1970’s era": "gallahers|richdarkhoneydew",
     "McClelland’s Christmas Cheer 100g tin – Year 2012": "mcclelland|christmascheer",
-    "Mac Baren Limited Edition Latakia Rolls 3-1/2oz tins – Year 2020": "macbaren|latakiarolls",
     "Wessex Golden Virginia Flake 50g tin – Year 2007": "wessex|goldenvirginiaflake",
     "Mac Baren’s HH Bold Kentucky 50g tins – Year 2015": "macbaren|hhboldkentucky",
     "Mac Baren’s HH Bold Kentucky 100g tin – Year 2017": "macbaren|hhboldkentucky",
@@ -116329,7 +116370,6 @@
     "Ashton Syr. Latakia Celebrated Sovereign 50g tin – Year 1998 & Made by McClelland’s": "ashton|celebratedsovereign",
     "McClelland’s No. 24 Matured Virginia 100g tins – Year 2016": "mcclelland|no24maturedvirginia",
     "McClelland’s Christmas Cheer 100g tin – Year 2006": "mcclelland|christmascheer",
-    "McClelland’s Christmas Cheer 100g tin – Year 2007": "mcclelland|christmascheer",
     "Germain’s Esoterica Dorchester 8oz bag – Year 2025": "esoterica|dorchester",
     "Germain’s Balkan Sobranie 50g tin – Year 2025": "jfgermain|balkansobranie",
     "Germain’s Esoterica Margate 8oz bag – Year 2024": "esoterica|margate",
@@ -116433,7 +116473,6 @@
     "Cornell & Diehl Small Batch Sansepolcro 2oz tin – First Year 2016 Production": "cornelldiehl|sansepolcro",
     "Dunhill Royal Yacht 50g tin – Year 2015": "dunhill|royalyacht",
     "McClelland’s Syr. Latakia Orient 996 in 50g tins – 2017": "mcclelland|orient996",
-    "McClelland’s 3 Oaks Syr. Latakia 50g tins – Year 2016": "mcclelland|3oakssyrian",
     "McClelland’s Red & Black 50g tin – Year 2017": "mcclelland|redblack",
     "McClelland’s Deep Hollow 50g tin – Year 2016": "mcclelland|deephollow",
     "McClelland’s Frog Morton Cellar 50g tin – Year 2016": "mcclelland|frogmortonscellar",
@@ -116461,7 +116500,6 @@
     "Dunhill Nightcap 50g tin – Year 2011": "dunhill|nightcap",
     "Mac Baren’s Latakia Blend 3.5oz tin – Year 2005": "macbaren|latakiablend",
     "Wessex Fragrant Virginia 50g tins – Year 2017": "wessex|fragrantvirginia",
-    "Solani Aged Burley Flake 50g tins – Year 2014": "solani|agedburleyflake656",
     "McClelland’s 3 Oaks 50g tins – Year 2009": "mcclelland|3oaksoriginalblend",
     "Solani Blend 369 Virginia, Burley & Perique 50g tin – Year 2008": "solani|369",
     "Samuel Gawith 1792 Flake 50g tins – Year 2018": "samuelgawith|1792flake",
@@ -116481,7 +116519,6 @@
     "Ashton Syr. Latakia Celebrated Sovereign 50g tin – Year 2004 & Made by McClelland’s": "ashton|celebratedsovereign",
     "McClelland’s Blakeney’s Best Acadian Ribbon 50g tin- Year 2006": "mcclelland|blakeneysbestacadianribbon",
     "McClelland’s Blakeney’s Best Tawny Flake 50g tin – Year 2006": "mcclelland|blakeneysbesttawnyflake",
-    "G.L Pease Limited Edition Stonehenge Flake 2oz tin – Year 2017": "glpease|stonehengeflake",
     "Savinelli Mr. G Black Cavendish 50g tins – 1980’s era and Made by Mac Baren": "savinelli|mrgblackcavendish",
     "Robert McConnell’s Original Oriental 50g tins – Year 1992": "robertmcconnell|oriental",
     "Samuel Gawith Black XX 50g tins – Year 2017": "samuelgawith|blackxx",
@@ -116504,7 +116541,6 @@
     "Gawith & Hoggarth Revor Plug Factory sealed 50g Pouches – Year 2012": "gawithhoggarthco|revorplug",
     "Peterson’s Murray’s era University Flake 50g tin – Year 2002": "peterson|universityflake",
     "Peterson’s Irish Flake 50g tins – Year 2016": "peterson|irishflake",
-    "Samuel Gawith Special Edition Squadron Leader W/ Perique 50g tins – Year 2015": "samuelgawith|squadronleaderwithperique",
     "Peterson’s University Flake 50g tin – Year 2014": "peterson|universityflake",
     "McClelland’s Frog Morton Cellar 100g tins – First Year 2012 Production": "mcclelland|frogmortonscellar",
     "G.L. Pease Old London Series Temple Bar 2oz tin – First Year 2016 Production": "glpease|templebar",
