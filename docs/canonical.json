@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-26T19:16:17.263574+00:00",
+  "generated": "2026-09-27T04:04:23.448799+00:00",
   "stats": {
-    "total_listings": 8092,
-    "excluded_multipacks": 2326,
+    "total_listings": 8115,
+    "excluded_multipacks": 2331,
     "total_tins": 1315,
     "multi_member_tins": 671,
-    "listings_in_groups": 3558,
+    "listings_in_groups": 3559,
     "cross_source_tins": 508
   },
   "tins": [
@@ -31590,6 +31590,21 @@
           "quantity": "",
           "members": [
             {
+              "name": "Margate",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/233372/",
+              "price": "$100.00",
+              "last_updated": "2026-09-27T04:00:22.532979+00:00",
+              "first_seen": "2026-09-27T02:16:55+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$100.00",
+                  "date": "2026-09-27T02:16:55+00:00"
+                }
+              ]
+            },
+            {
               "name": "Esoterica Margate",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/232078/",
@@ -33196,9 +33211,9 @@
             {
               "name": "Penzance 2017",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/230840/",
-              "price": "$206.00",
-              "last_updated": "2026-09-20T16:00:22.475999+00:00",
+              "url": "https://tinbids.com/auction/234971/",
+              "price": "$310.00",
+              "last_updated": "2026-09-27T04:00:22.532979+00:00",
               "first_seen": "2026-08-16T01:08:32+00:00",
               "year": "2017",
               "price_history": [
@@ -33213,6 +33228,10 @@
                 {
                   "price": "$206.00",
                   "date": "2026-09-20T16:00:22.475999+00:00"
+                },
+                {
+                  "price": "$310.00",
+                  "date": "2026-09-27T04:00:22.532979+00:00"
                 }
               ]
             }
@@ -116712,6 +116731,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Penzance 2017": "esoterica|penzance",
+    "Margate": "esoterica|margate",
     "Peterson 3-Sweet Killarney": "peterson|sweetkillarney",
     "Sutliff Cringle Flake 2024": "sutliff|cringleflake",
     "Discontinued, Sutliff Cringle Flake 2023": "sutliff|cringleflake",
@@ -116732,7 +116753,6 @@
     "Very Nice Sealed 2018 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
     "50g Zeppelin By Vauen \"Mit Hauch Latakia Aus Syrian\"!": "vauen|zeppelin",
     "Stonehaven 2018": "esoterica|stonehaven",
-    "Penzance 2017": "esoterica|penzance",
     "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996": "butera|pelican",
     "McCLELLAND BALKAN BLUE": "mcclelland|balkanblue",
     "Very Old! Robert McConnell Carolina Gold 100g": "robertmcconnell|carolinagold",
@@ -119230,7 +119250,6 @@
     "Sansepolcro 2020": "cornelldiehl|sansepolcro",
     "XX Flake": "cornelldiehl|spcom20thanniversaryxxflake",
     "XX Flake Dark": "cornelldiehl|spcom20thanniversaryxxflakedark",
-    "Margate": "esoterica|margate",
     "Golden Mixture": "fribourgtreyer|goldenmixture",
     "Special Brown Flake": "fribourgtreyer|specialbrownflake",
     "B. K. Flake": "jfgermain|bkflake",
