@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-28T15:14:22.910305+00:00",
+  "generated": "2026-09-28T16:03:50.112702+00:00",
   "stats": {
-    "total_listings": 8167,
-    "excluded_multipacks": 2336,
+    "total_listings": 8176,
+    "excluded_multipacks": 2337,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3559,
@@ -58841,6 +58841,25 @@
           "quantity": "1.75oz",
           "members": [
             {
+              "name": "Lane Limited 125 Anniversary 1.75oz Tin",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/235737/",
+              "price": "$55.00",
+              "last_updated": "2026-09-28T16:00:24.623035+00:00",
+              "first_seen": "2026-08-02T03:39:17+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$40.00",
+                  "date": "2026-08-02T03:39:17+00:00"
+                },
+                {
+                  "price": "$55.00",
+                  "date": "2026-09-28T16:00:24.623035+00:00"
+                }
+              ]
+            },
+            {
               "name": "125th Anniversary by Lane Ltd. / STG, Sealed 1.75 oz tin",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/218826/",
@@ -58852,21 +58871,6 @@
                 {
                   "price": "$25.00",
                   "date": "2026-08-22T14:25:09+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Lane Limited 125 Anniversary 1.75oz Tin",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/212177/",
-              "price": "$40.00",
-              "last_updated": "2026-08-02T04:00:31.671279+00:00",
-              "first_seen": "2026-08-02T03:39:17+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$40.00",
-                  "date": "2026-08-02T03:39:17+00:00"
                 }
               ]
             },
@@ -104719,9 +104723,9 @@
             {
               "name": "Bengal Slices",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/227014/",
-              "price": "$70.00",
-              "last_updated": "2026-09-11T04:00:23.009876+00:00",
+              "url": "https://tinbids.com/auction/234107/",
+              "price": "$49.99",
+              "last_updated": "2026-09-28T16:00:24.623035+00:00",
               "first_seen": "2026-08-29T15:16:57+00:00",
               "year": "",
               "price_history": [
@@ -104736,6 +104740,10 @@
                 {
                   "price": "$70.00",
                   "date": "2026-09-11T04:00:23.009876+00:00"
+                },
+                {
+                  "price": "$49.99",
+                  "date": "2026-09-28T16:00:24.623035+00:00"
                 }
               ]
             },
@@ -116895,6 +116903,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Bengal Slices": "sutliff|bengalslices",
+    "Lane Limited 125 Anniversary 1.75oz Tin": "lanelimited|125thanniversary",
     "Ravenwood - Olde Burley Bear - 50g": "ravenwood|oldeburleybear",
     "Esoterica Tobacciana Dorchester 2 oz": "esoterica|dorchester",
     "Captain Black Premium Edition: Black Sea - Discontinued Rare Sealed 50g Tin": "captainblack|blacksea",
@@ -116938,7 +116948,6 @@
     "Sutliff Cringle Flake 2021 (No Reserve)": "sutliff|cringleflake",
     "Gawith Bothy Flake 2016 NR": "samuelgawith|bothyflake",
     "Collectible Tobacco Sealed Tin Cornell & Diehl “From Beyond” Mixture 2 oz’s from 2025": "cornelldiehl|frombeyond",
-    "Bengal Slices": "sutliff|bengalslices",
     "Collectible Samuel Gawith Bob’s Chocolate Flake 50gm Sealed Pipe Tobacco Tin ‘24": "gawithhoggarthco|bobschocolateflake",
     "Original Navy Cut Capstan Ready Rubbed Blend Pipe Tobacco in 2024 1.75 oz’s Sealed Tin": "macbaren|capstanoriginalflake",
     "Tobacco Tin Sutliff Cringle Flake 2024 2 Oz. Sealed Pipe Tobacco Tin by Sutliff": "sutliff|cringleflake",
@@ -117621,7 +117630,6 @@
     "Esoterica: Stonehaven / Early 2020’s recent production.": "esoterica|stonehaven",
     "Mac Baren HH Latakia Flake 3.5oz 2014 NR BIN $200": "macbaren|hhlatakiaflake",
     "Mac Baren HH Bold Kentucky 3.5oz 2018 NR BIN $150": "macbaren|hhboldkentucky",
-    "Lane Limited 125 Anniversary 1.75oz Tin": "lanelimited|125thanniversary",
     "Dunhill Elizabethan Mixture 50g Tin (2017)": "dunhill|elizabethanmixture",
     "2018 Cornell & Diehl Carolina Red Flake - 1 tin NR BIN $65": "cornelldiehl|carolinaredflake",
     "-Well Aged- War Horse Green": "sutliff|warhorsegreen",
