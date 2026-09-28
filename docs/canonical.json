@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-27T19:16:16.584088+00:00",
+  "generated": "2026-09-28T04:04:58.382512+00:00",
   "stats": {
-    "total_listings": 8126,
-    "excluded_multipacks": 2331,
+    "total_listings": 8162,
+    "excluded_multipacks": 2336,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3559,
@@ -6002,9 +6002,9 @@
             {
               "name": "Captain Black Premium Edition: Black Sea - Discontinued Rare Sealed 50g Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/212549/",
-              "price": "$50.00",
-              "last_updated": "2026-08-07T04:00:24.603236+00:00",
+              "url": "https://tinbids.com/auction/233865/",
+              "price": "$55.00",
+              "last_updated": "2026-09-28T04:00:22.631646+00:00",
               "first_seen": "2026-07-13T02:24:44+00:00",
               "year": "",
               "price_history": [
@@ -6015,6 +6015,10 @@
                 {
                   "price": "$50.00",
                   "date": "2026-08-07T04:00:24.603236+00:00"
+                },
+                {
+                  "price": "$55.00",
+                  "date": "2026-09-28T04:00:22.631646+00:00"
                 }
               ]
             },
@@ -6112,15 +6116,19 @@
             {
               "name": "Captain Black: Grape - Discontinued Rare Sealed Vintage 12oz Tub",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/203128/",
-              "price": "$200.00",
-              "last_updated": "2026-07-13T04:00:49.675774+00:00",
+              "url": "https://tinbids.com/auction/233841/",
+              "price": "$235.00",
+              "last_updated": "2026-09-28T04:00:22.631646+00:00",
               "first_seen": "2026-07-13T02:39:42+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$200.00",
                   "date": "2026-07-13T02:39:42+00:00"
+                },
+                {
+                  "price": "$235.00",
+                  "date": "2026-09-28T04:00:22.631646+00:00"
                 }
               ]
             },
@@ -28604,15 +28612,19 @@
             {
               "name": "Esoterica Tobacciana Dorchester 2 oz",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/215245/",
-              "price": "$80.00",
-              "last_updated": "2026-08-14T04:00:26.247608+00:00",
+              "url": "https://tinbids.com/auction/234467/",
+              "price": "$100.00",
+              "last_updated": "2026-09-28T04:00:22.631646+00:00",
               "first_seen": "2026-08-13T22:47:01+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$80.00",
                   "date": "2026-08-13T22:47:01+00:00"
+                },
+                {
+                  "price": "$100.00",
+                  "date": "2026-09-28T04:00:22.631646+00:00"
                 }
               ]
             },
@@ -90982,9 +90994,9 @@
             {
               "name": "Ravenwood - Olde Burley Bear - 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/229431/",
-              "price": "$45.00",
-              "last_updated": "2026-09-18T04:00:24.560980+00:00",
+              "url": "https://tinbids.com/auction/233716/",
+              "price": "$50.00",
+              "last_updated": "2026-09-28T04:00:22.631646+00:00",
               "first_seen": "2026-07-07T16:01:49+00:00",
               "year": "",
               "price_history": [
@@ -90999,6 +91011,10 @@
                 {
                   "price": "$45.00",
                   "date": "2026-09-18T04:00:24.560980+00:00"
+                },
+                {
+                  "price": "$50.00",
+                  "date": "2026-09-28T04:00:22.631646+00:00"
                 }
               ]
             }
@@ -116815,6 +116831,10 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Ravenwood - Olde Burley Bear - 50g": "ravenwood|oldeburleybear",
+    "Esoterica Tobacciana Dorchester 2 oz": "esoterica|dorchester",
+    "Captain Black Premium Edition: Black Sea - Discontinued Rare Sealed 50g Tin": "captainblack|blacksea",
+    "Captain Black: Grape - Discontinued Rare Sealed Vintage 12oz Tub": "captainblack|grape",
     "Cornell & Diehl Small Batch Sun Bear Navy Cask": "cornelldiehl|sunbearnavycask",
     "Penzance 2017": "esoterica|penzance",
     "Margate": "esoterica|margate",
@@ -116841,7 +116861,6 @@
     "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996": "butera|pelican",
     "McCLELLAND BALKAN BLUE": "mcclelland|balkanblue",
     "Very Old! Robert McConnell Carolina Gold 100g": "robertmcconnell|carolinagold",
-    "Ravenwood - Olde Burley Bear - 50g": "ravenwood|oldeburleybear",
     "McClelland Syrian Full Balkan": "mcclelland|syrianfullbalkan",
     "Ravenwood - Smaug's Breath - 50g": "ravenwood|smaugsbreath",
     "Peterson 6-Irish Cask": "peterson|irishcask",
@@ -117185,7 +117204,6 @@
     "2016 McClelland Frog Morton, Sealed 50g Tin, Original Blend": "mcclelland|frogmorton",
     "2013 Sutliff Balkan Luxury Blend 957, Sealed 1.5 oz Tin": "sutliff|balkanluxuryblend957",
     "2012 McCLELLAND CONTEST BLEND approx. 1.75 ounces": "mcclelland|contestblend",
-    "Esoterica Tobacciana Dorchester 2 oz": "esoterica|dorchester",
     "Cringle Flake by Sutliff (2022), 1.5 oz sealed tin": "sutliff|cringleflake",
     "Fire Storm by Russ Oullette / Meier & Dutch, 1.76 oz sealed tin": "russouellette|firestorm",
     "Spectre by STG, 1.75 oz sealed tin": "spectre|spectre",
@@ -117381,7 +117399,6 @@
     "1990s Esoterica Dunbar - 1 Tin NR BIN $175": "esoterica|dunbar",
     "'22 ASTB 8 oz Bag": "esoterica|andsotobed",
     "Mac Baren HH Old Dark Fired 3.5 ounce tin from 2024": "macbaren|hholddarkfired",
-    "Captain Black Premium Edition: Black Sea - Discontinued Rare Sealed 50g Tin": "captainblack|blacksea",
     "2012 HH vintage Syrian 3.5 oz": "macbaren|hhvintagesyrian",
     "2017 HH vintage Syrian 3.5 oz": "macbaren|hhvintagesyrian",
     "McClelland Frog Mortons Cellar-2017": "mcclelland|frogmortonscellar",
@@ -118105,7 +118122,6 @@
     "Samuel Gawith St. James Flake - 250g Vintage Box (2019)": "samuelgawith|stjamesflake",
     "Vintage PAUL OLSEN A'S - MY OWN BLEND - STANDARD 222 ORIGINAL Pipe Tobacco (1980s?) 100g - Sealed Tin": "paulolsen|no222",
     "2011 - McClelland - Grey Havens 50g": "mcclelland|greyhavens",
-    "Captain Black: Grape - Discontinued Rare Sealed Vintage 12oz Tub": "captainblack|grape",
     "2012 – McClellan – Frog Morton on the town 50g": "mcclelland|frogmortononthetown",
     "(2022) Cornell & Diehl - Carolina Red Flake (Small Batch)": "cornelldiehl|carolinaredflake",
     "(2019) Orlik - Golden Sliced": "orlik|goldensliced",
