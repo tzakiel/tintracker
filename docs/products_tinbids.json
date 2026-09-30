@@ -1,6 +1,42 @@
 {
   "products": [
     {
+      "name": "C&D Sun Bear Bourbon Cask 2oz Limited Small Batch",
+      "price": "$40.00",
+      "url": "https://tinbids.com/auction/235723/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-09-17T15:11:17+00:00",
+      "last_updated": "2026-09-30T16:00:26.221917+00:00",
+      "price_history": [
+        {
+          "price": "$40.00",
+          "date": "2026-09-17T15:11:17+00:00"
+        },
+        {
+          "price": "$41.00",
+          "date": "2026-09-30T04:00:24.836824+00:00"
+        },
+        {
+          "price": "$40.00",
+          "date": "2026-09-30T16:00:26.221917+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Sun Bear 2026 Bourbon Cask",
+      "price": "$39.99",
+      "url": "https://tinbids.com/auction/236082/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-09-30T13:49:19+00:00",
+      "last_updated": "2026-09-30T16:00:26.221917+00:00",
+      "price_history": [
+        {
+          "price": "$39.99",
+          "date": "2026-09-30T13:49:19+00:00"
+        }
+      ]
+    },
+    {
       "name": "Cornell & Diehl Small Batch Sun Bear Bourbon Cask- 1 Tin - (BIN-$40)",
       "price": "$40.00",
       "url": "https://tinbids.com/auction/236840/",
@@ -78,24 +114,6 @@
         },
         {
           "price": "$56.00",
-          "date": "2026-09-30T04:00:24.836824+00:00"
-        }
-      ]
-    },
-    {
-      "name": "C&D Sun Bear Bourbon Cask 2oz Limited Small Batch",
-      "price": "$41.00",
-      "url": "https://tinbids.com/auction/235229/",
-      "source": "Tinbids Auction (Sold)",
-      "first_seen": "2026-09-17T15:11:17+00:00",
-      "last_updated": "2026-09-30T04:00:24.836824+00:00",
-      "price_history": [
-        {
-          "price": "$40.00",
-          "date": "2026-09-17T15:11:17+00:00"
-        },
-        {
-          "price": "$41.00",
           "date": "2026-09-30T04:00:24.836824+00:00"
         }
       ]
@@ -56326,7 +56344,7 @@
     {
       "name": "Samuel Gawith St. James Flake",
       "price": "$40.00",
-      "url": "https://tinbids.com/auction/225292/",
+      "url": "https://tinbids.com/auction/234745/",
       "source": "Tinbids Auction (Sold)",
       "first_seen": "2026-06-25T13:22:49+00:00",
       "last_updated": "2026-06-25T16:00:26.745346+00:00",
@@ -58259,8 +58277,44 @@
       ]
     }
   ],
-  "last_scraped": "2026-09-30T04:00:24.836824+00:00",
+  "last_scraped": "2026-09-30T16:00:26.221917+00:00",
   "latest_scrape": [
+    {
+      "name": "C&D Sun Bear Bourbon Cask 2oz Limited Small Batch",
+      "price": "$40.00",
+      "url": "https://tinbids.com/auction/235723/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-09-17T15:11:17+00:00",
+      "last_updated": "2026-09-30T16:00:26.221917+00:00",
+      "price_history": [
+        {
+          "price": "$40.00",
+          "date": "2026-09-17T15:11:17+00:00"
+        },
+        {
+          "price": "$41.00",
+          "date": "2026-09-30T04:00:24.836824+00:00"
+        },
+        {
+          "price": "$40.00",
+          "date": "2026-09-30T16:00:26.221917+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Sun Bear 2026 Bourbon Cask",
+      "price": "$39.99",
+      "url": "https://tinbids.com/auction/236082/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-09-30T13:49:19+00:00",
+      "last_updated": "2026-09-30T16:00:26.221917+00:00",
+      "price_history": [
+        {
+          "price": "$39.99",
+          "date": "2026-09-30T13:49:19+00:00"
+        }
+      ]
+    },
     {
       "name": "Cornell & Diehl Small Batch Sun Bear Bourbon Cask- 1 Tin - (BIN-$40)",
       "price": "$40.00",
@@ -58339,24 +58393,6 @@
         },
         {
           "price": "$56.00",
-          "date": "2026-09-30T04:00:24.836824+00:00"
-        }
-      ]
-    },
-    {
-      "name": "C&D Sun Bear Bourbon Cask 2oz Limited Small Batch",
-      "price": "$41.00",
-      "url": "https://tinbids.com/auction/235229/",
-      "source": "Tinbids Auction (Sold)",
-      "first_seen": "2026-09-17T15:11:17+00:00",
-      "last_updated": "2026-09-30T04:00:24.836824+00:00",
-      "price_history": [
-        {
-          "price": "$40.00",
-          "date": "2026-09-17T15:11:17+00:00"
-        },
-        {
-          "price": "$41.00",
           "date": "2026-09-30T04:00:24.836824+00:00"
         }
       ]
@@ -114587,7 +114623,7 @@
     {
       "name": "Samuel Gawith St. James Flake",
       "price": "$40.00",
-      "url": "https://tinbids.com/auction/225292/",
+      "url": "https://tinbids.com/auction/234745/",
       "source": "Tinbids Auction (Sold)",
       "first_seen": "2026-06-25T13:22:49+00:00",
       "last_updated": "2026-06-25T16:00:26.745346+00:00",
@@ -116662,31 +116698,6 @@
       "date_end": "2026-10-02 16:37:11"
     },
     {
-      "url": "https://tinbids.com/auction/234745/",
-      "name": "Samuel Gawith St. James Flake",
-      "date_end": "2026-09-30 15:00:26"
-    },
-    {
-      "url": "https://tinbids.com/auction/234749/",
-      "name": "250g Dan Tobacco - Mallard Flake plus Perique - RARE FIND",
-      "date_end": "2026-09-30 15:27:01"
-    },
-    {
-      "url": "https://tinbids.com/auction/234750/",
-      "name": "Chacom #4 - 50g",
-      "date_end": "2026-09-30 15:27:27"
-    },
-    {
-      "url": "https://tinbids.com/auction/234755/",
-      "name": "Lot of 2 - Wessex Gold Bricks Virginia Plug",
-      "date_end": "2026-09-30 15:28:00"
-    },
-    {
-      "url": "https://tinbids.com/auction/234756/",
-      "name": "100g - HU Old Fredders Broken Flake - German Market - RARE FIND",
-      "date_end": "2026-09-30 15:28:21"
-    },
-    {
       "url": "https://tinbids.com/auction/234761/",
       "name": "Esoterica Scarborough",
       "date_end": "2026-09-30 16:11:19"
@@ -117200,56 +117211,6 @@
       "url": "https://tinbids.com/auction/235245/",
       "name": "New Limited Edition Ye Thames Mixture \"Sleeve\" by Briarshire",
       "date_end": "2026-10-24 17:05:49"
-    },
-    {
-      "url": "https://tinbids.com/auction/235676/",
-      "name": "2026 Cornell and Diehl Eight State Burley 2oz  limited Small Batch",
-      "date_end": "2026-09-30 15:50:02"
-    },
-    {
-      "url": "https://tinbids.com/auction/235719/",
-      "name": "Toscano Maestro Puccini Limited Edition 2oz",
-      "date_end": "2026-09-30 15:56:20"
-    },
-    {
-      "url": "https://tinbids.com/auction/235723/",
-      "name": "C&D Sun Bear Bourbon Cask 2oz Limited Small Batch",
-      "date_end": "2026-09-30 15:56:45"
-    },
-    {
-      "url": "https://tinbids.com/auction/235726/",
-      "name": "Fribourg & Treyer Cut Virginia Plug 50g",
-      "date_end": "2026-09-30 15:57:24"
-    },
-    {
-      "url": "https://tinbids.com/auction/235728/",
-      "name": "Fribourg & Treyer Evan’s Blend 50g",
-      "date_end": "2026-09-30 15:57:50"
-    },
-    {
-      "url": "https://tinbids.com/auction/235731/",
-      "name": "Fribourg & Treyer Cut Blended Plug 50g",
-      "date_end": "2026-09-30 15:58:13"
-    },
-    {
-      "url": "https://tinbids.com/auction/235738/",
-      "name": "Fribourg and Treyer Special Brown Flake 50g",
-      "date_end": "2026-09-30 15:59:02"
-    },
-    {
-      "url": "https://tinbids.com/auction/235742/",
-      "name": "Peter Heinrich’s Dark Strong 200g",
-      "date_end": "2026-09-30 15:59:27"
-    },
-    {
-      "url": "https://tinbids.com/auction/235744/",
-      "name": "Peter Heinrich’s Golden Sliced 200g",
-      "date_end": "2026-09-30 15:59:51"
-    },
-    {
-      "url": "https://tinbids.com/auction/235746/",
-      "name": "Watch City Cigar Strange Magic 4oz Limited",
-      "date_end": "2026-09-30 16:00:11"
     },
     {
       "url": "https://tinbids.com/auction/235748/",
@@ -118217,11 +118178,6 @@
       "date_end": "2026-10-05 13:55:28"
     },
     {
-      "url": "https://tinbids.com/auction/235696/",
-      "name": "Cornell and Diehl Midnight Orchard 2026 Small Batch",
-      "date_end": "2026-09-30 15:55:10"
-    },
-    {
       "url": "https://tinbids.com/auction/235926/",
       "name": "C&D Muletown Mixture 2022 and Haybale 2023",
       "date_end": "2026-10-01 03:58:57"
@@ -118660,21 +118616,6 @@
       "url": "https://tinbids.com/auction/236069/",
       "name": "Mac Baren HH Old Dark Fired 2023 (Discontinued) BIN - Aged Dark Fired Burleys!",
       "date_end": "2026-10-04 03:49:02"
-    },
-    {
-      "url": "https://tinbids.com/auction/236071/",
-      "name": "EXTREMELY RARE! EDWARD G. ROBINSON'S PIPE BLEND - 1.5oz - (2024) - DISCONTINUED!",
-      "date_end": "2026-09-30 06:12:19"
-    },
-    {
-      "url": "https://tinbids.com/auction/236074/",
-      "name": "CAO Flavours 3-Bella Vanilla",
-      "date_end": "2026-09-30 10:32:20"
-    },
-    {
-      "url": "https://tinbids.com/auction/236082/",
-      "name": "Sun Bear 2026 Bourbon Cask",
-      "date_end": "2026-09-30 13:49:19"
     },
     {
       "url": "https://tinbids.com/auction/236090/",
@@ -120820,6 +120761,216 @@
       "url": "https://tinbids.com/auction/237107/",
       "name": "Lot of 2 - 2 oz Tins of Cornell & Diehl Carolina Red Flake Small Batch - Out of Production",
       "date_end": "2026-10-10 01:47:17"
+    },
+    {
+      "url": "https://tinbids.com/auction/237114/",
+      "name": "Cornell & Diehl Small Batch Sun Bear Bourbon Cask- 1 Tin - (BIN-$45)",
+      "date_end": "2026-10-01 10:48:14"
+    },
+    {
+      "url": "https://tinbids.com/auction/237172/",
+      "name": "Cornell & Diehl Small Batch Sun Bear Bourbon Cask- 2 Tins - (BIN-$90)",
+      "date_end": "2026-10-01 12:59:47"
+    },
+    {
+      "url": "https://tinbids.com/auction/237111/",
+      "name": "Carolina Red Flake 2026",
+      "date_end": "2026-10-03 04:47:00"
+    },
+    {
+      "url": "https://tinbids.com/auction/237164/",
+      "name": "Mac Baren - HH Bold Kentucky - 100g/3.5oz - 11/2023",
+      "date_end": "2026-10-03 12:31:14"
+    },
+    {
+      "url": "https://tinbids.com/auction/237165/",
+      "name": "CORNELL & DIEHL - ANTHOLOGY 1992-2022 - 2oz",
+      "date_end": "2026-10-03 12:57:02"
+    },
+    {
+      "url": "https://tinbids.com/auction/237173/",
+      "name": "Don't Miss This one ! (8 year aged C&D and GL Pease tins)",
+      "date_end": "2026-10-03 13:19:30"
+    },
+    {
+      "url": "https://tinbids.com/auction/237115/",
+      "name": "Toscano Maestro Puccini Limited Edition 2oz",
+      "date_end": "2026-10-05 11:57:41"
+    },
+    {
+      "url": "https://tinbids.com/auction/237119/",
+      "name": "2026 C&D Carolina Red Flake Small Batch 2oz",
+      "date_end": "2026-10-05 12:01:24"
+    },
+    {
+      "url": "https://tinbids.com/auction/237124/",
+      "name": "C&D Sun Bear Bourbon Cask 2oz Limited Small Batch",
+      "date_end": "2026-10-05 12:03:12"
+    },
+    {
+      "url": "https://tinbids.com/auction/237129/",
+      "name": "2026 Cornell and Diehl Eight State Burley 2oz  limited Small Batch",
+      "date_end": "2026-10-05 12:03:52"
+    },
+    {
+      "url": "https://tinbids.com/auction/237130/",
+      "name": "2023 Savinelli Doblone d’Oro 100g",
+      "date_end": "2026-10-05 12:04:41"
+    },
+    {
+      "url": "https://tinbids.com/auction/237131/",
+      "name": "2023 Mac Baren HH Rustica 3.5oz",
+      "date_end": "2026-10-05 12:05:08"
+    },
+    {
+      "url": "https://tinbids.com/auction/237132/",
+      "name": "2015 Mac Baren HH Acadian Perique 3.5oz",
+      "date_end": "2026-10-05 12:05:28"
+    },
+    {
+      "url": "https://tinbids.com/auction/237133/",
+      "name": "2018 MAC BAREN NAVY FLAKE 3.5",
+      "date_end": "2026-10-05 12:05:53"
+    },
+    {
+      "url": "https://tinbids.com/auction/237134/",
+      "name": "Peter Heinrich’s Dark Strong 200g",
+      "date_end": "2026-10-05 12:06:39"
+    },
+    {
+      "url": "https://tinbids.com/auction/237135/",
+      "name": "Peter Heinrich’s Golden Sliced 200g",
+      "date_end": "2026-10-05 12:07:18"
+    },
+    {
+      "url": "https://tinbids.com/auction/237137/",
+      "name": "Peter Heinrich’s Special Curly 200g",
+      "date_end": "2026-10-05 12:11:22"
+    },
+    {
+      "url": "https://tinbids.com/auction/237142/",
+      "name": "Solani 633 Virginia Flake 50g",
+      "date_end": "2026-10-05 12:11:50"
+    },
+    {
+      "url": "https://tinbids.com/auction/237143/",
+      "name": "Fribourg and Treyer Vintage Flake 50g",
+      "date_end": "2026-10-05 12:12:29"
+    },
+    {
+      "url": "https://tinbids.com/auction/237144/",
+      "name": "Ravenwood Ostara Springtime Mixture 50g",
+      "date_end": "2026-10-05 12:12:58"
+    },
+    {
+      "url": "https://tinbids.com/auction/237145/",
+      "name": "Wessex Gold Brick Virginia Plug 100g",
+      "date_end": "2026-10-05 12:14:10"
+    },
+    {
+      "url": "https://tinbids.com/auction/237146/",
+      "name": "Ravenwood Frog Morton’s Chalet Smaug’s Brest 50g",
+      "date_end": "2026-10-05 12:14:49"
+    },
+    {
+      "url": "https://tinbids.com/auction/237147/",
+      "name": "Ravenwood Twilight Reverie 50g",
+      "date_end": "2026-10-05 12:15:20"
+    },
+    {
+      "url": "https://tinbids.com/auction/237148/",
+      "name": "Ravenwood Gates of Argonath 50g",
+      "date_end": "2026-10-05 12:19:28"
+    },
+    {
+      "url": "https://tinbids.com/auction/237136/",
+      "name": "Lot of 2 - Cornell & Diehl Small Batch Midnight Orchard",
+      "date_end": "2026-10-07 12:09:57"
+    },
+    {
+      "url": "https://tinbids.com/auction/237138/",
+      "name": "Lot of 2 - Cornell & Diehl Small Batch Sun Bear Bourbon Cask - (2x50g)",
+      "date_end": "2026-10-07 12:10:45"
+    },
+    {
+      "url": "https://tinbids.com/auction/237151/",
+      "name": "Cornell & Diehl Carolina Red Flake 2 Tins",
+      "date_end": "2026-10-07 12:20:09"
+    },
+    {
+      "url": "https://tinbids.com/auction/237153/",
+      "name": "Cornell & Diehl Carolina Red Flake 2 Tins",
+      "date_end": "2026-10-07 12:21:29"
+    },
+    {
+      "url": "https://tinbids.com/auction/237155/",
+      "name": "Wessex Gold Brick Virginia Plug",
+      "date_end": "2026-10-07 12:24:36"
+    },
+    {
+      "url": "https://tinbids.com/auction/237158/",
+      "name": "Samuel Gawith Full Virginia Flake",
+      "date_end": "2026-10-07 12:27:47"
+    },
+    {
+      "url": "https://tinbids.com/auction/237161/",
+      "name": "Samuel Gawith Bothy Flake",
+      "date_end": "2026-10-07 12:29:27"
+    },
+    {
+      "url": "https://tinbids.com/auction/237166/",
+      "name": "C&D Sun Bear Bourbon Cask 2oz Limited Small Batch Sunbear",
+      "date_end": "2026-10-07 12:57:25"
+    },
+    {
+      "url": "https://tinbids.com/auction/237179/",
+      "name": "Cornell & Diehl Small Batch Sampler 2026",
+      "date_end": "2026-10-07 13:34:56"
+    },
+    {
+      "url": "https://tinbids.com/auction/237181/",
+      "name": "Cornell & Diehl Midnight Orchard 2 Tins",
+      "date_end": "2026-10-07 13:37:38"
+    },
+    {
+      "url": "https://tinbids.com/auction/237183/",
+      "name": "Mac Baren HH Burley Flake & Dark Twist Roll Cake",
+      "date_end": "2026-10-07 13:41:31"
+    },
+    {
+      "url": "https://tinbids.com/auction/237187/",
+      "name": "Cornell & Diehl Steamworks Small Batch - 5 Tins BIN $150",
+      "date_end": "2026-10-07 14:35:25"
+    },
+    {
+      "url": "https://tinbids.com/auction/237188/",
+      "name": "8 oz. Bag of Esoterica Pembroke from 2016. No Reserve!!",
+      "date_end": "2026-10-07 15:06:33"
+    },
+    {
+      "url": "https://tinbids.com/auction/237191/",
+      "name": "2 New Unopened Tins of 2026 Carolina Red Flake 2oz Buy Now $80",
+      "date_end": "2026-10-07 15:40:03"
+    },
+    {
+      "url": "https://tinbids.com/auction/237197/",
+      "name": "2 New Unopened Tins of 2026 Carolina Red Flake 2oz Buy Now $80",
+      "date_end": "2026-10-07 15:46:12"
+    },
+    {
+      "url": "https://tinbids.com/auction/237203/",
+      "name": "2 New Unopened Tins of 2026 Carolina Red Flake 2oz Buy Now $80",
+      "date_end": "2026-10-07 15:50:31"
+    },
+    {
+      "url": "https://tinbids.com/auction/237214/",
+      "name": "Ravenwood Provisions. Imladris & Frog Morton’s Chalet",
+      "date_end": "2026-10-07 16:00:40"
+    },
+    {
+      "url": "https://tinbids.com/auction/237217/",
+      "name": "Mac Baren’s Dark Twist Roll Cake",
+      "date_end": "2026-10-07 16:01:43"
     }
   ],
   "scrape_history": [
@@ -122215,6 +122366,13 @@
       "added": 22,
       "price_changed": 9,
       "total": 3968
+    },
+    {
+      "date": "2026-09-30T16:00:26.221917+00:00",
+      "found": 3,
+      "added": 1,
+      "price_changed": 1,
+      "total": 3969
     }
   ]
 }
