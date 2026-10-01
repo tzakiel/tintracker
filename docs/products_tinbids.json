@@ -1,6 +1,90 @@
 {
   "products": [
     {
+      "name": "Esoterica Penzance rectangular tin (2015)",
+      "price": "$325.00",
+      "url": "https://tinbids.com/auction/233922/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-01T06:50:38+00:00",
+      "last_updated": "2026-10-01T16:00:25.824000+00:00",
+      "price_history": [
+        {
+          "price": "$325.00",
+          "date": "2026-10-01T06:50:38+00:00"
+        }
+      ]
+    },
+    {
+      "name": "2007 McClellan’s Christmas Cheer",
+      "price": "$200.00",
+      "url": "https://tinbids.com/auction/235124/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-01T13:11:12+00:00",
+      "last_updated": "2026-10-01T16:00:25.824000+00:00",
+      "price_history": [
+        {
+          "price": "$200.00",
+          "date": "2026-10-01T13:11:12+00:00"
+        }
+      ]
+    },
+    {
+      "name": "4Aces Turkish 12oz",
+      "price": "$39.00",
+      "url": "https://tinbids.com/auction/235133/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-01T14:37:53+00:00",
+      "last_updated": "2026-10-01T16:00:25.824000+00:00",
+      "price_history": [
+        {
+          "price": "$39.00",
+          "date": "2026-10-01T14:37:53+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Farmer Tabak Va/Bur/Ky 160g",
+      "price": "$19.50",
+      "url": "https://tinbids.com/auction/235135/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-01T14:39:21+00:00",
+      "last_updated": "2026-10-01T16:00:25.824000+00:00",
+      "price_history": [
+        {
+          "price": "$19.50",
+          "date": "2026-10-01T14:39:21+00:00"
+        }
+      ]
+    },
+    {
+      "name": "GLP 25th Anniversary Silver Jubilee 2oz",
+      "price": "$40.00",
+      "url": "https://tinbids.com/auction/235144/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-01T14:44:38+00:00",
+      "last_updated": "2026-10-01T16:00:25.824000+00:00",
+      "price_history": [
+        {
+          "price": "$40.00",
+          "date": "2026-10-01T14:44:38+00:00"
+        }
+      ]
+    },
+    {
+      "name": "1998 Mac Baren Golden Extra 3.5oz 100g",
+      "price": "$57.00",
+      "url": "https://tinbids.com/auction/235160/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-01T14:57:18+00:00",
+      "last_updated": "2026-10-01T16:00:25.824000+00:00",
+      "price_history": [
+        {
+          "price": "$57.00",
+          "date": "2026-10-01T14:57:18+00:00"
+        }
+      ]
+    },
+    {
       "name": "2026 - Carolina Red Flake - (2 Tins) - Cornell and Diehl - Small Batch",
       "price": "$65.00",
       "url": "https://tinbids.com/auction/237068/",
@@ -58637,8 +58721,92 @@
       ]
     }
   ],
-  "last_scraped": "2026-10-01T04:00:22.299982+00:00",
+  "last_scraped": "2026-10-01T16:00:25.824000+00:00",
   "latest_scrape": [
+    {
+      "name": "Esoterica Penzance rectangular tin (2015)",
+      "price": "$325.00",
+      "url": "https://tinbids.com/auction/233922/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-01T06:50:38+00:00",
+      "last_updated": "2026-10-01T16:00:25.824000+00:00",
+      "price_history": [
+        {
+          "price": "$325.00",
+          "date": "2026-10-01T06:50:38+00:00"
+        }
+      ]
+    },
+    {
+      "name": "2007 McClellan’s Christmas Cheer",
+      "price": "$200.00",
+      "url": "https://tinbids.com/auction/235124/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-01T13:11:12+00:00",
+      "last_updated": "2026-10-01T16:00:25.824000+00:00",
+      "price_history": [
+        {
+          "price": "$200.00",
+          "date": "2026-10-01T13:11:12+00:00"
+        }
+      ]
+    },
+    {
+      "name": "4Aces Turkish 12oz",
+      "price": "$39.00",
+      "url": "https://tinbids.com/auction/235133/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-01T14:37:53+00:00",
+      "last_updated": "2026-10-01T16:00:25.824000+00:00",
+      "price_history": [
+        {
+          "price": "$39.00",
+          "date": "2026-10-01T14:37:53+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Farmer Tabak Va/Bur/Ky 160g",
+      "price": "$19.50",
+      "url": "https://tinbids.com/auction/235135/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-01T14:39:21+00:00",
+      "last_updated": "2026-10-01T16:00:25.824000+00:00",
+      "price_history": [
+        {
+          "price": "$19.50",
+          "date": "2026-10-01T14:39:21+00:00"
+        }
+      ]
+    },
+    {
+      "name": "GLP 25th Anniversary Silver Jubilee 2oz",
+      "price": "$40.00",
+      "url": "https://tinbids.com/auction/235144/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-01T14:44:38+00:00",
+      "last_updated": "2026-10-01T16:00:25.824000+00:00",
+      "price_history": [
+        {
+          "price": "$40.00",
+          "date": "2026-10-01T14:44:38+00:00"
+        }
+      ]
+    },
+    {
+      "name": "1998 Mac Baren Golden Extra 3.5oz 100g",
+      "price": "$57.00",
+      "url": "https://tinbids.com/auction/235160/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-01T14:57:18+00:00",
+      "last_updated": "2026-10-01T16:00:25.824000+00:00",
+      "price_history": [
+        {
+          "price": "$57.00",
+          "date": "2026-10-01T14:57:18+00:00"
+        }
+      ]
+    },
     {
       "name": "2026 - Carolina Red Flake - (2 Tins) - Cornell and Diehl - Small Batch",
       "price": "$65.00",
@@ -117288,11 +117456,6 @@
       "date_end": "2026-10-17 15:48:05"
     },
     {
-      "url": "https://tinbids.com/auction/233922/",
-      "name": "Esoterica Penzance rectangular tin (2015)",
-      "date_end": "2026-10-01 06:50:38"
-    },
-    {
       "url": "https://tinbids.com/auction/234174/",
       "name": "2018 Hearth & Home Ambassador's Blend 8oz",
       "date_end": "2026-10-01 21:23:04"
@@ -117366,61 +117529,6 @@
       "url": "https://tinbids.com/auction/234979/",
       "name": "2015 Smokers' Haven Syrian Limited #90/250 - 1 Tin NR BIN $750",
       "date_end": "2026-10-04 03:59:26"
-    },
-    {
-      "url": "https://tinbids.com/auction/235116/",
-      "name": "Wessex Brigade Campaign Dark Flake 50g / 1.75oz Unopened Tin Straight Virginia Tobacco",
-      "date_end": "2026-10-01 13:03:54"
-    },
-    {
-      "url": "https://tinbids.com/auction/235124/",
-      "name": "2007 McClellan’s Christmas Cheer",
-      "date_end": "2026-10-01 13:11:12"
-    },
-    {
-      "url": "https://tinbids.com/auction/235130/",
-      "name": "Sutliff 2024 Krampusnacht Limited Christmas Edition! Discontinued! Very Rare! Awesome Virginia tobacco stock Sutliff procured from McClelland!",
-      "date_end": "2026-10-01 14:30:42"
-    },
-    {
-      "url": "https://tinbids.com/auction/235131/",
-      "name": "Hearth & Home Black House MARQUEE SERIES 1.76 oz - PIPE TOBACCO - Sealed 2018",
-      "date_end": "2026-10-01 14:33:00"
-    },
-    {
-      "url": "https://tinbids.com/auction/235132/",
-      "name": "Presbyterian MIXTURE - MELANGE - 2010 SEALED 50G",
-      "date_end": "2026-10-01 14:33:34"
-    },
-    {
-      "url": "https://tinbids.com/auction/235133/",
-      "name": "4Aces Turkish 12oz",
-      "date_end": "2026-10-01 14:37:53"
-    },
-    {
-      "url": "https://tinbids.com/auction/235135/",
-      "name": "Farmer Tabak Va/Bur/Ky 160g",
-      "date_end": "2026-10-01 14:39:21"
-    },
-    {
-      "url": "https://tinbids.com/auction/235141/",
-      "name": "Sutliff Maple Street 1.5oz",
-      "date_end": "2026-10-01 14:43:30"
-    },
-    {
-      "url": "https://tinbids.com/auction/235144/",
-      "name": "GLP 25th Anniversary Silver Jubilee 2oz",
-      "date_end": "2026-10-01 14:44:38"
-    },
-    {
-      "url": "https://tinbids.com/auction/235160/",
-      "name": "1998 Mac Baren Golden Extra 3.5oz 100g",
-      "date_end": "2026-10-01 14:57:18"
-    },
-    {
-      "url": "https://tinbids.com/auction/235168/",
-      "name": "2016 DUNHILL FLAKE (5 tins)",
-      "date_end": "2026-10-01 15:13:11"
     },
     {
       "url": "https://tinbids.com/auction/235161/",
@@ -118861,16 +118969,6 @@
       "url": "https://tinbids.com/auction/235908/",
       "name": "2x De Luxe Navy Rolls Dunhill",
       "date_end": "2026-10-05 23:28:18"
-    },
-    {
-      "url": "https://tinbids.com/auction/235958/",
-      "name": "3x Planta Danish Black Vanilla; 50 gm ; well sealed; 5D NR BIN 25",
-      "date_end": "2026-10-01 14:53:04"
-    },
-    {
-      "url": "https://tinbids.com/auction/235959/",
-      "name": "Pair Germain's Esoterica King Charles Smoking Mixture 2 oz, well sealed (2020, 2024) 5D NR BIN 165",
-      "date_end": "2026-10-01 14:55:50"
     },
     {
       "url": "https://tinbids.com/auction/235930/",
@@ -121063,16 +121161,6 @@
       "date_end": "2026-10-10 01:47:17"
     },
     {
-      "url": "https://tinbids.com/auction/237114/",
-      "name": "Cornell & Diehl Small Batch Sun Bear Bourbon Cask- 1 Tin - (BIN-$45)",
-      "date_end": "2026-10-01 10:48:14"
-    },
-    {
-      "url": "https://tinbids.com/auction/237172/",
-      "name": "Cornell & Diehl Small Batch Sun Bear Bourbon Cask- 2 Tins - (BIN-$90)",
-      "date_end": "2026-10-01 12:59:47"
-    },
-    {
       "url": "https://tinbids.com/auction/237111/",
       "name": "Carolina Red Flake 2026",
       "date_end": "2026-10-03 04:47:00"
@@ -121561,6 +121649,121 @@
       "url": "https://tinbids.com/auction/237382/",
       "name": "Lot of 2 - 2 oz Tins of Cornell & Diehl Carolina Red Flake Small Batch - Sold Out Everywhere",
       "date_end": "2026-10-11 00:24:57"
+    },
+    {
+      "url": "https://tinbids.com/auction/237402/",
+      "name": "Old Dark Fired Plug Cut Mac Baren Limited Edition HH 2019 Tin #125 of 2000",
+      "date_end": "2026-10-02 05:12:09"
+    },
+    {
+      "url": "https://tinbids.com/auction/237405/",
+      "name": "Cornell & Diehl Small Batch Sun Bear Bourbon Cask- 1 Tin - (BIN-$45)",
+      "date_end": "2026-10-02 11:00:01"
+    },
+    {
+      "url": "https://tinbids.com/auction/237437/",
+      "name": "Cornell & Diehl Small Batch Sun Bear Bourbon Cask- 2 Tins - (BIN-$90)",
+      "date_end": "2026-10-02 14:11:15"
+    },
+    {
+      "url": "https://tinbids.com/auction/237407/",
+      "name": "Aged Dunhill Flake",
+      "date_end": "2026-10-04 13:05:36"
+    },
+    {
+      "url": "https://tinbids.com/auction/237410/",
+      "name": "Aged Dunhill Dark Flake",
+      "date_end": "2026-10-04 13:09:20"
+    },
+    {
+      "url": "https://tinbids.com/auction/237413/",
+      "name": "Seattle Pipe Club Plum Pudding Special Reserve",
+      "date_end": "2026-10-04 13:23:12"
+    },
+    {
+      "url": "https://tinbids.com/auction/237422/",
+      "name": "C&D Small Batch Carolina Red Flake w/ Perique",
+      "date_end": "2026-10-04 13:36:57"
+    },
+    {
+      "url": "https://tinbids.com/auction/237428/",
+      "name": "Sutliff Private Stock- States of Virginia",
+      "date_end": "2026-10-04 13:46:52"
+    },
+    {
+      "url": "https://tinbids.com/auction/237431/",
+      "name": "Peterson Elizabethan Mixture",
+      "date_end": "2026-10-04 13:56:34"
+    },
+    {
+      "url": "https://tinbids.com/auction/237434/",
+      "name": "Presbyterian Mixture",
+      "date_end": "2026-10-04 14:06:44"
+    },
+    {
+      "url": "https://tinbids.com/auction/237455/",
+      "name": "Cornell & Diehl Carolina Red Flake 2026",
+      "date_end": "2026-10-04 15:18:46"
+    },
+    {
+      "url": "https://tinbids.com/auction/237461/",
+      "name": "2016 McClelland’s Christmas Cheer",
+      "date_end": "2026-10-04 15:58:57"
+    },
+    {
+      "url": "https://tinbids.com/auction/237406/",
+      "name": "Lot of 2 - Cornell & Diehl Small Batch Midnight Orchard",
+      "date_end": "2026-10-08 11:41:22"
+    },
+    {
+      "url": "https://tinbids.com/auction/237416/",
+      "name": "2018 Samuel Gawith Full Virginia Flake - 8.5 oz. - BIN for $170 (#11)",
+      "date_end": "2026-10-08 13:33:27"
+    },
+    {
+      "url": "https://tinbids.com/auction/237438/",
+      "name": "8 oz. Esoterica Pembroke and 50g tin of Royal Jersey Latakia. NO RESERVE!",
+      "date_end": "2026-10-08 14:27:16"
+    },
+    {
+      "url": "https://tinbids.com/auction/237441/",
+      "name": "8 oz. Esoterica Pembroke and 50g tin of Royal Jersey Latakia. NO RESERVE!",
+      "date_end": "2026-10-08 14:27:41"
+    },
+    {
+      "url": "https://tinbids.com/auction/237446/",
+      "name": "8 oz bag of Esoterica Pembroke and a 50 g tin Royal Jersey Perique Mixture. NO RESERVE!!!",
+      "date_end": "2026-10-08 14:52:04"
+    },
+    {
+      "url": "https://tinbids.com/auction/237445/",
+      "name": "2 unopened Cobblestone Hunting  tins",
+      "date_end": "2026-10-08 14:52:08"
+    },
+    {
+      "url": "https://tinbids.com/auction/237449/",
+      "name": "2 Peterson tins",
+      "date_end": "2026-10-08 14:53:31"
+    },
+    {
+      "url": "https://tinbids.com/auction/237450/",
+      "name": "F&T Golden Mixture",
+      "date_end": "2026-10-08 15:04:52"
+    },
+    {
+      "url": "https://tinbids.com/auction/237458/",
+      "name": "Hearth & Home Black House MARQUEE SERIES 1.76 oz - PIPE TOBACCO - Sealed 2018",
+      "date_end": "2026-10-08 15:44:02"
+    },
+    {
+      "url": "https://tinbids.com/auction/237460/",
+      "name": "Presbyterian MIXTURE - MELANGE - 2010 SEALED 50G",
+      "date_end": "2026-10-08 15:44:45"
+    },
+    {
+      "url": "https://tinbids.com/auction/237454/",
+      "name": "Sutliff Maple Street 1.5oz",
+      "date_end": "2026-10-11 15:12:19"
     }
   ],
   "scrape_history": [
@@ -122970,6 +123173,13 @@
       "added": 24,
       "price_changed": 6,
       "total": 3993
+    },
+    {
+      "date": "2026-10-01T16:00:25.824000+00:00",
+      "found": 6,
+      "added": 6,
+      "price_changed": 0,
+      "total": 3999
     }
   ]
 }
