@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-30T19:16:16.133184+00:00",
+  "generated": "2026-10-01T04:04:55.782855+00:00",
   "stats": {
-    "total_listings": 8223,
-    "excluded_multipacks": 2343,
+    "total_listings": 8247,
+    "excluded_multipacks": 2347,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3559,
@@ -11748,15 +11748,19 @@
             {
               "name": "From Beyond by Cornell & Diehl Limited Release!  BIN Available!",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/214985/",
-              "price": "$50.00",
-              "last_updated": "2026-08-13T16:00:25.204268+00:00",
+              "url": "https://tinbids.com/auction/234888/",
+              "price": "$56.65",
+              "last_updated": "2026-10-01T04:00:22.299982+00:00",
               "first_seen": "2026-08-13T14:36:21+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$50.00",
                   "date": "2026-08-13T14:36:21+00:00"
+                },
+                {
+                  "price": "$56.65",
+                  "date": "2026-10-01T04:00:22.299982+00:00"
                 }
               ]
             },
@@ -42903,15 +42907,19 @@
             {
               "name": "G.L. Pease NASPC Shelob’s Lair 2 oz’s Sealed Pipe Tobacco Tin Annual 2006 Show",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/209431/",
-              "price": "$67.00",
-              "last_updated": "2026-07-30T04:00:28.295890+00:00",
+              "url": "https://tinbids.com/auction/234847/",
+              "price": "$102.00",
+              "last_updated": "2026-10-01T04:00:22.299982+00:00",
               "first_seen": "2026-07-29T20:21:57+00:00",
               "year": "2006",
               "price_history": [
                 {
                   "price": "$67.00",
                   "date": "2026-07-29T20:21:57+00:00"
+                },
+                {
+                  "price": "$102.00",
+                  "date": "2026-10-01T04:00:22.299982+00:00"
                 }
               ]
             }
@@ -79657,15 +79665,19 @@
             {
               "name": "NASPC Show 2004 McClelland Scottish Woods Tobacco Sealed 50g Tin Out of Production",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/209443/",
-              "price": "$83.00",
-              "last_updated": "2026-07-30T04:00:28.295890+00:00",
+              "url": "https://tinbids.com/auction/234929/",
+              "price": "$85.00",
+              "last_updated": "2026-10-01T04:00:22.299982+00:00",
               "first_seen": "2026-07-29T20:29:31+00:00",
               "year": "2004",
               "price_history": [
                 {
                   "price": "$83.00",
                   "date": "2026-07-29T20:29:31+00:00"
+                },
+                {
+                  "price": "$85.00",
+                  "date": "2026-10-01T04:00:22.299982+00:00"
                 }
               ]
             },
@@ -117015,6 +117027,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "From Beyond by Cornell & Diehl Limited Release!  BIN Available!": "cornelldiehl|frombeyond",
+    "G.L. Pease NASPC Shelob’s Lair 2 oz’s Sealed Pipe Tobacco Tin Annual 2006 Show": "glpease|shelobslair",
+    "NASPC Show 2004 McClelland Scottish Woods Tobacco Sealed 50g Tin Out of Production": "mcclelland|scottishwoods",
     "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
     "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
     "Excellent Sealed 2020 Reiner Golden Flake Gold Blend 71 100g. Tin": "reiner|longgoldenflake",
@@ -117409,7 +117424,6 @@
     "2003 Frog Morton on the Bayou - 1 Tin NR BIN $175": "mcclelland|frogmortononthebayou",
     "2017 McClelland’s Frog Morton Cellar - 1 BIN NR $175": "mcclelland|frogmortonscellar",
     "Gawith and Hoggarth-No.25 Mixture 500g": "gawithhoggarthco|no25mixture",
-    "From Beyond by Cornell & Diehl Limited Release!  BIN Available!": "cornelldiehl|frombeyond",
     "Mac Baren HH Rustica 2024.  2oz": "macbaren|hhrustica",
     "2017 CORNELL & DIEHL BILLY BUDD approx. 2.2 ounces": "cornelldiehl|billybudd",
     "SYRIAN! 2018 Ashton Artisan's Blend 50g": "ashton|artisansblend",
@@ -117825,9 +117839,7 @@
     "2017 War Horse": "sutliff|warhorsebar",
     "Vintage - 2019 - Dunhill Ready Rubbed": "dunhill|readyrubbed",
     "G.L. Pease NASPC Goblin’s Weed Red 2 oz’s Sealed Pipe Tobacco Tin Annual 2014 Show": "glpease|goblinsweedred",
-    "G.L. Pease NASPC Shelob’s Lair 2 oz’s Sealed Pipe Tobacco Tin Annual 2006 Show": "glpease|shelobslair",
     "Brebbia Rondo Mix no. 27 50g Pipe Sealed Tobacco Tin": "brebbia|rondomixno27",
-    "NASPC Show 2004 McClelland Scottish Woods Tobacco Sealed 50g Tin Out of Production": "mcclelland|scottishwoods",
     "19 yrs old McClelland’s Mixture No. 14 Sealed 50g Pipe Tobacco Tin 2007": "mcclelland|orientalmixtureno14",
     "18 yrs old McCranies “Red Ribbon Prime 2000” Red Virginia 50g Sealed Pipe Tobacco Tin 2008": "mccranies|redribbon",
     "Tobacco Tin Sutliff Crumble Kake 2020 2 Oz. Sealed Pipe Tobacco Tin by Sutliff": "sutliff|crumblekake",
