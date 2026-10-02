@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-01T19:16:18.580313+00:00",
+  "generated": "2026-10-02T04:04:36.343619+00:00",
   "stats": {
-    "total_listings": 8253,
-    "excluded_multipacks": 2347,
+    "total_listings": 8278,
+    "excluded_multipacks": 2362,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3559,
@@ -104911,9 +104911,9 @@
             {
               "name": "Bengal Slices",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/234107/",
-              "price": "$49.99",
-              "last_updated": "2026-09-28T16:00:24.623035+00:00",
+              "url": "https://tinbids.com/auction/235451/",
+              "price": "$35.00",
+              "last_updated": "2026-10-02T04:00:31.702395+00:00",
               "first_seen": "2026-08-29T15:16:57+00:00",
               "year": "",
               "price_history": [
@@ -104932,6 +104932,10 @@
                 {
                   "price": "$49.99",
                   "date": "2026-09-28T16:00:24.623035+00:00"
+                },
+                {
+                  "price": "$35.00",
+                  "date": "2026-10-02T04:00:31.702395+00:00"
                 }
               ]
             },
@@ -117091,6 +117095,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Bengal Slices": "sutliff|bengalslices",
     "From Beyond by Cornell & Diehl Limited Release!  BIN Available!": "cornelldiehl|frombeyond",
     "G.L. Pease NASPC Shelob’s Lair 2 oz’s Sealed Pipe Tobacco Tin Annual 2006 Show": "glpease|shelobslair",
     "NASPC Show 2004 McClelland Scottish Woods Tobacco Sealed 50g Tin Out of Production": "mcclelland|scottishwoods",
@@ -117098,7 +117103,6 @@
     "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
     "Excellent Sealed 2020 Reiner Golden Flake Gold Blend 71 100g. Tin": "reiner|longgoldenflake",
     "Very Nice Sealed 2021 Gawith Hoggarth Ennerdale 500g. in Box": "gawithhoggarthco|ennerdaleflake",
-    "Bengal Slices": "sutliff|bengalslices",
     "Lane Limited 125 Anniversary 1.75oz Tin": "lanelimited|125thanniversary",
     "Ravenwood - Olde Burley Bear - 50g": "ravenwood|oldeburleybear",
     "Esoterica Tobacciana Dorchester 2 oz": "esoterica|dorchester",
