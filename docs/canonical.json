@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-02T19:16:21.130145+00:00",
+  "generated": "2026-10-03T04:05:27.265086+00:00",
   "stats": {
-    "total_listings": 8292,
-    "excluded_multipacks": 2366,
+    "total_listings": 8318,
+    "excluded_multipacks": 2368,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3559,
@@ -74606,15 +74606,23 @@
             {
               "name": "Frog Morton",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/218543/",
-              "price": "$200.00",
-              "last_updated": "2026-08-22T04:00:23.076559+00:00",
+              "url": "https://tinbids.com/auction/235805/",
+              "price": "$237.00",
+              "last_updated": "2026-10-03T04:00:28.109435+00:00",
               "first_seen": "2026-08-21T21:52:14+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$200.00",
                   "date": "2026-08-21T21:52:14+00:00"
+                },
+                {
+                  "price": "$204.00",
+                  "date": "2026-10-03T04:00:28.109435+00:00"
+                },
+                {
+                  "price": "$237.00",
+                  "date": "2026-10-03T04:00:28.109435+00:00"
                 }
               ]
             },
@@ -117159,6 +117167,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Frog Morton": "mcclelland|frogmorton",
     "Bengal Slices": "sutliff|bengalslices",
     "From Beyond by Cornell & Diehl Limited Release!  BIN Available!": "cornelldiehl|frombeyond",
     "G.L. Pease NASPC Shelob’s Lair 2 oz’s Sealed Pipe Tobacco Tin Annual 2006 Show": "glpease|shelobslair",
@@ -117326,7 +117335,6 @@
     "2009 G.L. Pease Blackpoint - 1 Tin NR BIN $45": "glpease|blackpoint",
     "Butera’s Royal Vintage Latakia No. 2": "butera|royalvintagelatakiano2",
     "Dunhill Standard Mixture Mellow": "dunhill|standardmixturemellow",
-    "Frog Morton": "mcclelland|frogmorton",
     "Rattrays Black Virginia": "rattrays|blackvirginia",
     "McClelland Christmas Cheer": "mcclelland|christmascheer",
     "Dan Tobacco Tordenskjold": "dantobacco|tordenskjoldvirginiaslices",
