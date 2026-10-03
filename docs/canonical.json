@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-03T16:03:24.839344+00:00",
+  "generated": "2026-10-03T17:14:32.624429+00:00",
   "stats": {
-    "total_listings": 8323,
-    "excluded_multipacks": 2370,
+    "total_listings": 8396,
+    "excluded_multipacks": 2379,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3559,
@@ -71964,14 +71964,18 @@
               "name": "McClelland’s Christmas Cheer 100g tin – Year 2000",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-christmas-cheer-100g-tin-year-2000-2/",
-              "price": "$135.00",
-              "last_updated": "2026-07-18T17:13:38.985666+00:00",
+              "price": "$140.00",
+              "last_updated": "2026-10-03T17:13:40.439628+00:00",
               "first_seen": "2026-07-18T17:13:38.985666+00:00",
               "year": "2000",
               "price_history": [
                 {
                   "price": "$135.00",
                   "date": "2026-07-18T17:13:38.985666+00:00"
+                },
+                {
+                  "price": "$140.00",
+                  "date": "2026-10-03T17:13:40.439628+00:00"
                 }
               ]
             },
@@ -72072,7 +72076,7 @@
             {
               "name": "McClelland’s Christmas Cheer 100g tin – Year 2007",
               "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-christmas-cheer-100g-tin-year-2007-2/",
+              "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-christmas-cheer-100g-tin-year-2007-3/",
               "price": "$130.00",
               "last_updated": "2026-09-26T17:13:39.192166+00:00",
               "first_seen": "2026-07-25T17:13:37.916898+00:00",
@@ -72092,8 +72096,8 @@
               "name": "McClelland’s Christmas Cheer 100g tin – Year 2008",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-christmas-cheer-100g-tin-year-2008-2/",
-              "price": "$135.00",
-              "last_updated": "2026-08-01T17:13:47.061174+00:00",
+              "price": "$130.00",
+              "last_updated": "2026-10-03T17:13:40.439628+00:00",
               "first_seen": "2026-06-20T16:28:47.877864+00:00",
               "year": "2008",
               "price_history": [
@@ -72108,6 +72112,10 @@
                 {
                   "price": "$135.00",
                   "date": "2026-08-01T17:13:47.061174+00:00"
+                },
+                {
+                  "price": "$130.00",
+                  "date": "2026-10-03T17:13:40.439628+00:00"
                 }
               ]
             },
@@ -72130,8 +72138,8 @@
               "name": "McClelland’s Christmas Cheer 100g tin – Year 2009",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-christmas-cheer-100g-tin-year-2009/",
-              "price": "$135.00",
-              "last_updated": "2026-08-01T17:13:47.061174+00:00",
+              "price": "$130.00",
+              "last_updated": "2026-10-03T17:13:40.439628+00:00",
               "first_seen": "2026-06-20T16:28:47.877864+00:00",
               "year": "2009",
               "price_history": [
@@ -72150,6 +72158,10 @@
                 {
                   "price": "$135.00",
                   "date": "2026-08-01T17:13:47.061174+00:00"
+                },
+                {
+                  "price": "$130.00",
+                  "date": "2026-10-03T17:13:40.439628+00:00"
                 }
               ]
             },
@@ -102506,14 +102518,18 @@
               "name": "Solani No 779 Syr. Latakia English Luxury Mixture 50g tin – Year 2000",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/solani-no-779-syr-latakia-english-luxury-mixture-50g-tin-year-2000/",
-              "price": "$95.00",
-              "last_updated": "2026-08-08T17:13:45.731929+00:00",
+              "price": "$80.00",
+              "last_updated": "2026-10-03T17:13:40.439628+00:00",
               "first_seen": "2026-08-08T17:13:45.731929+00:00",
               "year": "2000",
               "price_history": [
                 {
                   "price": "$95.00",
                   "date": "2026-08-08T17:13:45.731929+00:00"
+                },
+                {
+                  "price": "$80.00",
+                  "date": "2026-10-03T17:13:40.439628+00:00"
                 }
               ]
             },
@@ -116580,6 +116596,10 @@
     }
   ],
   "name_to_id": {
+    "Solani No 779 Syr. Latakia English Luxury Mixture 50g tin – Year 2000": "solani|779",
+    "McClelland’s Christmas Cheer 100g tin – Year 2009": "mcclelland|christmascheer",
+    "McClelland’s Christmas Cheer 100g tin – Year 2008": "mcclelland|christmascheer",
+    "McClelland’s Christmas Cheer 100g tin – Year 2000": "mcclelland|christmascheer",
     "Mac Baren Syr. Latakia Solent Mixture 3-1/2oz tin – Year 2005": "macbaren|solentmixture",
     "Orlik’s Drew Estate Grand Central 50g tin – Year 2013": "drewestate|grandcentral",
     "Wessex Golden Virginia Flake 50g tins – Year 2013": "wessex|goldenvirginiaflake",
@@ -116726,15 +116746,12 @@
     "Mac Baren’s HH Bold Kentucky 50g tins – First Year 2015 Production": "macbaren|hhboldkentucky",
     "Brebbia No. 9 Syr. Latakia Flake 50g tin – Year 2013 & Made by Planta": "brebbia|latakiaflakeno9",
     "James J. Fox Original Production The Banker’s 50g tin – Year 1999": "jamesjfox|bankers",
-    "Solani No 779 Syr. Latakia English Luxury Mixture 50g tin – Year 2000": "solani|779",
     "McCranie’s 2000 Crop Red Flake 50g tins – Tinned in Year 2008 & Made by McClelland’s": "mccranies|redflake",
     "McClelland’s Original Frog Morton 50g tin – Year 1996": "mcclelland|frogmorton",
     "Mac Baren HH Vintage Syr. Latakia 3-1/2oz tin – Year 2009": "macbaren|hhvintagesyrian",
     "Mac Baren’s HH Mature Virginia 3-1/2oz tin – Year 2009": "macbaren|hhmaturevirginia",
     "Ogden’s of Liverpool Gold Block 50g tins – Year 2016 & Made by Mac Baren": "ogdens|goldblock",
     "On Sale! – Lane Limited’s Original Crown Achievement 2oz tins – Year 1992": "lanelimited|crownachievement",
-    "McClelland’s Christmas Cheer 100g tin – Year 2009": "mcclelland|christmascheer",
-    "McClelland’s Christmas Cheer 100g tin – Year 2008": "mcclelland|christmascheer",
     "McClelland’s Christmas Cheer 100g tin – Year 2010": "mcclelland|christmascheer",
     "Wessex Gold Slice 50g tins – Year 2017": "wessex|goldslice",
     "McClelland’s Holiday Spirit 50g tins – Year 2017": "mcclelland|holidayspirit",
@@ -116912,7 +116929,6 @@
     "Orlik Dark Strong Kentucky 50g tins – Year 2015": "orlik|darkstrongkentucky",
     "Dunhill Aperitif 50g tin – Year 2017": "dunhill|aperitif",
     "Dunhill Ye Olde Signe 50g tins – Year 2016": "dunhill|yeoldesigne",
-    "McClelland’s Christmas Cheer 100g tin – Year 2000": "mcclelland|christmascheer",
     "McClelland’s Christmas Cheer 100g tin – Year 2008 (Lot #2)": "mcclelland|christmascheer",
     "McClelland’s Syr. Latakia Frog Morton Across the Pond 100g tin – Year 2012 (Lot #2)": "mcclelland|frogmortonacrossthepond",
     "McClelland’s Christmas Cheer 100g tin – Year 2010 (Lot #2)": "mcclelland|christmascheer",
