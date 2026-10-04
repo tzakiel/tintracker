@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-03T19:16:14.873511+00:00",
+  "generated": "2026-10-04T04:06:32.668700+00:00",
   "stats": {
-    "total_listings": 8396,
-    "excluded_multipacks": 2379,
+    "total_listings": 8448,
+    "excluded_multipacks": 2382,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3559,
@@ -2981,7 +2981,7 @@
             {
               "name": "Balkan by Brebbia (from 2014), with 40% Syrian Latakia, Sealed 50 gr tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/218954/",
+              "url": "https://tinbids.com/auction/236522/",
               "price": "$65.00",
               "last_updated": "2026-08-22T16:00:22.648758+00:00",
               "first_seen": "2026-08-22T15:28:35+00:00",
@@ -13990,15 +13990,19 @@
             {
               "name": "Palmetto Balkan 2022 - 8oz tin by C&D - BIN - NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/208649/",
-              "price": "$92.00",
-              "last_updated": "2026-07-26T04:01:29.863494+00:00",
+              "url": "https://tinbids.com/auction/236897/",
+              "price": "$90.00",
+              "last_updated": "2026-10-04T04:00:27.857782+00:00",
               "first_seen": "2026-07-25T22:10:10+00:00",
               "year": "2022",
               "price_history": [
                 {
                   "price": "$92.00",
                   "date": "2026-07-25T22:10:10+00:00"
+                },
+                {
+                  "price": "$90.00",
+                  "date": "2026-10-04T04:00:27.857782+00:00"
                 }
               ]
             },
@@ -68723,15 +68727,19 @@
             {
               "name": "McClelland’s, Anniversary 1977-2002, 100 gr sealed tin- 2002",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/207372/",
-              "price": "$207.00",
-              "last_updated": "2026-07-27T04:00:25.986860+00:00",
+              "url": "https://tinbids.com/auction/236548/",
+              "price": "$310.00",
+              "last_updated": "2026-10-04T04:00:27.857782+00:00",
               "first_seen": "2026-07-26T21:51:17+00:00",
               "year": "1977",
               "price_history": [
                 {
                   "price": "$207.00",
                   "date": "2026-07-26T21:51:17+00:00"
+                },
+                {
+                  "price": "$310.00",
+                  "date": "2026-10-04T04:00:27.857782+00:00"
                 }
               ]
             }
@@ -70181,9 +70189,9 @@
             {
               "name": "McCLELLAND BALKAN BLUE",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/231706/",
-              "price": "$100.00",
-              "last_updated": "2026-09-19T04:00:23.977194+00:00",
+              "url": "https://tinbids.com/auction/236647/",
+              "price": "$108.00",
+              "last_updated": "2026-10-04T04:00:27.857782+00:00",
               "first_seen": "2026-07-13T23:47:58+00:00",
               "year": "",
               "price_history": [
@@ -70206,6 +70214,10 @@
                 {
                   "price": "$100.00",
                   "date": "2026-09-19T04:00:23.977194+00:00"
+                },
+                {
+                  "price": "$108.00",
+                  "date": "2026-10-04T04:00:27.857782+00:00"
                 }
               ]
             },
@@ -73919,15 +73931,19 @@
             {
               "name": "McClelland, Dark Star, 100 gr sealed tin- 2000",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/207368/",
-              "price": "$243.00",
-              "last_updated": "2026-07-27T04:00:25.986860+00:00",
+              "url": "https://tinbids.com/auction/236568/",
+              "price": "$291.00",
+              "last_updated": "2026-10-04T04:00:27.857782+00:00",
               "first_seen": "2026-07-26T21:49:02+00:00",
               "year": "2000",
               "price_history": [
                 {
                   "price": "$243.00",
                   "date": "2026-07-26T21:49:02+00:00"
+                },
+                {
+                  "price": "$291.00",
+                  "date": "2026-10-04T04:00:27.857782+00:00"
                 }
               ]
             }
@@ -102239,15 +102255,19 @@
             {
               "name": "Krumble Kake, Smoker’s Haven by J.F. Germain, 8 oz sealed Mylar bag (2004)",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/207343/",
-              "price": "$2940.00",
-              "last_updated": "2026-07-27T04:00:25.986860+00:00",
+              "url": "https://tinbids.com/auction/236544/",
+              "price": "$3510.00",
+              "last_updated": "2026-10-04T04:00:27.857782+00:00",
               "first_seen": "2026-07-26T20:09:10+00:00",
               "year": "2004",
               "price_history": [
                 {
                   "price": "$2940.00",
                   "date": "2026-07-26T20:09:10+00:00"
+                },
+                {
+                  "price": "$3510.00",
+                  "date": "2026-10-04T04:00:27.857782+00:00"
                 }
               ]
             }
@@ -117199,6 +117219,11 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "McCLELLAND BALKAN BLUE": "mcclelland|balkanblue",
+    "Krumble Kake, Smoker’s Haven by J.F. Germain, 8 oz sealed Mylar bag (2004)": "smokershaven|krumblekake",
+    "McClelland, Dark Star, 100 gr sealed tin- 2000": "mcclelland|darkstar",
+    "McClelland’s, Anniversary 1977-2002, 100 gr sealed tin- 2002": "mcclelland|25thanniversary",
+    "Palmetto Balkan 2022 - 8oz tin by C&D - BIN - NR": "cornelldiehl|palmettobalkan",
     "Frog Morton": "mcclelland|frogmorton",
     "Bengal Slices": "sutliff|bengalslices",
     "From Beyond by Cornell & Diehl Limited Release!  BIN Available!": "cornelldiehl|frombeyond",
@@ -117236,7 +117261,6 @@
     "50g Zeppelin By Vauen \"Mit Hauch Latakia Aus Syrian\"!": "vauen|zeppelin",
     "Stonehaven 2018": "esoterica|stonehaven",
     "Butera Pelican Smoking Mixture 2 oz’s Sealed Pipe Tobacco Tin 1996": "butera|pelican",
-    "McCLELLAND BALKAN BLUE": "mcclelland|balkanblue",
     "Very Old! Robert McConnell Carolina Gold 100g": "robertmcconnell|carolinagold",
     "McClelland Syrian Full Balkan": "mcclelland|syrianfullbalkan",
     "Ravenwood - Smaug's Breath - 50g": "ravenwood|smaugsbreath",
@@ -118075,7 +118099,6 @@
     "2021 Esoterica Penzance 8oz": "esoterica|penzance",
     "Esoterica And So To Bed 8 ounce bag": "esoterica|andsotobed",
     "Samuel Gawith & Sons; Co Ltd, Full Virginia Flake, 1 lb sealed Mylar bag (2006)": "samuelgawith|fullvirginiaflake",
-    "Krumble Kake, Smoker’s Haven by J.F. Germain, 8 oz sealed Mylar bag (2004)": "smokershaven|krumblekake",
     "3.3oz/93.5g Of G&H (Unscented) Dark PLUG from 2011!": "gawithhoggarthco|darkplugunscented",
     "50g Of Samuel Gawith's Squadron Leader Special Edition From 2015": "samuelgawith|squadronleaderspecialedition",
     "50g Of C&D's Opening Night From 2015!": "cornelldiehl|openingnight",
@@ -118085,8 +118108,6 @@
     "Very Nice Sealed 2020 Solani Aged burley Flake 50g. Tin": "solani|agedburleyflake656",
     "Excellent Sealed 2020 Carter Hall 14oz. Tobacco Tin": "johnmiddleton|carterhall",
     "McClelland’s, Christmas Cheer, 100 gr sealed tin- 2001": "mcclelland|christmascheer",
-    "McClelland, Dark Star, 100 gr sealed tin- 2000": "mcclelland|darkstar",
-    "McClelland’s, Anniversary 1977-2002, 100 gr sealed tin- 2002": "mcclelland|25thanniversary",
     "McClelland, British Woods, 100 gr sealed tin (2002). Purchased in 2003": "mcclelland|britishwoods",
     "McClelland, Syrian Full Balkan Reserve PCCA (2000). 50 gr sealed tin": "pcca|fullbalkanreserve",
     "2017 McClelland 40th Anniversary 100g": "mcclelland|40thanniversary",
@@ -118116,7 +118137,6 @@
     "Sutliff Blackthorn sealed (8 oz) 1/2 pound": "sutliff|blackthorn",
     "Seattle Pipe Club:  Plum Pudding (sampled)": "sutliff|spcplumpudding",
     "Smoking Pipes Cornell & Diehl 20th Anniversary XX Flake Dark": "cornelldiehl|spcom20thanniversaryxxflakedark",
-    "Palmetto Balkan 2022 - 8oz tin by C&D - BIN - NR": "cornelldiehl|palmettobalkan",
     "2021 SPC Plum Pudding Special Reserve Flake 2oz Tin": "sutliff|spcplumpuddingspecialreserveflake",
     "Samual Gawith 2020 -1792 Flake- 50g Tin": "samuelgawith|1792flake",
     "Original Release 2011 Germain's Balkan Sobranie": "jfgermain|balkansobranie",
