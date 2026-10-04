@@ -53521,8 +53521,68 @@
       "tag": "WTS"
     }
   ],
-  "last_scraped": "2026-10-03T06:38:20.559763+00:00",
+  "last_scraped": "2026-10-04T06:38:18.683514+00:00",
   "latest_scrape": [
+    {
+      "name": "Pipes are",
+      "price": "$50",
+      "url": "https://speak-easy.club/threads/crappy-pipes-are-back-48-hours-only.45274/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-09-23T15:43:35+00:00",
+      "last_updated": "2026-09-24T06:38:15.498621+00:00",
+      "price_history": [
+        {
+          "price": "$50",
+          "date": "2026-09-23T15:43:35+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
+      "name": "My landed cost was",
+      "price": "$16.75",
+      "url": "https://speak-easy.club/threads/crf-2026-lots-for-those-that-missed-out.45282/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-09-26T15:18:49+00:00",
+      "last_updated": "2026-09-27T06:38:16.400593+00:00",
+      "price_history": [
+        {
+          "price": "$16.75",
+          "date": "2026-09-26T15:18:49+00:00"
+        }
+      ],
+      "tag": "SOLD"
+    },
+    {
+      "name": "I'll do",
+      "price": "$40",
+      "url": "https://speak-easy.club/threads/crf-2026-lots-for-those-that-missed-out.45282/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-09-26T15:18:49+00:00",
+      "last_updated": "2026-09-27T06:38:16.400593+00:00",
+      "price_history": [
+        {
+          "price": "$40",
+          "date": "2026-09-26T15:18:49+00:00"
+        }
+      ],
+      "tag": "SOLD"
+    },
+    {
+      "name": "Sunbear 2026 is",
+      "price": "$15",
+      "url": "https://speak-easy.club/threads/do-over-babas-pipes-and-baccy-fer-sale-pipe-tristan-dunhill-srv-sunbear.45283/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-09-25T22:16:02+00:00",
+      "last_updated": "2026-09-27T06:38:16.400593+00:00",
+      "price_history": [
+        {
+          "price": "$15",
+          "date": "2026-09-25T22:16:02+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
     {
       "name": "Peterson 2017 Christmas Pipe 69 Bent Billiard",
       "price": "$160",
@@ -53597,66 +53657,6 @@
         }
       ],
       "tag": "SOLD"
-    },
-    {
-      "name": "Pipes are",
-      "price": "$50",
-      "url": "https://speak-easy.club/threads/crappy-pipes-are-back-48-hours-only.45274/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-09-23T15:43:35+00:00",
-      "last_updated": "2026-09-24T06:38:15.498621+00:00",
-      "price_history": [
-        {
-          "price": "$50",
-          "date": "2026-09-23T15:43:35+00:00"
-        }
-      ],
-      "tag": "WTS"
-    },
-    {
-      "name": "My landed cost was",
-      "price": "$16.75",
-      "url": "https://speak-easy.club/threads/crf-2026-lots-for-those-that-missed-out.45282/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-09-26T15:18:49+00:00",
-      "last_updated": "2026-09-27T06:38:16.400593+00:00",
-      "price_history": [
-        {
-          "price": "$16.75",
-          "date": "2026-09-26T15:18:49+00:00"
-        }
-      ],
-      "tag": "SOLD"
-    },
-    {
-      "name": "I'll do",
-      "price": "$40",
-      "url": "https://speak-easy.club/threads/crf-2026-lots-for-those-that-missed-out.45282/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-09-26T15:18:49+00:00",
-      "last_updated": "2026-09-27T06:38:16.400593+00:00",
-      "price_history": [
-        {
-          "price": "$40",
-          "date": "2026-09-26T15:18:49+00:00"
-        }
-      ],
-      "tag": "SOLD"
-    },
-    {
-      "name": "Sunbear 2026 is",
-      "price": "$15",
-      "url": "https://speak-easy.club/threads/do-over-babas-pipes-and-baccy-fer-sale-pipe-tristan-dunhill-srv-sunbear.45283/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-09-25T22:16:02+00:00",
-      "last_updated": "2026-09-27T06:38:16.400593+00:00",
-      "price_history": [
-        {
-          "price": "$15",
-          "date": "2026-09-25T22:16:02+00:00"
-        }
-      ],
-      "tag": "WTS"
     }
   ],
   "scrape_history": [
@@ -54387,10 +54387,16 @@
       "added": 0,
       "price_changed": 0,
       "total": 2749
+    },
+    {
+      "date": "2026-10-04T06:38:18.683514+00:00",
+      "found": 9,
+      "added": 0,
+      "price_changed": 0,
+      "total": 2749
     }
   ],
   "thread_recheck": {
-    "https://speak-easy.club/threads/baccy.45063/unread": "2026-10-04T06:38:16.731000+00:00",
     "https://speak-easy.club/threads/crappy-pipes-are-back-48-hours-only.45274/unread": "2026-10-08T06:38:15.498621+00:00",
     "https://speak-easy.club/threads/stuliff-cringle-flake-most-of-the-years.45285/unread": "2026-10-11T06:38:16.400593+00:00",
     "https://speak-easy.club/threads/crf-2026-lots-for-those-that-missed-out.45282/unread": "2026-10-11T06:38:16.400593+00:00",
