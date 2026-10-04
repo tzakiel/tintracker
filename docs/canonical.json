@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-04T15:14:15.237937+00:00",
+  "generated": "2026-10-04T16:03:27.595604+00:00",
   "stats": {
-    "total_listings": 8448,
-    "excluded_multipacks": 2382,
+    "total_listings": 8454,
+    "excluded_multipacks": 2383,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3559,
@@ -25270,15 +25270,19 @@
             {
               "name": "1980's Dunhill Standard Mixture Medium 100 Gram Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/198621/",
-              "price": "$195.00",
-              "last_updated": "2026-07-01T16:00:42.026199+00:00",
+              "url": "https://tinbids.com/auction/236084/",
+              "price": "$225.00",
+              "last_updated": "2026-10-04T16:00:24.568071+00:00",
               "first_seen": "2026-07-01T13:47:24+00:00",
               "year": "1980",
               "price_history": [
                 {
                   "price": "$195.00",
                   "date": "2026-07-01T13:47:24+00:00"
+                },
+                {
+                  "price": "$225.00",
+                  "date": "2026-10-04T16:00:24.568071+00:00"
                 }
               ]
             }
@@ -117267,6 +117271,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "1980's Dunhill Standard Mixture Medium 100 Gram Tin": "dunhill|standardmixturemedium",
     "McCLELLAND BALKAN BLUE": "mcclelland|balkanblue",
     "Krumble Kake, Smoker’s Haven by J.F. Germain, 8 oz sealed Mylar bag (2004)": "smokershaven|krumblekake",
     "McClelland, Dark Star, 100 gr sealed tin- 2000": "mcclelland|darkstar",
@@ -118873,7 +118878,6 @@
     "GRANGER (1970s? Pinkerton) ROUGH CUT Pipe Tobacco - 14 OZ. Sealed Tin": "granger|granger",
     "Dunhill London Mixture Painted Lid - 1 Tin NR BIN $110": "dunhill|londonmixture",
     "2014 Balkan Sobranie": "jfgermain|balkansobranie",
-    "1980's Dunhill Standard Mixture Medium 100 Gram Tin": "dunhill|standardmixturemedium",
     "2007 G.L. Pease Westminster- First Year of Production": "glpease|westminster",
     "Stonehaven Esoterica  8ozs Almost sealed and cellared Cream Bag": "esoterica|stonehaven",
     "Seattle Pipe Club Mississippi River Special Reserve 4oz can from 2017": "sutliff|spcmississippiriverspecialreserve",
