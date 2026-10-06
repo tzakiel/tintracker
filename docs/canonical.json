@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-06T15:14:18.482665+00:00",
+  "generated": "2026-10-06T16:03:29.233440+00:00",
   "stats": {
-    "total_listings": 8556,
+    "total_listings": 8561,
     "excluded_multipacks": 2400,
     "total_tins": 1315,
     "multi_member_tins": 671,
-    "listings_in_groups": 3559,
+    "listings_in_groups": 3560,
     "cross_source_tins": 508
   },
   "tins": [
@@ -25788,6 +25788,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "Dunhill Ye Olde Signe",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/238508/",
+              "price": "$56.00",
+              "last_updated": "2026-10-06T16:00:28.272186+00:00",
+              "first_seen": "2026-10-06T15:36:43+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$56.00",
+                  "date": "2026-10-06T15:36:43+00:00"
+                }
+              ]
+            },
             {
               "name": "Dunhill Ye Olde Signe",
               "source": "Speak-Easy.Club",
@@ -117411,6 +117426,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Dunhill Ye Olde Signe": "dunhill|yeoldesigne",
     "Frog Morton": "mcclelland|frogmorton",
     "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
     "Escudo Navy De Luxe 50g Tin (2011)": "stg|escudonavydeluxe",
@@ -120909,7 +120925,6 @@
     "Esoterica Dorchester 2oz": "esoterica|dorchester",
     "Esoterica Dunbar 2oz": "esoterica|dunbar",
     "Esoterica ASTB 2oz": "esoterica|andsotobed",
-    "Dunhill Ye Olde Signe": "dunhill|yeoldesigne",
     "SG Best Brown 250g 2020": "samuelgawith|bestbrownflake",
     "Gawith Bright CR 140g 2021": "gawithhoggarthco|brightcrflake",
     "Comoy’s #7 113g 2020": "comoys|caskno7",
