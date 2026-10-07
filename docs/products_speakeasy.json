@@ -53716,7 +53716,7 @@
       "tag": "WTS"
     }
   ],
-  "last_scraped": "2026-10-06T06:38:15.064379+00:00",
+  "last_scraped": "2026-10-07T06:38:17.148945+00:00",
   "latest_scrape": [
     {
       "name": "Peterson 606 Donegal Rocky",
@@ -54796,6 +54796,13 @@
       "date": "2026-10-06T06:38:15.064379+00:00",
       "found": 22,
       "added": 5,
+      "price_changed": 0,
+      "total": 2762
+    },
+    {
+      "date": "2026-10-07T06:38:17.148945+00:00",
+      "found": 22,
+      "added": 0,
       "price_changed": 0,
       "total": 2762
     }
