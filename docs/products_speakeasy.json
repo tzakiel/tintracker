@@ -53716,7 +53716,7 @@
       "tag": "WTS"
     }
   ],
-  "last_scraped": "2026-10-07T06:38:17.148945+00:00",
+  "last_scraped": "2026-10-08T06:38:16.706415+00:00",
   "latest_scrape": [
     {
       "name": "Peterson 606 Donegal Rocky",
@@ -53743,36 +53743,6 @@
       "price_history": [
         {
           "price": "$40",
-          "date": "2026-10-05T01:01:18+00:00"
-        }
-      ],
-      "tag": "WTS"
-    },
-    {
-      "name": "Bones Derry",
-      "price": "$30",
-      "url": "https://speak-easy.club/threads/the-%E2%80%9Ci-have-too-many-pipes%E2%80%9D-sale-part-whatever.45325/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-10-05T01:01:18+00:00",
-      "last_updated": "2026-10-05T06:38:14.807560+00:00",
-      "price_history": [
-        {
-          "price": "$30",
-          "date": "2026-10-05T01:01:18+00:00"
-        }
-      ],
-      "tag": "WTS"
-    },
-    {
-      "name": "Bones Limerick",
-      "price": "$30",
-      "url": "https://speak-easy.club/threads/the-%E2%80%9Ci-have-too-many-pipes%E2%80%9D-sale-part-whatever.45325/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-10-05T01:01:18+00:00",
-      "last_updated": "2026-10-05T06:38:14.807560+00:00",
-      "price_history": [
-        {
-          "price": "$30",
           "date": "2026-10-05T01:01:18+00:00"
         }
       ],
@@ -53914,16 +53884,31 @@
       "tag": "WTS"
     },
     {
-      "name": "Pipes are",
-      "price": "$50",
-      "url": "https://speak-easy.club/threads/crappy-pipes-are-back-48-hours-only.45274/unread",
+      "name": "Bones Derry",
+      "price": "$30",
+      "url": "https://speak-easy.club/threads/the-%E2%80%9Ci-have-too-many-pipes%E2%80%9D-sale-part-whatever.45325/unread",
       "source": "Speak-Easy.Club",
-      "first_seen": "2026-09-23T15:43:35+00:00",
-      "last_updated": "2026-09-24T06:38:15.498621+00:00",
+      "first_seen": "2026-10-05T01:01:18+00:00",
+      "last_updated": "2026-10-05T06:38:14.807560+00:00",
       "price_history": [
         {
-          "price": "$50",
-          "date": "2026-09-23T15:43:35+00:00"
+          "price": "$30",
+          "date": "2026-10-05T01:01:18+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
+      "name": "Bones Limerick",
+      "price": "$30",
+      "url": "https://speak-easy.club/threads/the-%E2%80%9Ci-have-too-many-pipes%E2%80%9D-sale-part-whatever.45325/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-10-05T01:01:18+00:00",
+      "last_updated": "2026-10-05T06:38:14.807560+00:00",
+      "price_history": [
+        {
+          "price": "$30",
+          "date": "2026-10-05T01:01:18+00:00"
         }
       ],
       "tag": "WTS"
@@ -54805,10 +54790,16 @@
       "added": 0,
       "price_changed": 0,
       "total": 2762
+    },
+    {
+      "date": "2026-10-08T06:38:16.706415+00:00",
+      "found": 21,
+      "added": 0,
+      "price_changed": 0,
+      "total": 2762
     }
   ],
   "thread_recheck": {
-    "https://speak-easy.club/threads/crappy-pipes-are-back-48-hours-only.45274/unread": "2026-10-08T06:38:15.498621+00:00",
     "https://speak-easy.club/threads/stuliff-cringle-flake-most-of-the-years.45285/unread": "2026-10-11T06:38:16.400593+00:00",
     "https://speak-easy.club/threads/crf-2026-lots-for-those-that-missed-out.45282/unread": "2026-10-11T06:38:16.400593+00:00",
     "https://speak-easy.club/threads/do-over-babas-pipes-and-baccy-fer-sale-pipe-tristan-dunhill-srv-sunbear.45283/unread": "2026-10-11T06:38:16.400593+00:00",
