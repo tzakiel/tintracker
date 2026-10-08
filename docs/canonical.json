@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-08T15:14:16.578240+00:00",
+  "generated": "2026-10-08T16:03:57.835582+00:00",
   "stats": {
-    "total_listings": 8603,
+    "total_listings": 8605,
     "excluded_multipacks": 2410,
     "total_tins": 1315,
     "multi_member_tins": 671,
@@ -29725,15 +29725,19 @@
             {
               "name": "Esoterica Dorchester",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/210758/",
-              "price": "$80.05",
-              "last_updated": "2026-08-01T04:00:25.121923+00:00",
+              "url": "https://tinbids.com/auction/237916/",
+              "price": "$405.00",
+              "last_updated": "2026-10-08T16:00:28.992400+00:00",
               "first_seen": "2026-07-31T18:51:54+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$80.05",
                   "date": "2026-07-31T18:51:54+00:00"
+                },
+                {
+                  "price": "$405.00",
+                  "date": "2026-10-08T16:00:28.992400+00:00"
                 }
               ]
             },
@@ -32739,6 +32743,33 @@
           "quantity": "",
           "members": [
             {
+              "name": "Esoterica Pembroke",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/237918/",
+              "price": "$385.00",
+              "last_updated": "2026-10-08T16:00:28.992400+00:00",
+              "first_seen": "2026-06-28T23:33:34+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$345.00",
+                  "date": "2026-06-28T23:33:34+00:00"
+                },
+                {
+                  "price": "$340.00",
+                  "date": "2026-07-27T04:00:25.986860+00:00"
+                },
+                {
+                  "price": "$360.00",
+                  "date": "2026-08-02T04:00:31.671279+00:00"
+                },
+                {
+                  "price": "$385.00",
+                  "date": "2026-10-08T16:00:28.992400+00:00"
+                }
+              ]
+            },
+            {
               "name": "Pembroke",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/217210/",
@@ -32795,29 +32826,6 @@
                 {
                   "price": "$90.00",
                   "date": "2026-08-02T22:41:04+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Esoterica Pembroke",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/211305/",
-              "price": "$360.00",
-              "last_updated": "2026-08-02T04:00:31.671279+00:00",
-              "first_seen": "2026-06-28T23:33:34+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$345.00",
-                  "date": "2026-06-28T23:33:34+00:00"
-                },
-                {
-                  "price": "$340.00",
-                  "date": "2026-07-27T04:00:25.986860+00:00"
-                },
-                {
-                  "price": "$360.00",
-                  "date": "2026-08-02T04:00:31.671279+00:00"
                 }
               ]
             },
@@ -117506,6 +117514,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Esoterica Pembroke": "esoterica|pembroke",
+    "Esoterica Dorchester": "esoterica|dorchester",
     "Dunhill Ye Olde Signe": "dunhill|yeoldesigne",
     "Frog Morton": "mcclelland|frogmorton",
     "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
@@ -118231,7 +118241,6 @@
     "2014 - LEO PIPE TOBACCO 50g": "lanelimited|leo",
     "Dunhill My Mixture #1167": "dunhill|mymixture1167",
     "Ashton Artisan’s Blend Tobacco Sealed Tin Century 2009 50g Syrian Latakia Pipe Tobacco": "ashton|artisansblend",
-    "Esoterica Pembroke": "esoterica|pembroke",
     "2010 McClelland 3 Oaks Syrian Latakia English Blend NR BIN$150": "mcclelland|3oakssyrian",
     "SUN BEAR 2019 - ORIGINAL RELEASE - Cornell and Diehl": "cornelldiehl|sunbear",
     "225g bag of Ravenwood small batch, Bisons Burley": "ravenwood|bisonburley",
@@ -118263,7 +118272,6 @@
     "Dunhill De Luxe Navy Rolls (2015)": "dunhill|deluxenavyrolls",
     "Dunhill Royal Yacht Mixture (2015)": "dunhill|royalyacht",
     "Dunhill Nightcap (2015)": "dunhill|nightcap",
-    "Esoterica Dorchester": "esoterica|dorchester",
     "2009 G.L. PEASE KENSINGTON approx. 2 ounces": "glpease|kensington",
     "1996 McClelland No. 25 Virginia 20th Anniversary - 100g": "mcclelland|no25virginia20thanniversary",
     "Dunhill Nightcap (50g Tin) – Sealed 2017 Vintage Production": "dunhill|nightcap",
