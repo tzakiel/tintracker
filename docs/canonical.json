@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-09T15:14:47.314181+00:00",
+  "generated": "2026-10-09T16:06:46.391033+00:00",
   "stats": {
-    "total_listings": 8640,
-    "excluded_multipacks": 2418,
+    "total_listings": 8655,
+    "excluded_multipacks": 2420,
     "total_tins": 1315,
     "multi_member_tins": 671,
-    "listings_in_groups": 3560,
+    "listings_in_groups": 3561,
     "cross_source_tins": 508
   },
   "tins": [
@@ -69008,9 +69008,9 @@
             {
               "name": "McClelland 221B Series: Honeydew 2015 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/214105/",
-              "price": "$45.00",
-              "last_updated": "2026-08-11T04:00:27.216448+00:00",
+              "url": "https://tinbids.com/auction/237662/",
+              "price": "$60.00",
+              "last_updated": "2026-10-09T16:00:27.710606+00:00",
               "first_seen": "2026-06-26T03:11:03+00:00",
               "year": "2015",
               "price_history": [
@@ -69037,6 +69037,10 @@
                 {
                   "price": "$45.00",
                   "date": "2026-08-11T04:00:27.216448+00:00"
+                },
+                {
+                  "price": "$60.00",
+                  "date": "2026-10-09T16:00:27.710606+00:00"
                 }
               ]
             }
@@ -69814,9 +69818,9 @@
             {
               "name": "McClelland 40th Anniversary - NR BIN $225",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/226662/",
-              "price": "$225.00",
-              "last_updated": "2026-09-04T16:00:22.521397+00:00",
+              "url": "https://tinbids.com/auction/237804/",
+              "price": "$220.00",
+              "last_updated": "2026-10-09T16:00:27.710606+00:00",
               "first_seen": "2026-06-22T13:53:20.063064+00:00",
               "year": "",
               "price_history": [
@@ -69839,6 +69843,10 @@
                 {
                   "price": "$225.00",
                   "date": "2026-09-04T16:00:22.521397+00:00"
+                },
+                {
+                  "price": "$220.00",
+                  "date": "2026-10-09T16:00:27.710606+00:00"
                 }
               ]
             },
@@ -110497,6 +110505,21 @@
           "quantity": "",
           "members": [
             {
+              "name": "Plum Pudding Special Reserve",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/237671/",
+              "price": "$60.00",
+              "last_updated": "2026-10-09T16:00:27.710606+00:00",
+              "first_seen": "2026-10-09T09:07:26+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$60.00",
+                  "date": "2026-10-09T09:07:26+00:00"
+                }
+              ]
+            },
+            {
               "name": "SPC PP SR",
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
@@ -117570,6 +117593,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "McClelland 40th Anniversary - NR BIN $225": "mcclelland|40thanniversary",
+    "McClelland 221B Series: Honeydew 2015 NR": "mcclelland|221bhoneydew",
+    "Plum Pudding Special Reserve": "sutliff|spcplumpuddingspecialreserve",
     "Esoterica Pembroke": "esoterica|pembroke",
     "Esoterica Dorchester": "esoterica|dorchester",
     "Dunhill Ye Olde Signe": "dunhill|yeoldesigne",
@@ -117647,7 +117673,6 @@
     "Samuel Gawith-Sam's Flake": "samuelgawith|samsflake",
     "2016 Esoterica Penzance - 8oz Sealed - NO RESERVE": "esoterica|penzance",
     "2020 SAMUEL GAWITH SAM'S FLAKE": "samuelgawith|samsflake",
-    "McClelland 40th Anniversary - NR BIN $225": "mcclelland|40thanniversary",
     "Ravenwood - Three Farthing Stone - 50g": "ravenwood|threefarthingstone",
     "Vintage 1980 - Robert McConnell's Original Red Virginia - 50g": "robertmcconnell|redvirginia",
     "Sutliff 526 Old Professor - ONE POUND": "sutliff|526oldprofessor",
@@ -118035,7 +118060,6 @@
     "Excellent Sealed 2022 Gawith Hoggarth Bob's Chocolate Flake 50g. Tin": "gawithhoggarthco|bobschocolateflake",
     "Excellent Sealed 2024 Watch City Cigars Old Dominion 25th Anniversary Flake 50g. Tin": "watchcity|olddominion",
     "Very Nice Sealed Samuel Gawith Brown Sugar Flake 50g. Tin": "samuelgawith|brownsugarflake",
-    "McClelland 221B Series: Honeydew 2015 NR": "mcclelland|221bhoneydew",
     "Dunhill Durbar Mixture 2017 NR": "dunhill|durbar",
     "Dunhill The “Royal Yacht” Mixture 2016 NR": "dunhill|royalyacht",
     "C&D 2026 Firebird Flake": "cornelldiehl|firebirdflake",
@@ -120146,7 +120170,6 @@
     "Mississippi River Rum Barrel Aged": "sutliff|spcmississippiriverrumbarrelaged",
     "Mississippi River Special Reserve": "sutliff|spcmississippiriverspecialreserve",
     "Plum Pudding Bourbon Barrel Aged": "sutliff|spcplumpuddingbourbonbarrelaged",
-    "Plum Pudding Special Reserve": "sutliff|spcplumpuddingspecialreserve",
     "Plum Pudding Special Reserve Flake": "sutliff|spcplumpuddingspecialreserveflake",
     "Potlatch": "sutliff|spcpotlatch",
     "Seattle Evening": "sutliff|spcseattleevening",
