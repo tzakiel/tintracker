@@ -1,6 +1,48 @@
 {
   "products": [
     {
+      "name": "Aged 5/22 Astley’s No.44 Dark Virginia Flake",
+      "price": "$50.00",
+      "url": "https://tinbids.com/auction/237921/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-10T13:14:30+00:00",
+      "last_updated": "2026-10-10T16:00:23.114181+00:00",
+      "price_history": [
+        {
+          "price": "$50.00",
+          "date": "2026-10-10T13:14:30+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Nording 4/2017 Labrador Hunter’s Bland",
+      "price": "$69.99",
+      "url": "https://tinbids.com/auction/237923/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-10T14:36:38+00:00",
+      "last_updated": "2026-10-10T16:00:23.114181+00:00",
+      "price_history": [
+        {
+          "price": "$69.99",
+          "date": "2026-10-10T14:36:38+00:00"
+        }
+      ]
+    },
+    {
+      "name": "GL Pease-Westminster",
+      "price": "$33.50",
+      "url": "https://tinbids.com/auction/237928/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-10T14:38:38+00:00",
+      "last_updated": "2026-10-10T16:00:23.114181+00:00",
+      "price_history": [
+        {
+          "price": "$33.50",
+          "date": "2026-10-10T14:38:38+00:00"
+        }
+      ]
+    },
+    {
       "name": "2024 Robert McConnell Scottish Flake - 4 Tins NR BIN $105",
       "price": "$100.00",
       "url": "https://tinbids.com/auction/237903/",
@@ -63475,8 +63517,50 @@
       ]
     }
   ],
-  "last_scraped": "2026-10-10T04:00:29.682430+00:00",
+  "last_scraped": "2026-10-10T16:00:23.114181+00:00",
   "latest_scrape": [
+    {
+      "name": "Aged 5/22 Astley’s No.44 Dark Virginia Flake",
+      "price": "$50.00",
+      "url": "https://tinbids.com/auction/237921/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-10T13:14:30+00:00",
+      "last_updated": "2026-10-10T16:00:23.114181+00:00",
+      "price_history": [
+        {
+          "price": "$50.00",
+          "date": "2026-10-10T13:14:30+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Nording 4/2017 Labrador Hunter’s Bland",
+      "price": "$69.99",
+      "url": "https://tinbids.com/auction/237923/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-10T14:36:38+00:00",
+      "last_updated": "2026-10-10T16:00:23.114181+00:00",
+      "price_history": [
+        {
+          "price": "$69.99",
+          "date": "2026-10-10T14:36:38+00:00"
+        }
+      ]
+    },
+    {
+      "name": "GL Pease-Westminster",
+      "price": "$33.50",
+      "url": "https://tinbids.com/auction/237928/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-10T14:38:38+00:00",
+      "last_updated": "2026-10-10T16:00:23.114181+00:00",
+      "price_history": [
+        {
+          "price": "$33.50",
+          "date": "2026-10-10T14:38:38+00:00"
+        }
+      ]
+    },
     {
       "name": "2024 Robert McConnell Scottish Flake - 4 Tins NR BIN $105",
       "price": "$100.00",
@@ -127029,51 +127113,6 @@
       "date_end": "2026-10-12 01:40:45"
     },
     {
-      "url": "https://tinbids.com/auction/237911/",
-      "name": "Rattray’s Sterling Flake : 50g / 1.76oz",
-      "date_end": "2026-10-10 11:59:51"
-    },
-    {
-      "url": "https://tinbids.com/auction/237912/",
-      "name": "Midnight Orchard 2oz Pipe Tobacco",
-      "date_end": "2026-10-10 12:00:08"
-    },
-    {
-      "url": "https://tinbids.com/auction/237913/",
-      "name": "Maestro Puccini 2oz Pipe Tobacco / Buy It Now $65",
-      "date_end": "2026-10-10 12:00:25"
-    },
-    {
-      "url": "https://tinbids.com/auction/237914/",
-      "name": "Wessex Brigade Campaign Dark Flake 50g / 1.75oz Unopened Tin Straight Virginia Tobacco",
-      "date_end": "2026-10-10 12:01:35"
-    },
-    {
-      "url": "https://tinbids.com/auction/237915/",
-      "name": "2016 McClelland’s Christmas Cheer tin NR BIN $200",
-      "date_end": "2026-10-10 12:27:14"
-    },
-    {
-      "url": "https://tinbids.com/auction/237920/",
-      "name": "Dunhill Flake 2016 50 g Sealed tin",
-      "date_end": "2026-10-10 13:12:48"
-    },
-    {
-      "url": "https://tinbids.com/auction/237921/",
-      "name": "Aged 5/22 Astley’s No.44 Dark Virginia Flake",
-      "date_end": "2026-10-10 13:14:30"
-    },
-    {
-      "url": "https://tinbids.com/auction/237923/",
-      "name": "Nording 4/2017 Labrador Hunter’s Bland",
-      "date_end": "2026-10-10 14:36:38"
-    },
-    {
-      "url": "https://tinbids.com/auction/237928/",
-      "name": "GL Pease-Westminster",
-      "date_end": "2026-10-10 14:38:38"
-    },
-    {
       "url": "https://tinbids.com/auction/237937/",
       "name": "5 Viaje Halloween & Thanksgiving Cigars",
       "date_end": "2026-10-10 16:03:57"
@@ -128859,11 +128898,6 @@
       "date_end": "2026-10-17 01:42:23"
     },
     {
-      "url": "https://tinbids.com/auction/239240/",
-      "name": "CORNELL & DIEHL - ANTHOLOGY 1992-2022 - 2oz",
-      "date_end": "2026-10-10 13:25:03"
-    },
-    {
       "url": "https://tinbids.com/auction/239239/",
       "name": "Lot of 2 - 2oz Tins of Midnight Orchard Small Batch - Sold Out Everywhere",
       "date_end": "2026-10-12 11:02:25"
@@ -130199,16 +130233,6 @@
       "date_end": "2026-10-18 19:45:42"
     },
     {
-      "url": "https://tinbids.com/auction/240087/",
-      "name": "Mac Baren Mixture - Scottish Blend - 100g",
-      "date_end": "2026-10-10 05:27:32"
-    },
-    {
-      "url": "https://tinbids.com/auction/240351/",
-      "name": "Sutliff 526 Old Professor - ONE POUND",
-      "date_end": "2026-10-10 15:17:11"
-    },
-    {
       "url": "https://tinbids.com/auction/240157/",
       "name": "2021 Commonwealth - Samuel Gawith",
       "date_end": "2026-10-12 13:40:09"
@@ -131277,6 +131301,66 @@
       "url": "https://tinbids.com/auction/240525/",
       "name": "Esoterica Penzance 2oz Tin SEALED 2010 production",
       "date_end": "2026-10-17 01:28:42"
+    },
+    {
+      "url": "https://tinbids.com/auction/240542/",
+      "name": "Mac Baren Mixture - Scottish Blend - 100g",
+      "date_end": "2026-10-11 05:50:47"
+    },
+    {
+      "url": "https://tinbids.com/auction/240545/",
+      "name": "X2 Cornell & Diehl Small Batch Sun Bear BOURBON CASK",
+      "date_end": "2026-10-11 06:05:31"
+    },
+    {
+      "url": "https://tinbids.com/auction/240546/",
+      "name": "X2 Cornell & Diehl Small Batch Sun Bear BOURBON CASK",
+      "date_end": "2026-10-11 06:06:20"
+    },
+    {
+      "url": "https://tinbids.com/auction/240559/",
+      "name": "Aged 2016 McClelland’s Christmas Cheer",
+      "date_end": "2026-10-11 15:20:18"
+    },
+    {
+      "url": "https://tinbids.com/auction/240565/",
+      "name": "Aged Dunhill My Mixture BB1938",
+      "date_end": "2026-10-11 15:26:30"
+    },
+    {
+      "url": "https://tinbids.com/auction/240526/",
+      "name": "2013 Capstan Gold Flake 2-pack 1.75oz tins",
+      "date_end": "2026-10-13 04:21:17"
+    },
+    {
+      "url": "https://tinbids.com/auction/240531/",
+      "name": "Robert McConnell Special London Shag - 50gm 2-pack - Rare",
+      "date_end": "2026-10-13 04:24:05"
+    },
+    {
+      "url": "https://tinbids.com/auction/240535/",
+      "name": "2014 Klondike Gold Flake - Super Rare 3-pack 50g tins",
+      "date_end": "2026-10-13 04:28:29"
+    },
+    {
+      "url": "https://tinbids.com/auction/240541/",
+      "name": "Vintage Pipe Tobaccos 1970s-1980s Sealed Granger and Whitehall",
+      "date_end": "2026-10-17 05:17:37"
+    },
+    {
+      "url": "https://tinbids.com/auction/240548/",
+      "name": "McClelland No. 24 Virginia 2016",
+      "date_end": "2026-10-17 15:03:55"
+    },
+    {
+      "url": "https://tinbids.com/auction/240552/",
+      "name": "McClelland 40th Anniversary 2018",
+      "date_end": "2026-10-17 15:08:38"
+    },
+    {
+      "url": "https://tinbids.com/auction/240557/",
+      "name": "Sutliff Private Stock Eastfarthing (Discontinued)",
+      "date_end": "2026-10-17 15:09:18"
     }
   ],
   "scrape_history": [
@@ -132812,6 +132896,13 @@
       "added": 5,
       "price_changed": 1,
       "total": 4320
+    },
+    {
+      "date": "2026-10-10T16:00:23.114181+00:00",
+      "found": 3,
+      "added": 3,
+      "price_changed": 0,
+      "total": 4323
     }
   ]
 }
