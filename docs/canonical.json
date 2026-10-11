@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-10T19:16:18.086513+00:00",
+  "generated": "2026-10-11T04:06:24.586100+00:00",
   "stats": {
-    "total_listings": 8748,
-    "excluded_multipacks": 2434,
+    "total_listings": 8773,
+    "excluded_multipacks": 2436,
     "total_tins": 1315,
     "multi_member_tins": 671,
-    "listings_in_groups": 3561,
+    "listings_in_groups": 3562,
     "cross_source_tins": 508
   },
   "tins": [
@@ -25278,15 +25278,19 @@
             {
               "name": "Dunhill Standard Mixture",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/217895/",
-              "price": "$30.00",
-              "last_updated": "2026-08-20T04:00:22.197556+00:00",
+              "url": "https://tinbids.com/auction/239539/",
+              "price": "$60.00",
+              "last_updated": "2026-10-11T04:00:26.157125+00:00",
               "first_seen": "2026-08-19T22:18:18+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$30.00",
                   "date": "2026-08-19T22:18:18+00:00"
+                },
+                {
+                  "price": "$60.00",
+                  "date": "2026-10-11T04:00:26.157125+00:00"
                 }
               ]
             }
@@ -25859,15 +25863,19 @@
             {
               "name": "Dunhill Ye Olde Signe",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/238508/",
-              "price": "$56.00",
-              "last_updated": "2026-10-06T16:00:28.272186+00:00",
+              "url": "https://tinbids.com/auction/239541/",
+              "price": "$45.00",
+              "last_updated": "2026-10-11T04:00:26.157125+00:00",
               "first_seen": "2026-10-06T15:36:43+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$56.00",
                   "date": "2026-10-06T15:36:43+00:00"
+                },
+                {
+                  "price": "$45.00",
+                  "date": "2026-10-11T04:00:26.157125+00:00"
                 }
               ]
             },
@@ -49764,9 +49772,9 @@
             {
               "name": "Very Nice Sealed 2021 Hearth & Home Black House 10 Year Anniversary 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/232157/",
-              "price": "$33.00",
-              "last_updated": "2026-09-22T04:00:24.624439+00:00",
+              "url": "https://tinbids.com/auction/238756/",
+              "price": "$36.00",
+              "last_updated": "2026-10-11T04:00:26.157125+00:00",
               "first_seen": "2026-08-17T21:29:13+00:00",
               "year": "2021",
               "price_history": [
@@ -49781,6 +49789,10 @@
                 {
                   "price": "$33.00",
                   "date": "2026-09-22T04:00:24.624439+00:00"
+                },
+                {
+                  "price": "$36.00",
+                  "date": "2026-10-11T04:00:26.157125+00:00"
                 }
               ]
             },
@@ -56900,15 +56912,19 @@
             {
               "name": "Vintage HICKORY Pipe Tobacco (1998) John Middleton's - 12oz Sealed Can",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/204526/",
-              "price": "$54.00",
-              "last_updated": "2026-07-16T04:00:47.048591+00:00",
+              "url": "https://tinbids.com/auction/238096/",
+              "price": "$68.00",
+              "last_updated": "2026-10-11T04:00:26.157125+00:00",
               "first_seen": "2026-07-16T02:39:55+00:00",
               "year": "1998",
               "price_history": [
                 {
                   "price": "$54.00",
                   "date": "2026-07-16T02:39:55+00:00"
+                },
+                {
+                  "price": "$68.00",
+                  "date": "2026-10-11T04:00:26.157125+00:00"
                 }
               ]
             }
@@ -76703,6 +76719,21 @@
           "quantity": "",
           "members": [
             {
+              "name": "Frog Morton's Cellar",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/239312/",
+              "price": "$104.00",
+              "last_updated": "2026-10-11T04:00:26.157125+00:00",
+              "first_seen": "2026-10-10T18:01:48+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$104.00",
+                  "date": "2026-10-10T18:01:48+00:00"
+                }
+              ]
+            },
+            {
               "name": "Frog Morton’s Cellar",
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/cellar-sale.41150/",
@@ -92167,9 +92198,9 @@
             {
               "name": "Excellent Sealed 2020 Reiner Golden Flake Gold Blend 71 100g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/235333/",
-              "price": "$63.66",
-              "last_updated": "2026-09-30T04:00:24.836824+00:00",
+              "url": "https://tinbids.com/auction/238763/",
+              "price": "$52.00",
+              "last_updated": "2026-10-11T04:00:26.157125+00:00",
               "first_seen": "2026-07-19T21:07:57+00:00",
               "year": "2020",
               "price_history": [
@@ -92192,6 +92223,10 @@
                 {
                   "price": "$63.66",
                   "date": "2026-09-30T04:00:24.836824+00:00"
+                },
+                {
+                  "price": "$52.00",
+                  "date": "2026-10-11T04:00:26.157125+00:00"
                 }
               ]
             }
@@ -108563,15 +108598,19 @@
             {
               "name": "MIXTURE No. 79 CHERRY BOURBON FLAVOR Smoking Tobacco (1970s?) 1.5 OZ. Sealed Box",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/209557/",
-              "price": "$26.00",
-              "last_updated": "2026-07-26T04:01:29.863494+00:00",
+              "url": "https://tinbids.com/auction/238837/",
+              "price": "$15.00",
+              "last_updated": "2026-10-11T04:00:26.157125+00:00",
               "first_seen": "2026-07-26T02:16:15+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$26.00",
                   "date": "2026-07-26T02:16:15+00:00"
+                },
+                {
+                  "price": "$15.00",
+                  "date": "2026-10-11T04:00:26.157125+00:00"
                 }
               ]
             },
@@ -110408,15 +110447,19 @@
             {
               "name": "2020 SEATTLE PIPE CLUB PLUM PUDDING BOURBON BARREL AGED",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/205216/",
-              "price": "$40.00",
-              "last_updated": "2026-07-21T04:00:29.167499+00:00",
+              "url": "https://tinbids.com/auction/237956/",
+              "price": "$45.00",
+              "last_updated": "2026-10-11T04:00:26.157125+00:00",
               "first_seen": "2026-07-20T22:07:42+00:00",
               "year": "2020",
               "price_history": [
                 {
                   "price": "$40.00",
                   "date": "2026-07-20T22:07:42+00:00"
+                },
+                {
+                  "price": "$45.00",
+                  "date": "2026-10-11T04:00:26.157125+00:00"
                 }
               ]
             },
@@ -115094,9 +115137,9 @@
             {
               "name": "Excellent Sealed 2019 Wellauer & Co. Latakia 100g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/222958/",
-              "price": "$87.00",
-              "last_updated": "2026-08-30T04:00:22.435289+00:00",
+              "url": "https://tinbids.com/auction/238767/",
+              "price": "$137.00",
+              "last_updated": "2026-10-11T04:00:26.157125+00:00",
               "first_seen": "2026-07-19T21:17:41+00:00",
               "year": "2019",
               "price_history": [
@@ -115115,6 +115158,10 @@
                 {
                   "price": "$87.00",
                   "date": "2026-08-30T04:00:22.435289+00:00"
+                },
+                {
+                  "price": "$137.00",
+                  "date": "2026-10-11T04:00:26.157125+00:00"
                 }
               ]
             }
@@ -117681,12 +117728,20 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Dunhill Ye Olde Signe": "dunhill|yeoldesigne",
+    "Excellent Sealed 2020 Reiner Golden Flake Gold Blend 71 100g. Tin": "reiner|longgoldenflake",
+    "Very Nice Sealed 2021 Hearth & Home Black House 10 Year Anniversary 50g. Tin": "hearthhome|blackhouse10thanniversary",
+    "Excellent Sealed 2019 Wellauer & Co. Latakia 100g. Tin": "wellauerco|latakiamixture",
+    "Dunhill Standard Mixture": "dunhill|standardmixture",
+    "MIXTURE No. 79 CHERRY BOURBON FLAVOR Smoking Tobacco (1970s?) 1.5 OZ. Sealed Box": "sutliff|mixtureno79",
+    "2020 SEATTLE PIPE CLUB PLUM PUDDING BOURBON BARREL AGED": "sutliff|spcplumpuddingbourbonbarrelaged",
+    "Vintage HICKORY Pipe Tobacco (1998) John Middleton's - 12oz Sealed Can": "johnmiddleton|hickory",
+    "Frog Morton's Cellar": "mcclelland|frogmortonscellar",
     "McClelland 40th Anniversary - NR BIN $225": "mcclelland|40thanniversary",
     "McClelland 221B Series: Honeydew 2015 NR": "mcclelland|221bhoneydew",
     "Plum Pudding Special Reserve": "sutliff|spcplumpuddingspecialreserve",
     "Esoterica Pembroke": "esoterica|pembroke",
     "Esoterica Dorchester": "esoterica|dorchester",
-    "Dunhill Ye Olde Signe": "dunhill|yeoldesigne",
     "Frog Morton": "mcclelland|frogmorton",
     "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
     "Escudo Navy De Luxe 50g Tin (2011)": "stg|escudonavydeluxe",
@@ -117701,7 +117756,6 @@
     "G.L. Pease NASPC Shelob’s Lair 2 oz’s Sealed Pipe Tobacco Tin Annual 2006 Show": "glpease|shelobslair",
     "NASPC Show 2004 McClelland Scottish Woods Tobacco Sealed 50g Tin Out of Production": "mcclelland|scottishwoods",
     "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
-    "Excellent Sealed 2020 Reiner Golden Flake Gold Blend 71 100g. Tin": "reiner|longgoldenflake",
     "Very Nice Sealed 2021 Gawith Hoggarth Ennerdale 500g. in Box": "gawithhoggarthco|ennerdaleflake",
     "Lane Limited 125 Anniversary 1.75oz Tin": "lanelimited|125thanniversary",
     "Ravenwood - Olde Burley Bear - 50g": "ravenwood|oldeburleybear",
@@ -117720,7 +117774,6 @@
     "Esoterica Margate": "esoterica|margate",
     "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
     "BROWN SUGAR FLAKE - Samuel Gawith - 2022": "samuelgawith|brownsugarflake",
-    "Very Nice Sealed 2021 Hearth & Home Black House 10 Year Anniversary 50g. Tin": "hearthhome|blackhouse10thanniversary",
     "Excellent Sealed 2019 Wellauer & Co. Latakia Mixture 50g. Tin": "wellauerco|latakiamixture",
     "Erinmore Flake 50g Tin (2017)": "erinmore|flake",
     "Fox Bankers Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|bankers",
@@ -117773,7 +117826,6 @@
     "Esoterica Tilbury 2oz Tin Released 2025": "esoterica|tilbury",
     "Esoterica Stonehaven 2016 | 8oz Bag | La Clave Collection": "esoterica|stonehaven",
     "2015 Mac Baren Bold Kentucky 3.5oz": "macbaren|hhboldkentucky",
-    "Excellent Sealed 2019 Wellauer & Co. Latakia 100g. Tin": "wellauerco|latakiamixture",
     "Germain's Medium Flake 50g tin 2018": "jfgermain|mediumflake",
     "Toscano Maestro Puccini Limited Edition 2oz": "toscano|maestropuccini",
     "Very Nice Sealed 2016 McClelland 3 Oaks With Syrian Latakia 50g. Tin": "mcclelland|3oakssyrian",
@@ -117895,7 +117947,6 @@
     "72 Hour Auction! 2018 Mac Baren Virginia Flake 1.75 oz – July 2018 – 8 Year Aged Sealed Tin": "macbaren|virginiaflake",
     "2017 McClelland Balkan Blue": "mcclelland|balkanblue",
     "Brebbia - Balkan (Syrian Blend)": "brebbia|balkan",
-    "Dunhill Standard Mixture": "dunhill|standardmixture",
     "Dunhill London Mixture -2015": "dunhill|londonmixture",
     "Dunhill My Mixture 965 - 2013": "dunhill|mymixtureno965",
     "2009 G.L. PEASE KENSINGTON approx. 2.2 ounces": "glpease|kensington",
@@ -118608,7 +118659,6 @@
     "Original Release 2011 Germain's Balkan Sobranie": "jfgermain|balkansobranie",
     "Vintage DAVIDOFF (1980s?) ORIENTAL MIXTURE Pipe Tobacco - 50g Sealed Tin": "davidoff|orientalmixture",
     "LANE AFTER HOURS (1960s) Pipe Tobacco - 2 oz Sealed Tin": "lanelimited|afterhours",
-    "MIXTURE No. 79 CHERRY BOURBON FLAVOR Smoking Tobacco (1970s?) 1.5 OZ. Sealed Box": "sutliff|mixtureno79",
     "2012_GL_Pease_Blackpoint_8oz": "glpease|blackpoint",
     "Spilman Mixture E.Hoffan Company Chicago from the 2010’s": "ehoffmancompany|spilmanmixture",
     "New Limited Edition Ye Thames Mixture by Briarshire": "briarshire|yethamesmixture",
@@ -118730,7 +118780,6 @@
     "Esoterica 2019 Dunbar 8oz Bag": "esoterica|dunbar",
     "2019 Esoterica Margate 8oz Bag": "esoterica|margate",
     "2006 McCLELLAND BLAKENEY'S BEST TAWNY FLAKE approx. 1.5 ounces": "mcclelland|blakeneysbesttawnyflake",
-    "2020 SEATTLE PIPE CLUB PLUM PUDDING BOURBON BARREL AGED": "sutliff|spcplumpuddingbourbonbarrelaged",
     "2020 MAC BAREN HH RUSTICA 3.5 oz. tin": "macbaren|hhrustica",
     "Cobblestone Plum Rum Limited Pressed": "cobblestone|plumrum",
     "2021 Cornell & Diehl Wintertime Reserve Alpine Lodge 2 oz Pipe Tobacco Tin - New Sealed": "cornelldiehl|wintertimereservealpinelodge",
@@ -118893,7 +118942,6 @@
     "MAC BAREN (1990s) LATAKIA BLEND - STRAIGHT BROAD CUT - 2 OZ. Painted Lid - Sealed Tin": "macbaren|latakiablend",
     "CAPTAIN BLACK (2021?) ORIGINAL Pipe Tobacco (STG / LANE) 12 OZ Sealed Can": "captainblack|original",
     "Vintage HEINE'S BLEND Smoking Tobacco, by SUTLIFF - 14oz Sealed White Can": "sutliff|heinesblend",
-    "Vintage HICKORY Pipe Tobacco (1998) John Middleton's - 12oz Sealed Can": "johnmiddleton|hickory",
     "Davidoff Flake Medallions 2016": "davidoff|flakemedallions",
     "Very Nice Sealed Butera Pelican English-Oriental 2oz. Tin": "butera|pelican",
     "2014 Klondike Gold - 50g": "brigham|klondikegold",
