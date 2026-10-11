@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-11T06:38:35.484842+00:00",
+  "generated": "2026-10-11T16:04:08.419651+00:00",
   "stats": {
-    "total_listings": 8773,
+    "total_listings": 8781,
     "excluded_multipacks": 2436,
     "total_tins": 1315,
     "multi_member_tins": 671,
@@ -33754,9 +33754,9 @@
             {
               "name": "Penzance 2017",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/234971/",
-              "price": "$310.00",
-              "last_updated": "2026-09-27T04:00:22.532979+00:00",
+              "url": "https://tinbids.com/auction/238192/",
+              "price": "$255.00",
+              "last_updated": "2026-10-11T16:00:26.207906+00:00",
               "first_seen": "2026-08-16T01:08:32+00:00",
               "year": "2017",
               "price_history": [
@@ -33775,6 +33775,10 @@
                 {
                   "price": "$310.00",
                   "date": "2026-09-27T04:00:22.532979+00:00"
+                },
+                {
+                  "price": "$255.00",
+                  "date": "2026-10-11T16:00:26.207906+00:00"
                 }
               ]
             }
@@ -117728,6 +117732,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Penzance 2017": "esoterica|penzance",
     "Dunhill Ye Olde Signe": "dunhill|yeoldesigne",
     "Excellent Sealed 2020 Reiner Golden Flake Gold Blend 71 100g. Tin": "reiner|longgoldenflake",
     "Very Nice Sealed 2021 Hearth & Home Black House 10 Year Anniversary 50g. Tin": "hearthhome|blackhouse10thanniversary",
@@ -117763,7 +117768,6 @@
     "Captain Black Premium Edition: Black Sea - Discontinued Rare Sealed 50g Tin": "captainblack|blacksea",
     "Captain Black: Grape - Discontinued Rare Sealed Vintage 12oz Tub": "captainblack|grape",
     "Cornell & Diehl Small Batch Sun Bear Navy Cask": "cornelldiehl|sunbearnavycask",
-    "Penzance 2017": "esoterica|penzance",
     "Margate": "esoterica|margate",
     "Peterson 3-Sweet Killarney": "peterson|sweetkillarney",
     "Sutliff Cringle Flake 2024": "sutliff|cringleflake",
