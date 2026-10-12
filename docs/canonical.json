@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-12T04:04:45.668007+00:00",
+  "generated": "2026-10-12T06:38:32.019798+00:00",
   "stats": {
-    "total_listings": 8810,
+    "total_listings": 8871,
     "excluded_multipacks": 2443,
     "total_tins": 1315,
     "multi_member_tins": 671,
-    "listings_in_groups": 3562,
+    "listings_in_groups": 3564,
     "cross_source_tins": 508
   },
   "tins": [
@@ -54445,6 +54445,21 @@
           "quantity": "",
           "members": [
             {
+              "name": "Germain's King Charles",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/sunday-cellar-clean-out-sale.45358/unread",
+              "price": "$40.00",
+              "last_updated": "2026-10-12T06:38:13.563555+00:00",
+              "first_seen": "2026-10-11T22:31:05+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$40.00",
+                  "date": "2026-10-11T22:31:05+00:00"
+                }
+              ]
+            },
+            {
               "name": "Germain’s King Charles",
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/mcclelland-and-germain%E2%80%99s.40779/",
@@ -62030,9 +62045,9 @@
             {
               "name": "Mac Baren Golden Extra",
               "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/selling-a-chunk-of-my-cellar.44637/",
-              "price": "$55.00",
-              "last_updated": "2026-07-09T06:48:17.821792+00:00",
+              "url": "https://speak-easy.club/threads/sunday-cellar-clean-out-sale.45358/unread",
+              "price": "$20.00",
+              "last_updated": "2026-10-12T06:38:13.563555+00:00",
               "first_seen": "2024-07-23T15:34:58+00:00",
               "year": "",
               "price_history": [
@@ -62159,6 +62174,10 @@
                 {
                   "price": "$55.00",
                   "date": "2026-07-09T06:48:17.821792+00:00"
+                },
+                {
+                  "price": "$20.00",
+                  "date": "2026-10-12T06:38:13.563555+00:00"
                 }
               ]
             },
@@ -63656,15 +63675,19 @@
             {
               "name": "Mac Baren HH Latakia Flake",
               "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/selling-a-chunk-of-my-cellar.44637/",
-              "price": "$65.00",
-              "last_updated": "2026-06-29T23:33:11.991005+00:00",
+              "url": "https://speak-easy.club/threads/sunday-cellar-clean-out-sale.45358/unread",
+              "price": "$20.00",
+              "last_updated": "2026-10-12T06:38:13.563555+00:00",
               "first_seen": "2026-06-13T00:39:45+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$65.00",
                   "date": "2026-06-13T00:39:45+00:00"
+                },
+                {
+                  "price": "$20.00",
+                  "date": "2026-10-12T06:38:13.563555+00:00"
                 }
               ]
             },
@@ -88232,6 +88255,25 @@
           "quantity": "",
           "members": [
             {
+              "name": "Peterson University Flake",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/sunday-cellar-clean-out-sale.45358/unread",
+              "price": "$15.00",
+              "last_updated": "2026-10-12T06:38:13.563555+00:00",
+              "first_seen": "2026-06-13T00:39:45+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$35.00",
+                  "date": "2026-06-13T00:39:45+00:00"
+                },
+                {
+                  "price": "$15.00",
+                  "date": "2026-10-12T06:38:13.563555+00:00"
+                }
+              ]
+            },
+            {
               "name": "University flake",
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/capstan-capstan-capstan.44833/unread",
@@ -88247,21 +88289,6 @@
                 {
                   "price": "$10",
                   "date": "2026-07-10T06:38:18.226977+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Peterson University Flake",
-              "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/selling-a-chunk-of-my-cellar.44637/",
-              "price": "$35.00",
-              "last_updated": "2026-06-29T23:33:11.991005+00:00",
-              "first_seen": "2026-06-13T00:39:45+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$35.00",
-                  "date": "2026-06-13T00:39:45+00:00"
                 }
               ]
             },
@@ -99936,6 +99963,21 @@
                 {
                   "price": "$40.00",
                   "date": "2026-06-25T13:22:49+00:00"
+                }
+              ]
+            },
+            {
+              "name": "Samuel Gawith St. James Flake",
+              "source": "Speak-Easy.Club",
+              "url": "https://speak-easy.club/threads/sunday-cellar-clean-out-sale.45358/unread",
+              "price": "$20.00",
+              "last_updated": "2026-10-12T06:38:13.563555+00:00",
+              "first_seen": "2026-10-11T22:31:05+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$20.00",
+                  "date": "2026-10-11T22:31:05+00:00"
                 }
               ]
             },
@@ -115428,15 +115470,19 @@
             {
               "name": "Wessex Campaign",
               "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
-              "price": "$30.00",
-              "last_updated": "2026-07-26T06:38:20.190819+00:00",
+              "url": "https://speak-easy.club/threads/sunday-cellar-clean-out-sale.45358/unread",
+              "price": "$25.00",
+              "last_updated": "2026-10-12T06:38:13.563555+00:00",
               "first_seen": "2026-07-26T00:59:43+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$30.00",
                   "date": "2026-07-26T00:59:43+00:00"
+                },
+                {
+                  "price": "$25.00",
+                  "date": "2026-10-12T06:38:13.563555+00:00"
                 }
               ]
             },
@@ -119997,6 +120043,11 @@
     "Wessex: BURLEY SLICE 50g 2014 - C": "wessex|burleyslice",
     "Wessex: GOLD SLICE 1.5oz 2017 - C": "wessex|goldslice",
     "William Taylor Ashton:  OLD LONDON PEBBLE CUT 100g 1985- C": "ashton|oldlondonpebblecut",
+    "Wessex Campaign": "wessex|brigadecampaigndarkflake",
+    "Mac Baren Golden Extra": "macbaren|goldenextra",
+    "Mac Baren HH Latakia Flake": "macbaren|hhlatakiaflake",
+    "Peterson University Flake": "peterson|universityflake",
+    "Germain's King Charles": "jfgermain|kingcharlesmixture",
     "Dark Plug 500g": "gawithhoggarthco|darkplug",
     "Bosun Cut Plug – 5 oz.": "gawithhoggarthco|bosuncutplug",
     "Galloping Gertie": "sutliff|spcgallopinggertie",
@@ -120047,7 +120098,6 @@
     "F&T Special Brown Flake": "fribourgtreyer|specialbrownflake",
     "F&T Cut Blended Plug": "fribourgtreyer|cutblendedplug",
     "F&T BlackJack": "fribourgtreyer|blackjack",
-    "Wessex Campaign": "wessex|brigadecampaigndarkflake",
     "Solani ABF": "solani|agedburleyflake656",
     "Solani Silver Flake": "solani|silver660",
     "Solani VA Flake": "solani|633",
@@ -120106,7 +120156,6 @@
     "150g 2021 Evening Flake": "erikstokkebye|eveningflake",
     "110g 2023 Evening Flake": "erikstokkebye|eveningflake",
     "65g 2021 GdO Flake": "savinelli|giubileodoroflake",
-    "Mac Baren Golden Extra": "macbaren|goldenextra",
     "Mac Baren Brunello Flake": "macbaren|brunelloflake",
     "Mac Baren HH Mature Virginia": "macbaren|hhmaturevirginia",
     "Rattray Brown Clunee": "rattrays|brownclunee",
@@ -120224,11 +120273,9 @@
     "Dunhill Dark Flake": "dunhill|darkflake",
     "Mac Baren Dark Twist Roll Cake": "macbaren|darktwistrollcake",
     "Mac Baren Doblone D'Oro": "savinelli|doblonedoro",
-    "Mac Baren HH Latakia Flake": "macbaren|hhlatakiaflake",
     "Mac Baren St. Bruno Flake": "macbaren|stbrunoflake",
     "Mac Baren Vanilla Cream": "macbaren|vanillacreamflake",
     "Mac Baren Vanilla Roll Cake": "macbaren|vanillarollcake",
-    "Peterson University Flake": "peterson|universityflake",
     "Rattray Exotic Passion": "rattrays|exoticpassion",
     "Rattray Wallace Flake": "rattrays|wallaceflake",
     "Russ Ouellette Acadian Gold": "russouellette|acadiangold",
