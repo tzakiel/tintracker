@@ -54779,23 +54779,8 @@
       "tag": "WTS"
     }
   ],
-  "last_scraped": "2026-10-13T06:38:16.563040+00:00",
+  "last_scraped": "2026-10-14T06:38:15.670782+00:00",
   "latest_scrape": [
-    {
-      "name": "WTS 2015 Penzance, I have 1.4 oz left,",
-      "price": "$60",
-      "url": "https://speak-easy.club/threads/wts-2015-penzance-1-4-oz.45364/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-10-12T16:17:04+00:00",
-      "last_updated": "2026-10-13T06:38:16.563040+00:00",
-      "price_history": [
-        {
-          "price": "$60",
-          "date": "2026-10-12T16:17:04+00:00"
-        }
-      ],
-      "tag": "WTS"
-    },
     {
       "name": "Wally Frank Sitter",
       "price": "$40",
@@ -56066,6 +56051,13 @@
       "date": "2026-10-13T06:38:16.563040+00:00",
       "found": 20,
       "added": 1,
+      "price_changed": 0,
+      "total": 2831
+    },
+    {
+      "date": "2026-10-14T06:38:15.670782+00:00",
+      "found": 19,
+      "added": 0,
       "price_changed": 0,
       "total": 2831
     }
