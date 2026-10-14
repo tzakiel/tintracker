@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-13T19:16:19.797328+00:00",
+  "generated": "2026-10-14T04:04:13.509364+00:00",
   "stats": {
-    "total_listings": 8921,
-    "excluded_multipacks": 2454,
+    "total_listings": 8931,
+    "excluded_multipacks": 2455,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3564,
@@ -30247,15 +30247,19 @@
             {
               "name": "Esoterica Dunbar 8oz Bag 2025 Release",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/217542/",
-              "price": "$425.00",
-              "last_updated": "2026-08-19T16:00:21.668326+00:00",
+              "url": "https://tinbids.com/auction/239053/",
+              "price": "$410.00",
+              "last_updated": "2026-10-14T04:00:26.193734+00:00",
               "first_seen": "2026-08-19T13:27:26+00:00",
               "year": "2025",
               "price_history": [
                 {
                   "price": "$425.00",
                   "date": "2026-08-19T13:27:26+00:00"
+                },
+                {
+                  "price": "$410.00",
+                  "date": "2026-10-14T04:00:26.193734+00:00"
                 }
               ]
             },
@@ -31015,9 +31019,9 @@
             {
               "name": "Esoterica Margate 2oz Tin Released 2025",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/220664/",
-              "price": "$75.50",
-              "last_updated": "2026-08-27T16:00:23.200436+00:00",
+              "url": "https://tinbids.com/auction/239047/",
+              "price": "$84.00",
+              "last_updated": "2026-10-14T04:00:26.193734+00:00",
               "first_seen": "2026-06-29T13:18:34+00:00",
               "year": "2025",
               "price_history": [
@@ -31032,6 +31036,10 @@
                 {
                   "price": "$75.50",
                   "date": "2026-08-27T16:00:23.200436+00:00"
+                },
+                {
+                  "price": "$84.00",
+                  "date": "2026-10-14T04:00:26.193734+00:00"
                 }
               ]
             }
@@ -32542,15 +32550,19 @@
             {
               "name": "Esoterica Pembroke 2oz Tin 2025 Release",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/217536/",
-              "price": "$75.00",
-              "last_updated": "2026-08-19T16:00:21.668326+00:00",
+              "url": "https://tinbids.com/auction/239059/",
+              "price": "$80.00",
+              "last_updated": "2026-10-14T04:00:26.193734+00:00",
               "first_seen": "2026-08-19T13:21:45+00:00",
               "year": "2025",
               "price_history": [
                 {
                   "price": "$75.00",
                   "date": "2026-08-19T13:21:45+00:00"
+                },
+                {
+                  "price": "$80.00",
+                  "date": "2026-10-14T04:00:26.193734+00:00"
                 }
               ]
             }
@@ -35361,9 +35373,9 @@
             {
               "name": "Esoterica Tilbury 2oz Tin Released 2025",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/222742/",
-              "price": "$78.00",
-              "last_updated": "2026-08-31T16:00:24.609873+00:00",
+              "url": "https://tinbids.com/auction/239056/",
+              "price": "$81.00",
+              "last_updated": "2026-10-14T04:00:26.193734+00:00",
               "first_seen": "2026-06-29T13:18:12+00:00",
               "year": "2025",
               "price_history": [
@@ -35378,6 +35390,10 @@
                 {
                   "price": "$78.00",
                   "date": "2026-08-31T16:00:24.609873+00:00"
+                },
+                {
+                  "price": "$81.00",
+                  "date": "2026-10-14T04:00:26.193734+00:00"
                 }
               ]
             }
@@ -117846,6 +117862,10 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Esoterica Tilbury 2oz Tin Released 2025": "esoterica|tilbury",
+    "Esoterica Margate 2oz Tin Released 2025": "esoterica|margate",
+    "Esoterica Pembroke 2oz Tin 2025 Release": "esoterica|pembroke",
+    "Esoterica Dunbar 8oz Bag 2025 Release": "esoterica|dunbar",
     "Bengal Slices": "sutliff|bengalslices",
     "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
     "Excellent Sealed 2023 Peter Heinrichs Dark Strong 100g. Tin": "peterheinrichs|darkstrongflake",
@@ -117942,7 +117962,6 @@
     "2014 Esoterica Penzance - 8 oz bag": "esoterica|penzance",
     "Samuel Gawith Full Virginia Flake - 250g Vintage Box (2018)": "samuelgawith|fullvirginiaflake",
     "2020 Esoterica Brighton - 8 oz bag": "esoterica|brighton",
-    "Esoterica Tilbury 2oz Tin Released 2025": "esoterica|tilbury",
     "Esoterica Stonehaven 2016 | 8oz Bag | La Clave Collection": "esoterica|stonehaven",
     "2015 Mac Baren Bold Kentucky 3.5oz": "macbaren|hhboldkentucky",
     "Germain's Medium Flake 50g tin 2018": "jfgermain|mediumflake",
@@ -117956,7 +117975,6 @@
     "MacBaren Virginia No. 1 2017 NR": "macbaren|virginiano1",
     "Gawith Best Brown Flake 2016 NR": "samuelgawith|bestbrownflake",
     "Gawith Westmorland Mixture Pre-2009 NR": "samuelgawith|westmorlandmixture",
-    "Esoterica Margate 2oz Tin Released 2025": "esoterica|margate",
     "Esoterica Dorchester 2oz Tin Released 2025": "esoterica|dorchester",
     "Peterson’s Dunhill My Mixture 965 1.76 oz’s Pipe Tobacco Tin Made in England (United Kingdon)": "dunhill|mymixtureno965",
     "2016 Orlik Dark Strong Kentucky - 1 Tin NR BIN $70": "orlik|darkstrongkentucky",
@@ -118071,9 +118089,7 @@
     "2009 G.L. PEASE KENSINGTON approx. 2.2 ounces": "glpease|kensington",
     "2002 2 oz GL Pease Robusto": "glpease|robusto",
     "McClellan's Bombay Extra - 50g - 2013": "mcclelland|bombayextra",
-    "Esoterica Pembroke 2oz Tin 2025 Release": "esoterica|pembroke",
     "Esoterica \"And So To Bed\" 2oz Tin 2025 Release": "esoterica|andsotobed",
-    "Esoterica Dunbar 8oz Bag 2025 Release": "esoterica|dunbar",
     "KBV - Eldritch Pipes --Goblin City  -- 2023": "kenbyronventures|goblincity",
     "Esoterica Dorchester - 8oz": "esoterica|dorchester",
     "Esoterica Margate - 8oz": "esoterica|margate",
