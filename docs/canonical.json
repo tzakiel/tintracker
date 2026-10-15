@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-15T06:38:36.976916+00:00",
+  "generated": "2026-10-15T16:04:23.525857+00:00",
   "stats": {
-    "total_listings": 8959,
-    "excluded_multipacks": 2459,
+    "total_listings": 8970,
+    "excluded_multipacks": 2461,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3564,
@@ -5991,6 +5991,25 @@
           "quantity": "",
           "members": [
             {
+              "name": "CAO Flavours 4-Cherrybomb",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/238463/",
+              "price": "$1.00",
+              "last_updated": "2026-10-15T16:00:27.508081+00:00",
+              "first_seen": "2026-06-23T16:00:46.765633+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$29.00",
+                  "date": "2026-06-23T16:00:46.765633+00:00"
+                },
+                {
+                  "price": "$1.00",
+                  "date": "2026-10-15T16:00:27.508081+00:00"
+                }
+              ]
+            },
+            {
               "name": "CAO Cherry Bomb",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/200358/",
@@ -6002,21 +6021,6 @@
                 {
                   "price": "$10.00",
                   "date": "2026-07-03T22:52:25+00:00"
-                }
-              ]
-            },
-            {
-              "name": "CAO Flavours 4-Cherrybomb",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/197063/",
-              "price": "$29.00",
-              "last_updated": "2026-06-23T16:00:46.765633+00:00",
-              "first_seen": "2026-06-23T16:00:46.765633+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$29.00",
-                  "date": "2026-06-23T16:00:46.765633+00:00"
                 }
               ]
             }
@@ -54816,15 +54820,19 @@
             {
               "name": "Germain's Plum Cake Mixture - 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/200929/",
-              "price": "$95.00",
-              "last_updated": "2026-07-08T04:00:53.107133+00:00",
+              "url": "https://tinbids.com/auction/239672/",
+              "price": "$85.00",
+              "last_updated": "2026-10-15T16:00:27.508081+00:00",
               "first_seen": "2026-07-07T15:52:11+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$95.00",
                   "date": "2026-07-07T15:52:11+00:00"
+                },
+                {
+                  "price": "$85.00",
+                  "date": "2026-10-15T16:00:27.508081+00:00"
                 }
               ]
             },
@@ -116134,7 +116142,7 @@
             {
               "name": "Wessex Burley Slice - 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/208616/",
+              "url": "https://tinbids.com/auction/239705/",
               "price": "$48.00",
               "last_updated": "2026-07-28T04:00:32.783470+00:00",
               "first_seen": "2026-07-27T19:30:14+00:00",
@@ -117882,6 +117890,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Germain's Plum Cake Mixture - 50g": "jfgermain|plumcake",
+    "CAO Flavours 4-Cherrybomb": "cao|cherrybomb",
     "Sutliff 526 Old Professor - ONE POUND": "sutliff|526oldprofessor",
     "Esoterica Tilbury 2oz Tin Released 2025": "esoterica|tilbury",
     "Esoterica Margate 2oz Tin Released 2025": "esoterica|margate",
@@ -119305,7 +119315,6 @@
     "22 Years Vintage 2004 Butera Blended Flake": "butera|blendedflake",
     "26 Years Vintage (2000) McClelland Mixture No. 1 Super Rare!": "mcclelland|mixtureno1",
     "McClelland - Syrian super Balkan": "mcclelland|syriansuperbalkan",
-    "Germain's Plum Cake Mixture - 50g": "jfgermain|plumcake",
     "Vintage Holiday America’s Finest Pipe Mixture 14oz can from Larus & Brother Company": "larusbrother|holiday",
     "Vintage Briggs Smoking Tobacco 16oz in a wooden KEG": "briggs|briggs",
     "Cornell&Diehl Midnight Orchard. Small batch": "cornelldiehl|midnightorchard",
@@ -119710,7 +119719,6 @@
     "Rattray's Black Virginia": "rattrays|blackvirginia",
     "Esoterica And so to bed": "esoterica|andsotobed",
     "Peterson 4-Royal Yacht": "peterson|royalyacht",
-    "CAO Flavours 4-Cherrybomb": "cao|cherrybomb",
     "Tobacco Tin Sutliff Crindle Flake 2023 2 Oz. Sealed Pipe Tobacco Tin by Sutliff": "sutliff|cringleflake",
     "Tobacco Tin Sutliff Crindle Flake 2024 2 Oz. Sealed Pipe Tobacco Tin by Sutliff": "sutliff|cringleflake",
     "Mac Baren HH Acadian Perique": "macbaren|hhacadianperique",
