@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-14T19:16:16.113310+00:00",
+  "generated": "2026-10-15T04:04:19.382472+00:00",
   "stats": {
-    "total_listings": 8937,
-    "excluded_multipacks": 2457,
+    "total_listings": 8958,
+    "excluded_multipacks": 2459,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3564,
@@ -105057,9 +105057,9 @@
             {
               "name": "Sutliff 526 Old Professor - ONE POUND",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/240694/",
-              "price": "$75.00",
-              "last_updated": "2026-09-02T16:00:24.536497+00:00",
+              "url": "https://tinbids.com/auction/240874/",
+              "price": "$80.00",
+              "last_updated": "2026-10-15T04:00:24.821868+00:00",
               "first_seen": "2026-08-13T19:51:34+00:00",
               "year": "",
               "price_history": [
@@ -105074,6 +105074,10 @@
                 {
                   "price": "$75.00",
                   "date": "2026-09-02T16:00:24.536497+00:00"
+                },
+                {
+                  "price": "$80.00",
+                  "date": "2026-10-15T04:00:24.821868+00:00"
                 }
               ]
             }
@@ -117878,6 +117882,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Sutliff 526 Old Professor - ONE POUND": "sutliff|526oldprofessor",
     "Esoterica Tilbury 2oz Tin Released 2025": "esoterica|tilbury",
     "Esoterica Margate 2oz Tin Released 2025": "esoterica|margate",
     "Esoterica Pembroke 2oz Tin 2025 Release": "esoterica|pembroke",
@@ -117971,7 +117976,6 @@
     "2020 SAMUEL GAWITH SAM'S FLAKE": "samuelgawith|samsflake",
     "Ravenwood - Three Farthing Stone - 50g": "ravenwood|threefarthingstone",
     "Vintage 1980 - Robert McConnell's Original Red Virginia - 50g": "robertmcconnell|redvirginia",
-    "Sutliff 526 Old Professor - ONE POUND": "sutliff|526oldprofessor",
     "Wessex Brigade Campaign Dark Flake 50g / 1.75oz Unopened Tin Straight Virginia Tobacco": "wessex|brigadecampaigndarkflake",
     "2017 McClelland’s Christmas Cheer - 1 tin NR BIN $200": "mcclelland|christmascheer",
     "Very Nice Sealed Butera Pelican English/Oriental 2 oz. Tin": "butera|pelican",
