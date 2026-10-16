@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-15T19:16:17.965746+00:00",
+  "generated": "2026-10-16T04:05:28.473772+00:00",
   "stats": {
-    "total_listings": 8970,
-    "excluded_multipacks": 2461,
+    "total_listings": 8996,
+    "excluded_multipacks": 2463,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3564,
@@ -53136,6 +53136,25 @@
           "quantity": "",
           "members": [
             {
+              "name": "Balkan Sobranie",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/239968/",
+              "price": "$87.00",
+              "last_updated": "2026-10-16T04:00:25.007087+00:00",
+              "first_seen": "2026-07-11T17:10:14+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$100.00",
+                  "date": "2026-07-11T17:10:14+00:00"
+                },
+                {
+                  "price": "$87.00",
+                  "date": "2026-10-16T04:00:25.007087+00:00"
+                }
+              ]
+            },
+            {
               "name": "'23 Balkan Sobranie",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/210908/",
@@ -53185,21 +53204,6 @@
                 {
                   "price": "$1740.00",
                   "date": "2026-07-17T13:21:57+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Balkan Sobranie",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/202535/",
-              "price": "$100.00",
-              "last_updated": "2026-07-12T04:00:50.529539+00:00",
-              "first_seen": "2026-07-11T17:10:14+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$100.00",
-                  "date": "2026-07-11T17:10:14+00:00"
                 }
               ]
             },
@@ -103212,7 +103216,7 @@
             {
               "name": "2025 Solani Gold 779 English Mixture 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/215462/",
+              "url": "https://tinbids.com/auction/240597/",
               "price": "$50.00",
               "last_updated": "2026-08-13T04:00:35.603963+00:00",
               "first_seen": "2026-08-12T16:37:13+00:00",
@@ -117906,6 +117910,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Balkan Sobranie": "jfgermain|balkansobranie",
     "Germain's Plum Cake Mixture - 50g": "jfgermain|plumcake",
     "CAO Flavours 4-Cherrybomb": "cao|cherrybomb",
     "Sutliff 526 Old Professor - ONE POUND": "sutliff|526oldprofessor",
@@ -119217,7 +119222,6 @@
     "Collectible Tobacco Sealed Tin Cornell & Diehl Fires on the Levee Mixture 2 oz’s from 2025": "cornelldiehl|firesonthelevee",
     "Collectible Tobacco Sealed Tin Cornell & Diehl Firebird Flake 2 oz’s from 2024": "cornelldiehl|firebirdflake",
     "2oz tin from Sep, 2021 of Cornell and Diehl's Small-Batch Carolina Red Flake w/Perique. 11,697/15,000": "cornelldiehl|carolinaredflakewithperique",
-    "Balkan Sobranie": "jfgermain|balkansobranie",
     "Cobblestone Indulge - Walnut Maple Pie - 50g": "cobblestone|walnutmaplepie",
     "Bill Bailey’s Balkan Blend 8oz": "dantobacco|billbaileysbalkanblend",
     "McClelland-Arcadia": "mcclelland|arcadia",
