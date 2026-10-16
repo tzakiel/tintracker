@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-16T06:38:45.548375+00:00",
+  "generated": "2026-10-16T16:05:26.642390+00:00",
   "stats": {
-    "total_listings": 9011,
-    "excluded_multipacks": 2467,
+    "total_listings": 9030,
+    "excluded_multipacks": 2477,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3564,
@@ -14215,9 +14215,9 @@
             {
               "name": "Cornell & Diehl Palmetto Balkan - 1 Tin BIN $100",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/220621/",
-              "price": "$95.00",
-              "last_updated": "2026-08-20T16:00:23.674966+00:00",
+              "url": "https://tinbids.com/auction/240154/",
+              "price": "$100.00",
+              "last_updated": "2026-10-16T16:00:26.212792+00:00",
               "first_seen": "2026-06-28T13:55:26+00:00",
               "year": "",
               "price_history": [
@@ -14228,6 +14228,10 @@
                 {
                   "price": "$95.00",
                   "date": "2026-08-20T16:00:23.674966+00:00"
+                },
+                {
+                  "price": "$100.00",
+                  "date": "2026-10-16T16:00:26.212792+00:00"
                 }
               ]
             },
@@ -29837,9 +29841,9 @@
             {
               "name": "Esoterica Dorchester",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/237916/",
-              "price": "$405.00",
-              "last_updated": "2026-10-08T16:00:28.992400+00:00",
+              "url": "https://tinbids.com/auction/240301/",
+              "price": "$82.00",
+              "last_updated": "2026-10-16T16:00:26.212792+00:00",
               "first_seen": "2026-07-31T18:51:54+00:00",
               "year": "",
               "price_history": [
@@ -29850,6 +29854,10 @@
                 {
                   "price": "$405.00",
                   "date": "2026-10-08T16:00:28.992400+00:00"
+                },
+                {
+                  "price": "$82.00",
+                  "date": "2026-10-16T16:00:26.212792+00:00"
                 }
               ]
             },
@@ -75636,15 +75644,19 @@
             {
               "name": "2005 McClelland’s Frog Morton Across the Pond Syrian Latakia - 1 Tin NR BIN $400",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/217025/",
-              "price": "$400.00",
-              "last_updated": "2026-08-13T04:00:35.603963+00:00",
+              "url": "https://tinbids.com/auction/240259/",
+              "price": "$395.00",
+              "last_updated": "2026-10-16T16:00:26.212792+00:00",
               "first_seen": "2026-08-12T12:37:11+00:00",
               "year": "2005",
               "price_history": [
                 {
                   "price": "$400.00",
                   "date": "2026-08-12T12:37:11+00:00"
+                },
+                {
+                  "price": "$395.00",
+                  "date": "2026-10-16T16:00:26.212792+00:00"
                 }
               ]
             },
@@ -117910,6 +117922,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Esoterica Dorchester": "esoterica|dorchester",
+    "Cornell & Diehl Palmetto Balkan - 1 Tin BIN $100": "cornelldiehl|palmettobalkan",
+    "2005 McClelland’s Frog Morton Across the Pond Syrian Latakia - 1 Tin NR BIN $400": "mcclelland|frogmortonacrossthepond",
     "Balkan Sobranie": "jfgermain|balkansobranie",
     "Germain's Plum Cake Mixture - 50g": "jfgermain|plumcake",
     "CAO Flavours 4-Cherrybomb": "cao|cherrybomb",
@@ -117937,7 +117952,6 @@
     "McClelland 221B Series: Honeydew 2015 NR": "mcclelland|221bhoneydew",
     "Plum Pudding Special Reserve": "sutliff|spcplumpuddingspecialreserve",
     "Esoterica Pembroke": "esoterica|pembroke",
-    "Esoterica Dorchester": "esoterica|dorchester",
     "Frog Morton": "mcclelland|frogmorton",
     "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
     "Escudo Navy De Luxe 50g Tin (2011)": "stg|escudonavydeluxe",
@@ -118120,7 +118134,6 @@
     "Germain’s RJ Latakia Mixture": "jfgermain|royaljerseylatakia",
     "Gawith Squadron Leader Pre-2009 NR": "samuelgawith|squadronleader",
     "Sutliff Eastfarthing 50g - No longer produced": "sutliff|eastfarthing",
-    "Cornell & Diehl Palmetto Balkan - 1 Tin BIN $100": "cornelldiehl|palmettobalkan",
     "Dunhill Ye Olde Signe - 2016 tin": "dunhill|yeoldesigne",
     "Dunhill Elizabethan Mixture from 2013": "dunhill|elizabethanmixture",
     "Dunhill Early Morning Pipe -2013 Tin": "dunhill|earlymorningpipe",
@@ -118328,7 +118341,6 @@
     "Mac Baren HH Rustica 2024.  2oz": "macbaren|hhrustica",
     "2017 CORNELL & DIEHL BILLY BUDD approx. 2.2 ounces": "cornelldiehl|billybudd",
     "SYRIAN! 2018 Ashton Artisan's Blend 50g": "ashton|artisansblend",
-    "2005 McClelland’s Frog Morton Across the Pond Syrian Latakia - 1 Tin NR BIN $400": "mcclelland|frogmortonacrossthepond",
     "Collectible MacBaren HH Vintage Syrian Balkan Smoking Mixture Sealed 3.5 Oz’s Pipe Tobacco Tin": "macbaren|hhvintagesyrian",
     "2025 Solani Gold 779 English Mixture 50g": "solani|779",
     "2004 Samuel Gawith's Balkan Flake-50g": "samuelgawith|balkanflake",
