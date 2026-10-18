@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-18T06:38:42.990971+00:00",
+  "generated": "2026-10-18T15:14:57.575393+00:00",
   "stats": {
-    "total_listings": 9152,
+    "total_listings": 9155,
     "excluded_multipacks": 2487,
     "total_tins": 1315,
     "multi_member_tins": 671,
@@ -4647,7 +4647,7 @@
               "source": "4noggins.com",
               "url": "https://www.4noggins.com/products/butera-pelican-2014-2oz-c",
               "price": "$245.00",
-              "last_updated": "2026-10-10T15:14:14.723213+00:00",
+              "last_updated": "2026-10-18T15:14:15.095294+00:00",
               "first_seen": "2026-06-21T02:45:17.226279+00:00",
               "year": "2014",
               "price_history": [
@@ -5386,6 +5386,14 @@
                 {
                   "price": "$245.00",
                   "date": "2026-10-10T15:14:14.723213+00:00"
+                },
+                {
+                  "price": "$285.00",
+                  "date": "2026-10-18T15:14:15.095294+00:00"
+                },
+                {
+                  "price": "$245.00",
+                  "date": "2026-10-18T15:14:15.095294+00:00"
                 }
               ]
             },
@@ -28170,7 +28178,7 @@
             {
               "name": "Esoterica: AND SO TO BED 8oz - C",
               "source": "4noggins.com",
-              "url": "https://www.4noggins.com/products/esoterica-and-so-to-bed-8oz-1",
+              "url": "https://www.4noggins.com/products/copy-of-esoterica-and-so-to-bed-8oz-c",
               "price": "$525.00",
               "last_updated": "2026-06-21T02:45:17.226279+00:00",
               "first_seen": "2026-06-21T02:45:17.226279+00:00",
@@ -28466,9 +28474,9 @@
             {
               "name": "Esoterica: BLACKPOOL 8oz - C",
               "source": "4noggins.com",
-              "url": "https://www.4noggins.com/products/esoterica-blackpool-8oz-c-1",
-              "price": "$625.00",
-              "last_updated": "2026-10-08T15:14:15.105345+00:00",
+              "url": "https://www.4noggins.com/products/esoterica-blackpool-8oz-c",
+              "price": "$575.00",
+              "last_updated": "2026-10-18T15:14:15.095294+00:00",
               "first_seen": "2026-06-21T02:45:17.226279+00:00",
               "year": "",
               "price_history": [
@@ -28827,6 +28835,10 @@
                 {
                   "price": "$625.00",
                   "date": "2026-10-08T15:14:15.105345+00:00"
+                },
+                {
+                  "price": "$575.00",
+                  "date": "2026-10-18T15:14:15.095294+00:00"
                 }
               ]
             },
@@ -29069,7 +29081,7 @@
             {
               "name": "Esoterica: DORCHESTER 2oz - C",
               "source": "4noggins.com",
-              "url": "https://www.4noggins.com/products/esoterica-dorchester-2oz-c",
+              "url": "https://www.4noggins.com/products/esoterica-dorchester-2oz-c-2",
               "price": "$140.00",
               "last_updated": "2026-07-18T15:14:16.769428+00:00",
               "first_seen": "2026-07-18T15:14:16.769428+00:00",
@@ -30058,7 +30070,7 @@
             {
               "name": "Esoterica: DUNBAR 2oz - C",
               "source": "4noggins.com",
-              "url": "https://www.4noggins.com/products/esoterica-dunbar-2oz-c-3",
+              "url": "https://www.4noggins.com/products/esoterica-dunbar-2oz-c-4",
               "price": "$140.00",
               "last_updated": "2026-06-23T15:14:19.145115+00:00",
               "first_seen": "2026-06-23T15:14:19.145115+00:00",
@@ -30583,9 +30595,9 @@
             {
               "name": "Esoterica: MARGATE 2oz - C",
               "source": "4noggins.com",
-              "url": "https://www.4noggins.com/products/esoterica-margate-2oz-2016-c",
-              "price": "$150.00",
-              "last_updated": "2026-09-29T15:14:15.193461+00:00",
+              "url": "https://www.4noggins.com/products/esoterica-margate-2oz-2015-c",
+              "price": "$140.00",
+              "last_updated": "2026-10-18T15:14:15.095294+00:00",
               "first_seen": "2026-06-21T02:45:17.226279+00:00",
               "year": "",
               "price_history": [
@@ -31008,6 +31020,10 @@
                 {
                   "price": "$150.00",
                   "date": "2026-09-29T15:14:15.193461+00:00"
+                },
+                {
+                  "price": "$140.00",
+                  "date": "2026-10-18T15:14:15.095294+00:00"
                 }
               ]
             },
@@ -31255,7 +31271,7 @@
               "source": "4noggins.com",
               "url": "https://www.4noggins.com/products/esoterica-margate-8oz-c-1",
               "price": "$525.00",
-              "last_updated": "2026-10-10T15:14:14.723213+00:00",
+              "last_updated": "2026-10-18T15:14:15.095294+00:00",
               "first_seen": "2026-06-21T02:45:17.226279+00:00",
               "year": "",
               "price_history": [
@@ -32006,6 +32022,14 @@
                 {
                   "price": "$525.00",
                   "date": "2026-10-10T15:14:14.723213+00:00"
+                },
+                {
+                  "price": "$475.00",
+                  "date": "2026-10-18T15:14:15.095294+00:00"
+                },
+                {
+                  "price": "$525.00",
+                  "date": "2026-10-18T15:14:15.095294+00:00"
                 }
               ]
             },
@@ -32564,7 +32588,7 @@
             {
               "name": "Esoterica: PEMBROKE 2oz - C",
               "source": "4noggins.com",
-              "url": "https://www.4noggins.com/products/copy-of-esoterica-pembroke-50g-c",
+              "url": "https://www.4noggins.com/products/esoterica-pembroke-2oz-c-copy",
               "price": "$140.00",
               "last_updated": "2026-06-23T15:14:19.145115+00:00",
               "first_seen": "2026-06-23T15:14:19.145115+00:00",
@@ -33567,15 +33591,19 @@
             {
               "name": "Esoterica: PENZANCE 8oz - C",
               "source": "4noggins.com",
-              "url": "https://www.4noggins.com/products/esoterica-penzance-8oz-c1",
-              "price": "$1385.00",
-              "last_updated": "2026-06-21T02:45:17.226279+00:00",
+              "url": "https://www.4noggins.com/products/esoterica-penzance-8oz-c-1",
+              "price": "$1199.00",
+              "last_updated": "2026-10-18T15:14:15.095294+00:00",
               "first_seen": "2026-06-21T02:45:17.226279+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$1385.00",
                   "date": "2026-06-21T02:45:17.226279+00:00"
+                },
+                {
+                  "price": "$1199.00",
+                  "date": "2026-10-18T15:14:15.095294+00:00"
                 }
               ]
             },
@@ -34021,7 +34049,7 @@
               "source": "4noggins.com",
               "url": "https://www.4noggins.com/products/esoterica-st-ives-8oz-c",
               "price": "$545.00",
-              "last_updated": "2026-10-10T15:14:14.723213+00:00",
+              "last_updated": "2026-10-18T15:14:15.095294+00:00",
               "first_seen": "2026-06-21T02:45:17.226279+00:00",
               "year": "",
               "price_history": [
@@ -34808,6 +34836,14 @@
                 {
                   "price": "$545.00",
                   "date": "2026-10-10T15:14:14.723213+00:00"
+                },
+                {
+                  "price": "$575.00",
+                  "date": "2026-10-18T15:14:15.095294+00:00"
+                },
+                {
+                  "price": "$545.00",
+                  "date": "2026-10-18T15:14:15.095294+00:00"
                 }
               ]
             }
@@ -35291,6 +35327,25 @@
               ]
             },
             {
+              "name": "Esoterica: TILBURY 2oz  - C",
+              "source": "4noggins.com",
+              "url": "https://www.4noggins.com/products/esoterica-tilbury-2oz-c",
+              "price": "$140.00",
+              "last_updated": "2026-10-18T15:14:15.095294+00:00",
+              "first_seen": "2026-06-21T02:45:17.226279+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$150.00",
+                  "date": "2026-06-21T02:45:17.226279+00:00"
+                },
+                {
+                  "price": "$140.00",
+                  "date": "2026-10-18T15:14:15.095294+00:00"
+                }
+              ]
+            },
+            {
               "name": "Esoterica: TILBURY 2oz - C",
               "source": "4noggins.com",
               "url": "https://www.4noggins.com/products/esoterica-tilbury-2oz-c-1",
@@ -35306,21 +35361,6 @@
                 {
                   "price": "$130.00",
                   "date": "2026-06-24T15:14:15.069299+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Esoterica: TILBURY 2oz  - C",
-              "source": "4noggins.com",
-              "url": "https://www.4noggins.com/products/esoterica-tilbury-2oz-c",
-              "price": "$150.00",
-              "last_updated": "2026-06-21T02:45:17.226279+00:00",
-              "first_seen": "2026-06-21T02:45:17.226279+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$150.00",
-                  "date": "2026-06-21T02:45:17.226279+00:00"
                 }
               ]
             },
@@ -52690,9 +52730,9 @@
             {
               "name": "Balkan Sobranie: BALKAN SOBRANIE 50g -C",
               "source": "4noggins.com",
-              "url": "https://www.4noggins.com/products/balkan-sobranie-balkan-sobranie-50g-2018-c-1",
-              "price": "$165.00",
-              "last_updated": "2026-09-08T15:14:15.500722+00:00",
+              "url": "https://www.4noggins.com/products/balkan-sobranie-balkan-sobranie-50g-c-1",
+              "price": "$140.00",
+              "last_updated": "2026-10-18T15:14:15.095294+00:00",
               "first_seen": "2026-06-23T15:14:19.145115+00:00",
               "year": "",
               "price_history": [
@@ -52951,6 +52991,10 @@
                 {
                   "price": "$165.00",
                   "date": "2026-09-08T15:14:15.500722+00:00"
+                },
+                {
+                  "price": "$140.00",
+                  "date": "2026-10-18T15:14:15.095294+00:00"
                 }
               ]
             },
@@ -53562,7 +53606,7 @@
               "source": "4noggins.com",
               "url": "https://www.4noggins.com/products/j-f-germain-bridge-old-brown-flake-50g-c",
               "price": "$135.00",
-              "last_updated": "2026-10-10T15:14:14.723213+00:00",
+              "last_updated": "2026-10-18T15:14:15.095294+00:00",
               "first_seen": "2026-06-21T02:45:17.226279+00:00",
               "year": "",
               "price_history": [
@@ -54089,6 +54133,14 @@
                 {
                   "price": "$135.00",
                   "date": "2026-10-10T15:14:14.723213+00:00"
+                },
+                {
+                  "price": "$145.00",
+                  "date": "2026-10-18T15:14:15.095294+00:00"
+                },
+                {
+                  "price": "$135.00",
+                  "date": "2026-10-18T15:14:15.095294+00:00"
                 }
               ]
             }
@@ -54353,15 +54405,19 @@
             {
               "name": "J.F. Germain: EIGHTEEN TWENTY 50g -C",
               "source": "4noggins.com",
-              "url": "https://www.4noggins.com/products/j-f-germain-eighteen-twenty-50g-c",
-              "price": "$185.00",
-              "last_updated": "2026-06-21T02:45:17.226279+00:00",
+              "url": "https://www.4noggins.com/products/j-f-germain-eighteen-twenty-50g-c-1",
+              "price": "$140.00",
+              "last_updated": "2026-10-18T15:14:15.095294+00:00",
               "first_seen": "2026-06-21T02:45:17.226279+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$185.00",
                   "date": "2026-06-21T02:45:17.226279+00:00"
+                },
+                {
+                  "price": "$140.00",
+                  "date": "2026-10-18T15:14:15.095294+00:00"
                 }
               ]
             },
@@ -54539,15 +54595,19 @@
             {
               "name": "J.F. Germain: KING CHARLES MIXTURE 50g - C",
               "source": "4noggins.com",
-              "url": "https://www.4noggins.com/products/j-f-germain-king-charles-mixture-50g-c",
-              "price": "$155.00",
-              "last_updated": "2026-06-21T02:45:17.226279+00:00",
+              "url": "https://www.4noggins.com/products/j-f-germain-king-charles-mixture-50g-c-1",
+              "price": "$145.00",
+              "last_updated": "2026-10-18T15:14:15.095294+00:00",
               "first_seen": "2026-06-21T02:45:17.226279+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$155.00",
                   "date": "2026-06-21T02:45:17.226279+00:00"
+                },
+                {
+                  "price": "$145.00",
+                  "date": "2026-10-18T15:14:15.095294+00:00"
                 }
               ]
             },
@@ -55148,14 +55208,18 @@
               "name": "J.F. Germain: ROYAL JERSEY CAVENDISH & VIRGINIA 50g - C",
               "source": "4noggins.com",
               "url": "https://www.4noggins.com/products/j-f-germain-royal-jersey-cavendish-virginia-50g-1",
-              "price": "$125.00",
-              "last_updated": "2026-06-25T15:14:21.789530+00:00",
+              "price": "$89.99",
+              "last_updated": "2026-10-18T15:14:15.095294+00:00",
               "first_seen": "2026-06-25T15:14:21.789530+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$125.00",
                   "date": "2026-06-25T15:14:21.789530+00:00"
+                },
+                {
+                  "price": "$89.99",
+                  "date": "2026-10-18T15:14:15.095294+00:00"
                 }
               ]
             }
@@ -69863,14 +69927,18 @@
               "name": "McClelland: 40TH ANNIVERSARY 100g - C",
               "source": "4noggins.com",
               "url": "https://www.4noggins.com/products/mcclelland-40th-anniversary-100g-c",
-              "price": "$285.00",
-              "last_updated": "2026-06-21T02:45:17.226279+00:00",
+              "price": "$335.00",
+              "last_updated": "2026-10-18T15:14:15.095294+00:00",
               "first_seen": "2026-06-21T02:45:17.226279+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$285.00",
                   "date": "2026-06-21T02:45:17.226279+00:00"
+                },
+                {
+                  "price": "$335.00",
+                  "date": "2026-10-18T15:14:15.095294+00:00"
                 }
               ]
             },
@@ -72827,14 +72895,18 @@
               "name": "McClelland: CHRISTMAS CHEER 100g 2009 - C",
               "source": "4noggins.com",
               "url": "https://www.4noggins.com/products/mcclelland-christmas-cheer-100g-2009-c-1",
-              "price": "$315.00",
-              "last_updated": "2026-06-21T02:45:17.226279+00:00",
+              "price": "$345.00",
+              "last_updated": "2026-10-18T15:14:15.095294+00:00",
               "first_seen": "2026-06-21T02:45:17.226279+00:00",
               "year": "2009",
               "price_history": [
                 {
                   "price": "$315.00",
                   "date": "2026-06-21T02:45:17.226279+00:00"
+                },
+                {
+                  "price": "$345.00",
+                  "date": "2026-10-18T15:14:15.095294+00:00"
                 }
               ]
             },
@@ -72948,14 +73020,18 @@
               "name": "McClelland: CHRISTMAS CHEER 100g 2011 - C",
               "source": "4noggins.com",
               "url": "https://www.4noggins.com/products/mcclelland-christmas-cheer-100g-2011-c",
-              "price": "$315.00",
-              "last_updated": "2026-06-21T02:45:17.226279+00:00",
+              "price": "$345.00",
+              "last_updated": "2026-10-18T15:14:15.095294+00:00",
               "first_seen": "2026-06-21T02:45:17.226279+00:00",
               "year": "2011",
               "price_history": [
                 {
                   "price": "$315.00",
                   "date": "2026-06-21T02:45:17.226279+00:00"
+                },
+                {
+                  "price": "$345.00",
+                  "date": "2026-10-18T15:14:15.095294+00:00"
                 }
               ]
             },
@@ -76683,14 +76759,18 @@
               "name": "McClelland: FROG MORTON'S CELLAR 50g 2015 - C",
               "source": "4noggins.com",
               "url": "https://www.4noggins.com/products/copy-of-mcclelland-frog-mortons-cellar-50g-2016-c",
-              "price": "$295.00",
-              "last_updated": "2026-08-08T15:14:14.789963+00:00",
+              "price": "$325.00",
+              "last_updated": "2026-10-18T15:14:15.095294+00:00",
               "first_seen": "2026-08-08T15:14:14.789963+00:00",
               "year": "2015",
               "price_history": [
                 {
                   "price": "$295.00",
                   "date": "2026-08-08T15:14:14.789963+00:00"
+                },
+                {
+                  "price": "$325.00",
+                  "date": "2026-10-18T15:14:15.095294+00:00"
                 }
               ]
             },
@@ -119919,13 +119999,22 @@
     "Esoterica: ST. IVES 8oz - C": "esoterica|stives",
     "Butera: PELICAN 2014 2oz - C": "butera|pelican",
     "J.F. Germain: BRIDGE OLD BROWN FLAKE 50g -C": "jfgermain|bridgeoldbrownflake",
-    "Esoterica: AND SO TO BED 2oz - C": "esoterica|andsotobed",
     "Esoterica: BLACKPOOL 8oz - C": "esoterica|blackpool",
-    "Esoterica: PENZANCE 50g - C": "esoterica|penzance",
     "Esoterica: MARGATE 2oz - C": "esoterica|margate",
+    "Balkan Sobranie: BALKAN SOBRANIE 50g -C": "jfgermain|balkansobranie",
+    "McClelland: FROG MORTON'S CELLAR 50g 2015 - C": "mcclelland|frogmortonscellar",
+    "J.F. Germain: ROYAL JERSEY CAVENDISH & VIRGINIA 50g - C": "jfgermain|royaljerseycavendishvirginia",
+    "Esoterica: PENZANCE 8oz - C": "esoterica|penzance",
+    "Esoterica: TILBURY 2oz  - C": "esoterica|tilbury",
+    "J.F. Germain: EIGHTEEN TWENTY 50g -C": "jfgermain|eighteentwenty",
+    "J.F. Germain: KING CHARLES MIXTURE 50g - C": "jfgermain|kingcharlesmixture",
+    "McClelland: 40TH ANNIVERSARY 100g - C": "mcclelland|40thanniversary",
+    "McClelland: CHRISTMAS CHEER 100g 2009 - C": "mcclelland|christmascheer",
+    "McClelland: CHRISTMAS CHEER 100g 2011 - C": "mcclelland|christmascheer",
+    "Esoterica: AND SO TO BED 2oz - C": "esoterica|andsotobed",
+    "Esoterica: PENZANCE 50g - C": "esoterica|penzance",
     "Esoterica: DORCHESTER 8oz - C": "esoterica|dorchester",
     "Samuel Gawith: CABBIE'S MIXTURE 50g 2018 - C": "samuelgawith|cabbiesmixture",
-    "Balkan Sobranie: BALKAN SOBRANIE 50g -C": "jfgermain|balkansobranie",
     "Mac Baren: HH OLD DARK FIRED PLUG CUT 1.75oz 2019 - C": "macbaren|hholddarkfiredplugcut",
     "Cornell & Diehl: Small Batch: CAROLINA RED FLAKE 2oz 2017 -C": "cornelldiehl|smallbatchcarolinaredflake",
     "Cornell & Diehl: Small Batch: CAROLINA RED FLAKE 2oz 2018 -C": "cornelldiehl|carolinaredflake",
@@ -119949,7 +120038,6 @@
     "Craven:  CRAVEN MIXTURE 1988  - C": "houseofcraven|cravenmixture",
     "Edgeworth: EDGEWORTH SLICED 1996  100g - C": "edgeworth|sliced",
     "G.L. Pease: GASLIGHT 2oz 2013 - C": "glpease|gaslight",
-    "McClelland: FROG MORTON'S CELLAR 50g 2015 - C": "mcclelland|frogmortonscellar",
     "Mullingar's: MOYHALL 2oz 1992 - C": "mullingar|moyhallorientalblend",
     "Esoterica: DORCHESTER 2oz - C": "esoterica|dorchester",
     "Esoterica: PENZANCE 2oz 2012 - C": "esoterica|penzance",
@@ -119976,7 +120064,6 @@
     "Dunhill: MY MIXTURE 965 50g 2005 - C": "dunhill|mymixtureno965",
     "Dunhill: STANDARD MIXTURE MELLOW 50g 2005 - C": "dunhill|standardmixturemellow",
     "J.F. Germain: BROWN FLAKE 50g - C": "jfgermain|brownflake",
-    "J.F. Germain: ROYAL JERSEY CAVENDISH & VIRGINIA 50g - C": "jfgermain|royaljerseycavendishvirginia",
     "Mac Baren: HH PURE VIRGINIA 1.75oz 2021 - C": "macbaren|hhpurevirginia",
     "McClelland: DARK STAR 100g 2016 - C": "mcclelland|darkstar",
     "McClelland: Grand Orientals: KATERINI CLASSIC 50g 2017 - C": "mcclelland|grandorientalskateriniclassic",
@@ -120056,12 +120143,10 @@
     "Esoterica: PEMBROKE 8oz -C": "esoterica|pembroke",
     "Esoterica: PEMBROKE 8oz-C": "esoterica|pembroke",
     "Esoterica: PENZANCE 2oz 2012 -C": "esoterica|penzance",
-    "Esoterica: PENZANCE 8oz - C": "esoterica|penzance",
     "Esoterica: RAMSGATE 8oz - C": "esoterica|ramsgate",
     "Esoterica: STONEHAVEN 2oz - C": "esoterica|stonehaven",
     "Esoterica: STONEHAVEN 8oz 2017 - C": "esoterica|stonehaven",
     "Esoterica: STONEHAVEN 8oz 2018 - C": "esoterica|stonehaven",
-    "Esoterica: TILBURY 2oz  - C": "esoterica|tilbury",
     "Esoterica: WOODBRIDGE 8oz -C": "esoterica|woodbridge",
     "Fribourg & Treyer: CUT BLENDED PLUG 50g 2004 - C": "fribourgtreyer|cutblendedplug",
     "Fribourg & Treyer: CUT VIRGINIA PLUG 50g 2000 - C": "fribourgtreyer|cutvirginiaplug",
@@ -120098,9 +120183,7 @@
     "J.F. Germain: BROWN FLAKE 50g 2004 - C": "jfgermain|brownflake",
     "J.F. Germain: CENTURY 50g - C": "jfgermain|century",
     "J.F. Germain: CLUB MIXTURE 50g - C": "jfgermain|clubmixture",
-    "J.F. Germain: EIGHTEEN TWENTY 50g -C": "jfgermain|eighteentwenty",
     "J.F. Germain: FULL LATAKIA 50g - C": "jfgermain|fulllatakia",
-    "J.F. Germain: KING CHARLES MIXTURE 50g - C": "jfgermain|kingcharlesmixture",
     "J.F. Germain: MEDIUM FLAKE 50g - C": "jfgermain|mediumflake",
     "J.F. Germain: RICH DARK FLAKE 50g - C": "jfgermain|richdarkflake",
     "J.F. Germain: ROYAL JERSEY w-LATAKIA 50g 2016 - C": "jfgermain|royaljerseylatakia",
@@ -120122,7 +120205,6 @@
     "Mac Baren: UNCUT NAVY FLAKE PLUG 100g - C": "macbaren|uncutnavyflakeplug",
     "McClelland Bulk: 2020: MATURED CAKE 2oz 2017 - C": "mcclelland|2020maturedcake",
     "McClelland Bulk: 5125 COYOTE CLASSIC FULL 2oz 2017 - C": "mcclelland|5125coyoteclassicfull",
-    "McClelland: 40TH ANNIVERSARY 100g - C": "mcclelland|40thanniversary",
     "McClelland: 5100: RED CAKE 2.5oz Jar 2012 - C": "mcclelland|5100redcake",
     "McClelland: ANNIVERSARY - 2005 - C": "mcclelland|anniversary",
     "McClelland: ARCADIA 50g 2005 -C": "mcclelland|arcadia",
@@ -120134,9 +120216,7 @@
     "McClelland: BOSTON 1776 50g 2010 - C": "mcclelland|boston1776",
     "McClelland: Boston 1776 Va. Flake 1993 - C": "mcclelland|boston1776",
     "McClelland: CELEBRATED SOVEREIGN 50g 2011 - C": "ashton|celebratedsovereign",
-    "McClelland: CHRISTMAS CHEER 100g 2009 - C": "mcclelland|christmascheer",
     "McClelland: CHRISTMAS CHEER 100g 2010 - C": "mcclelland|christmascheer",
-    "McClelland: CHRISTMAS CHEER 100g 2011 - C": "mcclelland|christmascheer",
     "McClelland: CHRISTMAS CHEER 100g 2017 - C": "mcclelland|christmascheer",
     "McClelland: CPCC RICH VIRGINIA RIBBON 50g 2015 - C": "mcclelland|cpccrichvirginiaribbon",
     "McClelland: DEEP HOLLOW 100g 2017 - C": "mcclelland|deephollow",
