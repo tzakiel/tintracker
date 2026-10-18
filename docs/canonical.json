@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-18T15:14:57.575393+00:00",
+  "generated": "2026-10-18T16:03:40.733010+00:00",
   "stats": {
-    "total_listings": 9155,
-    "excluded_multipacks": 2487,
+    "total_listings": 9183,
+    "excluded_multipacks": 2489,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3564,
@@ -25935,7 +25935,7 @@
             {
               "name": "Dunhill Ye Olde Signe",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/239541/",
+              "url": "https://tinbids.com/auction/241312/",
               "price": "$45.00",
               "last_updated": "2026-10-11T04:00:26.157125+00:00",
               "first_seen": "2026-10-06T15:36:43+00:00",
@@ -85374,15 +85374,19 @@
             {
               "name": "McClelland, Syrian Full Balkan Reserve PCCA (2000). 50 gr sealed tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/207384/",
-              "price": "$113.00",
-              "last_updated": "2026-07-27T04:00:25.986860+00:00",
+              "url": "https://tinbids.com/auction/239730/",
+              "price": "$103.00",
+              "last_updated": "2026-10-18T16:00:24.505832+00:00",
               "first_seen": "2026-07-26T22:01:18+00:00",
               "year": "2000",
               "price_history": [
                 {
                   "price": "$113.00",
                   "date": "2026-07-26T22:01:18+00:00"
+                },
+                {
+                  "price": "$103.00",
+                  "date": "2026-10-18T16:00:24.505832+00:00"
                 }
               ]
             }
@@ -118034,6 +118038,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "McClelland, Syrian Full Balkan Reserve PCCA (2000). 50 gr sealed tin": "pcca|fullbalkanreserve",
     "Esoterica Dorchester": "esoterica|dorchester",
     "Cornell & Diehl Palmetto Balkan - 1 Tin BIN $100": "cornelldiehl|palmettobalkan",
     "2005 McClelland’s Frog Morton Across the Pond Syrian Latakia - 1 Tin NR BIN $400": "mcclelland|frogmortonacrossthepond",
@@ -118935,7 +118940,6 @@
     "Excellent Sealed 2020 Carter Hall 14oz. Tobacco Tin": "johnmiddleton|carterhall",
     "McClelland’s, Christmas Cheer, 100 gr sealed tin- 2001": "mcclelland|christmascheer",
     "McClelland, British Woods, 100 gr sealed tin (2002). Purchased in 2003": "mcclelland|britishwoods",
-    "McClelland, Syrian Full Balkan Reserve PCCA (2000). 50 gr sealed tin": "pcca|fullbalkanreserve",
     "2017 McClelland 40th Anniversary 100g": "mcclelland|40thanniversary",
     "Butera Pelican 2016 | 2oz Tin | La Clave Collection": "butera|pelican",
     "Esoterica Penzance 2017 | 2oz Tin | La Clave Collection": "esoterica|penzance",
