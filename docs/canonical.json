@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-18T19:16:16.629610+00:00",
+  "generated": "2026-10-19T04:04:16.514204+00:00",
   "stats": {
-    "total_listings": 9183,
-    "excluded_multipacks": 2489,
+    "total_listings": 9202,
+    "excluded_multipacks": 2491,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3564,
@@ -24619,9 +24619,9 @@
             {
               "name": "Excellent Sealed 2018 Dunhill Nightcap 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/212097/",
-              "price": "$42.00",
-              "last_updated": "2026-08-04T04:00:32.453136+00:00",
+              "url": "https://tinbids.com/auction/241508/",
+              "price": "$40.49",
+              "last_updated": "2026-10-19T04:00:28.381397+00:00",
               "first_seen": "2026-06-21T05:37:17.147469+00:00",
               "year": "2018",
               "price_history": [
@@ -24636,6 +24636,10 @@
                 {
                   "price": "$42.00",
                   "date": "2026-08-04T04:00:32.453136+00:00"
+                },
+                {
+                  "price": "$40.49",
+                  "date": "2026-10-19T04:00:28.381397+00:00"
                 }
               ]
             },
@@ -118054,6 +118058,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Excellent Sealed 2018 Dunhill Nightcap 50g. Tin": "dunhill|nightcap",
     "McClelland, Syrian Full Balkan Reserve PCCA (2000). 50 gr sealed tin": "pcca|fullbalkanreserve",
     "Esoterica Dorchester": "esoterica|dorchester",
     "Cornell & Diehl Palmetto Balkan - 1 Tin BIN $100": "cornelldiehl|palmettobalkan",
@@ -118722,7 +118727,6 @@
     "2015 - McClelland’s Red and Black, Virginia Flake": "mcclelland|redblack",
     "Esoterica Stonehaven (2020) (8oz bag)": "esoterica|stonehaven",
     "Very Nice Sealed 2017 McClelland's Frog Morton on the Bayou 100g. Tin": "mcclelland|frogmortononthebayou",
-    "Excellent Sealed 2018 Dunhill Nightcap 50g. Tin": "dunhill|nightcap",
     "MacBaren Dark Twist Roll Cake Bid or Buy Now NR": "macbaren|darktwistrollcake",
     "MacBaren Plumcake Navy Blend Bid or Buy Now NR": "macbaren|plumcakenavyblend",
     "Peter Heinrichs Special Curly Bid or Buy Now NR": "peterheinrichs|specialcurlycut",
