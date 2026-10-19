@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-19T06:38:44.586012+00:00",
+  "generated": "2026-10-19T16:06:47.764314+00:00",
   "stats": {
-    "total_listings": 9202,
-    "excluded_multipacks": 2491,
+    "total_listings": 9213,
+    "excluded_multipacks": 2495,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3564,
@@ -32221,6 +32221,25 @@
           "quantity": "",
           "members": [
             {
+              "name": "Esoterica Margate - 1 Tin NR BIN $100",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/242052/",
+              "price": "$100.00",
+              "last_updated": "2026-10-19T16:00:29.807627+00:00",
+              "first_seen": "2026-07-31T13:02:31+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$95.00",
+                  "date": "2026-07-31T13:02:31+00:00"
+                },
+                {
+                  "price": "$100.00",
+                  "date": "2026-10-19T16:00:29.807627+00:00"
+                }
+              ]
+            },
+            {
               "name": "Margate",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/233372/",
@@ -32297,21 +32316,6 @@
                 {
                   "price": "$82.00",
                   "date": "2026-08-02T22:43:21+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Esoterica Margate - 1 Tin NR BIN $100",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/212227/",
-              "price": "$95.00",
-              "last_updated": "2026-07-31T16:00:35.556161+00:00",
-              "first_seen": "2026-07-31T13:02:31+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$95.00",
-                  "date": "2026-07-31T13:02:31+00:00"
                 }
               ]
             },
@@ -66069,6 +66073,25 @@
               ]
             },
             {
+              "name": "2017 Mac Baren HH Vintage Syrian - 1 Tin NR BIN $125",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/242078/",
+              "price": "$125.00",
+              "last_updated": "2026-10-19T16:00:29.807627+00:00",
+              "first_seen": "2026-06-29T14:15:33+00:00",
+              "year": "2017",
+              "price_history": [
+                {
+                  "price": "$120.00",
+                  "date": "2026-06-29T14:15:33+00:00"
+                },
+                {
+                  "price": "$125.00",
+                  "date": "2026-10-19T16:00:29.807627+00:00"
+                }
+              ]
+            },
+            {
               "name": "Mac Baren HH Vintage Syrian 2017 (Discontinued!!!) Rare Syrian Latakia Blend!!!",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/205514/",
@@ -66095,21 +66118,6 @@
                 {
                   "price": "$125.00",
                   "date": "2026-07-02T18:24:02+00:00"
-                }
-              ]
-            },
-            {
-              "name": "2017 Mac Baren HH Vintage Syrian - 1 Tin NR BIN $125",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/200179/",
-              "price": "$120.00",
-              "last_updated": "2026-06-29T16:00:32.641924+00:00",
-              "first_seen": "2026-06-29T14:15:33+00:00",
-              "year": "2017",
-              "price_history": [
-                {
-                  "price": "$120.00",
-                  "date": "2026-06-29T14:15:33+00:00"
                 }
               ]
             }
@@ -118058,6 +118066,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Esoterica Margate - 1 Tin NR BIN $100": "esoterica|margate",
+    "2017 Mac Baren HH Vintage Syrian - 1 Tin NR BIN $125": "macbaren|hhvintagesyrian",
     "Excellent Sealed 2018 Dunhill Nightcap 50g. Tin": "dunhill|nightcap",
     "McClelland, Syrian Full Balkan Reserve PCCA (2000). 50 gr sealed tin": "pcca|fullbalkanreserve",
     "Esoterica Dorchester": "esoterica|dorchester",
@@ -118831,7 +118841,6 @@
     "2014 Brigham Klondike Gold": "brigham|klondikegold",
     "2023 Robert McConnell Scottish Flake - 1 Tin NR BIN $35": "robertmcconnell|scottishflake",
     "2022 Robert McConnell Pure Caribe - 1 Tin BIN $25": "robertmcconnell|purecaribe",
-    "Esoterica Margate - 1 Tin NR BIN $100": "esoterica|margate",
     "Samuel Gawith-Navy Flake": "samuelgawith|navyflake",
     "2025 Mac Baren HH Balkan Blend 16 oz sealed bag.": "macbaren|hhbalkanblend",
     "A&C Petersen Caledonian Highland Cream Melange No.10": "acpetersen|caledonianmelangeno10highlandcream",
@@ -119731,7 +119740,6 @@
     "2011 \"Butera Era\" Esoterica Pembroke": "esoterica|pembroke",
     "Esoterica Margate Butera Production - 1 Tin NR BIN $140": "esoterica|margate",
     "Cornell & Diehl Small Batch Sun Bear Navy Cask 2 oz Pipe Tobacco Tin - New Sealed": "cornelldiehl|sunbearnavycask",
-    "2017 Mac Baren HH Vintage Syrian - 1 Tin NR BIN $125": "macbaren|hhvintagesyrian",
     "The Balkan Sobranie Original Smoking Mixture 50g Pipe Tobacco Tin - New Sealed": "jfgermain|balkansobranie",
     "50g Hearth & Home Ashcroft Estate From 2016!": "hearthhome|ashcroftestate",
     "50g Hearth & Home Virginia Memory From 2016!": "hearthhome|virginiamemory",
