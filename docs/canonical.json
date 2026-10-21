@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-21T04:05:10.205463+00:00",
+  "generated": "2026-10-21T06:38:51.500262+00:00",
   "stats": {
-    "total_listings": 9261,
+    "total_listings": 9265,
     "excluded_multipacks": 2503,
     "total_tins": 1315,
     "multi_member_tins": 671,
@@ -73730,7 +73730,7 @@
             {
               "name": "Christmas Cheer 2012",
               "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
+              "url": "https://speak-easy.club/threads/mcclelland-mac-baren-castello.45408/unread",
               "price": "$125",
               "last_updated": "2026-07-07T06:38:18.067942+00:00",
               "first_seen": "2025-12-30T20:52:54+00:00",
@@ -73882,9 +73882,9 @@
             {
               "name": "Christmas Cheer 2016",
               "source": "Speak-Easy.Club",
-              "url": "https://speak-easy.club/threads/cellar-sale.41150/",
-              "price": "$125",
-              "last_updated": "2026-07-07T06:38:18.067942+00:00",
+              "url": "https://speak-easy.club/threads/mcclelland-mac-baren-castello.45408/unread",
+              "price": "$115",
+              "last_updated": "2026-10-21T06:38:16.597828+00:00",
               "first_seen": "2025-12-30T20:52:54+00:00",
               "year": "2016",
               "price_history": [
@@ -73983,6 +73983,10 @@
                 {
                   "price": "$125",
                   "date": "2026-07-07T06:38:18.067942+00:00"
+                },
+                {
+                  "price": "$115",
+                  "date": "2026-10-21T06:38:16.597828+00:00"
                 }
               ]
             },
@@ -120347,6 +120351,7 @@
     "Wessex: BURLEY SLICE 50g 2014 - C": "wessex|burleyslice",
     "Wessex: GOLD SLICE 1.5oz 2017 - C": "wessex|goldslice",
     "William Taylor Ashton:  OLD LONDON PEBBLE CUT 100g 1985- C": "ashton|oldlondonpebblecut",
+    "Christmas Cheer 2016": "mcclelland|christmascheer",
     "Wessex Campaign": "wessex|brigadecampaigndarkflake",
     "Mac Baren Golden Extra": "macbaren|goldenextra",
     "Mac Baren HH Latakia Flake": "macbaren|hhlatakiaflake",
@@ -120512,7 +120517,6 @@
     "x 2021 Cringle Flake": "sutliff|cringleflake",
     "Sun Bear": "cornelldiehl|sunbear",
     "Christmas Cheer 2012": "mcclelland|christmascheer",
-    "Christmas Cheer 2016": "mcclelland|christmascheer",
     "Presbyterian Ordained": "macbaren|presbyterianordained",
     "And so to Bed": "esoterica|andsotobed",
     "Frog Morton On the Bayou": "mcclelland|frogmortononthebayou",
