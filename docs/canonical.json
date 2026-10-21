@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-21T15:14:15.418943+00:00",
+  "generated": "2026-10-21T16:03:30.355136+00:00",
   "stats": {
-    "total_listings": 9270,
-    "excluded_multipacks": 2503,
+    "total_listings": 9274,
+    "excluded_multipacks": 2504,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3564,
@@ -29905,9 +29905,9 @@
             {
               "name": "Esoterica Dorchester",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/240301/",
-              "price": "$82.00",
-              "last_updated": "2026-10-16T16:00:26.212792+00:00",
+              "url": "https://tinbids.com/auction/241652/",
+              "price": "$400.00",
+              "last_updated": "2026-10-21T16:00:27.718535+00:00",
               "first_seen": "2026-07-31T18:51:54+00:00",
               "year": "",
               "price_history": [
@@ -29922,6 +29922,10 @@
                 {
                   "price": "$82.00",
                   "date": "2026-10-16T16:00:26.212792+00:00"
+                },
+                {
+                  "price": "$400.00",
+                  "date": "2026-10-21T16:00:27.718535+00:00"
                 }
               ]
             },
@@ -118158,11 +118162,11 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Esoterica Dorchester": "esoterica|dorchester",
     "Esoterica Margate - 1 Tin NR BIN $100": "esoterica|margate",
     "2017 Mac Baren HH Vintage Syrian - 1 Tin NR BIN $125": "macbaren|hhvintagesyrian",
     "Excellent Sealed 2018 Dunhill Nightcap 50g. Tin": "dunhill|nightcap",
     "McClelland, Syrian Full Balkan Reserve PCCA (2000). 50 gr sealed tin": "pcca|fullbalkanreserve",
-    "Esoterica Dorchester": "esoterica|dorchester",
     "Cornell & Diehl Palmetto Balkan - 1 Tin BIN $100": "cornelldiehl|palmettobalkan",
     "2005 McClelland’s Frog Morton Across the Pond Syrian Latakia - 1 Tin NR BIN $400": "mcclelland|frogmortonacrossthepond",
     "Balkan Sobranie": "jfgermain|balkansobranie",
