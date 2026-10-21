@@ -763,10 +763,18 @@
         {
           "price": "$525.00",
           "date": "2026-10-18T15:14:15.095294+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Margate 8oz",
-      "last_updated": "2026-10-18T15:14:15.095294+00:00"
+      "last_updated": "2026-10-21T15:14:13.778650+00:00"
     },
     {
       "name": "Esoterica: ST. IVES 8oz - C",
@@ -1567,10 +1575,18 @@
         {
           "price": "$545.00",
           "date": "2026-10-18T15:14:15.095294+00:00"
+        },
+        {
+          "price": "$575.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        },
+        {
+          "price": "$545.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica St Ives 8oz",
-      "last_updated": "2026-10-18T15:14:15.095294+00:00"
+      "last_updated": "2026-10-21T15:14:13.778650+00:00"
     },
     {
       "name": "Butera: PELICAN 2014 2oz - C",
@@ -2323,10 +2339,18 @@
         {
           "price": "$245.00",
           "date": "2026-10-18T15:14:15.095294+00:00"
+        },
+        {
+          "price": "$285.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        },
+        {
+          "price": "$245.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Butera Pelican 2oz Tin 2014 .",
-      "last_updated": "2026-10-18T15:14:15.095294+00:00"
+      "last_updated": "2026-10-21T15:14:13.778650+00:00"
     },
     {
       "name": "J.F. Germain: BRIDGE OLD BROWN FLAKE 50g -C",
@@ -2867,10 +2891,429 @@
         {
           "price": "$135.00",
           "date": "2026-10-18T15:14:15.095294+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        },
+        {
+          "price": "$135.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
         }
       ],
       "description": "Default Title Consignment tins owned by 3rd party seller JF Germain Bridge Old Brown Flake 50g",
-      "last_updated": "2026-10-18T15:14:15.095294+00:00"
+      "last_updated": "2026-10-21T15:14:13.778650+00:00"
+    },
+    {
+      "name": "Balkan Sobranie: BALKAN SOBRANIE 50g -C",
+      "price": "$140.00",
+      "url": "https://www.4noggins.com/products/balkan-sobranie-balkan-sobranie-50g-c-1",
+      "source": "4noggins.com",
+      "first_seen": "2026-06-23T15:14:19.145115+00:00",
+      "last_seen": "2026-06-23T15:14:19.145115+00:00",
+      "price_history": [
+        {
+          "price": "$145.00",
+          "date": "2026-06-23T15:14:19.145115+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-06-23T15:14:19.145115+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-06-24T15:14:15.069299+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-06-24T15:14:15.069299+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-06-25T15:14:21.789530+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-06-25T15:14:21.789530+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-06-26T15:14:15.656788+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-06-26T15:14:15.656788+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-06-27T15:14:15.518385+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-06-27T15:14:15.518385+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-06-28T15:14:16.232426+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-06-28T15:14:16.232426+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-06-29T15:14:15.480833+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-06-29T15:14:15.480833+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-06-30T15:14:15.051806+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-06-30T15:14:15.051806+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-01T15:14:15.587407+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-01T15:14:15.587407+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-02T15:14:15.277148+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-02T15:14:15.277148+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-03T15:14:15.182829+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-03T15:14:15.182829+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-04T15:14:13.300394+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-04T15:14:13.300394+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-05T15:14:13.574529+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-05T15:14:13.574529+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-06T15:14:20.808796+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-06T15:14:20.808796+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-07T15:14:16.638390+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-07T15:14:16.638390+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-08T15:14:18.833557+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-09T15:14:20.628029+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-09T15:14:20.628029+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-10T15:14:15.513531+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-10T15:14:15.513531+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-11T15:14:14.890213+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-11T15:14:14.890213+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-12T15:14:15.711149+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-12T15:14:15.711149+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-13T15:14:25.508492+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-13T15:14:25.508492+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-14T15:14:17.145563+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-14T15:14:17.145563+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-15T19:20:51.504365+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-15T19:20:51.504365+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-16T15:14:19.874465+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-16T15:14:19.874465+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-17T15:14:19.407829+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-17T15:14:19.407829+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-18T15:14:16.769428+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-18T15:14:16.769428+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-19T15:14:15.074234+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-19T15:14:15.074234+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-22T15:14:20.441106+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-22T15:14:20.441106+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-27T15:14:21.683283+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-27T15:14:21.683283+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-28T15:14:18.866329+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-28T15:14:18.866329+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-07-29T15:14:20.972566+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-07-29T15:14:20.972566+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-08-05T15:14:17.198082+00:00"
+        },
+        {
+          "price": "$165.00",
+          "date": "2026-09-08T15:14:15.500722+00:00"
+        },
+        {
+          "price": "$140.00",
+          "date": "2026-10-18T15:14:15.095294+00:00"
+        },
+        {
+          "price": "$165.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        },
+        {
+          "price": "$140.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd Party Seller Balkan Sobranie 50g",
+      "last_updated": "2026-10-21T15:14:13.778650+00:00"
+    },
+    {
+      "name": "Esoterica: PENZANCE 8oz - C",
+      "price": "$1199.00",
+      "url": "https://www.4noggins.com/products/esoterica-penzance-8oz-c-1",
+      "source": "4noggins.com",
+      "first_seen": "2026-06-21T02:45:17.226279+00:00",
+      "last_seen": "2026-06-23T15:14:19.145115+00:00",
+      "price_history": [
+        {
+          "price": "$1385.00",
+          "date": "2026-06-21T02:45:17.226279+00:00"
+        },
+        {
+          "price": "$1199.00",
+          "date": "2026-10-18T15:14:15.095294+00:00"
+        },
+        {
+          "price": "$1385.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        },
+        {
+          "price": "$1199.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by third party seller Esoterica Penzance 8oz",
+      "last_updated": "2026-10-21T15:14:13.778650+00:00"
+    },
+    {
+      "name": "J.F. Germain: EIGHTEEN TWENTY 50g -C",
+      "price": "$140.00",
+      "url": "https://www.4noggins.com/products/j-f-germain-eighteen-twenty-50g-c-1",
+      "source": "4noggins.com",
+      "first_seen": "2026-06-21T02:45:17.226279+00:00",
+      "last_seen": "2026-06-23T15:14:19.145115+00:00",
+      "price_history": [
+        {
+          "price": "$185.00",
+          "date": "2026-06-21T02:45:17.226279+00:00"
+        },
+        {
+          "price": "$140.00",
+          "date": "2026-10-18T15:14:15.095294+00:00"
+        },
+        {
+          "price": "$185.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        },
+        {
+          "price": "$140.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller JF Germain Eighteen Twenty 50g",
+      "last_updated": "2026-10-21T15:14:13.778650+00:00"
+    },
+    {
+      "name": "Cornell & Diehl: BAYOU MORNING 8oz 2015 - C",
+      "price": "$235.00",
+      "url": "https://www.4noggins.com/products/cornell-diehl-bayou-morning-8oz-2015-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-10-21T15:14:13.778650+00:00",
+      "last_updated": "2026-10-21T15:14:13.778650+00:00",
+      "price_history": [
+        {
+          "price": "$235.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller Not for the faint of heart, Virginia/Perique blend is composed of Red and Bright Virginia's, and 25% Perique. A Perique lover's delight. Strength: Medium Flavoring: None Taste: Medium to Full Room Note: Tolerable"
+    },
+    {
+      "name": "Dunhill: LONDON MIXTURE 2005 - C",
+      "price": "$325.00",
+      "url": "https://www.4noggins.com/products/dunhill-london-mixture-2005-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-10-21T15:14:13.778650+00:00",
+      "last_updated": "2026-10-21T15:14:13.778650+00:00",
+      "price_history": [
+        {
+          "price": "$325.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller Dunhill London Mixture (Murray) 2005"
+    },
+    {
+      "name": "G.L. Pease: SPARK PLUG 2oz 2020 - C",
+      "price": "$115.00",
+      "url": "https://www.4noggins.com/products/g-l-pease-spark-plug-2oz-2020-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-10-21T15:14:13.778650+00:00",
+      "last_updated": "2026-10-21T15:14:13.778650+00:00",
+      "price_history": [
+        {
+          "price": "$115.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller The latest edition fro the mond of G.L. Pease comes Spark Plug! A true Plug tobacco with a deep Latakia backdrop, this blend mixes in rich orientals and fine Virginia leaf to produce a subtley sweet smoke thats sure to please! Strength: Medium to Strong Flavoring: Mild Taste: Full Room Note: Tolerable"
+    },
+    {
+      "name": "McClelland: FROG MORTON 100g 2017 - C",
+      "price": "$385.00",
+      "url": "https://www.4noggins.com/products/mcclelland-frog-morton-100g-2015-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-10-21T15:14:13.778650+00:00",
+      "last_updated": "2026-10-21T15:14:13.778650+00:00",
+      "price_history": [
+        {
+          "price": "$385.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller A perfect cross-over blend for those looking to begin enjoying Latakia. The Latakia is married with an aromatic flavoring to arrive at a pleasant mix of smokey and sweet. Providing very little bite, this is a good all-day smoke. Strength: Mild to Medium Flavoring: Mild Taste: Medium Room Note: Pleasant to Tolerable"
+    },
+    {
+      "name": "Sutliff: CRUMBLE CAKE VA PERIQUE 1.5oz 2019 - C",
+      "price": "$125.00",
+      "url": "https://www.4noggins.com/products/sutliff-crumble-cake-va-perique-1-5oz",
+      "source": "4noggins.com",
+      "first_seen": "2026-10-21T15:14:13.778650+00:00",
+      "last_updated": "2026-10-21T15:14:13.778650+00:00",
+      "price_history": [
+        {
+          "price": "$125.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller The latest release from the Sutliff family is new Crumble Kake. An age old crumble cake made of generous amounts of Perique combined with Black Cavendish and a variety of mature Red Virginias to create a Va-Per lovers dream come true!"
     },
     {
       "name": "Esoterica: BLACKPOOL 8oz - C",
@@ -3681,278 +4124,6 @@
       "last_updated": "2026-10-18T15:14:15.095294+00:00"
     },
     {
-      "name": "Balkan Sobranie: BALKAN SOBRANIE 50g -C",
-      "price": "$140.00",
-      "url": "https://www.4noggins.com/products/balkan-sobranie-balkan-sobranie-50g-c-1",
-      "source": "4noggins.com",
-      "first_seen": "2026-06-23T15:14:19.145115+00:00",
-      "last_seen": "2026-06-23T15:14:19.145115+00:00",
-      "price_history": [
-        {
-          "price": "$145.00",
-          "date": "2026-06-23T15:14:19.145115+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-06-23T15:14:19.145115+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-06-24T15:14:15.069299+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-06-24T15:14:15.069299+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-06-25T15:14:21.789530+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-06-25T15:14:21.789530+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-06-26T15:14:15.656788+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-06-26T15:14:15.656788+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-06-27T15:14:15.518385+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-06-27T15:14:15.518385+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-06-28T15:14:16.232426+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-06-28T15:14:16.232426+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-06-29T15:14:15.480833+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-06-29T15:14:15.480833+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-06-30T15:14:15.051806+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-06-30T15:14:15.051806+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-01T15:14:15.587407+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-01T15:14:15.587407+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-02T15:14:15.277148+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-02T15:14:15.277148+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-03T15:14:15.182829+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-03T15:14:15.182829+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-04T15:14:13.300394+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-04T15:14:13.300394+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-05T15:14:13.574529+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-05T15:14:13.574529+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-06T15:14:20.808796+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-06T15:14:20.808796+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-07T15:14:16.638390+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-07T15:14:16.638390+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-08T15:14:18.833557+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-08T15:14:18.833557+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-09T15:14:20.628029+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-09T15:14:20.628029+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-10T15:14:15.513531+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-10T15:14:15.513531+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-11T15:14:14.890213+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-11T15:14:14.890213+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-12T15:14:15.711149+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-12T15:14:15.711149+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-13T15:14:25.508492+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-13T15:14:25.508492+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-14T15:14:17.145563+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-14T15:14:17.145563+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-15T19:20:51.504365+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-15T19:20:51.504365+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-16T15:14:19.874465+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-16T15:14:19.874465+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-17T15:14:19.407829+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-17T15:14:19.407829+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-18T15:14:16.769428+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-18T15:14:16.769428+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-19T15:14:15.074234+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-19T15:14:15.074234+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-22T15:14:20.441106+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-22T15:14:20.441106+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-27T15:14:21.683283+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-27T15:14:21.683283+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-28T15:14:18.866329+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-28T15:14:18.866329+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-07-29T15:14:20.972566+00:00"
-        },
-        {
-          "price": "$125.00",
-          "date": "2026-07-29T15:14:20.972566+00:00"
-        },
-        {
-          "price": "$145.00",
-          "date": "2026-08-05T15:14:17.198082+00:00"
-        },
-        {
-          "price": "$165.00",
-          "date": "2026-09-08T15:14:15.500722+00:00"
-        },
-        {
-          "price": "$140.00",
-          "date": "2026-10-18T15:14:15.095294+00:00"
-        }
-      ],
-      "description": "Default Title Consignment tin owned by 3rd Party Seller Balkan Sobranie 50g",
-      "last_updated": "2026-10-18T15:14:15.095294+00:00"
-    },
-    {
       "name": "Esoterica: CARDIFF 8oz - C",
       "price": "$475.00",
       "url": "https://www.4noggins.com/products/esoterica-cardiff-8oz-c-copy",
@@ -4029,26 +4200,6 @@
       "description": "Default Title Consignment tin owned by 3rd party seller This pipe tobacco contains the same ingredients as the Royal Jersey Original Latakia Mixture, the recipe being faithfully followed, but without the Latakia, revealing a pipe tobacco with a quite different character. Strength: Mild to Medium Flavoring: Very Mild Taste: Medium Room Note: Pleasant to Tolerable"
     },
     {
-      "name": "Esoterica: PENZANCE 8oz - C",
-      "price": "$1199.00",
-      "url": "https://www.4noggins.com/products/esoterica-penzance-8oz-c-1",
-      "source": "4noggins.com",
-      "first_seen": "2026-06-21T02:45:17.226279+00:00",
-      "last_seen": "2026-06-23T15:14:19.145115+00:00",
-      "price_history": [
-        {
-          "price": "$1385.00",
-          "date": "2026-06-21T02:45:17.226279+00:00"
-        },
-        {
-          "price": "$1199.00",
-          "date": "2026-10-18T15:14:15.095294+00:00"
-        }
-      ],
-      "description": "Default Title Consignment tin owned by third party seller Esoterica Penzance 8oz",
-      "last_updated": "2026-10-18T15:14:15.095294+00:00"
-    },
-    {
       "name": "Esoterica: TILBURY 2oz  - C",
       "price": "$140.00",
       "url": "https://www.4noggins.com/products/esoterica-tilbury-2oz-c",
@@ -4066,26 +4217,6 @@
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Tibury 2oz",
-      "last_updated": "2026-10-18T15:14:15.095294+00:00"
-    },
-    {
-      "name": "J.F. Germain: EIGHTEEN TWENTY 50g -C",
-      "price": "$140.00",
-      "url": "https://www.4noggins.com/products/j-f-germain-eighteen-twenty-50g-c-1",
-      "source": "4noggins.com",
-      "first_seen": "2026-06-21T02:45:17.226279+00:00",
-      "last_seen": "2026-06-23T15:14:19.145115+00:00",
-      "price_history": [
-        {
-          "price": "$185.00",
-          "date": "2026-06-21T02:45:17.226279+00:00"
-        },
-        {
-          "price": "$140.00",
-          "date": "2026-10-18T15:14:15.095294+00:00"
-        }
-      ],
-      "description": "Default Title Consignment tin owned by 3rd party seller JF Germain Eighteen Twenty 50g",
       "last_updated": "2026-10-18T15:14:15.095294+00:00"
     },
     {
@@ -9955,7 +10086,7 @@
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
     }
   ],
-  "last_scraped": "2026-10-18T15:14:15.095294+00:00",
+  "last_scraped": "2026-10-21T15:14:13.778650+00:00",
   "latest_scrape": [
     {
       "name": "A&C Peterson: PREMIER CRU - C",
@@ -10334,10 +10465,18 @@
         {
           "price": "$140.00",
           "date": "2026-10-18T15:14:15.095294+00:00"
+        },
+        {
+          "price": "$165.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        },
+        {
+          "price": "$140.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd Party Seller Balkan Sobranie 50g",
-      "last_updated": "2026-10-18T15:14:15.095294+00:00"
+      "last_updated": "2026-10-21T15:14:13.778650+00:00"
     },
     {
       "name": "Balkan Sobranie: BALKAN SOBRANIE 50g -C",
@@ -10606,10 +10745,18 @@
         {
           "price": "$140.00",
           "date": "2026-10-18T15:14:15.095294+00:00"
+        },
+        {
+          "price": "$165.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        },
+        {
+          "price": "$140.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd Party Seller Balkan Sobranie 50g",
-      "last_updated": "2026-10-18T15:14:15.095294+00:00"
+      "last_updated": "2026-10-21T15:14:13.778650+00:00"
     },
     {
       "name": "Bufflehead: BLUEBILL DRAKE DECOY 2oz 2005 - C",
@@ -11506,10 +11653,18 @@
         {
           "price": "$245.00",
           "date": "2026-10-18T15:14:15.095294+00:00"
+        },
+        {
+          "price": "$285.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        },
+        {
+          "price": "$245.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Butera Pelican 2oz Tin 2014 .",
-      "last_updated": "2026-10-18T15:14:15.095294+00:00"
+      "last_updated": "2026-10-21T15:14:13.778650+00:00"
     },
     {
       "name": "Butera: PELICAN 2014 2oz - C",
@@ -12262,10 +12417,18 @@
         {
           "price": "$245.00",
           "date": "2026-10-18T15:14:15.095294+00:00"
+        },
+        {
+          "price": "$285.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        },
+        {
+          "price": "$245.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Butera Pelican 2oz Tin 2014 .",
-      "last_updated": "2026-10-18T15:14:15.095294+00:00"
+      "last_updated": "2026-10-21T15:14:13.778650+00:00"
     },
     {
       "name": "CAO: MOONTRANCE 50g 2011 - C",
@@ -12333,6 +12496,21 @@
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Cobblestone Outdoors - Hiking 1.75oz"
+    },
+    {
+      "name": "Cornell & Diehl: BAYOU MORNING 8oz 2015 - C",
+      "price": "$235.00",
+      "url": "https://www.4noggins.com/products/cornell-diehl-bayou-morning-8oz-2015-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-10-21T15:14:13.778650+00:00",
+      "last_updated": "2026-10-21T15:14:13.778650+00:00",
+      "price_history": [
+        {
+          "price": "$235.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller Not for the faint of heart, Virginia/Perique blend is composed of Red and Bright Virginia's, and 25% Perique. A Perique lover's delight. Strength: Medium Flavoring: None Taste: Medium to Full Room Note: Tolerable"
     },
     {
       "name": "Cornell & Diehl: PENNINGTON GAP 50g 1998 - C",
@@ -12717,6 +12895,21 @@
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Dunhill Flake 50g 2016"
+    },
+    {
+      "name": "Dunhill: LONDON MIXTURE 2005 - C",
+      "price": "$325.00",
+      "url": "https://www.4noggins.com/products/dunhill-london-mixture-2005-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-10-21T15:14:13.778650+00:00",
+      "last_updated": "2026-10-21T15:14:13.778650+00:00",
+      "price_history": [
+        {
+          "price": "$325.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller Dunhill London Mixture (Murray) 2005"
     },
     {
       "name": "Dunhill: MILD BLEND 50g 1985 - C",
@@ -14490,440 +14683,780 @@
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Kingsbridge 8oz"
     },
     {
-      "name": "Esoterica: MARGATE 2oz - C",
-      "price": "$140.00",
-      "url": "https://www.4noggins.com/products/esoterica-margate-2oz-2015-c",
+      "name": "Esoterica: MARGATE 8oz - C",
+      "price": "$525.00",
+      "url": "https://www.4noggins.com/products/esoterica-margate-8oz-c-1",
       "source": "4noggins.com",
       "first_seen": "2026-06-21T02:45:17.226279+00:00",
       "last_seen": "2026-06-23T15:14:19.145115+00:00",
       "price_history": [
         {
-          "price": "$150.00",
+          "price": "$525.00",
           "date": "2026-06-21T02:45:17.226279+00:00"
         },
         {
-          "price": "$140.00",
-          "date": "2026-06-23T15:14:19.145115+00:00"
-        },
-        {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-06-24T15:14:15.069299+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-06-24T15:14:15.069299+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-06-25T15:14:21.789530+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-06-25T15:14:21.789530+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-06-26T15:14:15.656788+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-06-26T15:14:15.656788+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-06-27T15:14:15.518385+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-06-27T15:14:15.518385+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-06-28T15:14:16.232426+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-06-28T15:14:16.232426+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-06-29T15:14:15.480833+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-06-29T15:14:15.480833+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-06-30T15:14:15.051806+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-06-30T15:14:15.051806+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-07-01T15:14:15.587407+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-07-01T15:14:15.587407+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-07-02T15:14:15.277148+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-07-02T15:14:15.277148+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-07-03T15:14:15.182829+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-07-03T15:14:15.182829+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-07-04T15:14:13.300394+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-07-04T15:14:13.300394+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-07-05T15:14:13.574529+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-07-05T15:14:13.574529+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-07-06T15:14:20.808796+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-07-06T15:14:20.808796+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-07-07T15:14:16.638390+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-07-07T15:14:16.638390+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-07-08T15:14:18.833557+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-07-08T15:14:18.833557+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-07-09T15:14:20.628029+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-07-09T15:14:20.628029+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-07-10T15:14:15.513531+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-07-10T15:14:15.513531+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-07-11T15:14:14.890213+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-07-11T15:14:14.890213+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-07-12T15:14:15.711149+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-07-12T15:14:15.711149+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-07-13T15:14:25.508492+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-07-13T15:14:25.508492+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-07-14T15:14:17.145563+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-07-14T15:14:17.145563+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-07-15T19:20:51.504365+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-07-15T19:20:51.504365+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-07-16T15:14:19.874465+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-07-16T15:14:19.874465+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-07-17T15:14:19.407829+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-07-17T15:14:19.407829+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-07-18T15:14:16.769428+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-07-18T15:14:16.769428+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-07-19T15:14:15.074234+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-07-19T15:14:15.074234+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-07-22T15:14:20.441106+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-07-22T15:14:20.441106+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-07-27T15:14:21.683283+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-07-27T15:14:21.683283+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-07-28T15:14:18.866329+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-07-28T15:14:18.866329+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-07-29T15:14:20.972566+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-07-29T15:14:20.972566+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-08-05T15:14:17.198082+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
+          "date": "2026-08-05T15:14:17.198082+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-06T15:16:03.013887+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-06T15:16:03.013887+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-07T15:14:24.246288+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-07T15:14:24.246288+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-08T15:14:14.789963+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-08T15:14:14.789963+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-09T15:14:16.838314+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-09T15:14:16.838314+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-10T15:14:26.800640+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-10T15:14:26.800640+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-11T15:14:22.034567+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-11T15:14:22.034567+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-12T15:14:17.799959+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-12T15:14:17.799959+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-13T15:14:29.787965+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-13T15:14:29.787965+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-14T15:14:16.143779+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-15T15:14:17.299749+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-15T15:14:17.299749+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-16T15:14:20.001719+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-16T15:14:20.001719+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-17T15:14:12.893723+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-18T15:14:15.014667+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-18T15:14:15.014667+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-19T15:14:14.378945+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-19T15:14:14.378945+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-20T15:14:17.012812+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-20T15:14:17.012812+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-21T15:14:15.271274+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-21T15:14:15.271274+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-22T15:14:13.903580+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-22T15:14:13.903580+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-23T15:14:17.518822+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-24T15:14:18.633035+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-24T15:14:18.633035+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-25T15:14:17.087118+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-25T15:14:17.087118+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-27T15:14:18.244525+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-27T15:14:18.244525+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-28T15:14:14.317754+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-28T15:14:14.317754+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-29T15:14:15.123088+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-29T15:14:15.123088+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-30T15:14:14.766522+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-30T15:14:14.766522+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-08-31T15:14:16.368425+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-08-31T15:14:16.368425+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-09-01T15:14:15.487525+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-09-01T15:14:15.487525+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-09-02T15:14:26.799039+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-09-02T15:14:26.799039+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-09-03T15:14:16.627233+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-09-03T15:14:16.627233+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-09-04T15:14:16.077456+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-09-04T15:14:16.077456+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-09-05T15:14:12.948163+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-09-05T15:14:12.948163+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-09-06T15:14:15.758700+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-09-06T15:14:15.758700+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-09-07T15:14:15.084388+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-09-07T15:14:15.084388+00:00"
+        },
+        {
+          "price": "$475.00",
           "date": "2026-09-08T15:14:15.500722+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$525.00",
+          "date": "2026-09-08T15:14:15.500722+00:00"
+        },
+        {
+          "price": "$475.00",
           "date": "2026-09-09T15:14:17.872276+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-09-09T15:14:17.872276+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-09-10T15:14:17.302544+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-09-10T15:14:17.302544+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-09-11T15:14:16.631273+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-09-11T15:14:16.631273+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-09-12T15:14:13.334489+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-09-12T15:14:13.334489+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-09-13T15:14:13.151941+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-09-13T15:14:13.151941+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-09-14T15:14:13.233676+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-09-14T15:14:13.233676+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-09-15T15:14:17.671837+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-09-15T15:14:17.671837+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-09-16T15:14:18.216224+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-09-16T15:14:18.216224+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-09-17T15:14:16.849622+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-09-17T15:14:16.849622+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-09-18T15:14:13.766713+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-09-18T15:14:13.766713+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-09-19T15:14:16.340122+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-09-19T15:14:16.340122+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-09-20T15:14:16.532080+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-09-20T15:14:16.532080+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-09-21T15:14:17.731374+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-09-21T15:14:17.731374+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-09-22T15:14:33.232795+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-09-22T15:14:33.232795+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-09-23T15:14:14.837429+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-09-23T15:14:14.837429+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-09-24T15:14:25.340076+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-09-24T15:14:25.340076+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-09-25T15:14:16.770891+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-09-25T15:14:16.770891+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-09-26T15:14:13.983151+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-09-26T15:14:13.983151+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-09-27T15:14:14.396134+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-09-27T15:14:14.396134+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-09-28T15:14:16.928893+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
           "date": "2026-09-28T15:14:16.928893+00:00"
         },
         {
-          "price": "$150.00",
+          "price": "$475.00",
           "date": "2026-09-29T15:14:15.193461+00:00"
         },
         {
-          "price": "$140.00",
+          "price": "$525.00",
+          "date": "2026-09-29T15:14:15.193461+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-10-01T15:14:16.731425+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-10-01T15:14:16.731425+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-10-02T15:14:20.593174+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-10-02T15:14:20.593174+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-10-04T15:14:13.804219+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-10-04T15:14:13.804219+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-10-05T15:14:15.721630+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-10-05T15:14:15.721630+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-10-06T15:14:16.334054+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-10-06T15:14:16.334054+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-10-08T15:14:15.105345+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-10-08T15:14:15.105345+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-10-09T15:14:25.415613+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-10-09T15:14:25.415613+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-10-10T15:14:14.723213+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-10-10T15:14:14.723213+00:00"
+        },
+        {
+          "price": "$475.00",
           "date": "2026-10-18T15:14:15.095294+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-10-18T15:14:15.095294+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
         }
       ],
-      "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Margate 2oz",
-      "last_updated": "2026-10-18T15:14:15.095294+00:00"
+      "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Margate 8oz",
+      "last_updated": "2026-10-21T15:14:13.778650+00:00"
     },
     {
       "name": "Esoterica: MARGATE 8oz - C",
@@ -15688,778 +16221,18 @@
         {
           "price": "$525.00",
           "date": "2026-10-18T15:14:15.095294+00:00"
+        },
+        {
+          "price": "$475.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        },
+        {
+          "price": "$525.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Margate 8oz",
-      "last_updated": "2026-10-18T15:14:15.095294+00:00"
-    },
-    {
-      "name": "Esoterica: MARGATE 8oz - C",
-      "price": "$525.00",
-      "url": "https://www.4noggins.com/products/esoterica-margate-8oz-c-1",
-      "source": "4noggins.com",
-      "first_seen": "2026-06-21T02:45:17.226279+00:00",
-      "last_seen": "2026-06-23T15:14:19.145115+00:00",
-      "price_history": [
-        {
-          "price": "$525.00",
-          "date": "2026-06-21T02:45:17.226279+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-06-24T15:14:15.069299+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-06-24T15:14:15.069299+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-06-25T15:14:21.789530+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-06-25T15:14:21.789530+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-06-26T15:14:15.656788+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-06-26T15:14:15.656788+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-06-27T15:14:15.518385+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-06-27T15:14:15.518385+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-06-28T15:14:16.232426+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-06-28T15:14:16.232426+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-06-29T15:14:15.480833+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-06-29T15:14:15.480833+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-06-30T15:14:15.051806+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-06-30T15:14:15.051806+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-07-01T15:14:15.587407+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-07-01T15:14:15.587407+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-07-02T15:14:15.277148+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-07-02T15:14:15.277148+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-07-03T15:14:15.182829+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-07-03T15:14:15.182829+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-07-04T15:14:13.300394+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-07-04T15:14:13.300394+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-07-05T15:14:13.574529+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-07-05T15:14:13.574529+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-07-06T15:14:20.808796+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-07-06T15:14:20.808796+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-07-07T15:14:16.638390+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-07-07T15:14:16.638390+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-07-08T15:14:18.833557+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-07-08T15:14:18.833557+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-07-09T15:14:20.628029+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-07-09T15:14:20.628029+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-07-10T15:14:15.513531+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-07-10T15:14:15.513531+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-07-11T15:14:14.890213+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-07-11T15:14:14.890213+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-07-12T15:14:15.711149+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-07-12T15:14:15.711149+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-07-13T15:14:25.508492+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-07-13T15:14:25.508492+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-07-14T15:14:17.145563+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-07-14T15:14:17.145563+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-07-15T19:20:51.504365+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-07-15T19:20:51.504365+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-07-16T15:14:19.874465+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-07-16T15:14:19.874465+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-07-17T15:14:19.407829+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-07-17T15:14:19.407829+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-07-18T15:14:16.769428+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-07-18T15:14:16.769428+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-07-19T15:14:15.074234+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-07-19T15:14:15.074234+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-07-22T15:14:20.441106+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-07-22T15:14:20.441106+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-07-27T15:14:21.683283+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-07-27T15:14:21.683283+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-07-28T15:14:18.866329+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-07-28T15:14:18.866329+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-07-29T15:14:20.972566+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-07-29T15:14:20.972566+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-05T15:14:17.198082+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-05T15:14:17.198082+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-06T15:16:03.013887+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-06T15:16:03.013887+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-07T15:14:24.246288+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-07T15:14:24.246288+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-08T15:14:14.789963+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-08T15:14:14.789963+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-09T15:14:16.838314+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-09T15:14:16.838314+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-10T15:14:26.800640+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-10T15:14:26.800640+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-11T15:14:22.034567+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-11T15:14:22.034567+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-12T15:14:17.799959+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-12T15:14:17.799959+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-13T15:14:29.787965+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-13T15:14:29.787965+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-14T15:14:16.143779+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-14T15:14:16.143779+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-15T15:14:17.299749+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-15T15:14:17.299749+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-16T15:14:20.001719+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-16T15:14:20.001719+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-17T15:14:12.893723+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-17T15:14:12.893723+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-18T15:14:15.014667+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-18T15:14:15.014667+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-19T15:14:14.378945+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-19T15:14:14.378945+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-20T15:14:17.012812+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-20T15:14:17.012812+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-21T15:14:15.271274+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-21T15:14:15.271274+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-22T15:14:13.903580+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-22T15:14:13.903580+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-23T15:14:17.518822+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-23T15:14:17.518822+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-24T15:14:18.633035+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-24T15:14:18.633035+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-25T15:14:17.087118+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-25T15:14:17.087118+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-27T15:14:18.244525+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-27T15:14:18.244525+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-28T15:14:14.317754+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-28T15:14:14.317754+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-29T15:14:15.123088+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-29T15:14:15.123088+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-30T15:14:14.766522+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-30T15:14:14.766522+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-08-31T15:14:16.368425+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-08-31T15:14:16.368425+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-01T15:14:15.487525+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-01T15:14:15.487525+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-02T15:14:26.799039+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-02T15:14:26.799039+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-03T15:14:16.627233+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-03T15:14:16.627233+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-04T15:14:16.077456+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-04T15:14:16.077456+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-05T15:14:12.948163+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-05T15:14:12.948163+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-06T15:14:15.758700+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-06T15:14:15.758700+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-07T15:14:15.084388+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-07T15:14:15.084388+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-08T15:14:15.500722+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-08T15:14:15.500722+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-09T15:14:17.872276+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-09T15:14:17.872276+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-10T15:14:17.302544+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-10T15:14:17.302544+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-11T15:14:16.631273+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-11T15:14:16.631273+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-12T15:14:13.334489+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-12T15:14:13.334489+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-13T15:14:13.151941+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-13T15:14:13.151941+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-14T15:14:13.233676+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-14T15:14:13.233676+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-15T15:14:17.671837+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-15T15:14:17.671837+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-16T15:14:18.216224+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-16T15:14:18.216224+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-17T15:14:16.849622+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-17T15:14:16.849622+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-18T15:14:13.766713+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-18T15:14:13.766713+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-19T15:14:16.340122+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-19T15:14:16.340122+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-20T15:14:16.532080+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-20T15:14:16.532080+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-21T15:14:17.731374+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-21T15:14:17.731374+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-22T15:14:33.232795+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-22T15:14:33.232795+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-23T15:14:14.837429+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-23T15:14:14.837429+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-24T15:14:25.340076+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-24T15:14:25.340076+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-25T15:14:16.770891+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-25T15:14:16.770891+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-26T15:14:13.983151+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-26T15:14:13.983151+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-27T15:14:14.396134+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-27T15:14:14.396134+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-28T15:14:16.928893+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-28T15:14:16.928893+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-09-29T15:14:15.193461+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-09-29T15:14:15.193461+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-10-01T15:14:16.731425+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-10-01T15:14:16.731425+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-10-02T15:14:20.593174+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-10-02T15:14:20.593174+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-10-04T15:14:13.804219+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-10-04T15:14:13.804219+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-10-05T15:14:15.721630+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-10-05T15:14:15.721630+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-10-06T15:14:16.334054+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-10-06T15:14:16.334054+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-10-08T15:14:15.105345+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-10-08T15:14:15.105345+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-10-09T15:14:25.415613+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-10-09T15:14:25.415613+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-10-10T15:14:14.723213+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-10-10T15:14:14.723213+00:00"
-        },
-        {
-          "price": "$475.00",
-          "date": "2026-10-18T15:14:15.095294+00:00"
-        },
-        {
-          "price": "$525.00",
-          "date": "2026-10-18T15:14:15.095294+00:00"
-        }
-      ],
-      "description": "Default Title Consignment tin owned by 3rd party seller Esoterica Margate 8oz",
-      "last_updated": "2026-10-18T15:14:15.095294+00:00"
+      "last_updated": "2026-10-21T15:14:13.778650+00:00"
     },
     {
       "name": "Esoterica: MARGATE 8oz 2005 - C",
@@ -16793,10 +16566,18 @@
         {
           "price": "$1199.00",
           "date": "2026-10-18T15:14:15.095294+00:00"
+        },
+        {
+          "price": "$1385.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        },
+        {
+          "price": "$1199.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by third party seller Esoterica Penzance 8oz",
-      "last_updated": "2026-10-18T15:14:15.095294+00:00"
+      "last_updated": "2026-10-21T15:14:13.778650+00:00"
     },
     {
       "name": "Esoterica: PENZANCE 8oz - C",
@@ -16813,10 +16594,18 @@
         {
           "price": "$1199.00",
           "date": "2026-10-18T15:14:15.095294+00:00"
+        },
+        {
+          "price": "$1385.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        },
+        {
+          "price": "$1199.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by third party seller Esoterica Penzance 8oz",
-      "last_updated": "2026-10-18T15:14:15.095294+00:00"
+      "last_updated": "2026-10-21T15:14:13.778650+00:00"
     },
     {
       "name": "Esoterica: SCARBOROUGH 8oz - C",
@@ -17636,10 +17425,18 @@
         {
           "price": "$545.00",
           "date": "2026-10-18T15:14:15.095294+00:00"
+        },
+        {
+          "price": "$575.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        },
+        {
+          "price": "$545.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica St Ives 8oz",
-      "last_updated": "2026-10-18T15:14:15.095294+00:00"
+      "last_updated": "2026-10-21T15:14:13.778650+00:00"
     },
     {
       "name": "Esoterica: ST. IVES 8oz - C",
@@ -18440,10 +18237,18 @@
         {
           "price": "$545.00",
           "date": "2026-10-18T15:14:15.095294+00:00"
+        },
+        {
+          "price": "$575.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        },
+        {
+          "price": "$545.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Esoterica St Ives 8oz",
-      "last_updated": "2026-10-18T15:14:15.095294+00:00"
+      "last_updated": "2026-10-21T15:14:13.778650+00:00"
     },
     {
       "name": "Esoterica: STONEHAVEN 2oz - C",
@@ -18960,6 +18765,21 @@
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller G.L. Pease Smaugweed 2oz 2003 Only 400 tins made",
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
+    },
+    {
+      "name": "G.L. Pease: SPARK PLUG 2oz 2020 - C",
+      "price": "$115.00",
+      "url": "https://www.4noggins.com/products/g-l-pease-spark-plug-2oz-2020-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-10-21T15:14:13.778650+00:00",
+      "last_updated": "2026-10-21T15:14:13.778650+00:00",
+      "price_history": [
+        {
+          "price": "$115.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller The latest edition fro the mond of G.L. Pease comes Spark Plug! A true Plug tobacco with a deep Latakia backdrop, this blend mixes in rich orientals and fine Virginia leaf to produce a subtley sweet smoke thats sure to please! Strength: Medium to Strong Flavoring: Mild Taste: Full Room Note: Tolerable"
     },
     {
       "name": "G.L. Pease: STONEHENGE FLAKE 2oz 2017- C",
@@ -19643,10 +19463,18 @@
         {
           "price": "$135.00",
           "date": "2026-10-18T15:14:15.095294+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        },
+        {
+          "price": "$135.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
         }
       ],
       "description": "Default Title Consignment tins owned by 3rd party seller JF Germain Bridge Old Brown Flake 50g",
-      "last_updated": "2026-10-18T15:14:15.095294+00:00"
+      "last_updated": "2026-10-21T15:14:13.778650+00:00"
     },
     {
       "name": "J.F. Germain: BRIDGE OLD BROWN FLAKE 50g -C",
@@ -20187,10 +20015,18 @@
         {
           "price": "$135.00",
           "date": "2026-10-18T15:14:15.095294+00:00"
+        },
+        {
+          "price": "$145.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        },
+        {
+          "price": "$135.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
         }
       ],
       "description": "Default Title Consignment tins owned by 3rd party seller JF Germain Bridge Old Brown Flake 50g",
-      "last_updated": "2026-10-18T15:14:15.095294+00:00"
+      "last_updated": "2026-10-21T15:14:13.778650+00:00"
     },
     {
       "name": "J.F. Germain: BROWN FLAKE 50g 2004 - C",
@@ -20255,10 +20091,18 @@
         {
           "price": "$140.00",
           "date": "2026-10-18T15:14:15.095294+00:00"
+        },
+        {
+          "price": "$185.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        },
+        {
+          "price": "$140.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller JF Germain Eighteen Twenty 50g",
-      "last_updated": "2026-10-18T15:14:15.095294+00:00"
+      "last_updated": "2026-10-21T15:14:13.778650+00:00"
     },
     {
       "name": "J.F. Germain: EIGHTEEN TWENTY 50g -C",
@@ -20275,10 +20119,18 @@
         {
           "price": "$140.00",
           "date": "2026-10-18T15:14:15.095294+00:00"
+        },
+        {
+          "price": "$185.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        },
+        {
+          "price": "$140.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
         }
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller JF Germain Eighteen Twenty 50g",
-      "last_updated": "2026-10-18T15:14:15.095294+00:00"
+      "last_updated": "2026-10-21T15:14:13.778650+00:00"
     },
     {
       "name": "J.F. Germain: FULL LATAKIA 50g - C",
@@ -20966,6 +20818,21 @@
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller A soothing, relaxing mild aromatic, Deep Hollow consists of rich, Red and Black stoved Virginias lightly top-flavored with hints of apple and vanilla. Relative to most aromatics it smokes cool and clean with little moisture or bite. Strength: Mild Flavoring: Mild Taste: Mild to Medium Room Note: Pleasant",
       "last_updated": "2026-06-21T02:45:17.226279+00:00"
+    },
+    {
+      "name": "McClelland: FROG MORTON 100g 2017 - C",
+      "price": "$385.00",
+      "url": "https://www.4noggins.com/products/mcclelland-frog-morton-100g-2015-c",
+      "source": "4noggins.com",
+      "first_seen": "2026-10-21T15:14:13.778650+00:00",
+      "last_updated": "2026-10-21T15:14:13.778650+00:00",
+      "price_history": [
+        {
+          "price": "$385.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller A perfect cross-over blend for those looking to begin enjoying Latakia. The Latakia is married with an aromatic flavoring to arrive at a pleasant mix of smokey and sweet. Providing very little bite, this is a good all-day smoke. Strength: Mild to Medium Flavoring: Mild Taste: Medium Room Note: Pleasant to Tolerable"
     },
     {
       "name": "McClelland: FROG MORTON 50g 2017 - C",
@@ -21659,21 +21526,6 @@
       "description": "Default Title Consignment tin owned by 3rd party seller In the 1930s Prince Albert became a popular independent brand of pipe tobacco in the United States. It remains one of the America's best selling pipe tobaccos. Prince Albert blend is burley-based, crimp cut, long burning smoking tobacco. Now available in a convenient and easy to carry pouch! Strength: Mild to Medium Flavoring: Extremely Mild "
     },
     {
-      "name": "Rattray's: MARLIN FLAKE 100g 2014 - C",
-      "price": "$165.00",
-      "url": "https://www.4noggins.com/products/rattrays-marlin-flake-100g-2007-c",
-      "source": "4noggins.com",
-      "first_seen": "2026-07-17T15:14:19.407829+00:00",
-      "last_updated": "2026-07-17T15:14:19.407829+00:00",
-      "price_history": [
-        {
-          "price": "$165.00",
-          "date": "2026-07-17T15:14:19.407829+00:00"
-        }
-      ],
-      "description": "Default Title Consignment tin owned by 3rd party seller Rattrays Marlin Flake 100g 2014"
-    },
-    {
       "name": "Rattray's: OLD GOWRIE 100g 2016 - C",
       "price": "$145.00",
       "url": "https://www.4noggins.com/products/rattrays-old-gowrie-100g-1995-c",
@@ -22104,6 +21956,21 @@
       ],
       "description": "Default Title Consignment tin owned by 3rd party seller Sutliff Cringle Flake 2020",
       "last_updated": "2026-06-23T15:14:19.145115+00:00"
+    },
+    {
+      "name": "Sutliff: CRUMBLE CAKE VA PERIQUE 1.5oz 2019 - C",
+      "price": "$125.00",
+      "url": "https://www.4noggins.com/products/sutliff-crumble-cake-va-perique-1-5oz",
+      "source": "4noggins.com",
+      "first_seen": "2026-10-21T15:14:13.778650+00:00",
+      "last_updated": "2026-10-21T15:14:13.778650+00:00",
+      "price_history": [
+        {
+          "price": "$125.00",
+          "date": "2026-10-21T15:14:13.778650+00:00"
+        }
+      ],
+      "description": "Default Title Consignment tin owned by 3rd party seller The latest release from the Sutliff family is new Crumble Kake. An age old crumble cake made of generous amounts of Perique combined with Black Cavendish and a variety of mature Red Virginias to create a Va-Per lovers dream come true!"
     },
     {
       "name": "The Smoker Ltd.: FAVORITE 50g 1992 - C",
@@ -22984,6 +22851,13 @@
       "added": 3,
       "price_changed": 22,
       "total": 306
+    },
+    {
+      "date": "2026-10-21T15:14:13.778650+00:00",
+      "found": 267,
+      "added": 5,
+      "price_changed": 14,
+      "total": 311
     }
   ]
 }
