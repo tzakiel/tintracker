@@ -1,6 +1,92 @@
 {
   "products": [
     {
+      "name": "Esoterica Dorchester",
+      "price": "$400.00",
+      "url": "https://tinbids.com/auction/241652/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-07-31T18:51:54+00:00",
+      "last_updated": "2026-10-21T16:00:27.718535+00:00",
+      "price_history": [
+        {
+          "price": "$80.05",
+          "date": "2026-07-31T18:51:54+00:00"
+        },
+        {
+          "price": "$405.00",
+          "date": "2026-10-08T16:00:28.992400+00:00"
+        },
+        {
+          "price": "$82.00",
+          "date": "2026-10-16T16:00:26.212792+00:00"
+        },
+        {
+          "price": "$400.00",
+          "date": "2026-10-21T16:00:27.718535+00:00"
+        }
+      ]
+    },
+    {
+      "name": "The Country Squire Tobacconist Figgy Pudding 2025 3.3 oz.  BIN 55",
+      "price": "$55.00",
+      "url": "https://tinbids.com/auction/243194/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-21T09:11:57+00:00",
+      "last_updated": "2026-10-21T16:00:27.718535+00:00",
+      "price_history": [
+        {
+          "price": "$55.00",
+          "date": "2026-10-21T09:11:57+00:00"
+        }
+      ]
+    },
+    {
+      "name": "4 pounds of the ORIGINAL Folklore!   First release.",
+      "price": "$325.00",
+      "url": "https://tinbids.com/auction/241611/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-21T11:15:18+00:00",
+      "last_updated": "2026-10-21T16:00:27.718535+00:00",
+      "price_history": [
+        {
+          "price": "$325.00",
+          "date": "2026-10-21T11:15:18+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Salty Dogs : A VaPer 50g",
+      "price": "$45.00",
+      "url": "https://tinbids.com/auction/241636/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-21T12:10:27+00:00",
+      "last_updated": "2026-10-21T16:00:27.718535+00:00",
+      "price_history": [
+        {
+          "price": "$45.00",
+          "date": "2026-10-21T12:10:27+00:00"
+        }
+      ]
+    },
+    {
+      "name": "C&D 2019 Small Batch Sansepelcro Lot of 2",
+      "price": "$65.00",
+      "url": "https://tinbids.com/auction/242488/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-21T13:44:28+00:00",
+      "last_updated": "2026-10-21T16:00:27.718535+00:00",
+      "price_history": [
+        {
+          "price": "$72.00",
+          "date": "2026-10-21T13:44:28+00:00"
+        },
+        {
+          "price": "$65.00",
+          "date": "2026-10-21T16:00:27.718535+00:00"
+        }
+      ]
+    },
+    {
       "name": "Ravenwood",
       "price": "$47.00",
       "url": "https://tinbids.com/auction/241428/",
@@ -2719,28 +2805,6 @@
         {
           "price": "$70.00",
           "date": "2026-10-17T01:54:09+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Esoterica Dorchester",
-      "price": "$82.00",
-      "url": "https://tinbids.com/auction/240301/",
-      "source": "Tinbids Auction (Sold)",
-      "first_seen": "2026-07-31T18:51:54+00:00",
-      "last_updated": "2026-10-16T16:00:26.212792+00:00",
-      "price_history": [
-        {
-          "price": "$80.05",
-          "date": "2026-07-31T18:51:54+00:00"
-        },
-        {
-          "price": "$405.00",
-          "date": "2026-10-08T16:00:28.992400+00:00"
-        },
-        {
-          "price": "$82.00",
-          "date": "2026-10-16T16:00:26.212792+00:00"
         }
       ]
     },
@@ -68820,8 +68884,94 @@
       ]
     }
   ],
-  "last_scraped": "2026-10-21T04:00:27.388753+00:00",
+  "last_scraped": "2026-10-21T16:00:27.718535+00:00",
   "latest_scrape": [
+    {
+      "name": "Esoterica Dorchester",
+      "price": "$400.00",
+      "url": "https://tinbids.com/auction/241652/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-07-31T18:51:54+00:00",
+      "last_updated": "2026-10-21T16:00:27.718535+00:00",
+      "price_history": [
+        {
+          "price": "$80.05",
+          "date": "2026-07-31T18:51:54+00:00"
+        },
+        {
+          "price": "$405.00",
+          "date": "2026-10-08T16:00:28.992400+00:00"
+        },
+        {
+          "price": "$82.00",
+          "date": "2026-10-16T16:00:26.212792+00:00"
+        },
+        {
+          "price": "$400.00",
+          "date": "2026-10-21T16:00:27.718535+00:00"
+        }
+      ]
+    },
+    {
+      "name": "The Country Squire Tobacconist Figgy Pudding 2025 3.3 oz.  BIN 55",
+      "price": "$55.00",
+      "url": "https://tinbids.com/auction/243194/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-21T09:11:57+00:00",
+      "last_updated": "2026-10-21T16:00:27.718535+00:00",
+      "price_history": [
+        {
+          "price": "$55.00",
+          "date": "2026-10-21T09:11:57+00:00"
+        }
+      ]
+    },
+    {
+      "name": "4 pounds of the ORIGINAL Folklore!   First release.",
+      "price": "$325.00",
+      "url": "https://tinbids.com/auction/241611/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-21T11:15:18+00:00",
+      "last_updated": "2026-10-21T16:00:27.718535+00:00",
+      "price_history": [
+        {
+          "price": "$325.00",
+          "date": "2026-10-21T11:15:18+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Salty Dogs : A VaPer 50g",
+      "price": "$45.00",
+      "url": "https://tinbids.com/auction/241636/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-21T12:10:27+00:00",
+      "last_updated": "2026-10-21T16:00:27.718535+00:00",
+      "price_history": [
+        {
+          "price": "$45.00",
+          "date": "2026-10-21T12:10:27+00:00"
+        }
+      ]
+    },
+    {
+      "name": "C&D 2019 Small Batch Sansepelcro Lot of 2",
+      "price": "$65.00",
+      "url": "https://tinbids.com/auction/242488/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-10-21T13:44:28+00:00",
+      "last_updated": "2026-10-21T16:00:27.718535+00:00",
+      "price_history": [
+        {
+          "price": "$72.00",
+          "date": "2026-10-21T13:44:28+00:00"
+        },
+        {
+          "price": "$65.00",
+          "date": "2026-10-21T16:00:27.718535+00:00"
+        }
+      ]
+    },
     {
       "name": "Ravenwood",
       "price": "$47.00",
@@ -71541,28 +71691,6 @@
         {
           "price": "$70.00",
           "date": "2026-10-17T01:54:09+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Esoterica Dorchester",
-      "price": "$82.00",
-      "url": "https://tinbids.com/auction/240301/",
-      "source": "Tinbids Auction (Sold)",
-      "first_seen": "2026-07-31T18:51:54+00:00",
-      "last_updated": "2026-10-16T16:00:26.212792+00:00",
-      "price_history": [
-        {
-          "price": "$80.05",
-          "date": "2026-07-31T18:51:54+00:00"
-        },
-        {
-          "price": "$405.00",
-          "date": "2026-10-08T16:00:28.992400+00:00"
-        },
-        {
-          "price": "$82.00",
-          "date": "2026-10-16T16:00:26.212792+00:00"
         }
       ]
     },
@@ -137744,36 +137872,6 @@
       "date_end": "2026-10-24 02:40:42"
     },
     {
-      "url": "https://tinbids.com/auction/241602/",
-      "name": "Esoterica Penzance 22 years aged",
-      "date_end": "2026-10-21 04:58:04"
-    },
-    {
-      "url": "https://tinbids.com/auction/241611/",
-      "name": "4 pounds of the ORIGINAL Folklore!   First release.",
-      "date_end": "2026-10-21 11:15:18"
-    },
-    {
-      "url": "https://tinbids.com/auction/241636/",
-      "name": "Salty Dogs : A VaPer 50g",
-      "date_end": "2026-10-21 12:10:27"
-    },
-    {
-      "url": "https://tinbids.com/auction/241637/",
-      "name": "Solani Aged Burley Flake - 656 50g Pipe Tobacco",
-      "date_end": "2026-10-21 12:10:45"
-    },
-    {
-      "url": "https://tinbids.com/auction/241650/",
-      "name": "Esoterica St Ives",
-      "date_end": "2026-10-21 15:31:40"
-    },
-    {
-      "url": "https://tinbids.com/auction/241652/",
-      "name": "Esoterica Dorchester",
-      "date_end": "2026-10-21 15:32:31"
-    },
-    {
       "url": "https://tinbids.com/auction/241662/",
       "name": "Samuel Gawith St. James Flake",
       "date_end": "2026-10-21 16:31:03"
@@ -138677,16 +138775,6 @@
       "url": "https://tinbids.com/auction/242452/",
       "name": "2oz of Limited Edition Small Batch of Midnight Orchard by Cornell and Diehl. SOLD OUT EVERYWHERE!",
       "date_end": "2026-10-28 01:47:48"
-    },
-    {
-      "url": "https://tinbids.com/auction/242485/",
-      "name": "C&D 2019 Small Batch Sansepelcro Lot of 2",
-      "date_end": "2026-10-21 13:44:28"
-    },
-    {
-      "url": "https://tinbids.com/auction/242488/",
-      "name": "C&D 2019 Small Batch Sansepelcro Lot of 2",
-      "date_end": "2026-10-21 13:46:48"
     },
     {
       "url": "https://tinbids.com/auction/242491/",
@@ -140454,26 +140542,6 @@
       "date_end": "2026-10-29 16:51:49"
     },
     {
-      "url": "https://tinbids.com/auction/243193/",
-      "name": "Cornell & Diehl FROM BEYOND 2 tins from 2025 BIN 65",
-      "date_end": "2026-10-21 09:11:13"
-    },
-    {
-      "url": "https://tinbids.com/auction/243194/",
-      "name": "The Country Squire Tobacconist Figgy Pudding 2025 3.3 oz.  BIN 55",
-      "date_end": "2026-10-21 09:11:57"
-    },
-    {
-      "url": "https://tinbids.com/auction/243195/",
-      "name": "Sun Bear Bourbon Cask 2oz Limited Small Batch",
-      "date_end": "2026-10-21 11:40:12"
-    },
-    {
-      "url": "https://tinbids.com/auction/243196/",
-      "name": "Sun Bear Bourbon Cask - Cornell and Diehl Small Batch  - (3 x 2oz)",
-      "date_end": "2026-10-21 11:41:51"
-    },
-    {
       "url": "https://tinbids.com/auction/243177/",
       "name": "Birgham 2014 Legend Series Klondike Gold",
       "date_end": "2026-10-25 01:12:28"
@@ -141005,7 +141073,7 @@
     },
     {
       "url": "https://tinbids.com/auction/243641/",
-      "name": "McCLELLAND (1990) MIXTURE NO. 8 Pipe Tobacco - 4 OZ. BULGING Sealed Tin",
+      "name": "McCLELLAND MIXTURE NO. 8 (1990) Pipe Tobacco - 4 OZ. BULGING Sealed Tin",
       "date_end": "2026-10-26 01:51:27"
     },
     {
@@ -141427,6 +141495,126 @@
       "url": "https://tinbids.com/auction/243582/",
       "name": "Sealed 2015 Hearth & Home Frenchy's Sunzabitches 8 ounce Tin  (Discontinued)",
       "date_end": "2026-10-30 23:18:44"
+    },
+    {
+      "url": "https://tinbids.com/auction/243701/",
+      "name": "Sun Bear Bourbon Cask - Cornell and Diehl Small Batch  - (3 x 2oz)",
+      "date_end": "2026-10-22 11:43:49"
+    },
+    {
+      "url": "https://tinbids.com/auction/243702/",
+      "name": "Sun Bear Bourbon Cask 2oz Limited Small Batch",
+      "date_end": "2026-10-22 11:44:07"
+    },
+    {
+      "url": "https://tinbids.com/auction/243688/",
+      "name": "X2 Cornell & Diehl Small Batch Sun Bear BOURBON CASK",
+      "date_end": "2026-10-24 04:12:58"
+    },
+    {
+      "url": "https://tinbids.com/auction/243690/",
+      "name": "Esoterica Stonehaven 10oz aged 22 years",
+      "date_end": "2026-10-24 06:47:28"
+    },
+    {
+      "url": "https://tinbids.com/auction/243696/",
+      "name": "Cornell & Diehl 2026 Carolina Red Flake - 5 tins NR BIN $150",
+      "date_end": "2026-10-24 07:49:02"
+    },
+    {
+      "url": "https://tinbids.com/auction/243700/",
+      "name": "Esoterica Penzance 11 oz aged 22 years",
+      "date_end": "2026-10-24 08:10:53"
+    },
+    {
+      "url": "https://tinbids.com/auction/243709/",
+      "name": "Lot of 2 - 50g tin of Ravenwood Smaug’s Breath",
+      "date_end": "2026-10-24 13:05:31"
+    },
+    {
+      "url": "https://tinbids.com/auction/243704/",
+      "name": "Lot of 2 - 50g of Davidoff English Mixture - Aged for 19 Years and Counting - Sealed and Unopened",
+      "date_end": "2026-10-28 13:01:59"
+    },
+    {
+      "url": "https://tinbids.com/auction/243705/",
+      "name": "Aged for 22 Years and Counting - Sealed and Unopened - 50g Tin of Davidoff Royalty Tobacco",
+      "date_end": "2026-10-28 13:02:52"
+    },
+    {
+      "url": "https://tinbids.com/auction/243706/",
+      "name": "100g Savinelli Brunello Flake Tobacco- Jan 2023",
+      "date_end": "2026-10-28 13:03:10"
+    },
+    {
+      "url": "https://tinbids.com/auction/243707/",
+      "name": "2 oz of Cornell & Diehl Carolina Red Flake Small Batch - Out of Production",
+      "date_end": "2026-10-28 13:04:58"
+    },
+    {
+      "url": "https://tinbids.com/auction/243715/",
+      "name": "Solani Aged Burley Flake - 656 50g Pipe Tobacco",
+      "date_end": "2026-10-28 14:07:42"
+    },
+    {
+      "url": "https://tinbids.com/auction/243717/",
+      "name": "Rattray’s Sterling Flake : 50g / 1.76oz",
+      "date_end": "2026-10-28 14:08:39"
+    },
+    {
+      "url": "https://tinbids.com/auction/243718/",
+      "name": "Maestro Puccini 2oz Pipe Tobacco / Buy It Now $65",
+      "date_end": "2026-10-28 14:10:00"
+    },
+    {
+      "url": "https://tinbids.com/auction/243719/",
+      "name": "Samuel Gawith Bothy Flake 50g Pipe Tobacco",
+      "date_end": "2026-10-28 14:10:32"
+    },
+    {
+      "url": "https://tinbids.com/auction/243726/",
+      "name": "New Unopened Cornell & Diehl Summer 2026 Pirate Kake 2026 2oz Tin",
+      "date_end": "2026-10-28 14:13:27"
+    },
+    {
+      "url": "https://tinbids.com/auction/243727/",
+      "name": "2026 Cornell & Diehl Jolly Old Saint Nicholas 2oz Unopened Tin",
+      "date_end": "2026-10-28 14:14:13"
+    },
+    {
+      "url": "https://tinbids.com/auction/243728/",
+      "name": "2026 Cornell & Diehl Carolina Red Flake 2oz Unopened Tin",
+      "date_end": "2026-10-28 14:14:39"
+    },
+    {
+      "url": "https://tinbids.com/auction/243729/",
+      "name": "New Unopened Cornell & Diehl 2026 Carolina Red Flake 2oz Tin",
+      "date_end": "2026-10-28 14:15:04"
+    },
+    {
+      "url": "https://tinbids.com/auction/243730/",
+      "name": "New Unopened 2026 Cornell & Diehl Sun Bear Bourbon cask 2oz Tin",
+      "date_end": "2026-10-28 14:15:27"
+    },
+    {
+      "url": "https://tinbids.com/auction/243731/",
+      "name": "New Unopened 2026 Cornell & Diehl Sun Bear Bourbon Cask 2oz Tin",
+      "date_end": "2026-10-28 14:16:13"
+    },
+    {
+      "url": "https://tinbids.com/auction/243732/",
+      "name": "New Unopened 2026 Cornell & Diehl Midnight Orchard 2oz Tin",
+      "date_end": "2026-10-28 14:16:35"
+    },
+    {
+      "url": "https://tinbids.com/auction/243733/",
+      "name": "Salty Dogs : A VaPer 50g",
+      "date_end": "2026-10-28 14:36:04"
+    },
+    {
+      "url": "https://tinbids.com/auction/243708/",
+      "name": "Lot of 2 - 2 oz Tins of Cornell & Diehl Carolina Red Flake Small Batch - Sold Out Everywhere",
+      "date_end": "2026-10-31 13:05:15"
     }
   ],
   "scrape_history": [
@@ -143116,6 +143304,13 @@
       "added": 11,
       "price_changed": 7,
       "total": 4670
+    },
+    {
+      "date": "2026-10-21T16:00:27.718535+00:00",
+      "found": 6,
+      "added": 4,
+      "price_changed": 2,
+      "total": 4674
     }
   ]
 }
