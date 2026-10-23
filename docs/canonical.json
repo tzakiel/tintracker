@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-23T15:14:16.255620+00:00",
+  "generated": "2026-10-23T16:03:40.581768+00:00",
   "stats": {
-    "total_listings": 9308,
+    "total_listings": 9311,
     "excluded_multipacks": 2505,
     "total_tins": 1315,
     "multi_member_tins": 671,
@@ -72138,15 +72138,19 @@
             {
               "name": "McClelland Blakeney’s Best: Tawny Flake 2005 NR",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/201947/",
-              "price": "$73.00",
-              "last_updated": "2026-07-10T16:00:51.213629+00:00",
+              "url": "https://tinbids.com/auction/242010/",
+              "price": "$71.00",
+              "last_updated": "2026-10-23T16:00:25.255437+00:00",
               "first_seen": "2026-07-10T04:12:57+00:00",
               "year": "2005",
               "price_history": [
                 {
                   "price": "$73.00",
                   "date": "2026-07-10T04:12:57+00:00"
+                },
+                {
+                  "price": "$71.00",
+                  "date": "2026-10-23T16:00:25.255437+00:00"
                 }
               ]
             },
@@ -107397,6 +107401,25 @@
               ]
             },
             {
+              "name": "Cringle Flake 2023 (12 year old Virginias & 22 Year Old Perique)",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/242141/",
+              "price": "$88.88",
+              "last_updated": "2026-10-23T16:00:25.255437+00:00",
+              "first_seen": "2026-07-22T00:04:47+00:00",
+              "year": "2023",
+              "price_history": [
+                {
+                  "price": "$69.96",
+                  "date": "2026-07-22T00:04:47+00:00"
+                },
+                {
+                  "price": "$88.88",
+                  "date": "2026-10-23T16:00:25.255437+00:00"
+                }
+              ]
+            },
+            {
               "name": "Discontinued, Sutliff Cringle Flake 2023",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/233607/",
@@ -107416,21 +107439,6 @@
                 {
                   "price": "$80.00",
                   "date": "2026-09-26T04:00:29.993323+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Cringle Flake 2023 (12 year old Virginias & 22 Year Old Perique)",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/206814/",
-              "price": "$69.96",
-              "last_updated": "2026-07-22T04:00:23.846594+00:00",
-              "first_seen": "2026-07-22T00:04:47+00:00",
-              "year": "2023",
-              "price_history": [
-                {
-                  "price": "$69.96",
-                  "date": "2026-07-22T00:04:47+00:00"
                 }
               ]
             },
@@ -118306,6 +118314,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Cringle Flake 2023 (12 year old Virginias & 22 Year Old Perique)": "sutliff|cringleflake",
+    "McClelland Blakeney’s Best: Tawny Flake 2005 NR": "mcclelland|blakeneysbesttawnyflake",
     "Esoterica Dorchester": "esoterica|dorchester",
     "Esoterica Margate - 1 Tin NR BIN $100": "esoterica|margate",
     "2017 Mac Baren HH Vintage Syrian - 1 Tin NR BIN $125": "macbaren|hhvintagesyrian",
@@ -119318,7 +119328,6 @@
     "2017 McClelland Beacon - 50 grams": "mcclelland|beacon",
     "Esoterica Tobacciana Tilbury 2oz Tin": "esoterica|tilbury",
     "100g Frog Morton on the log 2018": "mcclelland|frogmorton",
-    "Cringle Flake 2023 (12 year old Virginias & 22 Year Old Perique)": "sutliff|cringleflake",
     "2021 C&D Small Batch -Sun Bear Black Locust-": "cornelldiehl|sunbearblacklocust",
     "2019 Esoterica Blackpool 8oz Bag": "esoterica|blackpool",
     "1999 McCrannies Prime 1983 Red Virginia": "mccranies|redflake",
@@ -119673,7 +119682,6 @@
     "Dunhill Standard Mixture Mild 1997 NR": "dunhill|standardmixturemild",
     "Dunhill My Mixture 965 2017 NR": "dunhill|mymixtureno965",
     "Mac Baren Dark Twist - 2016 (Aged 10 years) 3.5oz": "macbaren|darktwist",
-    "McClelland Blakeney’s Best: Tawny Flake 2005 NR": "mcclelland|blakeneysbesttawnyflake",
     "2013 Erik Stokkebye 1957 Blend 3.5oz Tin": "erikstokkebye|4thgeneration1957",
     "Sutliff 502 Medium English - 1lb NR BIN $100": "sutliff|502mediumenglish",
     "Rare Vintage McCLELLAND No. 25 Virginia 100g Sealed Tin": "mcclelland|no25",
