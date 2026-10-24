@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-23T19:16:15.360494+00:00",
+  "generated": "2026-10-24T04:04:18.751420+00:00",
   "stats": {
-    "total_listings": 9311,
-    "excluded_multipacks": 2505,
+    "total_listings": 9332,
+    "excluded_multipacks": 2514,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3564,
@@ -65788,15 +65788,19 @@
             {
               "name": "2020 MAC BAREN HH RUSTICA 3.5 oz. tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/205217/",
-              "price": "$62.00",
-              "last_updated": "2026-07-21T04:00:29.167499+00:00",
+              "url": "https://tinbids.com/auction/242197/",
+              "price": "$80.00",
+              "last_updated": "2026-10-24T04:00:23.738527+00:00",
               "first_seen": "2026-07-20T22:08:42+00:00",
               "year": "2020",
               "price_history": [
                 {
                   "price": "$62.00",
                   "date": "2026-07-20T22:08:42+00:00"
+                },
+                {
+                  "price": "$80.00",
+                  "date": "2026-10-24T04:00:23.738527+00:00"
                 }
               ]
             },
@@ -118330,6 +118334,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "2020 MAC BAREN HH RUSTICA 3.5 oz. tin": "macbaren|hhrustica",
     "Cringle Flake 2023 (12 year old Virginias & 22 Year Old Perique)": "sutliff|cringleflake",
     "McClelland Blakeney’s Best: Tawny Flake 2005 NR": "mcclelland|blakeneysbesttawnyflake",
     "Esoterica Dorchester": "esoterica|dorchester",
@@ -119387,7 +119392,6 @@
     "Esoterica 2019 Dunbar 8oz Bag": "esoterica|dunbar",
     "2019 Esoterica Margate 8oz Bag": "esoterica|margate",
     "2006 McCLELLAND BLAKENEY'S BEST TAWNY FLAKE approx. 1.5 ounces": "mcclelland|blakeneysbesttawnyflake",
-    "2020 MAC BAREN HH RUSTICA 3.5 oz. tin": "macbaren|hhrustica",
     "Cobblestone Plum Rum Limited Pressed": "cobblestone|plumrum",
     "2021 Cornell & Diehl Wintertime Reserve Alpine Lodge 2 oz Pipe Tobacco Tin - New Sealed": "cornelldiehl|wintertimereservealpinelodge",
     "RATTRAY'S JOCKS MIXTURE": "rattrays|jocksmixture",
