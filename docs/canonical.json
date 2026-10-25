@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-25T15:14:16.085418+00:00",
+  "generated": "2026-10-25T16:06:30.721943+00:00",
   "stats": {
-    "total_listings": 9370,
+    "total_listings": 9377,
     "excluded_multipacks": 2514,
     "total_tins": 1315,
     "multi_member_tins": 671,
@@ -14335,9 +14335,9 @@
             {
               "name": "Cornell & Diehl Palmetto Balkan - 1 Tin BIN $100",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/240154/",
-              "price": "$100.00",
-              "last_updated": "2026-10-16T16:00:26.212792+00:00",
+              "url": "https://tinbids.com/auction/243981/",
+              "price": "$95.00",
+              "last_updated": "2026-10-25T16:00:27.256215+00:00",
               "first_seen": "2026-06-28T13:55:26+00:00",
               "year": "",
               "price_history": [
@@ -14352,6 +14352,10 @@
                 {
                   "price": "$100.00",
                   "date": "2026-10-16T16:00:26.212792+00:00"
+                },
+                {
+                  "price": "$95.00",
+                  "date": "2026-10-25T16:00:27.256215+00:00"
                 }
               ]
             },
@@ -70577,9 +70581,9 @@
             {
               "name": "McClelland 40th Anniversary - NR BIN $225",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/237804/",
-              "price": "$220.00",
-              "last_updated": "2026-10-09T16:00:27.710606+00:00",
+              "url": "https://tinbids.com/auction/244040/",
+              "price": "$225.00",
+              "last_updated": "2026-10-25T16:00:27.256215+00:00",
               "first_seen": "2026-06-22T13:53:20.063064+00:00",
               "year": "",
               "price_history": [
@@ -70606,6 +70610,10 @@
                 {
                   "price": "$220.00",
                   "date": "2026-10-09T16:00:27.710606+00:00"
+                },
+                {
+                  "price": "$225.00",
+                  "date": "2026-10-25T16:00:27.256215+00:00"
                 }
               ]
             },
@@ -118462,6 +118470,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Cornell & Diehl Palmetto Balkan - 1 Tin BIN $100": "cornelldiehl|palmettobalkan",
+    "McClelland 40th Anniversary - NR BIN $225": "mcclelland|40thanniversary",
     "2020 MAC BAREN HH RUSTICA 3.5 oz. tin": "macbaren|hhrustica",
     "Cringle Flake 2023 (12 year old Virginias & 22 Year Old Perique)": "sutliff|cringleflake",
     "McClelland Blakeney’s Best: Tawny Flake 2005 NR": "mcclelland|blakeneysbesttawnyflake",
@@ -118470,7 +118480,6 @@
     "2017 Mac Baren HH Vintage Syrian - 1 Tin NR BIN $125": "macbaren|hhvintagesyrian",
     "Excellent Sealed 2018 Dunhill Nightcap 50g. Tin": "dunhill|nightcap",
     "McClelland, Syrian Full Balkan Reserve PCCA (2000). 50 gr sealed tin": "pcca|fullbalkanreserve",
-    "Cornell & Diehl Palmetto Balkan - 1 Tin BIN $100": "cornelldiehl|palmettobalkan",
     "2005 McClelland’s Frog Morton Across the Pond Syrian Latakia - 1 Tin NR BIN $400": "mcclelland|frogmortonacrossthepond",
     "Balkan Sobranie": "jfgermain|balkansobranie",
     "Germain's Plum Cake Mixture - 50g": "jfgermain|plumcake",
@@ -118495,7 +118504,6 @@
     "2020 SEATTLE PIPE CLUB PLUM PUDDING BOURBON BARREL AGED": "sutliff|spcplumpuddingbourbonbarrelaged",
     "Vintage HICKORY Pipe Tobacco (1998) John Middleton's - 12oz Sealed Can": "johnmiddleton|hickory",
     "Frog Morton's Cellar": "mcclelland|frogmortonscellar",
-    "McClelland 40th Anniversary - NR BIN $225": "mcclelland|40thanniversary",
     "McClelland 221B Series: Honeydew 2015 NR": "mcclelland|221bhoneydew",
     "Plum Pudding Special Reserve": "sutliff|spcplumpuddingspecialreserve",
     "Esoterica Pembroke": "esoterica|pembroke",
