@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-26T19:16:17.675395+00:00",
+  "generated": "2026-10-27T04:07:27.802774+00:00",
   "stats": {
-    "total_listings": 9449,
-    "excluded_multipacks": 2517,
+    "total_listings": 9462,
+    "excluded_multipacks": 2519,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3564,
@@ -30628,9 +30628,9 @@
             {
               "name": "Esoterica - Margate - 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/232566/",
-              "price": "$100.00",
-              "last_updated": "2026-09-25T04:00:24.606726+00:00",
+              "url": "https://tinbids.com/auction/243152/",
+              "price": "$94.00",
+              "last_updated": "2026-10-27T04:00:25.336298+00:00",
               "first_seen": "2026-08-15T12:23:01+00:00",
               "year": "",
               "price_history": [
@@ -30645,6 +30645,10 @@
                 {
                   "price": "$100.00",
                   "date": "2026-09-25T04:00:24.606726+00:00"
+                },
+                {
+                  "price": "$94.00",
+                  "date": "2026-10-27T04:00:25.336298+00:00"
                 }
               ]
             },
@@ -55791,6 +55795,25 @@
           "quantity": "50g",
           "members": [
             {
+              "name": "Germain's Royal Jersey Dark Cavendish - 50g",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/243135/",
+              "price": "$75.00",
+              "last_updated": "2026-10-27T04:00:25.336298+00:00",
+              "first_seen": "2026-06-27T17:33:03+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$80.00",
+                  "date": "2026-06-27T17:33:03+00:00"
+                },
+                {
+                  "price": "$75.00",
+                  "date": "2026-10-27T04:00:25.336298+00:00"
+                }
+              ]
+            },
+            {
               "name": "Germain’s Royal Jersey Dark Cavendish 50 grams",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/197898/",
@@ -55802,21 +55825,6 @@
                 {
                   "price": "$70.00",
                   "date": "2026-06-29T22:36:31+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Germain's Royal Jersey Dark Cavendish - 50g",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/197105/",
-              "price": "$80.00",
-              "last_updated": "2026-06-28T04:00:29.871882+00:00",
-              "first_seen": "2026-06-27T17:33:03+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$80.00",
-                  "date": "2026-06-27T17:33:03+00:00"
                 }
               ]
             }
@@ -103733,7 +103741,7 @@
             {
               "name": "Solani 633 Virginia Flake 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/214750/",
+              "url": "https://tinbids.com/auction/243872/",
               "price": "$50.00",
               "last_updated": "2026-08-11T04:00:27.216448+00:00",
               "first_seen": "2026-08-10T18:20:56+00:00",
@@ -118586,6 +118594,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Esoterica - Margate - 50g": "esoterica|margate",
+    "Germain's Royal Jersey Dark Cavendish - 50g": "jfgermain|royaljerseydarkcavendish",
     "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
     "Penzance 2017": "esoterica|penzance",
     "Esoterica Pembroke": "esoterica|pembroke",
@@ -118651,7 +118661,6 @@
     "Sutliff Cringle Flake 2024": "sutliff|cringleflake",
     "Discontinued, Sutliff Cringle Flake 2023": "sutliff|cringleflake",
     "Capstan Gold Navy Cut - 50g": "macbaren|capstangoldflake",
-    "Esoterica - Margate - 50g": "esoterica|margate",
     "Vintage McClelland 2016 CHRISTMAS CHEER 100g Sealed Tin": "mcclelland|christmascheer",
     "Esoterica Margate": "esoterica|margate",
     "Dunhill Ready Rubbed 2017 NR": "dunhill|readyrubbed",
@@ -120293,7 +120302,6 @@
     "Mac Baren Dark Twist 2022 - 100g": "macbaren|darktwist",
     "Mac Baren Virginia No. 1 Ready Rubbed 100g": "macbaren|virginiano1",
     "Mac Baren Plumcake Navy Blend 2022 100g": "macbaren|plumcake",
-    "Germain's Royal Jersey Dark Cavendish - 50g": "jfgermain|royaljerseydarkcavendish",
     "Cornell & Diehl - The Beast (2021)": "cornelldiehl|thebeast",
     "2020 SEATTLE PIPE CLUB GALLOPING GERTIE": "sutliff|spcgallopinggertie",
     "Cornell & Diehl - Sun Bear (2020) The Original Release": "cornelldiehl|sunbear",
