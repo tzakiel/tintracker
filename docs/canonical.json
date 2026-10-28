@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-27T19:16:20.227818+00:00",
+  "generated": "2026-10-28T04:06:46.094992+00:00",
   "stats": {
-    "total_listings": 9473,
+    "total_listings": 9503,
     "excluded_multipacks": 2520,
     "total_tins": 1315,
     "multi_member_tins": 671,
-    "listings_in_groups": 3564,
+    "listings_in_groups": 3565,
     "cross_source_tins": 508
   },
   "tins": [
@@ -75980,9 +75980,9 @@
             {
               "name": "Frog Morton",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/236817/",
-              "price": "$250.00",
-              "last_updated": "2026-10-06T04:00:33.650703+00:00",
+              "url": "https://tinbids.com/auction/243372/",
+              "price": "$202.00",
+              "last_updated": "2026-10-28T04:00:26.960310+00:00",
               "first_seen": "2026-08-21T21:52:14+00:00",
               "year": "",
               "price_history": [
@@ -76001,6 +76001,26 @@
                 {
                   "price": "$250.00",
                   "date": "2026-10-06T04:00:33.650703+00:00"
+                },
+                {
+                  "price": "$182.00",
+                  "date": "2026-10-28T04:00:26.960310+00:00"
+                },
+                {
+                  "price": "$186.00",
+                  "date": "2026-10-28T04:00:26.960310+00:00"
+                },
+                {
+                  "price": "$260.00",
+                  "date": "2026-10-28T04:00:26.960310+00:00"
+                },
+                {
+                  "price": "$182.00",
+                  "date": "2026-10-28T04:00:26.960310+00:00"
+                },
+                {
+                  "price": "$202.00",
+                  "date": "2026-10-28T04:00:26.960310+00:00"
                 }
               ]
             },
@@ -76372,9 +76392,9 @@
             {
               "name": "2005 McClelland’s Frog Morton Across the Pond Syrian Latakia - 1 Tin NR BIN $400",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/240259/",
-              "price": "$395.00",
-              "last_updated": "2026-10-16T16:00:26.212792+00:00",
+              "url": "https://tinbids.com/auction/243320/",
+              "price": "$350.00",
+              "last_updated": "2026-10-28T04:00:26.960310+00:00",
               "first_seen": "2026-08-12T12:37:11+00:00",
               "year": "2005",
               "price_history": [
@@ -76385,6 +76405,10 @@
                 {
                   "price": "$395.00",
                   "date": "2026-10-16T16:00:26.212792+00:00"
+                },
+                {
+                  "price": "$350.00",
+                  "date": "2026-10-28T04:00:26.960310+00:00"
                 }
               ]
             },
@@ -98588,6 +98612,21 @@
           "members": [
             {
               "name": "SG Grousemoor",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/245548/",
+              "price": "$11.00",
+              "last_updated": "2026-10-28T04:00:26.960310+00:00",
+              "first_seen": "2026-10-27T21:11:52+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$11.00",
+                  "date": "2026-10-27T21:11:52+00:00"
+                }
+              ]
+            },
+            {
+              "name": "SG Grousemoor",
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/misc-tins-and-sacks-4-sale.44943/unread",
               "price": "$16.00",
@@ -98648,6 +98687,7 @@
             }
           ],
           "sources": [
+            "Tinbids Auction (Sold)",
             "Treasured Smokes",
             "Speak-Easy.Club"
           ]
@@ -118666,6 +118706,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "2005 McClelland’s Frog Morton Across the Pond Syrian Latakia - 1 Tin NR BIN $400": "mcclelland|frogmortonacrossthepond",
+    "Frog Morton": "mcclelland|frogmorton",
+    "SG Grousemoor": "samuelgawith|grousemoor",
     "Esoterica - Margate - 50g": "esoterica|margate",
     "Germain's Royal Jersey Dark Cavendish - 50g": "jfgermain|royaljerseydarkcavendish",
     "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
@@ -118685,7 +118728,6 @@
     "2017 Mac Baren HH Vintage Syrian - 1 Tin NR BIN $125": "macbaren|hhvintagesyrian",
     "Excellent Sealed 2018 Dunhill Nightcap 50g. Tin": "dunhill|nightcap",
     "McClelland, Syrian Full Balkan Reserve PCCA (2000). 50 gr sealed tin": "pcca|fullbalkanreserve",
-    "2005 McClelland’s Frog Morton Across the Pond Syrian Latakia - 1 Tin NR BIN $400": "mcclelland|frogmortonacrossthepond",
     "Balkan Sobranie": "jfgermain|balkansobranie",
     "Germain's Plum Cake Mixture - 50g": "jfgermain|plumcake",
     "CAO Flavours 4-Cherrybomb": "cao|cherrybomb",
@@ -118709,7 +118751,6 @@
     "Frog Morton's Cellar": "mcclelland|frogmortonscellar",
     "McClelland 221B Series: Honeydew 2015 NR": "mcclelland|221bhoneydew",
     "Plum Pudding Special Reserve": "sutliff|spcplumpuddingspecialreserve",
-    "Frog Morton": "mcclelland|frogmorton",
     "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
     "Escudo Navy De Luxe 50g Tin (2011)": "stg|escudonavydeluxe",
     "1980's Dunhill Standard Mixture Medium 100 Gram Tin": "dunhill|standardmixturemedium",
@@ -120978,7 +121019,6 @@
     "SG Cob Plug (TV Tray)": "gawithhoggarthco|cobplug",
     "SG Grousemoor Plug (TV Tray)": "samuelgawith|grousemoorplug",
     "SG BS Flake": "samuelgawith|brownsugarflake",
-    "SG Grousemoor": "samuelgawith|grousemoor",
     "SG KC Flake": "samuelgawith|kendalcreamflake",
     "SG 1972": "samuelgawith|1792flake",
     "SG Black Forest": "samuelgawith|blackforest",
