@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-28T19:16:22.904364+00:00",
+  "generated": "2026-10-29T04:06:38.606594+00:00",
   "stats": {
-    "total_listings": 9509,
-    "excluded_multipacks": 2521,
+    "total_listings": 9525,
+    "excluded_multipacks": 2522,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3565,
@@ -14391,9 +14391,9 @@
             {
               "name": "Cornell & Diehl Palmetto Balkan - 1 Tin BIN $100",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/243981/",
-              "price": "$95.00",
-              "last_updated": "2026-10-25T16:00:27.256215+00:00",
+              "url": "https://tinbids.com/auction/245039/",
+              "price": "$100.00",
+              "last_updated": "2026-10-29T04:00:30.004433+00:00",
               "first_seen": "2026-06-28T13:55:26+00:00",
               "year": "",
               "price_history": [
@@ -14412,6 +14412,10 @@
                 {
                   "price": "$95.00",
                   "date": "2026-10-25T16:00:27.256215+00:00"
+                },
+                {
+                  "price": "$100.00",
+                  "date": "2026-10-29T04:00:30.004433+00:00"
                 }
               ]
             },
@@ -118770,6 +118774,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Cornell & Diehl Palmetto Balkan - 1 Tin BIN $100": "cornelldiehl|palmettobalkan",
     "2005 McClelland’s Frog Morton Across the Pond Syrian Latakia - 1 Tin NR BIN $400": "mcclelland|frogmortonacrossthepond",
     "Frog Morton": "mcclelland|frogmorton",
     "SG Grousemoor": "samuelgawith|grousemoor",
@@ -118782,7 +118787,6 @@
     "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
     "Very Nice Sealed 2021 Hearth & Home Black House 50g. Tin": "hearthhome|blackhouse",
     "2014 Dunhill De Luxe Navy Rolls": "dunhill|deluxenavyrolls",
-    "Cornell & Diehl Palmetto Balkan - 1 Tin BIN $100": "cornelldiehl|palmettobalkan",
     "McClelland 40th Anniversary - NR BIN $225": "mcclelland|40thanniversary",
     "2020 MAC BAREN HH RUSTICA 3.5 oz. tin": "macbaren|hhrustica",
     "Cringle Flake 2023 (12 year old Virginias & 22 Year Old Perique)": "sutliff|cringleflake",
