@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-31T16:06:49.035931+00:00",
+  "generated": "2026-10-31T17:14:32.678591+00:00",
   "stats": {
-    "total_listings": 9619,
-    "excluded_multipacks": 2540,
+    "total_listings": 9689,
+    "excluded_multipacks": 2547,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3565,
@@ -6848,15 +6848,19 @@
             {
               "name": "Charatan’s Original Light Aromatic – 1970’s era & Made by Dunhill",
               "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/charatans-original-light-aromatic-1970s-era-made-by-dunhill-2/",
-              "price": "$85.00",
-              "last_updated": "2026-06-21T03:15:02.754777+00:00",
+              "url": "https://www.pipestud.com/product/tobacco-tins/charatans-original-light-aromatic-1970s-era-made-by-dunhill/",
+              "price": "$75.00",
+              "last_updated": "2026-10-31T17:13:39.398675+00:00",
               "first_seen": "2026-06-20T16:28:47.877864+00:00",
               "year": "1970",
               "price_history": [
                 {
                   "price": "$85.00",
                   "date": "2026-06-20T16:28:47.877864+00:00"
+                },
+                {
+                  "price": "$75.00",
+                  "date": "2026-10-31T17:13:39.398675+00:00"
                 }
               ]
             }
@@ -24776,7 +24780,7 @@
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/dunhill-nightcap-50g-tin-year-2014/",
               "price": "$50.00",
-              "last_updated": "2026-06-21T03:15:02.754777+00:00",
+              "last_updated": "2026-06-20T16:28:47.877864+00:00",
               "first_seen": "2026-06-20T16:28:47.877864+00:00",
               "year": "2014",
               "price_history": [
@@ -70652,8 +70656,8 @@
               "name": "McClelland’s 3 Oaks Syr. Latakia 50g tins – Year 2016",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-3-oaks-syr-latakia-50g-tins-year-2016-2/",
-              "price": "$90.00",
-              "last_updated": "2026-09-26T17:13:39.192166+00:00",
+              "price": "$85.00",
+              "last_updated": "2026-10-31T17:13:39.398675+00:00",
               "first_seen": "2026-07-11T17:13:37.793839+00:00",
               "year": "2016",
               "price_history": [
@@ -70664,6 +70668,10 @@
                 {
                   "price": "$90.00",
                   "date": "2026-09-26T17:13:39.192166+00:00"
+                },
+                {
+                  "price": "$85.00",
+                  "date": "2026-10-31T17:13:39.398675+00:00"
                 }
               ]
             },
@@ -111824,7 +111832,7 @@
             {
               "name": "Seattle Pipe Club Plum Pudding Special Reserve 4oz tin – Year 2018",
               "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/seattle-pipe-club-plum-pudding-special-reserve-4oz-tin-year-2018/",
+              "url": "https://www.pipestud.com/product/tobacco-tins/seattle-pipe-club-plum-pudding-special-reserve-4oz-tin-year-2018-2/",
               "price": "$50.00",
               "last_updated": "2026-08-15T17:13:34.289812+00:00",
               "first_seen": "2026-08-15T17:13:34.289812+00:00",
@@ -117951,7 +117959,7 @@
             {
               "name": "Wessex Golden Virginia Flake 50g tins – Year 2013",
               "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/wessex-golden-virginia-flake-50g-tins-year-2013-2/",
+              "url": "https://www.pipestud.com/product/tobacco-tins/wessex-golden-virginia-flake-50g-tins-year-2013-3/",
               "price": "$45.00",
               "last_updated": "2026-09-26T17:13:39.192166+00:00",
               "first_seen": "2026-08-01T17:13:47.061174+00:00",
@@ -118375,6 +118383,8 @@
     }
   ],
   "name_to_id": {
+    "McClelland’s 3 Oaks Syr. Latakia 50g tins – Year 2016": "mcclelland|3oakssyrian",
+    "Charatan’s Original Light Aromatic – 1970’s era & Made by Dunhill": "charatans|originallightaromatic",
     "Mac Baren Syr. Latakia Solent Mixture 3-1/2oz tin – Year 2005": "macbaren|solentmixture",
     "McClelland’s 40th Anniversary 100g tins – Year 2017": "mcclelland|40thanniversary",
     "McClelland’s Christmas Cheer 100g tins – Year 2011": "mcclelland|christmascheer",
@@ -118387,7 +118397,6 @@
     "Wessex Golden Virginia Flake 50g tins – Year 2013": "wessex|goldenvirginiaflake",
     "Mac Baren Limited Edition Latakia Rolls 3-1/2oz tins – Year 2020": "macbaren|latakiarolls",
     "McClelland’s Christmas Cheer 100g tin – Year 2007": "mcclelland|christmascheer",
-    "McClelland’s 3 Oaks Syr. Latakia 50g tins – Year 2016": "mcclelland|3oakssyrian",
     "Solani Aged Burley Flake 50g tins – Year 2014": "solani|agedburleyflake656",
     "G.L Pease Limited Edition Stonehenge Flake 2oz tin – Year 2017": "glpease|stonehengeflake",
     "Samuel Gawith Special Edition Squadron Leader W/ Perique 50g tins – Year 2015": "samuelgawith|squadronleaderwithperique",
@@ -118910,7 +118919,6 @@
     "Dunhill Elizabethan Mixture 50g tin – Year 2014": "dunhill|elizabethanmixture",
     "Dunhill Murray’s era Durbar 50g tin – Year 2014": "dunhill|durbar",
     "Dunhill My Mixture 965 in a 50g tin – Year 2014": "dunhill|mymixtureno965",
-    "Dunhill Nightcap 50g tin – Year 2014": "dunhill|nightcap",
     "Dunhill Baby’s Bottom 50g tin – First Year 2015 Reintroduction": "dunhill|babysbottom",
     "Golden Oldie Alert! Skandinavik Regular 6oz tin – 1980s era": "skandinavik|regular",
     "McClelland’s Best of Show 50g tins – Year 2015": "mcclelland|bestofshow",
@@ -118942,10 +118950,10 @@
     "Van Rossem’s Schippers Tabak 3-1/2oz Dented tin – 1970’s – 1980’s era (Lot #2)": "vanrossem|schipperstabak",
     "Bell’s Original W.D & H.O. Wills Scotland Made Three Nuns – 100g tin – 1980’s era": "bells|threenuns",
     "McClelland’s Limited Edition Uncle Ed’s Scottish Mixture 50g tin – Year 1997": "mcclelland|uncleedsscottishmixture",
-    "Charatan’s Original Light Aromatic – 1970’s era & Made by Dunhill": "charatans|originallightaromatic",
     "Samuel Gawith Commonwealth 50g tins – Year 2013": "samuelgawith|commonwealthmixture",
     "Mac Baren Dark Twist Roll Cake One Pound tins – Year 2009": "macbaren|darktwistrollcake",
     "Mac Baren Dark Twist Roll Cake 100g tins – Year 2009": "macbaren|darktwistrollcake",
+    "Dunhill Nightcap 50g tin – Year 2014": "dunhill|nightcap",
     "McClelland’s Christmas Cheer 100g tins – Year 2015": "mcclelland|christmascheer",
     "Wessex Curley Cut Virginia & Perique 50g tin – Years 2012": "wessex|curlycutvirginiaperique",
     "McClelland’s Christmas Cheer 100g tin – Year 2017": "mcclelland|christmascheer",
