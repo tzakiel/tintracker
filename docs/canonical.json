@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-30T19:16:15.257145+00:00",
+  "generated": "2026-10-31T04:06:45.057712+00:00",
   "stats": {
-    "total_listings": 9563,
-    "excluded_multipacks": 2535,
+    "total_listings": 9609,
+    "excluded_multipacks": 2540,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3565,
@@ -105269,9 +105269,9 @@
             {
               "name": "Escudo Navy De Luxe 50g Tin (2011)",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/237646/",
-              "price": "$105.00",
-              "last_updated": "2026-10-05T04:00:24.801108+00:00",
+              "url": "https://tinbids.com/auction/246538/",
+              "price": "$115.00",
+              "last_updated": "2026-10-31T04:00:25.024856+00:00",
               "first_seen": "2026-07-19T20:51:31+00:00",
               "year": "2011",
               "price_history": [
@@ -105282,6 +105282,10 @@
                 {
                   "price": "$105.00",
                   "date": "2026-10-05T04:00:24.801108+00:00"
+                },
+                {
+                  "price": "$115.00",
+                  "date": "2026-10-31T04:00:25.024856+00:00"
                 }
               ]
             },
@@ -107604,24 +107608,28 @@
             {
               "name": "Sutliff, Cringle Flake 2019, NO RESERVE",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/214382/",
-              "price": "$80.00",
-              "last_updated": "2026-08-10T04:00:26.623315+00:00",
+              "url": "https://tinbids.com/auction/245217/",
+              "price": "$100.00",
+              "last_updated": "2026-10-31T04:00:25.024856+00:00",
               "first_seen": "2026-08-09T19:15:57+00:00",
               "year": "2019",
               "price_history": [
                 {
                   "price": "$80.00",
                   "date": "2026-08-09T19:15:57+00:00"
+                },
+                {
+                  "price": "$100.00",
+                  "date": "2026-10-31T04:00:25.024856+00:00"
                 }
               ]
             },
             {
               "name": "Sutliff Cringle Flake 2020 (No Reserve)",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/233604/",
-              "price": "$50.00",
-              "last_updated": "2026-08-23T04:00:21.633690+00:00",
+              "url": "https://tinbids.com/auction/245198/",
+              "price": "$60.00",
+              "last_updated": "2026-10-31T04:00:25.024856+00:00",
               "first_seen": "2026-07-03T22:49:21+00:00",
               "year": "2020",
               "price_history": [
@@ -107632,6 +107640,10 @@
                 {
                   "price": "$50.00",
                   "date": "2026-08-23T04:00:21.633690+00:00"
+                },
+                {
+                  "price": "$60.00",
+                  "date": "2026-10-31T04:00:25.024856+00:00"
                 }
               ]
             },
@@ -118902,6 +118914,9 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Escudo Navy De Luxe 50g Tin (2011)": "stg|escudonavydeluxe",
+    "Sutliff Cringle Flake 2020 (No Reserve)": "sutliff|cringleflake",
+    "Sutliff, Cringle Flake 2019, NO RESERVE": "sutliff|cringleflake",
     "Cornell & Diehl Palmetto Balkan - 1 Tin BIN $100": "cornelldiehl|palmettobalkan",
     "2005 McClelland’s Frog Morton Across the Pond Syrian Latakia - 1 Tin NR BIN $400": "mcclelland|frogmortonacrossthepond",
     "Frog Morton": "mcclelland|frogmorton",
@@ -118948,7 +118963,6 @@
     "McClelland 221B Series: Honeydew 2015 NR": "mcclelland|221bhoneydew",
     "Plum Pudding Special Reserve": "sutliff|spcplumpuddingspecialreserve",
     "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
-    "Escudo Navy De Luxe 50g Tin (2011)": "stg|escudonavydeluxe",
     "1980's Dunhill Standard Mixture Medium 100 Gram Tin": "dunhill|standardmixturemedium",
     "McCLELLAND BALKAN BLUE": "mcclelland|balkanblue",
     "Krumble Kake, Smoker’s Haven by J.F. Germain, 8 oz sealed Mylar bag (2004)": "smokershaven|krumblekake",
@@ -119055,7 +119069,6 @@
     "ORLIK GOLDEN SLICED from 2011 - AGED FOR 15 YEARS": "orlik|goldensliced",
     "Maestro Puccini - Limited Edition - Kentucky Fire Cured": "toscano|maestropuccini",
     "Very Nice Sealed 2019 Schurch Onyx 50g. Tin": "schrch|onyx128",
-    "Sutliff Cringle Flake 2020 (No Reserve)": "sutliff|cringleflake",
     "Very Nice Sealed 2016 Orlik Racing Green 50g. Tin": "orlik|racinggreen",
     "VINTAGE and RARE sealed Lambert & Butler's Waverley Mixture 2oz - NR": "lambertbutler|waverleymixture",
     "VINTAGE and RARE sealed 14oz can of Half and Half": "halfandhalf|halfandhalf",
@@ -119423,7 +119436,6 @@
     "(2025) Cornell & Diehl (Smoking Pipes 25th Anniversary) - Reserve XXV Dawn (Small Batch)": "cornelldiehl|xxvdawn",
     "McClelland's 221b Series ARCADIA 2003 50g": "mcclelland|221barcadia",
     "McClelland's Oriental Mixture No. 8 1999 50g": "mcclelland|orientalmixtureno8",
-    "Sutliff, Cringle Flake 2019, NO RESERVE": "sutliff|cringleflake",
     "50g Lane Limited 125th Anniversary From 2015": "lanelimited|125thanniversary",
     "50g Lane Limited Crown Achievement From 2015": "lanelimited|crownachievement",
     "Sutliff Crumble Kake Va Perique (Discontinued) Excellent VaPer Blend!!": "sutliff|crumblekakevirginiaperique",
