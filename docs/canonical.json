@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-31T19:16:16.264092+00:00",
+  "generated": "2026-11-01T04:06:25.573452+00:00",
   "stats": {
-    "total_listings": 9689,
-    "excluded_multipacks": 2547,
+    "total_listings": 9725,
+    "excluded_multipacks": 2550,
     "total_tins": 1315,
     "multi_member_tins": 671,
-    "listings_in_groups": 3565,
+    "listings_in_groups": 3566,
     "cross_source_tins": 508
   },
   "tins": [
@@ -16563,6 +16563,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "Sun Bear",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/244669/",
+              "price": "$67.00",
+              "last_updated": "2026-11-01T04:00:27.901359+00:00",
+              "first_seen": "2026-10-31T19:45:35+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$67.00",
+                  "date": "2026-10-31T19:45:35+00:00"
+                }
+              ]
+            },
             {
               "name": "Sun Bear",
               "source": "Speak-Easy.Club",
@@ -71767,9 +71782,9 @@
             {
               "name": "McCLELLAND BALKAN BLUE",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/236647/",
-              "price": "$108.00",
-              "last_updated": "2026-10-04T04:00:27.857782+00:00",
+              "url": "https://tinbids.com/auction/245389/",
+              "price": "$100.00",
+              "last_updated": "2026-11-01T04:00:27.901359+00:00",
               "first_seen": "2026-07-13T23:47:58+00:00",
               "year": "",
               "price_history": [
@@ -71796,6 +71811,10 @@
                 {
                   "price": "$108.00",
                   "date": "2026-10-04T04:00:27.857782+00:00"
+                },
+                {
+                  "price": "$100.00",
+                  "date": "2026-11-01T04:00:27.901359+00:00"
                 }
               ]
             },
@@ -118986,6 +119005,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "McCLELLAND BALKAN BLUE": "mcclelland|balkanblue",
+    "Sun Bear": "cornelldiehl|sunbear",
     "Escudo Navy De Luxe 50g Tin (2011)": "stg|escudonavydeluxe",
     "Sutliff Cringle Flake 2020 (No Reserve)": "sutliff|cringleflake",
     "Sutliff, Cringle Flake 2019, NO RESERVE": "sutliff|cringleflake",
@@ -119036,7 +119057,6 @@
     "Plum Pudding Special Reserve": "sutliff|spcplumpuddingspecialreserve",
     "Very Nice Sealed 2017 McClelland's 40th Anniversary 100g. Tin": "mcclelland|40thanniversary",
     "1980's Dunhill Standard Mixture Medium 100 Gram Tin": "dunhill|standardmixturemedium",
-    "McCLELLAND BALKAN BLUE": "mcclelland|balkanblue",
     "Krumble Kake, Smoker’s Haven by J.F. Germain, 8 oz sealed Mylar bag (2004)": "smokershaven|krumblekake",
     "McClelland, Dark Star, 100 gr sealed tin- 2000": "mcclelland|darkstar",
     "McClelland’s, Anniversary 1977-2002, 100 gr sealed tin- 2002": "mcclelland|25thanniversary",
@@ -121399,7 +121419,6 @@
     "key largo 50g": "glpease|keylargo",
     "Germains Balkan Sobranie": "jfgermain|balkansobranie",
     "x 2021 Cringle Flake": "sutliff|cringleflake",
-    "Sun Bear": "cornelldiehl|sunbear",
     "Christmas Cheer 2012": "mcclelland|christmascheer",
     "Presbyterian Ordained": "macbaren|presbyterianordained",
     "And so to Bed": "esoterica|andsotobed",
