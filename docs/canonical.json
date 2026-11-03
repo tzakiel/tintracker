@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-03T16:14:17.525749+00:00",
+  "generated": "2026-11-03T17:07:32.014315+00:00",
   "stats": {
-    "total_listings": 9824,
-    "excluded_multipacks": 2566,
+    "total_listings": 9836,
+    "excluded_multipacks": 2567,
     "total_tins": 1315,
     "multi_member_tins": 671,
-    "listings_in_groups": 3566,
+    "listings_in_groups": 3567,
     "cross_source_tins": 508
   },
   "tins": [
@@ -9316,6 +9316,21 @@
         {
           "quantity": "",
           "members": [
+            {
+              "name": "Carolina Red Flake",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/245960/",
+              "price": "$50.00",
+              "last_updated": "2026-11-03T17:00:27.386172+00:00",
+              "first_seen": "2026-11-03T13:34:09+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$50.00",
+                  "date": "2026-11-03T13:34:09+00:00"
+                }
+              ]
+            },
             {
               "name": "Carolina Red Flake",
               "source": "Speak-Easy.Club",
@@ -92974,7 +92989,7 @@
             {
               "name": "Ravenwood - Frog Morton's Chalet - 50g",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/226773/",
+              "url": "https://tinbids.com/auction/245952/",
               "price": "$50.00",
               "last_updated": "2026-09-10T16:00:22.280094+00:00",
               "first_seen": "2026-07-13T20:05:21+00:00",
@@ -119197,6 +119212,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Carolina Red Flake": "cornelldiehl|carolinaredflake",
     "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
     "Excellent Sealed 2019 Wellauer & Co. Latakia Mixture 50g. Tin": "wellauerco|latakiamixture",
     "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
@@ -121572,7 +121588,6 @@
     "Redburn": "cornelldiehl|redburn",
     "The Red Hunt": "warped|theredhunt",
     "We Three Kings": "cornelldiehl|wethreekings",
-    "Carolina Red Flake": "cornelldiehl|carolinaredflake",
     "Escudo": "stg|escudonavydeluxe",
     "Plumb Pudding": "sutliff|spcplumpudding",
     "The Virginia Cream": "glpease|thevirginiacream",
