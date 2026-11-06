@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-05T20:16:18.687990+00:00",
+  "generated": "2026-11-06T05:06:47.731452+00:00",
   "stats": {
-    "total_listings": 9915,
-    "excluded_multipacks": 2582,
+    "total_listings": 9932,
+    "excluded_multipacks": 2583,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3567,
@@ -13312,9 +13312,9 @@
             {
               "name": "Midnight Orchard",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/229449/",
-              "price": "$54.99",
-              "last_updated": "2026-09-16T04:00:25.055800+00:00",
+              "url": "https://tinbids.com/auction/247788/",
+              "price": "$30.00",
+              "last_updated": "2026-11-06T05:00:28.205229+00:00",
               "first_seen": "2026-07-12T19:21:54+00:00",
               "year": "",
               "price_history": [
@@ -13329,6 +13329,10 @@
                 {
                   "price": "$54.99",
                   "date": "2026-09-16T04:00:25.055800+00:00"
+                },
+                {
+                  "price": "$30.00",
+                  "date": "2026-11-06T05:00:28.205229+00:00"
                 }
               ]
             },
@@ -119308,6 +119312,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Midnight Orchard": "cornelldiehl|midnightorchard",
     "Carolina Red Flake": "cornelldiehl|carolinaredflake",
     "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
     "Excellent Sealed 2019 Wellauer & Co. Latakia Mixture 50g. Tin": "wellauerco|latakiamixture",
@@ -119396,7 +119401,6 @@
     "Ravenwood - Smaug's Breath - 50g": "ravenwood|smaugsbreath",
     "Peterson 6-Irish Cask": "peterson|irishcask",
     "Peter Stokkebye-Luxury Navy Flake": "peterstokkebye|luxurynavyflake",
-    "Midnight Orchard": "cornelldiehl|midnightorchard",
     "2020 Esoterica Cardiff - 8 oz bag": "esoterica|cardiff",
     "Fox Dorisco Smoking English Mixture Sealed 50g Pipe Tobacco Tin": "jamesjfox|doriscomixture",
     "2oz C&D's (Discontinued) Ridin' The Raid From 2013": "cornelldiehl|ridintheraid",
