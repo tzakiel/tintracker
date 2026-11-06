@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-06T07:38:29.961329+00:00",
+  "generated": "2026-11-06T17:08:17.711680+00:00",
   "stats": {
-    "total_listings": 9932,
-    "excluded_multipacks": 2583,
+    "total_listings": 9954,
+    "excluded_multipacks": 2587,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3567,
@@ -33401,6 +33401,25 @@
           "quantity": "",
           "members": [
             {
+              "name": "Esoterica Pembroke - 1 Tin NR BIN $100",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/248811/",
+              "price": "$100.00",
+              "last_updated": "2026-11-06T17:00:25.974510+00:00",
+              "first_seen": "2026-06-25T12:35:31+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$95.00",
+                  "date": "2026-06-25T12:35:31+00:00"
+                },
+                {
+                  "price": "$100.00",
+                  "date": "2026-11-06T17:00:25.974510+00:00"
+                }
+              ]
+            },
+            {
               "name": "Esoterica Pembroke",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/241990/",
@@ -33488,21 +33507,6 @@
                 {
                   "price": "$90.00",
                   "date": "2026-08-02T22:41:04+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Esoterica Pembroke - 1 Tin NR BIN $100",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/242796/",
-              "price": "$95.00",
-              "last_updated": "2026-06-25T16:00:26.745346+00:00",
-              "first_seen": "2026-06-25T12:35:31+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$95.00",
-                  "date": "2026-06-25T12:35:31+00:00"
                 }
               ]
             },
@@ -119312,6 +119316,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Esoterica Pembroke - 1 Tin NR BIN $100": "esoterica|pembroke",
     "Midnight Orchard": "cornelldiehl|midnightorchard",
     "Carolina Red Flake": "cornelldiehl|carolinaredflake",
     "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
@@ -121109,7 +121114,6 @@
     "Smoker's Haven Our Best Blend OBB 2018 '18 - 76.5g": "smokershaven|ourbestblend",
     "Orlik Dark Strong Kentucky 2020 -101.5 grams": "orlik|darkstrongkentucky",
     "Smoker's Haven Cognac Blend 2018 - 61.6 grams": "smokershaven|cognacblend",
-    "Esoterica Pembroke - 1 Tin NR BIN $100": "esoterica|pembroke",
     "1995 McClelland's Butera Latakia No.1 -  NR BIN $110": "butera|latakiano1",
     "Samuel Gawith St. James Flake": "samuelgawith|stjamesflake",
     "Esoterica Dorchester 8oz Bag & 2oz Tin 2018": "esoterica|dorchester",
