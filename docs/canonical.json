@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-07T20:16:15.979430+00:00",
+  "generated": "2026-11-08T05:06:43.028192+00:00",
   "stats": {
-    "total_listings": 10037,
-    "excluded_multipacks": 2595,
+    "total_listings": 10083,
+    "excluded_multipacks": 2604,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3567,
@@ -58369,9 +58369,9 @@
             {
               "name": "Vintage HICKORY Pipe Tobacco (1998) John Middleton's - 12oz Sealed Can",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/238096/",
-              "price": "$68.00",
-              "last_updated": "2026-10-11T04:00:26.157125+00:00",
+              "url": "https://tinbids.com/auction/248696/",
+              "price": "$79.00",
+              "last_updated": "2026-11-08T05:00:23.676576+00:00",
               "first_seen": "2026-07-16T02:39:55+00:00",
               "year": "1998",
               "price_history": [
@@ -58382,6 +58382,10 @@
                 {
                   "price": "$68.00",
                   "date": "2026-10-11T04:00:26.157125+00:00"
+                },
+                {
+                  "price": "$79.00",
+                  "date": "2026-11-08T05:00:23.676576+00:00"
                 }
               ]
             }
@@ -119364,6 +119368,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Vintage HICKORY Pipe Tobacco (1998) John Middleton's - 12oz Sealed Can": "johnmiddleton|hickory",
     "McClelland Christmas Cheer": "mcclelland|christmascheer",
     "McClelland Balkan Blue": "mcclelland|balkanblue",
     "Esoterica Pembroke - 1 Tin NR BIN $100": "esoterica|pembroke",
@@ -119415,7 +119420,6 @@
     "Dunhill Standard Mixture": "dunhill|standardmixture",
     "MIXTURE No. 79 CHERRY BOURBON FLAVOR Smoking Tobacco (1970s?) 1.5 OZ. Sealed Box": "sutliff|mixtureno79",
     "2020 SEATTLE PIPE CLUB PLUM PUDDING BOURBON BARREL AGED": "sutliff|spcplumpuddingbourbonbarrelaged",
-    "Vintage HICKORY Pipe Tobacco (1998) John Middleton's - 12oz Sealed Can": "johnmiddleton|hickory",
     "Frog Morton's Cellar": "mcclelland|frogmortonscellar",
     "McClelland 221B Series: Honeydew 2015 NR": "mcclelland|221bhoneydew",
     "Plum Pudding Special Reserve": "sutliff|spcplumpuddingspecialreserve",
