@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-08T20:16:14.824103+00:00",
+  "generated": "2026-11-09T05:06:08.884418+00:00",
   "stats": {
-    "total_listings": 10102,
-    "excluded_multipacks": 2607,
+    "total_listings": 10132,
+    "excluded_multipacks": 2610,
     "total_tins": 1315,
     "multi_member_tins": 671,
     "listings_in_groups": 3567,
@@ -22352,9 +22352,9 @@
             {
               "name": "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/246899/",
-              "price": "$57.00",
-              "last_updated": "2026-11-03T05:00:37.350494+00:00",
+              "url": "https://tinbids.com/auction/249000/",
+              "price": "$67.00",
+              "last_updated": "2026-11-09T05:00:23.942517+00:00",
               "first_seen": "2026-06-22T13:53:20.063064+00:00",
               "year": "2018",
               "price_history": [
@@ -22389,6 +22389,10 @@
                 {
                   "price": "$57.00",
                   "date": "2026-11-03T05:00:37.350494+00:00"
+                },
+                {
+                  "price": "$67.00",
+                  "date": "2026-11-09T05:00:23.942517+00:00"
                 }
               ]
             },
@@ -51452,15 +51456,19 @@
             {
               "name": "Very Nice Sealed 2012 Hearth & Home International Pipe Smoking Day 2012 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/206187/",
-              "price": "$19.99",
-              "last_updated": "2026-06-22T13:53:20.063064+00:00",
+              "url": "https://tinbids.com/auction/248987/",
+              "price": "$28.00",
+              "last_updated": "2026-11-09T05:00:23.942517+00:00",
               "first_seen": "2026-06-22T13:53:20.063064+00:00",
               "year": "2012",
               "price_history": [
                 {
                   "price": "$19.99",
                   "date": "2026-06-22T13:53:20.063064+00:00"
+                },
+                {
+                  "price": "$28.00",
+                  "date": "2026-11-09T05:00:23.942517+00:00"
                 }
               ]
             }
@@ -119384,6 +119392,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
+    "Very Nice Sealed 2012 Hearth & Home International Pipe Smoking Day 2012 50g. Tin": "hearthhome|internationalpipesmokingday",
     "Vintage HICKORY Pipe Tobacco (1998) John Middleton's - 12oz Sealed Can": "johnmiddleton|hickory",
     "McClelland Christmas Cheer": "mcclelland|christmascheer",
     "McClelland Balkan Blue": "mcclelland|balkanblue",
@@ -119392,7 +119402,6 @@
     "Carolina Red Flake": "cornelldiehl|carolinaredflake",
     "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
     "Excellent Sealed 2019 Wellauer & Co. Latakia Mixture 50g. Tin": "wellauerco|latakiamixture",
-    "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
     "Excellent Sealed 2018 Dunhill Nightcap 50g. Tin": "dunhill|nightcap",
     "McCLELLAND BALKAN BLUE": "mcclelland|balkanblue",
     "Sun Bear": "cornelldiehl|sunbear",
@@ -121260,7 +121269,6 @@
     "Excellent Sealed 2005 Captain Earle's Pressed Ten Russians 2oz. Tin": "cornelldiehl|tenrussians",
     "Excellent Sealed 2005 Esoterica Penzance 8oz. Pack": "esoterica|penzance",
     "Excellent Sealed 2011 Samuel Gawith Full Virginia Flake 50g. Tin": "samuelgawith|fullvirginiaflake",
-    "Very Nice Sealed 2012 Hearth & Home International Pipe Smoking Day 2012 50g. Tin": "hearthhome|internationalpipesmokingday",
     "Very Nice Sealed 2013 Butera Pelican English-Oriental 2oz. Tin": "butera|pelican",
     "Vintage  aromatic !  Peterson Special Reserve 2008 100grams.": "peterson|specialreserve",
     "War Horse Green": "sutliff|warhorsegreen",
