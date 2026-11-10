@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-10T07:38:37.656565+00:00",
+  "generated": "2026-11-10T17:07:10.803266+00:00",
   "stats": {
-    "total_listings": 10167,
+    "total_listings": 10169,
     "excluded_multipacks": 2619,
     "total_tins": 1315,
     "multi_member_tins": 671,
@@ -107161,9 +107161,9 @@
             {
               "name": "Bengal Slices",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/238566/",
-              "price": "$29.99",
-              "last_updated": "2026-10-13T04:00:26.780162+00:00",
+              "url": "https://tinbids.com/auction/248720/",
+              "price": "$39.99",
+              "last_updated": "2026-11-10T17:01:10.376943+00:00",
               "first_seen": "2026-08-29T15:16:57+00:00",
               "year": "",
               "price_history": [
@@ -107190,6 +107190,10 @@
                 {
                   "price": "$29.99",
                   "date": "2026-10-13T04:00:26.780162+00:00"
+                },
+                {
+                  "price": "$39.99",
+                  "date": "2026-11-10T17:01:10.376943+00:00"
                 }
               ]
             },
@@ -119425,6 +119429,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Bengal Slices": "sutliff|bengalslices",
     "Birds of a Feather Anomalous": "sutliff|birdsofafeatheranomalous",
     "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
     "Very Nice Sealed 2012 Hearth & Home International Pipe Smoking Day 2012 50g. Tin": "hearthhome|internationalpipesmokingday",
@@ -119468,7 +119473,6 @@
     "Esoterica Margate 2oz Tin Released 2025": "esoterica|margate",
     "Esoterica Pembroke 2oz Tin 2025 Release": "esoterica|pembroke",
     "Esoterica Dunbar 8oz Bag 2025 Release": "esoterica|dunbar",
-    "Bengal Slices": "sutliff|bengalslices",
     "Excellent Sealed 2023 Peter Heinrichs Dark Strong 100g. Tin": "peterheinrichs|darkstrongflake",
     "Excellent Sealed 2016 Our Best Blend by Smokers Haven 2oz. Tin": "smokershaven|ourbestblend",
     "Excellent Sealed Sutliff Cringle Flake Holiday Edition 2022 Tobacco Tin": "sutliff|cringleflake",
