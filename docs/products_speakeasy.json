@@ -1,6 +1,21 @@
 {
   "products": [
     {
+      "name": "Weird, I know, but I've been cleaning out some closets and I found two pairs of brand new, never worn Keen footwear.  Both are men's size 12",
+      "price": "$60",
+      "url": "https://speak-easy.club/threads/anyone-need-some-keen-shoes-sandals.45505/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-11-09T19:22:17-05:00",
+      "last_updated": "2026-11-10T07:38:15.299746+00:00",
+      "price_history": [
+        {
+          "price": "$60",
+          "date": "2026-11-09T19:22:17-05:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
       "name": "Yoshi's Noob kit 3.0",
       "price": "$55",
       "url": "https://speak-easy.club/threads/noob-kit-3-0-55-shipped.45492/unread",
@@ -55567,8 +55582,23 @@
       "tag": "WTS"
     }
   ],
-  "last_scraped": "2026-11-09T07:38:19.662695+00:00",
+  "last_scraped": "2026-11-10T07:38:15.299746+00:00",
   "latest_scrape": [
+    {
+      "name": "Weird, I know, but I've been cleaning out some closets and I found two pairs of brand new, never worn Keen footwear.  Both are men's size 12",
+      "price": "$60",
+      "url": "https://speak-easy.club/threads/anyone-need-some-keen-shoes-sandals.45505/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-11-09T19:22:17-05:00",
+      "last_updated": "2026-11-10T07:38:15.299746+00:00",
+      "price_history": [
+        {
+          "price": "$60",
+          "date": "2026-11-09T19:22:17-05:00"
+        }
+      ],
+      "tag": "WTS"
+    },
     {
       "name": "Purchased in the Altinok group buy. I think I've smoked it 3 times? I paid",
       "price": "$220",
@@ -55580,36 +55610,6 @@
         {
           "price": "$220",
           "date": "2026-10-24T18:45:20-04:00"
-        }
-      ],
-      "tag": "WTS"
-    },
-    {
-      "name": "Yoshi's Noob kit 3.0",
-      "price": "$55",
-      "url": "https://speak-easy.club/threads/noob-kit-3-0-55-shipped.45492/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-11-07T07:55:11-05:00",
-      "last_updated": "2026-11-08T07:38:14.600324+00:00",
-      "price_history": [
-        {
-          "price": "$55",
-          "date": "2026-11-07T07:55:11-05:00"
-        }
-      ],
-      "tag": "WTS"
-    },
-    {
-      "name": "I also have 1 box of **LEFTOVER** samples for",
-      "price": "$35",
-      "url": "https://speak-easy.club/threads/noob-kit-3-0-55-shipped.45492/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-11-07T07:55:11-05:00",
-      "last_updated": "2026-11-08T07:38:14.600324+00:00",
-      "price_history": [
-        {
-          "price": "$35",
-          "date": "2026-11-07T07:55:11-05:00"
         }
       ],
       "tag": "WTS"
@@ -56283,6 +56283,36 @@
         {
           "price": "$50",
           "date": "2026-09-11T16:47:46+00:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
+      "name": "Yoshi's Noob kit 3.0",
+      "price": "$55",
+      "url": "https://speak-easy.club/threads/noob-kit-3-0-55-shipped.45492/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-11-07T07:55:11-05:00",
+      "last_updated": "2026-11-08T07:38:14.600324+00:00",
+      "price_history": [
+        {
+          "price": "$55",
+          "date": "2026-11-07T07:55:11-05:00"
+        }
+      ],
+      "tag": "WTS"
+    },
+    {
+      "name": "I also have 1 box of **LEFTOVER** samples for",
+      "price": "$35",
+      "url": "https://speak-easy.club/threads/noob-kit-3-0-55-shipped.45492/unread",
+      "source": "Speak-Easy.Club",
+      "first_seen": "2026-11-07T07:55:11-05:00",
+      "last_updated": "2026-11-08T07:38:14.600324+00:00",
+      "price_history": [
+        {
+          "price": "$35",
+          "date": "2026-11-07T07:55:11-05:00"
         }
       ],
       "tag": "WTS"
@@ -57275,6 +57305,13 @@
       "added": 0,
       "price_changed": 0,
       "total": 2871
+    },
+    {
+      "date": "2026-11-10T07:38:15.299746+00:00",
+      "found": 19,
+      "added": 1,
+      "price_changed": 0,
+      "total": 2872
     }
   ],
   "thread_recheck": {
@@ -57290,7 +57327,8 @@
     "https://speak-easy.club/threads/clarin-clay-pipe.45493/unread": "2026-11-22T07:38:14.600324+00:00",
     "https://speak-easy.club/threads/2-pete-12-5s-deluxe-systems-2026-christmas-an-ebony.45480/unread": "2026-11-22T07:38:14.600324+00:00",
     "https://speak-easy.club/threads/altinok-meerschaum-pipe.45425/unread": "2026-11-23T07:38:19.662695+00:00",
-    "https://speak-easy.club/threads/toscano-toscanello-holder.45500/unread": "2026-11-23T07:38:19.662695+00:00"
+    "https://speak-easy.club/threads/toscano-toscanello-holder.45500/unread": "2026-11-23T07:38:19.662695+00:00",
+    "https://speak-easy.club/threads/anyone-need-some-keen-shoes-sandals.45505/unread": "2026-11-24T07:38:15.299746+00:00"
   },
   "thread_recheck_tags": {
     "https://speak-easy.club/threads/brigham-and-peterson.44723/unread": "WTS",
@@ -58227,6 +58265,7 @@
     "https://speak-easy.club/threads/noob-kit-3-0-55-shipped.45492/unread": "WTS",
     "https://speak-easy.club/threads/clarin-clay-pipe.45493/unread": "CLOSED",
     "https://speak-easy.club/threads/2-pete-12-5s-deluxe-systems-2026-christmas-an-ebony.45480/unread": "SOLD",
-    "https://speak-easy.club/threads/toscano-toscanello-holder.45500/unread": "CLOSED"
+    "https://speak-easy.club/threads/toscano-toscanello-holder.45500/unread": "CLOSED",
+    "https://speak-easy.club/threads/anyone-need-some-keen-shoes-sandals.45505/unread": "WTS"
   }
 }
