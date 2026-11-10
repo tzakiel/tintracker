@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-09T20:16:19.027787+00:00",
+  "generated": "2026-11-10T05:06:22.084549+00:00",
   "stats": {
-    "total_listings": 10138,
-    "excluded_multipacks": 2614,
+    "total_listings": 10166,
+    "excluded_multipacks": 2619,
     "total_tins": 1315,
     "multi_member_tins": 671,
-    "listings_in_groups": 3567,
-    "cross_source_tins": 508
+    "listings_in_groups": 3568,
+    "cross_source_tins": 509
   },
   "tins": [
     {
@@ -107342,12 +107342,28 @@
       "blend": "Birds of a Feather Anomalous",
       "display_name": "Sutliff Birds of a Feather Anomalous",
       "sources": [
+        "Tinbids Auction (Sold)",
         "Speak-Easy.Club"
       ],
       "sizes": [
         {
           "quantity": "",
           "members": [
+            {
+              "name": "Birds of a Feather Anomalous",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/249525/",
+              "price": "$40.00",
+              "last_updated": "2026-11-10T05:00:25.164445+00:00",
+              "first_seen": "2026-11-10T02:16:44+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$40.00",
+                  "date": "2026-11-10T02:16:44+00:00"
+                }
+              ]
+            },
             {
               "name": "Per Jensen Birds of a Feather Anomalous",
               "source": "Speak-Easy.Club",
@@ -107380,12 +107396,13 @@
             }
           ],
           "sources": [
+            "Tinbids Auction (Sold)",
             "Speak-Easy.Club"
           ]
         }
       ],
       "years": [],
-      "source": "Speak-Easy.Club"
+      "source": "Multiple sources"
     },
     {
       "id": "sutliff|birdsofafeatheruno",
@@ -119408,6 +119425,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Birds of a Feather Anomalous": "sutliff|birdsofafeatheranomalous",
     "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
     "Very Nice Sealed 2012 Hearth & Home International Pipe Smoking Day 2012 50g. Tin": "hearthhome|internationalpipesmokingday",
     "Vintage HICKORY Pipe Tobacco (1998) John Middleton's - 12oz Sealed Can": "johnmiddleton|hickory",
@@ -122028,7 +122046,6 @@
     "Sutliff Ready Rubbed Match": "sutliff|matchreadyrubbed",
     "WC Simply Orange": "watchcity|simplyorangevirginia",
     "Mallard with Perique": "dantobacco|themallardflakeplusperique",
-    "Birds of a Feather Anomalous": "sutliff|birdsofafeatheranomalous",
     "Birds of a Feather Whimsical": "sutliff|birdsofafeatherwhimsical",
     "Pipe Force V": "sutliff|pipeforceepisodev",
     "Pipe Force VI": "sutliff|pipeforceepisodevi",
