@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-12T20:16:14.920270+00:00",
+  "generated": "2026-11-13T05:06:31.971557+00:00",
   "stats": {
-    "total_listings": 10202,
-    "excluded_multipacks": 2623,
+    "total_listings": 10223,
+    "excluded_multipacks": 2631,
     "total_tins": 1315,
-    "multi_member_tins": 671,
-    "listings_in_groups": 3568,
-    "cross_source_tins": 509
+    "multi_member_tins": 672,
+    "listings_in_groups": 3570,
+    "cross_source_tins": 510
   },
   "tins": [
     {
@@ -106225,12 +106225,28 @@
       "blend": "1849",
       "display_name": "Sutliff 1849",
       "sources": [
+        "Tinbids Auction (Sold)",
         "Speak-Easy.Club"
       ],
       "sizes": [
         {
           "quantity": "",
           "members": [
+            {
+              "name": "Sutliff 1849",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/249703/",
+              "price": "$35.00",
+              "last_updated": "2026-11-13T05:00:25.534876+00:00",
+              "first_seen": "2026-11-12T20:32:26+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$35.00",
+                  "date": "2026-11-12T20:32:26+00:00"
+                }
+              ]
+            },
             {
               "name": "Sutliff 1849",
               "source": "Speak-Easy.Club",
@@ -106248,12 +106264,13 @@
             }
           ],
           "sources": [
+            "Tinbids Auction (Sold)",
             "Speak-Easy.Club"
           ]
         }
       ],
       "years": [],
-      "source": "Speak-Easy.Club"
+      "source": "Multiple sources"
     },
     {
       "id": "sutliff|502mediumenglish",
@@ -119477,6 +119494,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Sutliff 1849": "sutliff|1849",
     "Bengal Slices": "sutliff|bengalslices",
     "Birds of a Feather Anomalous": "sutliff|birdsofafeatheranomalous",
     "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
@@ -122276,7 +122294,6 @@
     "Sutliff Match Walnut 3oz bulk": "sutliff|matchwalnut",
     "1Lb NM403": "newminster|no403superiorroundslices",
     "Davidoff Flake Medallions": "davidoff|flakemedallions",
-    "Sutliff 1849": "sutliff|1849",
     "HH Burley Flake - 1lbs": "macbaren|hhburleyflake",
     "HH Old Dark Fired - 2lbs": "macbaren|hholddarkfired",
     "HH Latakia Flake - 3lbs": "macbaren|hhlatakiaflake",
