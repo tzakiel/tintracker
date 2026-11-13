@@ -1,6 +1,354 @@
 {
   "products": [
     {
+      "name": "HU - Moroccan Bazaar 50g - German Market not available in US",
+      "price": "$55.00",
+      "url": "https://tinbids.com/auction/249877/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T16:32:23+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$55.13",
+          "date": "2026-11-12T16:32:23+00:00"
+        },
+        {
+          "price": "$55.00",
+          "date": "2026-11-13T05:00:25.534876+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Sun Bear Bourbon Cask - Cornell and Diehl Small Batch",
+      "price": "$29.00",
+      "url": "https://tinbids.com/auction/251670/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-05T22:30:20+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$30.00",
+          "date": "2026-11-05T22:30:20+00:00"
+        },
+        {
+          "price": "$29.00",
+          "date": "2026-11-13T05:00:25.534876+00:00"
+        }
+      ]
+    },
+    {
+      "name": "3x Galway Dan Tobacco",
+      "price": "$39.50",
+      "url": "https://tinbids.com/auction/248519/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-09-11T22:36:35+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$48.50",
+          "date": "2026-09-11T22:36:35+00:00"
+        },
+        {
+          "price": "$39.50",
+          "date": "2026-11-13T05:00:25.534876+00:00"
+        }
+      ]
+    },
+    {
+      "name": "2020 Mac Baren HH Rustica 3.5oz",
+      "price": "$52.00",
+      "url": "https://tinbids.com/auction/249646/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T17:05:36+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$52.00",
+          "date": "2026-11-12T17:05:36+00:00"
+        }
+      ]
+    },
+    {
+      "name": "2023 Mac Baren HH Old Dark Fired",
+      "price": "$33.00",
+      "url": "https://tinbids.com/auction/249649/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T17:07:37+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$33.00",
+          "date": "2026-11-12T17:07:37+00:00"
+        }
+      ]
+    },
+    {
+      "name": "2024 Germain's Royal Jersey Perique Mixture",
+      "price": "$41.00",
+      "url": "https://tinbids.com/auction/249656/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T17:09:49+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$41.00",
+          "date": "2026-11-12T17:09:49+00:00"
+        }
+      ]
+    },
+    {
+      "name": "2024 Samuel Gawith Cabbie's Mixture",
+      "price": "$32.00",
+      "url": "https://tinbids.com/auction/249659/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T17:11:50+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$32.00",
+          "date": "2026-11-12T17:11:50+00:00"
+        }
+      ]
+    },
+    {
+      "name": "2024 Samuel Gawith Bothy Flake and 1792 Flake",
+      "price": "$1.10",
+      "url": "https://tinbids.com/auction/249662/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T17:13:53+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$1.10",
+          "date": "2026-11-12T17:13:53+00:00"
+        }
+      ]
+    },
+    {
+      "name": "2024 and 2025 Samuel Gawith KC Flake",
+      "price": "$1.10",
+      "url": "https://tinbids.com/auction/249665/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T17:16:03+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$1.10",
+          "date": "2026-11-12T17:16:03+00:00"
+        }
+      ]
+    },
+    {
+      "name": "2024 Samuel Gawith Full Virginia Flake and Fire Dance Flake",
+      "price": "$1.10",
+      "url": "https://tinbids.com/auction/249671/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T17:17:33+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$1.10",
+          "date": "2026-11-12T17:17:33+00:00"
+        }
+      ]
+    },
+    {
+      "name": "50g Ravenwood Smaugs Breath",
+      "price": "$55.00",
+      "url": "https://tinbids.com/auction/249679/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T18:10:20+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$55.00",
+          "date": "2026-11-12T18:10:20+00:00"
+        }
+      ]
+    },
+    {
+      "name": "1x No. 27 Virginia McClelland",
+      "price": "$237.00",
+      "url": "https://tinbids.com/auction/248507/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T19:35:01+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$237.00",
+          "date": "2026-11-12T19:35:01+00:00"
+        }
+      ]
+    },
+    {
+      "name": "1x Mixture No. 6 McClelland",
+      "price": "$155.99",
+      "url": "https://tinbids.com/auction/248511/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T19:36:49+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$155.99",
+          "date": "2026-11-12T19:36:49+00:00"
+        }
+      ]
+    },
+    {
+      "name": "3x Hamborger Veermaster Dan Tobacco",
+      "price": "$102.00",
+      "url": "https://tinbids.com/auction/248516/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T19:38:09+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$102.00",
+          "date": "2026-11-12T19:38:09+00:00"
+        }
+      ]
+    },
+    {
+      "name": "3x Virginia Slices Tordenskjold Dan Tobacco",
+      "price": "$59.00",
+      "url": "https://tinbids.com/auction/248522/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T19:40:05+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$59.00",
+          "date": "2026-11-12T19:40:05+00:00"
+        }
+      ]
+    },
+    {
+      "name": "6x Vauen Mixed Collection",
+      "price": "$58.50",
+      "url": "https://tinbids.com/auction/248525/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T19:41:29+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$58.50",
+          "date": "2026-11-12T19:41:29+00:00"
+        }
+      ]
+    },
+    {
+      "name": "3x Erik Peter‘s 4th Generation 1931",
+      "price": "$72.00",
+      "url": "https://tinbids.com/auction/248528/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T19:42:45+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$72.00",
+          "date": "2026-11-12T19:42:45+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Sutliff 1849",
+      "price": "$35.00",
+      "url": "https://tinbids.com/auction/249703/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T20:32:26+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$35.00",
+          "date": "2026-11-12T20:32:26+00:00"
+        }
+      ]
+    },
+    {
+      "name": "G.L. Pease - Quiet Nights 8 oz - 2 tins (Aged 8 years)",
+      "price": "$102.00",
+      "url": "https://tinbids.com/auction/249755/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T22:17:06+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$102.00",
+          "date": "2026-11-12T22:17:06+00:00"
+        }
+      ]
+    },
+    {
+      "name": "50g Orlik Mellow Mixture Tobacco  - Vintage 2014",
+      "price": "$40.00",
+      "url": "https://tinbids.com/auction/248592/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T22:18:32+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$40.00",
+          "date": "2026-11-12T22:18:32+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Vintage- Lot of 2 - Savinelli Brunello Flake - two 100g tins - Jan 2023",
+      "price": "$90.00",
+      "url": "https://tinbids.com/auction/248593/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T22:18:50+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$90.00",
+          "date": "2026-11-12T22:18:50+00:00"
+        }
+      ]
+    },
+    {
+      "name": "TIlbury",
+      "price": "$500.00",
+      "url": "https://tinbids.com/auction/251312/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-13T01:21:13+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$500.00",
+          "date": "2026-11-13T01:21:13+00:00"
+        }
+      ]
+    },
+    {
+      "name": "51 Sealed Vintage Pipe Tobacco Tins — One Lot — Escudo, HH Vintage Syrian, Davidoff, Dunhill, Margate — Mac Baren, Rattray's",
+      "price": "$1850.00",
+      "url": "https://tinbids.com/auction/250085/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-13T04:32:56+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$1850.00",
+          "date": "2026-11-13T04:32:56+00:00"
+        }
+      ]
+    },
+    {
+      "name": "RARE Elephant & Castle – Deerstalker (1985) | Original C.E. McConnell London Production | Unopened 50g Tin",
+      "price": "$515.00",
+      "url": "https://tinbids.com/auction/250091/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-13T04:34:34+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$515.00",
+          "date": "2026-11-13T04:34:34+00:00"
+        }
+      ]
+    },
+    {
       "name": "Esoterica Tilbury",
       "price": "$125.00",
       "url": "https://tinbids.com/auction/251604/",
@@ -87,20 +435,6 @@
       ]
     },
     {
-      "name": "HU - Moroccan Bazaar 50g - German Market not available in US",
-      "price": "$55.13",
-      "url": "https://tinbids.com/auction/249623/",
-      "source": "Tinbids Auction (Sold)",
-      "first_seen": "2026-11-12T16:32:23+00:00",
-      "last_updated": "2026-11-12T17:00:28.897721+00:00",
-      "price_history": [
-        {
-          "price": "$55.13",
-          "date": "2026-11-12T16:32:23+00:00"
-        }
-      ]
-    },
-    {
       "name": "Captain Earle's Stimulus Package - NR / BIN $20",
       "price": "$6.25",
       "url": "https://tinbids.com/auction/249626/",
@@ -117,7 +451,7 @@
     {
       "name": "HU TOBACCO Hommage to my Friends MY RED FOX 50g - (German Market) - Not available in US",
       "price": "$50.00",
-      "url": "https://tinbids.com/auction/249627/",
+      "url": "https://tinbids.com/auction/249880/",
       "source": "Tinbids Auction (Sold)",
       "first_seen": "2026-11-12T16:35:05+00:00",
       "last_updated": "2026-11-12T17:00:28.897721+00:00",
@@ -3419,7 +3753,7 @@
     {
       "name": "Cornell & Diehl FROM BEYOND 2 tins from 2025 BIN 65",
       "price": "$64.00",
-      "url": "https://tinbids.com/auction/249590/",
+      "url": "https://tinbids.com/auction/251678/",
       "source": "Tinbids Auction (Sold)",
       "first_seen": "2026-10-18T11:03:59+00:00",
       "last_updated": "2026-11-06T17:00:25.974510+00:00",
@@ -3963,20 +4297,6 @@
         {
           "price": "$35.00",
           "date": "2026-11-05T21:09:55+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Sun Bear Bourbon Cask - Cornell and Diehl Small Batch",
-      "price": "$30.00",
-      "url": "https://tinbids.com/auction/249399/",
-      "source": "Tinbids Auction (Sold)",
-      "first_seen": "2026-11-05T22:30:20+00:00",
-      "last_updated": "2026-11-06T05:00:28.205229+00:00",
-      "price_history": [
-        {
-          "price": "$30.00",
-          "date": "2026-11-05T22:30:20+00:00"
         }
       ]
     },
@@ -33887,20 +34207,6 @@
         {
           "price": "$77.00",
           "date": "2026-09-11T22:34:53+00:00"
-        }
-      ]
-    },
-    {
-      "name": "3x Galway Dan Tobacco",
-      "price": "$48.50",
-      "url": "https://tinbids.com/auction/226042/",
-      "source": "Tinbids Auction (Sold)",
-      "first_seen": "2026-09-11T22:36:35+00:00",
-      "last_updated": "2026-09-12T04:00:24.612507+00:00",
-      "price_history": [
-        {
-          "price": "$48.50",
-          "date": "2026-09-11T22:36:35+00:00"
         }
       ]
     },
@@ -80694,8 +81000,356 @@
       ]
     }
   ],
-  "last_scraped": "2026-11-12T17:00:28.897721+00:00",
+  "last_scraped": "2026-11-13T05:00:25.534876+00:00",
   "latest_scrape": [
+    {
+      "name": "HU - Moroccan Bazaar 50g - German Market not available in US",
+      "price": "$55.00",
+      "url": "https://tinbids.com/auction/249877/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T16:32:23+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$55.13",
+          "date": "2026-11-12T16:32:23+00:00"
+        },
+        {
+          "price": "$55.00",
+          "date": "2026-11-13T05:00:25.534876+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Sun Bear Bourbon Cask - Cornell and Diehl Small Batch",
+      "price": "$29.00",
+      "url": "https://tinbids.com/auction/251670/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-05T22:30:20+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$30.00",
+          "date": "2026-11-05T22:30:20+00:00"
+        },
+        {
+          "price": "$29.00",
+          "date": "2026-11-13T05:00:25.534876+00:00"
+        }
+      ]
+    },
+    {
+      "name": "3x Galway Dan Tobacco",
+      "price": "$39.50",
+      "url": "https://tinbids.com/auction/248519/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-09-11T22:36:35+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$48.50",
+          "date": "2026-09-11T22:36:35+00:00"
+        },
+        {
+          "price": "$39.50",
+          "date": "2026-11-13T05:00:25.534876+00:00"
+        }
+      ]
+    },
+    {
+      "name": "2020 Mac Baren HH Rustica 3.5oz",
+      "price": "$52.00",
+      "url": "https://tinbids.com/auction/249646/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T17:05:36+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$52.00",
+          "date": "2026-11-12T17:05:36+00:00"
+        }
+      ]
+    },
+    {
+      "name": "2023 Mac Baren HH Old Dark Fired",
+      "price": "$33.00",
+      "url": "https://tinbids.com/auction/249649/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T17:07:37+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$33.00",
+          "date": "2026-11-12T17:07:37+00:00"
+        }
+      ]
+    },
+    {
+      "name": "2024 Germain's Royal Jersey Perique Mixture",
+      "price": "$41.00",
+      "url": "https://tinbids.com/auction/249656/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T17:09:49+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$41.00",
+          "date": "2026-11-12T17:09:49+00:00"
+        }
+      ]
+    },
+    {
+      "name": "2024 Samuel Gawith Cabbie's Mixture",
+      "price": "$32.00",
+      "url": "https://tinbids.com/auction/249659/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T17:11:50+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$32.00",
+          "date": "2026-11-12T17:11:50+00:00"
+        }
+      ]
+    },
+    {
+      "name": "2024 Samuel Gawith Bothy Flake and 1792 Flake",
+      "price": "$1.10",
+      "url": "https://tinbids.com/auction/249662/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T17:13:53+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$1.10",
+          "date": "2026-11-12T17:13:53+00:00"
+        }
+      ]
+    },
+    {
+      "name": "2024 and 2025 Samuel Gawith KC Flake",
+      "price": "$1.10",
+      "url": "https://tinbids.com/auction/249665/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T17:16:03+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$1.10",
+          "date": "2026-11-12T17:16:03+00:00"
+        }
+      ]
+    },
+    {
+      "name": "2024 Samuel Gawith Full Virginia Flake and Fire Dance Flake",
+      "price": "$1.10",
+      "url": "https://tinbids.com/auction/249671/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T17:17:33+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$1.10",
+          "date": "2026-11-12T17:17:33+00:00"
+        }
+      ]
+    },
+    {
+      "name": "50g Ravenwood Smaugs Breath",
+      "price": "$55.00",
+      "url": "https://tinbids.com/auction/249679/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T18:10:20+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$55.00",
+          "date": "2026-11-12T18:10:20+00:00"
+        }
+      ]
+    },
+    {
+      "name": "1x No. 27 Virginia McClelland",
+      "price": "$237.00",
+      "url": "https://tinbids.com/auction/248507/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T19:35:01+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$237.00",
+          "date": "2026-11-12T19:35:01+00:00"
+        }
+      ]
+    },
+    {
+      "name": "1x Mixture No. 6 McClelland",
+      "price": "$155.99",
+      "url": "https://tinbids.com/auction/248511/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T19:36:49+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$155.99",
+          "date": "2026-11-12T19:36:49+00:00"
+        }
+      ]
+    },
+    {
+      "name": "3x Hamborger Veermaster Dan Tobacco",
+      "price": "$102.00",
+      "url": "https://tinbids.com/auction/248516/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T19:38:09+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$102.00",
+          "date": "2026-11-12T19:38:09+00:00"
+        }
+      ]
+    },
+    {
+      "name": "3x Virginia Slices Tordenskjold Dan Tobacco",
+      "price": "$59.00",
+      "url": "https://tinbids.com/auction/248522/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T19:40:05+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$59.00",
+          "date": "2026-11-12T19:40:05+00:00"
+        }
+      ]
+    },
+    {
+      "name": "6x Vauen Mixed Collection",
+      "price": "$58.50",
+      "url": "https://tinbids.com/auction/248525/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T19:41:29+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$58.50",
+          "date": "2026-11-12T19:41:29+00:00"
+        }
+      ]
+    },
+    {
+      "name": "3x Erik Peter‘s 4th Generation 1931",
+      "price": "$72.00",
+      "url": "https://tinbids.com/auction/248528/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T19:42:45+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$72.00",
+          "date": "2026-11-12T19:42:45+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Sutliff 1849",
+      "price": "$35.00",
+      "url": "https://tinbids.com/auction/249703/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T20:32:26+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$35.00",
+          "date": "2026-11-12T20:32:26+00:00"
+        }
+      ]
+    },
+    {
+      "name": "G.L. Pease - Quiet Nights 8 oz - 2 tins (Aged 8 years)",
+      "price": "$102.00",
+      "url": "https://tinbids.com/auction/249755/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T22:17:06+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$102.00",
+          "date": "2026-11-12T22:17:06+00:00"
+        }
+      ]
+    },
+    {
+      "name": "50g Orlik Mellow Mixture Tobacco  - Vintage 2014",
+      "price": "$40.00",
+      "url": "https://tinbids.com/auction/248592/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T22:18:32+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$40.00",
+          "date": "2026-11-12T22:18:32+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Vintage- Lot of 2 - Savinelli Brunello Flake - two 100g tins - Jan 2023",
+      "price": "$90.00",
+      "url": "https://tinbids.com/auction/248593/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-12T22:18:50+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$90.00",
+          "date": "2026-11-12T22:18:50+00:00"
+        }
+      ]
+    },
+    {
+      "name": "TIlbury",
+      "price": "$500.00",
+      "url": "https://tinbids.com/auction/251312/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-13T01:21:13+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$500.00",
+          "date": "2026-11-13T01:21:13+00:00"
+        }
+      ]
+    },
+    {
+      "name": "51 Sealed Vintage Pipe Tobacco Tins — One Lot — Escudo, HH Vintage Syrian, Davidoff, Dunhill, Margate — Mac Baren, Rattray's",
+      "price": "$1850.00",
+      "url": "https://tinbids.com/auction/250085/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-13T04:32:56+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$1850.00",
+          "date": "2026-11-13T04:32:56+00:00"
+        }
+      ]
+    },
+    {
+      "name": "RARE Elephant & Castle – Deerstalker (1985) | Original C.E. McConnell London Production | Unopened 50g Tin",
+      "price": "$515.00",
+      "url": "https://tinbids.com/auction/250091/",
+      "source": "Tinbids Auction (Sold)",
+      "first_seen": "2026-11-13T04:34:34+00:00",
+      "last_updated": "2026-11-13T05:00:25.534876+00:00",
+      "price_history": [
+        {
+          "price": "$515.00",
+          "date": "2026-11-13T04:34:34+00:00"
+        }
+      ]
+    },
     {
       "name": "Esoterica Tilbury",
       "price": "$125.00",
@@ -80783,20 +81437,6 @@
       ]
     },
     {
-      "name": "HU - Moroccan Bazaar 50g - German Market not available in US",
-      "price": "$55.13",
-      "url": "https://tinbids.com/auction/249623/",
-      "source": "Tinbids Auction (Sold)",
-      "first_seen": "2026-11-12T16:32:23+00:00",
-      "last_updated": "2026-11-12T17:00:28.897721+00:00",
-      "price_history": [
-        {
-          "price": "$55.13",
-          "date": "2026-11-12T16:32:23+00:00"
-        }
-      ]
-    },
-    {
       "name": "Captain Earle's Stimulus Package - NR / BIN $20",
       "price": "$6.25",
       "url": "https://tinbids.com/auction/249626/",
@@ -80813,7 +81453,7 @@
     {
       "name": "HU TOBACCO Hommage to my Friends MY RED FOX 50g - (German Market) - Not available in US",
       "price": "$50.00",
-      "url": "https://tinbids.com/auction/249627/",
+      "url": "https://tinbids.com/auction/249880/",
       "source": "Tinbids Auction (Sold)",
       "first_seen": "2026-11-12T16:35:05+00:00",
       "last_updated": "2026-11-12T17:00:28.897721+00:00",
@@ -84115,7 +84755,7 @@
     {
       "name": "Cornell & Diehl FROM BEYOND 2 tins from 2025 BIN 65",
       "price": "$64.00",
-      "url": "https://tinbids.com/auction/249590/",
+      "url": "https://tinbids.com/auction/251678/",
       "source": "Tinbids Auction (Sold)",
       "first_seen": "2026-10-18T11:03:59+00:00",
       "last_updated": "2026-11-06T17:00:25.974510+00:00",
@@ -84659,20 +85299,6 @@
         {
           "price": "$35.00",
           "date": "2026-11-05T21:09:55+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Sun Bear Bourbon Cask - Cornell and Diehl Small Batch",
-      "price": "$30.00",
-      "url": "https://tinbids.com/auction/249399/",
-      "source": "Tinbids Auction (Sold)",
-      "first_seen": "2026-11-05T22:30:20+00:00",
-      "last_updated": "2026-11-06T05:00:28.205229+00:00",
-      "price_history": [
-        {
-          "price": "$30.00",
-          "date": "2026-11-05T22:30:20+00:00"
         }
       ]
     },
@@ -114583,20 +115209,6 @@
         {
           "price": "$77.00",
           "date": "2026-09-11T22:34:53+00:00"
-        }
-      ]
-    },
-    {
-      "name": "3x Galway Dan Tobacco",
-      "price": "$48.50",
-      "url": "https://tinbids.com/auction/226042/",
-      "source": "Tinbids Auction (Sold)",
-      "first_seen": "2026-09-11T22:36:35+00:00",
-      "last_updated": "2026-09-12T04:00:24.612507+00:00",
-      "price_history": [
-        {
-          "price": "$48.50",
-          "date": "2026-09-11T22:36:35+00:00"
         }
       ]
     },
@@ -161467,71 +162079,6 @@
       "date_end": "2026-11-30 18:47:17"
     },
     {
-      "url": "https://tinbids.com/auction/248507/",
-      "name": "1x No. 27 Virginia McClelland",
-      "date_end": "2026-11-12 19:35:01"
-    },
-    {
-      "url": "https://tinbids.com/auction/248511/",
-      "name": "1x Mixture No. 6 McClelland",
-      "date_end": "2026-11-12 19:36:49"
-    },
-    {
-      "url": "https://tinbids.com/auction/248516/",
-      "name": "3x Hamborger Veermaster Dan Tobacco",
-      "date_end": "2026-11-12 19:38:09"
-    },
-    {
-      "url": "https://tinbids.com/auction/248519/",
-      "name": "3x Galway Dan Tobacco",
-      "date_end": "2026-11-12 19:39:05"
-    },
-    {
-      "url": "https://tinbids.com/auction/248522/",
-      "name": "3x Virginia Slices Tordenskjold Dan Tobacco",
-      "date_end": "2026-11-12 19:40:05"
-    },
-    {
-      "url": "https://tinbids.com/auction/248525/",
-      "name": "6x Vauen Mixed Collection",
-      "date_end": "2026-11-12 19:41:29"
-    },
-    {
-      "url": "https://tinbids.com/auction/248528/",
-      "name": "3x Erik Peter‘s 4th Generation 1931",
-      "date_end": "2026-11-12 19:42:45"
-    },
-    {
-      "url": "https://tinbids.com/auction/248568/",
-      "name": "Honest Long Cut Smoking & Chewing Pack, 2.2 oz",
-      "date_end": "2026-11-12 22:03:17"
-    },
-    {
-      "url": "https://tinbids.com/auction/248591/",
-      "name": "Lot of 2 - 2oz of The Country Squire BB 1970 (Birthday Bash 1970) small batch",
-      "date_end": "2026-11-12 22:18:13"
-    },
-    {
-      "url": "https://tinbids.com/auction/248592/",
-      "name": "50g Orlik Mellow Mixture Tobacco  - Vintage 2014",
-      "date_end": "2026-11-12 22:18:32"
-    },
-    {
-      "url": "https://tinbids.com/auction/248593/",
-      "name": "Vintage- Lot of 2 - Savinelli Brunello Flake - two 100g tins - Jan 2023",
-      "date_end": "2026-11-12 22:18:50"
-    },
-    {
-      "url": "https://tinbids.com/auction/248594/",
-      "name": "Lot of 2 - Wessex Campaign Dark Flake 50g tins",
-      "date_end": "2026-11-12 22:19:11"
-    },
-    {
-      "url": "https://tinbids.com/auction/248595/",
-      "name": "Lot of 2 - Ravenwood Witchthorn",
-      "date_end": "2026-11-12 22:19:26"
-    },
-    {
       "url": "https://tinbids.com/auction/249009/",
       "name": "Blending Perique (from 2010), approx 6 oz by weight",
       "date_end": "2026-11-13 20:43:28"
@@ -161830,241 +162377,6 @@
       "url": "https://tinbids.com/auction/249543/",
       "name": "2015 - 1.7oz. Mac Baren 7 Seas Gold Jarred by P&C/ 11yrs old!",
       "date_end": "2026-11-15 02:51:14"
-    },
-    {
-      "url": "https://tinbids.com/auction/249646/",
-      "name": "2020 Mac Baren HH Rustica 3.5oz",
-      "date_end": "2026-11-12 17:05:36"
-    },
-    {
-      "url": "https://tinbids.com/auction/249649/",
-      "name": "2023 Mac Baren HH Old Dark Fired",
-      "date_end": "2026-11-12 17:07:37"
-    },
-    {
-      "url": "https://tinbids.com/auction/249656/",
-      "name": "2024 Germain's Royal Jersey Perique Mixture",
-      "date_end": "2026-11-12 17:09:49"
-    },
-    {
-      "url": "https://tinbids.com/auction/249659/",
-      "name": "2024 Samuel Gawith Cabbie's Mixture",
-      "date_end": "2026-11-12 17:11:50"
-    },
-    {
-      "url": "https://tinbids.com/auction/249662/",
-      "name": "2024 Samuel Gawith Bothy Flake and 1792 Flake",
-      "date_end": "2026-11-12 17:13:53"
-    },
-    {
-      "url": "https://tinbids.com/auction/249665/",
-      "name": "2024 and 2025 Samuel Gawith KC Flake",
-      "date_end": "2026-11-12 17:16:03"
-    },
-    {
-      "url": "https://tinbids.com/auction/249671/",
-      "name": "2024 Samuel Gawith Full Virginia Flake and Fire Dance Flake",
-      "date_end": "2026-11-12 17:17:33"
-    },
-    {
-      "url": "https://tinbids.com/auction/249679/",
-      "name": "50g Ravenwood Smaugs Breath",
-      "date_end": "2026-11-12 18:10:20"
-    },
-    {
-      "url": "https://tinbids.com/auction/249680/",
-      "name": "Lot of 2 - 2oz of Sun Bear Small Batch",
-      "date_end": "2026-11-12 18:10:36"
-    },
-    {
-      "url": "https://tinbids.com/auction/249681/",
-      "name": "2oz of Sun Bear Small Batch",
-      "date_end": "2026-11-12 18:10:50"
-    },
-    {
-      "url": "https://tinbids.com/auction/249682/",
-      "name": "100g Tin of Mac Baren Plumcake Navy Blend",
-      "date_end": "2026-11-12 18:11:04"
-    },
-    {
-      "url": "https://tinbids.com/auction/249683/",
-      "name": "100g Tin of Mac Baren Golden Blend Ready Rubbed Tobacco",
-      "date_end": "2026-11-12 18:11:23"
-    },
-    {
-      "url": "https://tinbids.com/auction/249684/",
-      "name": "50g Ravenwood Moose Marmalade",
-      "date_end": "2026-11-12 18:11:41"
-    },
-    {
-      "url": "https://tinbids.com/auction/249685/",
-      "name": "50g of Ravenwood Sommersende - Sold Out Everywhere",
-      "date_end": "2026-11-12 18:11:53"
-    },
-    {
-      "url": "https://tinbids.com/auction/249686/",
-      "name": "100g Tin of Mac Baren Stockton Roll Cake Tobacco",
-      "date_end": "2026-11-12 18:12:05"
-    },
-    {
-      "url": "https://tinbids.com/auction/249696/",
-      "name": "Samuel Gawith St. James Flake",
-      "date_end": "2026-11-12 19:33:31"
-    },
-    {
-      "url": "https://tinbids.com/auction/249703/",
-      "name": "Sutliff 1849",
-      "date_end": "2026-11-12 20:32:26"
-    },
-    {
-      "url": "https://tinbids.com/auction/249706/",
-      "name": "Mac Baren Vanilla Flake",
-      "date_end": "2026-11-12 20:34:20"
-    },
-    {
-      "url": "https://tinbids.com/auction/249709/",
-      "name": "Peter Hienrichs Dark Strong Flake",
-      "date_end": "2026-11-12 20:36:03"
-    },
-    {
-      "url": "https://tinbids.com/auction/249713/",
-      "name": "Mac Baren Dark Twist!!",
-      "date_end": "2026-11-12 20:38:14"
-    },
-    {
-      "url": "https://tinbids.com/auction/249716/",
-      "name": "Sutliff Crumble Kake",
-      "date_end": "2026-11-12 20:40:19"
-    },
-    {
-      "url": "https://tinbids.com/auction/249719/",
-      "name": "Mac Baren Roll Cake",
-      "date_end": "2026-11-12 20:42:45"
-    },
-    {
-      "url": "https://tinbids.com/auction/249722/",
-      "name": "Mac Baren Latakia Flake",
-      "date_end": "2026-11-12 20:44:21"
-    },
-    {
-      "url": "https://tinbids.com/auction/249725/",
-      "name": "Ravenwood - PipeStud Five Yachts 50g - (One time run of 200 tins)",
-      "date_end": "2026-11-12 20:54:23"
-    },
-    {
-      "url": "https://tinbids.com/auction/249728/",
-      "name": "Ravenwood - Twilight Reverie - 50g",
-      "date_end": "2026-11-12 20:58:36"
-    },
-    {
-      "url": "https://tinbids.com/auction/249731/",
-      "name": "Ravenwood - Sankara Stone - 50g",
-      "date_end": "2026-11-12 21:00:14"
-    },
-    {
-      "url": "https://tinbids.com/auction/249734/",
-      "name": "2025 CORNELL & DIEHL RESERVE XXV DAWN and RESERVE XXV DUSK",
-      "date_end": "2026-11-12 21:21:58"
-    },
-    {
-      "url": "https://tinbids.com/auction/249744/",
-      "name": "Plum Pudding - Bourbon Barrel Aged - Seattle Pipe Club - 2022 (2 oz)",
-      "date_end": "2026-11-12 22:06:55"
-    },
-    {
-      "url": "https://tinbids.com/auction/249748/",
-      "name": "Plum Pudding - Seattle Pipe Club - 2 oz (2022)",
-      "date_end": "2026-11-12 22:14:47"
-    },
-    {
-      "url": "https://tinbids.com/auction/249751/",
-      "name": "Seattle Pipe Club Plum Pudding Bourbon Barrel Aged 2oz - 3 tins (Aged 6 Years) [NR]",
-      "date_end": "2026-11-12 22:15:20"
-    },
-    {
-      "url": "https://tinbids.com/auction/249755/",
-      "name": "G.L. Pease - Quiet Nights 8 oz - 2 tins (Aged 8 years)",
-      "date_end": "2026-11-12 22:17:06"
-    },
-    {
-      "url": "https://tinbids.com/auction/249759/",
-      "name": "Mac Baren HH Old Dark Fired 3.5 oz [Aged 6 Years],  HH Pure Virginia, Capstan Navy Blue",
-      "date_end": "2026-11-12 22:27:56"
-    },
-    {
-      "url": "https://tinbids.com/auction/249790/",
-      "name": "Two Friends Deacon's Downfall 2oz (2006) - Aged 20 Yrs Sealed⁠ NR",
-      "date_end": "2026-11-13 01:08:03"
-    },
-    {
-      "url": "https://tinbids.com/auction/249877/",
-      "name": "HU - Moroccan Bazaar 50g - German Market not available in US",
-      "date_end": "2026-11-13 02:09:45"
-    },
-    {
-      "url": "https://tinbids.com/auction/249880/",
-      "name": "HU TOBACCO Hommage to my Friends MY RED FOX 50g - (German Market) - Not available in US",
-      "date_end": "2026-11-13 02:10:40"
-    },
-    {
-      "url": "https://tinbids.com/auction/250020/",
-      "name": "G. L. Pease Haddo’s Delight 2001 NR",
-      "date_end": "2026-11-13 03:34:06"
-    },
-    {
-      "url": "https://tinbids.com/auction/250065/",
-      "name": "Peterson Hyde Park 50g x3 Tins - Aged Jul 2019 - 7 Yrs Cellared Sealed",
-      "date_end": "2026-11-13 03:58:59"
-    },
-    {
-      "url": "https://tinbids.com/auction/250067/",
-      "name": "Erinmore Modern Cellar Trio 250g - 2x 100g Mixture (2025) + 1x 50g Flake (2024) Sealed",
-      "date_end": "2026-11-13 04:01:25"
-    },
-    {
-      "url": "https://tinbids.com/auction/250068/",
-      "name": "Cornell & Diehl Jolly Old St. Nicholas 2oz - 2018 Vintage Limited Edition - 8 Yrs Aged Sealed",
-      "date_end": "2026-11-13 04:02:04"
-    },
-    {
-      "url": "https://tinbids.com/auction/250069/",
-      "name": "Peterson Pipe Tobacco Pouches x4 - Wild Atlantic x3 (2016) + Irish Dew x1 (2019) Sealed 40g",
-      "date_end": "2026-11-13 04:02:35"
-    },
-    {
-      "url": "https://tinbids.com/auction/250070/",
-      "name": "Cornell & Diehl Lovecraft Sampler 2oz x3 Tins - Awakened Elder x1 + Visions of Celephais x2 Sealed",
-      "date_end": "2026-11-13 04:03:02"
-    },
-    {
-      "url": "https://tinbids.com/auction/250071/",
-      "name": "Peterson Standard Mixture 50g x4 Tins - Oct 2024 x2 + Jan 2025 + May 2025 - Factory Sealed",
-      "date_end": "2026-11-13 04:03:24"
-    },
-    {
-      "url": "https://tinbids.com/auction/250072/",
-      "name": "Cornell & Diehl Dreams of Kadath 2oz x3 Tins - Aug 2018 - 8 Yrs Aged - Old Ones Series - Factory Sealed",
-      "date_end": "2026-11-13 04:03:44"
-    },
-    {
-      "url": "https://tinbids.com/auction/250073/",
-      "name": "51 Sealed Vintage Pipe Tobacco Tins — One Lot — G.L. Pease, Cornell & Diehl, McClelland — Sun Bear, Stonehenge, Carolina Red Flake, Cairo 2006",
-      "date_end": "2026-11-13 04:28:44"
-    },
-    {
-      "url": "https://tinbids.com/auction/250079/",
-      "name": "33 Sealed Vintage Pipe Tobacco Tins — One Lot — Mac Baren, Samuel Gawith — Squadron Leader Special Edition 2017, Navy Flake, Old Dark Fired",
-      "date_end": "2026-11-13 04:29:56"
-    },
-    {
-      "url": "https://tinbids.com/auction/250085/",
-      "name": "51 Sealed Vintage Pipe Tobacco Tins — One Lot — Escudo, HH Vintage Syrian, Davidoff, Dunhill, Margate — Mac Baren, Rattray's",
-      "date_end": "2026-11-13 04:32:56"
-    },
-    {
-      "url": "https://tinbids.com/auction/250091/",
-      "name": "RARE Elephant & Castle – Deerstalker (1985) | Original C.E. McConnell London Production | Unopened 50g Tin",
-      "date_end": "2026-11-13 04:34:34"
     },
     {
       "url": "https://tinbids.com/auction/249741/",
@@ -162600,16 +162912,6 @@
       "url": "https://tinbids.com/auction/250410/",
       "name": "Lot of 2 - 50g tins of Ravenwood Vanilla Deku Nut",
       "date_end": "2026-11-17 12:45:00"
-    },
-    {
-      "url": "https://tinbids.com/auction/250477/",
-      "name": "2015 G.L. Pease Barbary Coast, 2 oz slightly puffy can 5D NR 35 BID",
-      "date_end": "2026-11-12 21:30:57"
-    },
-    {
-      "url": "https://tinbids.com/auction/250541/",
-      "name": "2 Planta Danish Black Vanilla and 2013 Drew Estate Heirloom Cherry",
-      "date_end": "2026-11-13 00:22:15"
     },
     {
       "url": "https://tinbids.com/auction/250425/",
@@ -163532,39 +163834,9 @@
       "date_end": "2026-11-16 16:49:52"
     },
     {
-      "url": "https://tinbids.com/auction/251090/",
-      "name": "Seattle Pipe Club Deception Pass - 2 Tin Lot",
-      "date_end": "2026-11-12 19:19:11"
-    },
-    {
       "url": "https://tinbids.com/auction/251091/",
       "name": "Savinelli Doblone d'Oro 100g Pipe Tobacco - 2 Tin Lot",
       "date_end": "2026-11-14 14:22:14"
-    },
-    {
-      "url": "https://tinbids.com/auction/251229/",
-      "name": "Gawith Flake",
-      "date_end": "2026-11-12 23:58:58"
-    },
-    {
-      "url": "https://tinbids.com/auction/251241/",
-      "name": "2019 Ramsgate",
-      "date_end": "2026-11-13 00:20:46"
-    },
-    {
-      "url": "https://tinbids.com/auction/251312/",
-      "name": "TIlbury",
-      "date_end": "2026-11-13 01:21:13"
-    },
-    {
-      "url": "https://tinbids.com/auction/251315/",
-      "name": "Scarborough",
-      "date_end": "2026-11-13 01:25:12"
-    },
-    {
-      "url": "https://tinbids.com/auction/251317/",
-      "name": "Craven A cigarettes no reserve",
-      "date_end": "2026-11-13 01:54:27"
     },
     {
       "url": "https://tinbids.com/auction/251061/",
@@ -164592,61 +164864,6 @@
       "date_end": "2026-11-21 06:14:05"
     },
     {
-      "url": "https://tinbids.com/auction/251620/",
-      "name": "2 Tins: C&D Bijou Dec 25 ( BIN $30)",
-      "date_end": "2026-11-12 17:03:25"
-    },
-    {
-      "url": "https://tinbids.com/auction/251621/",
-      "name": "Cornell & Diehl Small Batch Sun Bear Bourbon Cask- 1 Tin - (BIN-$30)",
-      "date_end": "2026-11-12 17:03:44"
-    },
-    {
-      "url": "https://tinbids.com/auction/251667/",
-      "name": "Ravenwood Fine Provisions  Gates of Argonath  50g sealed tin",
-      "date_end": "2026-11-12 19:52:41"
-    },
-    {
-      "url": "https://tinbids.com/auction/251668/",
-      "name": "Wytchthorn by Ravenwood Fine Provisions 50g",
-      "date_end": "2026-11-12 19:53:03"
-    },
-    {
-      "url": "https://tinbids.com/auction/251669/",
-      "name": "Smaugs Breath english crossover 50g",
-      "date_end": "2026-11-12 19:53:19"
-    },
-    {
-      "url": "https://tinbids.com/auction/251670/",
-      "name": "Sun Bear Bourbon Cask - Cornell and Diehl Small Batch",
-      "date_end": "2026-11-12 19:53:46"
-    },
-    {
-      "url": "https://tinbids.com/auction/251676/",
-      "name": "Cornell & Diehl Jolly Old St. Nicholas 2 Sealed Tins",
-      "date_end": "2026-11-12 19:56:25"
-    },
-    {
-      "url": "https://tinbids.com/auction/251678/",
-      "name": "Cornell & Diehl FROM BEYOND 2 tins from 2025 BIN 65",
-      "date_end": "2026-11-12 19:56:53"
-    },
-    {
-      "url": "https://tinbids.com/auction/251679/",
-      "name": "2 New 2026 Unopened Tins Of Warped Scarecrow Pipe Tobacco 2oz",
-      "date_end": "2026-11-12 19:59:19"
-    },
-    {
-      "url": "https://tinbids.com/auction/251748/",
-      "name": "Thanksgiving Day - 4 oz. Cake",
-      "date_end": "2026-11-13 00:18:43"
-    },
-    {
-      "url": "https://tinbids.com/auction/251801/",
-      "name": "Ravenwood The Green Mill",
-      "date_end": "2026-11-13 03:17:51"
-    },
-    {
       "url": "https://tinbids.com/auction/251728/",
       "name": "—> 16 years aged HH Acadian Perique",
       "date_end": "2026-11-14 23:48:28"
@@ -165525,6 +165742,376 @@
       "url": "https://tinbids.com/auction/251939/",
       "name": "Hearth & Home  Smoky Mountain 50g (Out of Production)",
       "date_end": "2026-11-19 15:00:37"
+    },
+    {
+      "url": "https://tinbids.com/auction/252018/",
+      "name": "2 Tins: C&D Bijou Dec 25 ( BIN $30)",
+      "date_end": "2026-11-13 21:10:13"
+    },
+    {
+      "url": "https://tinbids.com/auction/252019/",
+      "name": "Cornell & Diehl Small Batch Sun Bear Bourbon Cask- 1 Tin - (BIN-$30)",
+      "date_end": "2026-11-13 21:10:25"
+    },
+    {
+      "url": "https://tinbids.com/auction/252078/",
+      "name": "2 New 2026 Unopened Tins Of Warped Scarecrow Pipe Tobacco 2oz",
+      "date_end": "2026-11-14 00:50:04"
+    },
+    {
+      "url": "https://tinbids.com/auction/252079/",
+      "name": "Smaugs Breath english crossover 50g",
+      "date_end": "2026-11-14 00:50:22"
+    },
+    {
+      "url": "https://tinbids.com/auction/252080/",
+      "name": "Wytchthorn by Ravenwood Fine Provisions 50g",
+      "date_end": "2026-11-14 00:50:36"
+    },
+    {
+      "url": "https://tinbids.com/auction/252081/",
+      "name": "Ravenwood Fine Provisions  Gates of Argonath  50g sealed tin",
+      "date_end": "2026-11-14 00:50:51"
+    },
+    {
+      "url": "https://tinbids.com/auction/252082/",
+      "name": "Thanksgiving Day - 4 oz. Cake",
+      "date_end": "2026-11-14 00:51:06"
+    },
+    {
+      "url": "https://tinbids.com/auction/251966/",
+      "name": "Germain's Original Latakia Mixture",
+      "date_end": "2026-11-15 18:43:35"
+    },
+    {
+      "url": "https://tinbids.com/auction/251969/",
+      "name": "Germain's BK Flake",
+      "date_end": "2026-11-15 18:45:31"
+    },
+    {
+      "url": "https://tinbids.com/auction/251975/",
+      "name": "'23 Esoterica And So To Bed",
+      "date_end": "2026-11-15 18:50:50"
+    },
+    {
+      "url": "https://tinbids.com/auction/251979/",
+      "name": "'22 Esoterica Dunbar",
+      "date_end": "2026-11-15 18:53:56"
+    },
+    {
+      "url": "https://tinbids.com/auction/251982/",
+      "name": "'23 Esoterica Pembroke",
+      "date_end": "2026-11-15 18:55:59"
+    },
+    {
+      "url": "https://tinbids.com/auction/251992/",
+      "name": "8oz Esoterica Dunbar",
+      "date_end": "2026-11-15 19:06:02"
+    },
+    {
+      "url": "https://tinbids.com/auction/251996/",
+      "name": "'25 Wessex Gold Brick VA Plug - 100g",
+      "date_end": "2026-11-15 19:10:23"
+    },
+    {
+      "url": "https://tinbids.com/auction/252002/",
+      "name": "2014 Hearth & Home Magnum Opus - 1 Tin NR BIN $70",
+      "date_end": "2026-11-15 20:15:19"
+    },
+    {
+      "url": "https://tinbids.com/auction/252003/",
+      "name": "50g Of Missouri Meerschaum 150th Anniversary From 2019",
+      "date_end": "2026-11-15 20:50:07"
+    },
+    {
+      "url": "https://tinbids.com/auction/252006/",
+      "name": "2oz/57g Of C&D's Crooked Lane From 2016",
+      "date_end": "2026-11-15 20:50:13"
+    },
+    {
+      "url": "https://tinbids.com/auction/252010/",
+      "name": "1.5oz Of F & K Bat With A Hat From 2015",
+      "date_end": "2026-11-15 20:50:25"
+    },
+    {
+      "url": "https://tinbids.com/auction/252014/",
+      "name": "50g of McClelland Red and Black From 2016",
+      "date_end": "2026-11-15 20:50:31"
+    },
+    {
+      "url": "https://tinbids.com/auction/252067/",
+      "name": "Seattle Pipe Club Deception Pass - 2 Tin Lot",
+      "date_end": "2026-11-16 00:09:10"
+    },
+    {
+      "url": "https://tinbids.com/auction/252077/",
+      "name": "Cornell & Diehl Jolly Old St. Nicholas 2 Sealed Tins",
+      "date_end": "2026-11-16 00:49:46"
+    },
+    {
+      "url": "https://tinbids.com/auction/252086/",
+      "name": "Mac Baren Pure VA",
+      "date_end": "2026-11-16 01:01:25"
+    },
+    {
+      "url": "https://tinbids.com/auction/252087/",
+      "name": "Capstan",
+      "date_end": "2026-11-16 01:01:49"
+    },
+    {
+      "url": "https://tinbids.com/auction/252088/",
+      "name": "Match BSOSM",
+      "date_end": "2026-11-16 01:02:30"
+    },
+    {
+      "url": "https://tinbids.com/auction/252089/",
+      "name": "Hearth & Home lot",
+      "date_end": "2026-11-16 01:03:22"
+    },
+    {
+      "url": "https://tinbids.com/auction/252091/",
+      "name": "Cup o Joes Duo",
+      "date_end": "2026-11-16 01:04:07"
+    },
+    {
+      "url": "https://tinbids.com/auction/252092/",
+      "name": "Bengal Slices",
+      "date_end": "2026-11-16 01:04:27"
+    },
+    {
+      "url": "https://tinbids.com/auction/252093/",
+      "name": "Whiteknight",
+      "date_end": "2026-11-16 01:04:46"
+    },
+    {
+      "url": "https://tinbids.com/auction/252095/",
+      "name": "Sunbear Navy Cask",
+      "date_end": "2026-11-16 01:05:42"
+    },
+    {
+      "url": "https://tinbids.com/auction/252096/",
+      "name": "VA set",
+      "date_end": "2026-11-16 01:06:23"
+    },
+    {
+      "url": "https://tinbids.com/auction/251972/",
+      "name": "Germain's Perique Mixture",
+      "date_end": "2026-11-17 18:47:50"
+    },
+    {
+      "url": "https://tinbids.com/auction/252027/",
+      "name": "2021 Sutliff Cringle Flake",
+      "date_end": "2026-11-17 22:11:58"
+    },
+    {
+      "url": "https://tinbids.com/auction/252116/",
+      "name": "Vintage Honest Scrap Tobacco bag 1910 stamp",
+      "date_end": "2026-11-18 02:30:29"
+    },
+    {
+      "url": "https://tinbids.com/auction/251958/",
+      "name": "HU - InBeTween 50g - (German Market) - Not available in US",
+      "date_end": "2026-11-19 17:19:32"
+    },
+    {
+      "url": "https://tinbids.com/auction/251959/",
+      "name": "HU TOBACCO United Passion HAYMAKER - 50g - (German Market) - Not available in US",
+      "date_end": "2026-11-19 17:20:09"
+    },
+    {
+      "url": "https://tinbids.com/auction/251961/",
+      "name": "Robert McConnell Pure Burley (German Market) - Not available in US",
+      "date_end": "2026-11-19 17:20:33"
+    },
+    {
+      "url": "https://tinbids.com/auction/251962/",
+      "name": "Kopp Kopp Master Blend No. 88 (German Market) - Not available in US",
+      "date_end": "2026-11-19 17:21:34"
+    },
+    {
+      "url": "https://tinbids.com/auction/251963/",
+      "name": "C&D Muletown Mixture 2022 and Hay Bale 2023",
+      "date_end": "2026-11-19 17:43:16"
+    },
+    {
+      "url": "https://tinbids.com/auction/252020/",
+      "name": "Early 2000s SAMUEL GAWITH KENDAL CREAM approx. 1.46 oz jarred",
+      "date_end": "2026-11-19 21:37:10"
+    },
+    {
+      "url": "https://tinbids.com/auction/252032/",
+      "name": "Lot of 2 - 2oz of Sun Bear Small Batch",
+      "date_end": "2026-11-19 22:12:46"
+    },
+    {
+      "url": "https://tinbids.com/auction/252033/",
+      "name": "2oz of Sun Bear Small Batch",
+      "date_end": "2026-11-19 22:12:59"
+    },
+    {
+      "url": "https://tinbids.com/auction/252034/",
+      "name": "100g Tin of Mac Baren Plumcake Navy Blend",
+      "date_end": "2026-11-19 22:13:12"
+    },
+    {
+      "url": "https://tinbids.com/auction/252035/",
+      "name": "100g Tin of Mac Baren Golden Blend Ready Rubbed Tobacco",
+      "date_end": "2026-11-19 22:13:30"
+    },
+    {
+      "url": "https://tinbids.com/auction/252036/",
+      "name": "50g Ravenwood Moose Marmalade",
+      "date_end": "2026-11-19 22:13:43"
+    },
+    {
+      "url": "https://tinbids.com/auction/252037/",
+      "name": "50g of Ravenwood Sommersende - Sold Out Everywhere",
+      "date_end": "2026-11-19 22:13:56"
+    },
+    {
+      "url": "https://tinbids.com/auction/252039/",
+      "name": "100g Tin of Mac Baren Stockton Roll Cake Tobacco",
+      "date_end": "2026-11-19 22:14:15"
+    },
+    {
+      "url": "https://tinbids.com/auction/252042/",
+      "name": "L370 Samuel Gawith St James Flake 2015 50gr 2 Tins",
+      "date_end": "2026-11-19 23:06:41"
+    },
+    {
+      "url": "https://tinbids.com/auction/252045/",
+      "name": "L371 Samuel Gawith Full Virginia Flake 2014 50gr 2 Tins",
+      "date_end": "2026-11-19 23:09:50"
+    },
+    {
+      "url": "https://tinbids.com/auction/252048/",
+      "name": "L372 Gawith Hoggarth Brown Sugar Flake 2016 50gr 2 Tins",
+      "date_end": "2026-11-19 23:12:29"
+    },
+    {
+      "url": "https://tinbids.com/auction/252051/",
+      "name": "L373 Brigham Klondike Gold 2014 50gr 2 Tins",
+      "date_end": "2026-11-19 23:15:10"
+    },
+    {
+      "url": "https://tinbids.com/auction/252054/",
+      "name": "McClelland's Christmas Cheer",
+      "date_end": "2026-11-19 23:18:33"
+    },
+    {
+      "url": "https://tinbids.com/auction/252057/",
+      "name": "L374 John Aylesbury Luxury Flake 50gr 2016 & 2019",
+      "date_end": "2026-11-19 23:18:55"
+    },
+    {
+      "url": "https://tinbids.com/auction/252060/",
+      "name": "2025 CORNELL & DIEHL RESERVE XXV DAWN and RESERVE XXV DUSK",
+      "date_end": "2026-11-19 23:50:44"
+    },
+    {
+      "url": "https://tinbids.com/auction/252123/",
+      "name": "G. L. Pease Haddo’s Delight 2001 NR",
+      "date_end": "2026-11-20 04:01:29"
+    },
+    {
+      "url": "https://tinbids.com/auction/252026/",
+      "name": "Casey Jones Last Ride! Awesome Cherry Vanilla flavored Pipe Tobacco Pouches (10) 1.5 oz. Pouches, 15 oz. Total. BIN Available!",
+      "date_end": "2026-11-22 22:11:44"
+    },
+    {
+      "url": "https://tinbids.com/auction/252030/",
+      "name": "Casey Jones Beyond Brave Pipe Tobacco Pouches (6-1.5 oz Pouches) 9 oz Total!  Great Value for a great tobacco blend! BIN Available!",
+      "date_end": "2026-11-22 22:12:05"
+    },
+    {
+      "url": "https://tinbids.com/auction/252031/",
+      "name": "Anthology 2023-Special Edition Full Virginia Blend! Aged to perfection! Very nice Virginia blend!",
+      "date_end": "2026-11-22 22:12:23"
+    },
+    {
+      "url": "https://tinbids.com/auction/252061/",
+      "name": "Lot of 2 - 2oz of The Country Squire BB 1970 (Birthday Bash 1970) small batch",
+      "date_end": "2026-11-23 00:01:50"
+    },
+    {
+      "url": "https://tinbids.com/auction/252062/",
+      "name": "Lot of 2 - Wessex Campaign Dark Flake 50g tins",
+      "date_end": "2026-11-23 00:02:12"
+    },
+    {
+      "url": "https://tinbids.com/auction/252063/",
+      "name": "Lot of 2 - Ravenwood Witchthorn",
+      "date_end": "2026-11-23 00:02:25"
+    },
+    {
+      "url": "https://tinbids.com/auction/252064/",
+      "name": "Dunhill bb 1938",
+      "date_end": "2026-11-23 00:04:20"
+    },
+    {
+      "url": "https://tinbids.com/auction/252068/",
+      "name": "Dunhill Nightcap 2017",
+      "date_end": "2026-11-23 00:17:43"
+    },
+    {
+      "url": "https://tinbids.com/auction/252071/",
+      "name": "DUNHILL MY MIXTURE 965",
+      "date_end": "2026-11-23 00:30:23"
+    },
+    {
+      "url": "https://tinbids.com/auction/252074/",
+      "name": "2020 Cornell  and Diel Carolina  Red Flake",
+      "date_end": "2026-11-23 00:45:06"
+    },
+    {
+      "url": "https://tinbids.com/auction/252083/",
+      "name": "Cornell and Diel Carolina Red flake 2020",
+      "date_end": "2026-11-23 01:00:22"
+    },
+    {
+      "url": "https://tinbids.com/auction/252097/",
+      "name": "ESCUDO 50G",
+      "date_end": "2026-11-23 01:15:13"
+    },
+    {
+      "url": "https://tinbids.com/auction/252100/",
+      "name": "Seattle Pipe Club Wild Man & Mississippi River Rum Barrell Aged Sutliff Era",
+      "date_end": "2026-11-23 01:16:52"
+    },
+    {
+      "url": "https://tinbids.com/auction/252101/",
+      "name": "ESCUDO 50G",
+      "date_end": "2026-11-23 01:30:22"
+    },
+    {
+      "url": "https://tinbids.com/auction/252104/",
+      "name": "Escudo 2019 50 g",
+      "date_end": "2026-11-23 01:45:21"
+    },
+    {
+      "url": "https://tinbids.com/auction/252107/",
+      "name": "Hearth and Home Blackhouse 50g",
+      "date_end": "2026-11-23 02:00:21"
+    },
+    {
+      "url": "https://tinbids.com/auction/252110/",
+      "name": "Hearth and Home Blackhouse 50g",
+      "date_end": "2026-11-23 02:15:15"
+    },
+    {
+      "url": "https://tinbids.com/auction/252113/",
+      "name": "Hearth and Home Blackhouse 50g",
+      "date_end": "2026-11-23 02:30:14"
+    },
+    {
+      "url": "https://tinbids.com/auction/252117/",
+      "name": "HEARTH AND HOME  WHITE KNIGHT 50G",
+      "date_end": "2026-11-23 02:45:16"
+    },
+    {
+      "url": "https://tinbids.com/auction/252120/",
+      "name": "DUNHILL ROYAL YACHT 50G",
+      "date_end": "2026-11-23 03:00:14"
     }
   ],
   "scrape_history": [
@@ -167529,6 +168116,13 @@
       "added": 4,
       "price_changed": 4,
       "total": 5467
+    },
+    {
+      "date": "2026-11-13T05:00:25.534876+00:00",
+      "found": 26,
+      "added": 21,
+      "price_changed": 3,
+      "total": 5488
     }
   ]
 }
