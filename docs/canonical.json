@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-14T16:14:17.297002+00:00",
+  "generated": "2026-11-14T17:06:33.776197+00:00",
   "stats": {
-    "total_listings": 10284,
-    "excluded_multipacks": 2635,
+    "total_listings": 10293,
+    "excluded_multipacks": 2636,
     "total_tins": 1315,
     "multi_member_tins": 672,
     "listings_in_groups": 3570,
@@ -72373,9 +72373,9 @@
             {
               "name": "McClelland Balkan Blue",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/249040/",
-              "price": "$101.00",
-              "last_updated": "2026-11-07T05:00:24.455605+00:00",
+              "url": "https://tinbids.com/auction/251030/",
+              "price": "$131.00",
+              "last_updated": "2026-11-14T17:00:27.708883+00:00",
               "first_seen": "2026-08-04T22:27:46+00:00",
               "year": "",
               "price_history": [
@@ -72386,6 +72386,10 @@
                 {
                   "price": "$101.00",
                   "date": "2026-11-07T05:00:24.455605+00:00"
+                },
+                {
+                  "price": "$131.00",
+                  "date": "2026-11-14T17:00:27.708883+00:00"
                 }
               ]
             },
@@ -119662,6 +119666,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "McClelland Balkan Blue": "mcclelland|balkanblue",
     "McClelland, Syrian Full Balkan Reserve PCCA (2000). 50 gr sealed tin": "pcca|fullbalkanreserve",
     "Sutliff 1849": "sutliff|1849",
     "Bengal Slices": "sutliff|bengalslices",
@@ -119670,7 +119675,6 @@
     "Very Nice Sealed 2012 Hearth & Home International Pipe Smoking Day 2012 50g. Tin": "hearthhome|internationalpipesmokingday",
     "Vintage HICKORY Pipe Tobacco (1998) John Middleton's - 12oz Sealed Can": "johnmiddleton|hickory",
     "McClelland Christmas Cheer": "mcclelland|christmascheer",
-    "McClelland Balkan Blue": "mcclelland|balkanblue",
     "Esoterica Pembroke - 1 Tin NR BIN $100": "esoterica|pembroke",
     "Midnight Orchard": "cornelldiehl|midnightorchard",
     "Carolina Red Flake": "cornelldiehl|carolinaredflake",
