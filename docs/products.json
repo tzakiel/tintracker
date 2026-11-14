@@ -1,6 +1,800 @@
 {
   "products": [
     {
+      "name": "Davidoff Royalty 50g tins – Years 2013 & 2014",
+      "price": "$40.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/davidoff-royalty-50g-tins-years-2013-2014/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-07T18:13:33.441945+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$50.00",
+          "date": "2026-11-07T18:13:33.441945+00:00"
+        },
+        {
+          "price": "$40.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Mac Baren Golden Extra Ready Rubbed 3-1/2oz tins – Year 2008",
+      "price": "$50.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mac-baren-golden-extra-ready-rubbed-3-1-2oz-tins-year-2008/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-07T18:13:33.441945+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$60.00",
+          "date": "2026-11-07T18:13:33.441945+00:00"
+        },
+        {
+          "price": "$50.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Ashton Original Oldchurch 50g tins – Year 2000",
+      "price": "$50.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-ashton-original-oldchurch-50g-tins-year-2000/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-07T18:13:33.441945+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$60.00",
+          "date": "2026-11-07T18:13:33.441945+00:00"
+        },
+        {
+          "price": "$50.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Personal Reserve Series Blackwoods Flake 100g tin – Year 2017",
+      "price": "$130.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-personal-reserve-series-blackwoods-flake-100g-tin-year-2017-2/",
+      "source": "pipestud.com",
+      "first_seen": "2026-09-12T17:13:35.473848+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$125.00",
+          "date": "2026-09-12T17:13:35.473848+00:00"
+        },
+        {
+          "price": "$130.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "G.L Pease Limited Edition Stonehenge Flake 2oz tins – Year 2017",
+      "price": "$60.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-limited-edition-stonehenge-flake-2oz-tins-year-2017-2/",
+      "source": "pipestud.com",
+      "first_seen": "2026-08-01T17:13:47.061174+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$50.00",
+          "date": "2026-08-01T17:13:47.061174+00:00"
+        },
+        {
+          "price": "$60.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Blakeney’s Best Tawny Flake 50g tin – Year 2006",
+      "price": "$70.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-blakeneys-best-tawny-flake-50g-tin-year-2006-2/",
+      "source": "pipestud.com",
+      "first_seen": "2026-07-11T17:13:37.793839+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$80.00",
+          "date": "2026-07-11T17:13:37.793839+00:00"
+        },
+        {
+          "price": "$70.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Lane Limited’s Original Crown Achievement 2oz tin – 1990’s era",
+      "price": "$55.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/lane-limiteds-original-crown-achievement-2oz-tin-1990s-era-2/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$55.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Original Frog Morton 50g tins – Year 2017",
+      "price": "$60.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-original-frog-morton-50g-tins-year-2017/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$60.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Lane Limited’s Original Medal of Honor 2oz tin – 1990’s era",
+      "price": "$55.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/lane-limiteds-original-medal-of-honor-2oz-tin-1990s-era-2/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$55.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Frog Morton Cellar 100g tins – Years 2013 & 2015",
+      "price": "$135.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-frog-morton-cellar-100g-tins-years-2013-2015/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$135.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Lane Limited’s Mountain Leaf 2oz tin – 1990’s era",
+      "price": "$45.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/lane-limiteds-mountain-leaf-2oz-tin-1990s-era/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$45.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Syr. Latakia Full Balkan 50g tins – Year 2004",
+      "price": "$90.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-syr-latakia-full-balkan-50g-tins-year-2004/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$90.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Syr. Latakia Full Balkan 50g tins – Years 2013, 2015 & 2016",
+      "price": "$80.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-syr-latakia-full-balkan-50g-tins-years-2013-2015-2016/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$80.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Mac Baren’s HH Vintage Syr. Latakia One-Pound Vacuum Sealed Bags – Year 2015",
+      "price": "$275.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mac-barens-hh-vintage-syr-latakia-one-pound-vacuum-sealed-bags-year-2015/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$275.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Hearth & Home’s Bengal Slices 50g tins – Year 2020",
+      "price": "$40.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/hearth-homes-bengal-slices-50g-tins-year-2020/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$40.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Orlik Golden Sliced 100g tins – Year 2009",
+      "price": "$85.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/orlik-golden-sliced-100g-tins-year-2009/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$85.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Orlik’s Award Winning LEO 50g tins – Year 2012",
+      "price": "$45.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/orliks-award-winning-leo-50g-tins-year-2012-2/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$45.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Dan Tobacco’s Hamborger Veermaster Virginia Flake 50g tins – Year 2010",
+      "price": "$50.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/dan-tobaccos-hamborger-veermaster-virginia-flake-50g-tins-year-2010/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$50.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Mac Baren’s Navy Flake 100g tins – Year 2007",
+      "price": "$70.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mac-barens-navy-flake-100g-tins-year-2007/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$70.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Mac Baren HH Vintage Syr. Latakia 3-1/2oz tins – First Year 2006 Production",
+      "price": "$125.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mac-baren-hh-vintage-syr-latakia-3-1-2oz-tins-first-year-2006-production/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$125.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Samuel Gawith Best Brown Flake 50g tins – Year 2007",
+      "price": "$50.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/samuel-gawith-best-brown-flake-50g-tins-year-2007/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$50.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Samuel Gawith 1792 Flake 50g tins – Year 2007",
+      "price": "$50.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/samuel-gawith-1792-flake-50g-tins-year-2007/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$50.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Frog Morton On the Town 100g tins – Year 2003",
+      "price": "$135.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-frog-morton-on-the-town-100g-tins-year-2003-2/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$135.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Frog Morton On the Town 50g tins – Year 2003",
+      "price": "$70.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-frog-morton-on-the-town-50g-tins-year-2003/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$70.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Original Frog Morton 100g tin – Year 2005",
+      "price": "$135.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-original-frog-morton-100g-tin-year-2005/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$135.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Personal Reserve Series Dark Star 100g tin – Year 2005",
+      "price": "$150.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-personal-reserve-series-dark-star-100g-tin-year-2005/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$150.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Rattray’s Marlin Flake 50g tins – Year 2010",
+      "price": "$50.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/rattrays-marlin-flake-50g-tins-year-2010/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$50.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Dunhill Nightcap 50g tins – First Year 2005 Orlik Production",
+      "price": "$65.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/dunhill-nightcap-50g-tins-first-year-2005-orlik-production/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$65.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Rattray’s Old Gowrie 100g tin – Year 2007",
+      "price": "$75.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/rattrays-old-gowrie-100g-tin-year-2007/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$75.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "G.L. Pease Variety 5-Pack of 2oz tins – Between 17 & 20 Years Old – Lot #2",
+      "price": "$125.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-variety-5-pack-of-2oz-tins-between-17-20-years-old-lot-2/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$125.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Rattray’s Hal O’ The Wynd 100g tin – Year 2010",
+      "price": "$75.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/rattrays-hal-o-the-wynd-100g-tin-year-2010/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$75.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "G.L. Pease Variety 5-Pack of 2oz tins – Between 17 & 20 Years Old – Lot #1",
+      "price": "$125.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-variety-5-pack-of-2oz-tins-between-17-20-years-old-lot-1/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$125.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Friedman & Pease Fez 2oz tins- Year 1999",
+      "price": "$125.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/friedman-pease-fez-2oz-tins-year-1999/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$125.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Friedman & Pease Syr. Latakia Inverness 2oz tin- Year 1999",
+      "price": "$140.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/friedman-pease-syr-latakia-inverness-2oz-tin-year-1999/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$140.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "G.L. Pease Original Cumberland W/ The 20-year old Kentucky 2oz tins – Years 2002 & 2003",
+      "price": "$60.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-original-cumberland-w-the-20-year-old-kentucky-2oz-tins-years-2002-2003/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$60.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s No. 25 Matured Virginia Series 50g tin – Year 1999",
+      "price": "$75.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-no-25-matured-virginia-series-50g-tin-year-1999/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$75.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s No. 25 Matured Virginia 100g tin – Year 2017",
+      "price": "$130.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-no-25-matured-virginia-100g-tin-year-2017/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$130.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s No. 27 Matured Virginia 100g tins – Years 2016 & 2017",
+      "price": "$130.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-no-27-matured-virginia-100g-tins-years-2016-2017/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$130.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McCranie’s 2008 Crop Red Flake 50g tins – Year 2012 Production & Made by McClelland’s",
+      "price": "$80.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mccranies-2008-crop-red-flake-50g-tins-year-2012-production-made-by-mcclellands/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$80.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Epitome Virginia Flake 50g tin – Year 2017",
+      "price": "$65.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-epitome-virginia-flake-50g-tin-year-2017/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$65.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Ashton Revival Series Black Parrot 50g tins – Year 2015",
+      "price": "$65.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-ashton-revival-series-black-parrot-50g-tins-year-2015/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$65.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Blakeney’s Best Acadian Ribbon 50g tins- Year 2017",
+      "price": "$60.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-blakeneys-best-acadian-ribbon-50g-tins-year-2017/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$60.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Ashton Revival Series Brindle Flake 50g tin – Year 2012",
+      "price": "$65.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-ashton-revival-series-brindle-flake-50g-tin-year-2012-2/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$65.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Butera’s Royal Vintage Blended Flake 50g tin – Year 2010",
+      "price": "$65.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-buteras-royal-vintage-blended-flake-50g-tin-year-2010/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$65.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Davidoff Flake Medallions 50g tin – Year 2012",
+      "price": "$45.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/davidoff-flake-medallions-50g-tin-year-2012/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$45.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Dunhill Aperitif 50g tins – Year 2015",
+      "price": "$45.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/dunhill-aperitif-50g-tins-year-2015/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$45.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Mac Baren’s HH Pure Virginia 50g tins – Year 2015",
+      "price": "$40.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mac-barens-hh-pure-virginia-50g-tins-year-2015/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$40.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Mac Baren’s HH Burley Flake 100g tins – Year 2018",
+      "price": "$55.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mac-barens-hh-burley-flake-100g-tins-year-2018/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$55.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Fribourg & Treyer Cut Virginia Plug 50g tin – Year 2002",
+      "price": "$50.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/fribourg-treyer-cut-virginia-plug-50g-tin-year-2002/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$50.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Samuel Gawith Full Virginia Flake 50g tin – Year 2015",
+      "price": "$65.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/samuel-gawith-full-virginia-flake-50g-tin-year-2015-2/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$65.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Murray’s Erinmore Flake 50g tins – Year 2010",
+      "price": "$50.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/murrays-erinmore-flake-50g-tins-year-2010/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$50.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Solani Aged Burley Flake 50g tin – Year 2013",
+      "price": "$40.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/solani-aged-burley-flake-50g-tin-year-2013/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$40.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Wessex Red Virginia Flake 50g tin – Year 2015",
+      "price": "$45.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/wessex-red-virginia-flake-50g-tin-year-2015/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$45.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Dunhill De Luxe Navy Rolls 50g tins – Year 2017",
+      "price": "$60.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/dunhill-de-luxe-navy-rolls-50g-tins-year-2017/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$60.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Escudo Navy De Luxe 3-Pack of 50g tins – Year 2014",
+      "price": "$125.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/escudo-navy-de-luxe-3-pack-of-50g-tins-year-2014/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$125.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
       "name": "Dan Tobacco’s Da Vinci 50g tin – Year 2003",
       "price": "$50.00",
       "url": "https://www.pipestud.com/product/tobacco-tins/dan-tobaccos-da-vinci-50g-tin-year-2003/",
@@ -95,20 +889,6 @@
       ]
     },
     {
-      "name": "Davidoff Royalty 50g tins – Years 2013 & 2014",
-      "price": "$50.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/davidoff-royalty-50g-tins-years-2013-2014/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$50.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
       "name": "Sutliff Villiger 1888 Late Night 50g tins – Year 2011",
       "price": "$40.00",
       "url": "https://www.pipestud.com/product/tobacco-tins/sutliff-villiger-1888-late-night-50g-tins-year-2011/",
@@ -174,20 +954,6 @@
       "price_history": [
         {
           "price": "$55.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Mac Baren Golden Extra Ready Rubbed 3-1/2oz tins – Year 2008",
-      "price": "$60.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/mac-baren-golden-extra-ready-rubbed-3-1-2oz-tins-year-2008/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$60.00",
           "date": "2026-11-07T18:13:33.441945+00:00"
         }
       ]
@@ -426,20 +1192,6 @@
       "price_history": [
         {
           "price": "$165.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "McClelland’s Ashton Original Oldchurch 50g tins – Year 2000",
-      "price": "$60.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-ashton-original-oldchurch-50g-tins-year-2000/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$60.00",
           "date": "2026-11-07T18:13:33.441945+00:00"
         }
       ]
@@ -699,7 +1451,7 @@
     {
       "name": "A&C Petersen Caledonian Milange No. 421 in a 50g tin – Mid to Late 1990’s era",
       "price": "$125.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/ac-petersen-caledonian-milange-no-421-in-a-50g-tin-mid-to-late-1990s-era/",
+      "url": "https://www.pipestud.com/product/tobacco-tins/ac-petersen-caledonian-milange-no-421-in-a-50g-tin-mid-to-late-1990s-era-2/",
       "source": "pipestud.com",
       "first_seen": "2026-11-07T18:13:33.441945+00:00",
       "last_updated": "2026-11-07T18:13:33.441945+00:00",
@@ -727,7 +1479,7 @@
     {
       "name": "A&C Petersen Caledonian Milange No. 466 Grand Reserve 50g tin – Mid to Late 1990’s era",
       "price": "$125.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/ac-petersen-caledonian-milange-no-466-grand-reserve-50g-tin-mid-to-late-1990s-era/",
+      "url": "https://www.pipestud.com/product/tobacco-tins/ac-petersen-caledonian-milange-no-466-grand-reserve-50g-tin-mid-to-late-1990s-era-2/",
       "source": "pipestud.com",
       "first_seen": "2026-11-07T18:13:33.441945+00:00",
       "last_updated": "2026-11-07T18:13:33.441945+00:00",
@@ -1560,7 +2312,7 @@
     {
       "name": "McClelland’s No. 24 Matured Virginia 100g tins – Year 2005",
       "price": "$135.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-no-24-matured-virginia-100g-tins-year-2005/",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-no-24-matured-virginia-100g-tins-year-2005-2/",
       "source": "pipestud.com",
       "first_seen": "2026-10-31T17:13:39.398675+00:00",
       "last_updated": "2026-10-31T17:13:39.398675+00:00",
@@ -1988,7 +2740,7 @@
     {
       "name": "McClelland’s Personal Reserve Series Blackwoods Flake 100g tin – Year 2005",
       "price": "$145.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-personal-reserve-series-blackwoods-flake-100g-tin-year-2005/",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-personal-reserve-series-blackwoods-flake-100g-tin-year-2005-2/",
       "source": "pipestud.com",
       "first_seen": "2026-10-17T17:13:45.373780+00:00",
       "last_updated": "2026-10-17T17:13:45.373780+00:00",
@@ -7774,20 +8526,6 @@
       "price_history": [
         {
           "price": "$75.00",
-          "date": "2026-09-12T17:13:35.473848+00:00"
-        }
-      ]
-    },
-    {
-      "name": "McClelland’s Personal Reserve Series Blackwoods Flake 100g tin – Year 2017",
-      "price": "$125.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-personal-reserve-series-blackwoods-flake-100g-tin-year-2017-2/",
-      "source": "pipestud.com",
-      "first_seen": "2026-09-12T17:13:35.473848+00:00",
-      "last_updated": "2026-09-12T17:13:35.473848+00:00",
-      "price_history": [
-        {
-          "price": "$125.00",
           "date": "2026-09-12T17:13:35.473848+00:00"
         }
       ]
@@ -15222,20 +15960,6 @@
       ]
     },
     {
-      "name": "G.L Pease Limited Edition Stonehenge Flake 2oz tins – Year 2017",
-      "price": "$50.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-limited-edition-stonehenge-flake-2oz-tins-year-2017-2/",
-      "source": "pipestud.com",
-      "first_seen": "2026-08-01T17:13:47.061174+00:00",
-      "last_updated": "2026-08-01T17:13:47.061174+00:00",
-      "price_history": [
-        {
-          "price": "$50.00",
-          "date": "2026-08-01T17:13:47.061174+00:00"
-        }
-      ]
-    },
-    {
       "name": "Graf Luckner Mixture Featuring Syrian Latakia and Virginia – 1980’s era (One Tin Per Customer)",
       "price": "$225.00",
       "url": "https://www.pipestud.com/product/tobacco-tins/graf-luckner-mixture-featuring-syrian-latakia-and-virginia-1980s-era-one-tin-per-customer/",
@@ -18445,20 +19169,6 @@
       ]
     },
     {
-      "name": "McClelland’s Blakeney’s Best Tawny Flake 50g tin – Year 2006",
-      "price": "$80.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-blakeneys-best-tawny-flake-50g-tin-year-2006-2/",
-      "source": "pipestud.com",
-      "first_seen": "2026-07-11T17:13:37.793839+00:00",
-      "last_updated": "2026-07-11T17:13:37.793839+00:00",
-      "price_history": [
-        {
-          "price": "$80.00",
-          "date": "2026-07-11T17:13:37.793839+00:00"
-        }
-      ]
-    },
-    {
       "name": "July 4th Holiday Sale! Bolivar Lonsdale Factory Sealed Box of 25 Cigars – About 6 or 7-years  old",
       "price": "$90.00",
       "url": "https://www.pipestud.com/product/cigars/mcclellands-wilderness-syr-latakia-50g-tin-year-2016-6/",
@@ -21276,7 +21986,7 @@
       "last_updated": "2026-06-20T16:28:47.877864+00:00"
     }
   ],
-  "last_scraped": "2026-11-07T18:13:33.441945+00:00",
+  "last_scraped": "2026-11-14T18:13:30.731190+00:00",
   "last_scrape_names": [
     "McClelland’s Personal Reserve Series Blackwoods Flake 50g tin – Year 2016",
     "Mullingar’s Moyhall Oriental Blend 2oz tins – 1980’s or Early 1990’s Production",
@@ -21369,649 +22079,72 @@
   ],
   "latest_scrape": [
     {
-      "name": "Davidoff Royalty 50g tins – Years 2013 & 2014",
-      "price": "$50.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/davidoff-royalty-50g-tins-years-2013-2014/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$50.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Sutliff Villiger 1888 Late Night 50g tins – Year 2011",
-      "price": "$40.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/sutliff-villiger-1888-late-night-50g-tins-year-2011/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$40.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Samuel Gawith Best Brown Flake 50g tin – Year 2014",
-      "price": "$45.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/samuel-gawith-best-brown-flake-50g-tin-year-2014-2/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$45.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Sutliff Villiger 1888 After Dinner Virginia/Perique 50g tins – Year 2011",
-      "price": "$40.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/sutliff-villiger-1888-after-dinner-virginia-perique-50g-tins-year-2011/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$40.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Rattray’s Old Gowrie 100g tins – Year 2014",
+      "name": "Lane Limited’s Original Crown Achievement 2oz tin – 1990’s era",
       "price": "$55.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/rattrays-old-gowrie-100g-tins-year-2014/",
+      "url": "https://www.pipestud.com/product/tobacco-tins/lane-limiteds-original-crown-achievement-2oz-tin-1990s-era-2/",
       "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
       "price_history": [
         {
           "price": "$55.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
+          "date": "2026-11-14T18:13:30.731190+00:00"
         }
       ]
     },
     {
-      "name": "Samuel Gawith Grouse-Moor 50g tin – Year 1998",
-      "price": "$55.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/samuel-gawith-grouse-moor-50g-tin-year-1998/",
+      "name": "McClelland’s Original Frog Morton 50g tins – Year 2017",
+      "price": "$60.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-original-frog-morton-50g-tins-year-2017/",
       "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$60.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Lane Limited’s Original Medal of Honor 2oz tin – 1990’s era",
+      "price": "$55.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/lane-limiteds-original-medal-of-honor-2oz-tin-1990s-era-2/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
       "price_history": [
         {
           "price": "$55.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
+          "date": "2026-11-14T18:13:30.731190+00:00"
         }
       ]
     },
     {
-      "name": "Mac Baren Golden Extra Ready Rubbed 3-1/2oz tins – Year 2008",
-      "price": "$60.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/mac-baren-golden-extra-ready-rubbed-3-1-2oz-tins-year-2008/",
+      "name": "McClelland’s Frog Morton Cellar 100g tins – Years 2013 & 2015",
+      "price": "$135.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-frog-morton-cellar-100g-tins-years-2013-2015/",
       "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
       "price_history": [
         {
-          "price": "$60.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
+          "price": "$135.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
         }
       ]
     },
     {
-      "name": "Cornell & Diehl Small Batch Carolina Red Flake W/ Perique 2-Packs of 2oz tins – Years 2023 & 2025",
-      "price": "$55.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/cornell-diehl-small-batch-carolina-red-flake-w-perique-2-packs-of-2oz-tins-years-2023-2025/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$55.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Mac Baren Roll Cake 2oz tins – Year 2008",
-      "price": "$40.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/mac-baren-roll-cake-2oz-tins-year-2008/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$40.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Sutliff Limited Edition Crumble Kake #3 in 50g tins – Year 2022",
-      "price": "$35.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/sutliff-limited-edition-crumble-kake-3-in-50g-tins-year-2022/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$35.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Watch City Cigar & Pipe 25th Anniversary Virginia/Perique Flake 50g tins – Year 2021",
-      "price": "$35.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/watch-city-cigar-pipe-25th-anniversary-virginia-perique-flake-50g-tins-year-2021/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$35.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Sutliff Cringle Flake 50g tins – Year 2019",
+      "name": "Lane Limited’s Mountain Leaf 2oz tin – 1990’s era",
       "price": "$45.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/sutliff-cringle-flake-50g-tins-year-2019/",
+      "url": "https://www.pipestud.com/product/tobacco-tins/lane-limiteds-mountain-leaf-2oz-tin-1990s-era/",
       "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
       "price_history": [
         {
           "price": "$45.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Georg Jensen’s Birds of a Feather Limited Edition Series Aberrant 50g tins – Year 2022",
-      "price": "$40.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/georg-jensens-birds-of-a-feather-limited-edition-series-aberrant-50g-tins-year-2022-2/",
-      "source": "pipestud.com",
-      "first_seen": "2026-10-17T17:13:45.373780+00:00",
-      "last_updated": "2026-10-17T17:13:45.373780+00:00",
-      "price_history": [
-        {
-          "price": "$40.00",
-          "date": "2026-10-17T17:13:45.373780+00:00"
-        }
-      ]
-    },
-    {
-      "name": "McClelland’s Tastemaster 50g tin – Year 2016",
-      "price": "$45.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-tastemaster-50g-tin-year-2016/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$45.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "McClelland’s Butera’s Royal Vintage Sweet Cavendish 50g tins – Year 2017",
-      "price": "$40.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-buteras-royal-vintage-sweet-cavendish-50g-tins-year-2017/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$40.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Samuel Gawith Kendal Plug 8oz box – Year 2018",
-      "price": "$150.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/samuel-gawith-kendal-plug-8oz-box-year-2018/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$150.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Samuel Gawith St. James Flake 8oz box – Year 2018",
-      "price": "$150.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/samuel-gawith-st-james-flake-8oz-box-year-2018/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$150.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Samuel Gawith Skiff Mixture 8oz box – Year 2018",
-      "price": "$150.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/samuel-gawith-skiff-mixture-8oz-box-year-2018/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$150.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Samuel Gawith Squadron Leader 8oz box – Year 2018",
-      "price": "$150.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/samuel-gawith-squadron-leader-8oz-box-year-2018/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$150.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Samuel Gawith Fire Dance Flake 8oz box – Year 2018",
-      "price": "$150.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/samuel-gawith-fire-dance-flake-8oz-box-year-2018/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$150.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Wessex Dark Flake 5-Packs of 50g tins – Year 2012",
-      "price": "$175.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/wessex-dark-flake-5-packs-of-50g-tins-year-2012/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$175.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Wessex Dark Flake 50g tins – Year 2012",
-      "price": "$45.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/wessex-dark-flake-50g-tins-year-2012/",
-      "first_seen": "2026-06-20T16:28:47.877864+00:00",
-      "last_seen": "2026-06-21T03:15:02.754777+00:00",
-      "source": "pipestud.com",
-      "price_history": [
-        {
-          "price": "$45.00",
-          "date": "2026-06-20T16:28:47.877864+00:00"
-        }
-      ],
-      "last_updated": "2026-06-20T16:28:47.877864+00:00"
-    },
-    {
-      "name": "Wessex Classic Virginia 50g tin – Year 2012",
-      "price": "$50.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/wessex-classic-virginia-50g-tin-year-2012/",
-      "source": "pipestud.com",
-      "first_seen": "2026-08-29T17:13:41.194929+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$45.00",
-          "date": "2026-08-29T17:13:41.194929+00:00"
-        },
-        {
-          "price": "$50.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Brebbia Fugue 50g tin – Year 1993 & Made by McClelland’s",
-      "price": "$75.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/brebbia-fugue-50g-tin-year-1993-made-by-mcclellands/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$75.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "PCCA Best Friends 50g tin – Year 1994 & Made by McClelland’s",
-      "price": "$75.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/pcca-best-friends-50g-tin-year-1994-made-by-mcclellands-2/",
-      "source": "pipestud.com",
-      "first_seen": "2026-10-17T17:13:45.373780+00:00",
-      "last_updated": "2026-10-17T17:13:45.373780+00:00",
-      "price_history": [
-        {
-          "price": "$75.00",
-          "date": "2026-10-17T17:13:45.373780+00:00"
-        }
-      ]
-    },
-    {
-      "name": "PCCA JAZZ 50g tin – Year 1995 & Made by McClelland’s",
-      "price": "$85.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/pcca-jazz-50g-tin-year-1995-made-by-mcclellands-2/",
-      "source": "pipestud.com",
-      "first_seen": "2026-10-17T17:13:45.373780+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$80.00",
-          "date": "2026-10-17T17:13:45.373780+00:00"
-        },
-        {
-          "price": "$85.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "G.L. Pease & Gawith Hoggarth Original Stonehenge Flake 2oz tin – Year 2001",
-      "price": "$110.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-gawith-hoggarth-original-stonehenge-flake-2oz-tin-year-2001/",
-      "source": "pipestud.com",
-      "first_seen": "2026-10-31T17:13:39.398675+00:00",
-      "last_updated": "2026-10-31T17:13:39.398675+00:00",
-      "price_history": [
-        {
-          "price": "$110.00",
-          "date": "2026-10-31T17:13:39.398675+00:00"
-        }
-      ]
-    },
-    {
-      "name": "PCCA Tudor 50g tin – Year 1994 & Made by McClelland’s",
-      "price": "$85.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/pcca-tudor-50g-tin-year-1994-made-by-mcclellands/",
-      "source": "pipestud.com",
-      "first_seen": "2026-10-31T17:13:39.398675+00:00",
-      "last_updated": "2026-10-31T17:13:39.398675+00:00",
-      "price_history": [
-        {
-          "price": "$85.00",
-          "date": "2026-10-31T17:13:39.398675+00:00"
-        }
-      ]
-    },
-    {
-      "name": "G.L. Pease Original Cumberland W/ The 20-year old Kentucky 2oz tins – Year 2002",
-      "price": "$60.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-original-cumberland-w-the-20-year-old-kentucky-2oz-tins-year-2002/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$60.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "G.L. Pease Haddo’s Delight 2oz tin – Year 2002",
-      "price": "$60.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-haddos-delight-2oz-tin-year-2002/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$60.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "G.L. Pease Cairo 2oz tins – First year 2000 Production",
-      "price": "$65.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-cairo-2oz-tins-first-year-2000-production/",
-      "source": "pipestud.com",
-      "first_seen": "2026-10-10T17:13:34.526548+00:00",
-      "last_updated": "2026-10-10T17:13:34.526548+00:00",
-      "price_history": [
-        {
-          "price": "$65.00",
-          "date": "2026-10-10T17:13:34.526548+00:00"
-        }
-      ]
-    },
-    {
-      "name": "G.L. Pease Robusto 2oz tin – Year 2002",
-      "price": "$60.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-robusto-2oz-tin-year-2002-2/",
-      "source": "pipestud.com",
-      "first_seen": "2026-10-31T17:13:39.398675+00:00",
-      "last_updated": "2026-10-31T17:13:39.398675+00:00",
-      "price_history": [
-        {
-          "price": "$60.00",
-          "date": "2026-10-31T17:13:39.398675+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Friedman & Pease Syr. Latakia Inverness 2oz tin- Year 1999 (One Tin Per Customer)",
-      "price": "$125.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/friedman-pease-syr-latakia-inverness-2oz-tin-year-1999-one-tin-per-customer-2/",
-      "source": "pipestud.com",
-      "first_seen": "2026-10-10T17:13:34.526548+00:00",
-      "last_updated": "2026-10-10T17:13:34.526548+00:00",
-      "price_history": [
-        {
-          "price": "$125.00",
-          "date": "2026-10-10T17:13:34.526548+00:00"
-        }
-      ]
-    },
-    {
-      "name": "G.L. Pease Classic Collection Stratford 2oz tin – First Year 2003 Production",
-      "price": "$60.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-classic-collection-stratford-2oz-tin-first-year-2003-production/",
-      "source": "pipestud.com",
-      "first_seen": "2026-07-18T17:13:38.985666+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$70.00",
-          "date": "2026-07-18T17:13:38.985666+00:00"
-        },
-        {
-          "price": "$50.00",
-          "date": "2026-08-22T17:13:37.308857+00:00"
-        },
-        {
-          "price": "$60.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Friedman & Pease Fool’s Cap Virginia / Perique Mixture 4oz tin – Year 1999",
-      "price": "$165.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/friedman-pease-fools-cap-virginia-perique-mixture-4oz-tin-year-1999/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$165.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "McClelland’s Ashton Original Oldchurch 50g tins – Year 2000",
-      "price": "$60.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-ashton-original-oldchurch-50g-tins-year-2000/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$60.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "McClelland’s Beacon Extra 50g tin – Year 2016",
-      "price": "$65.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-beacon-extra-50g-tin-year-2016/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$65.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "McClelland’s Blending Perique 50g tin – Year 2014",
-      "price": "$55.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-blending-perique-50g-tin-year-2014/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$55.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "McClelland’s Ashton Revival Series Pebblecut 50g tin – Year 2010",
-      "price": "$65.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-ashton-revival-series-pebblecut-50g-tin-year-2010/",
-      "source": "pipestud.com",
-      "first_seen": "2026-09-12T17:13:35.473848+00:00",
-      "last_updated": "2026-09-12T17:13:35.473848+00:00",
-      "price_history": [
-        {
-          "price": "$65.00",
-          "date": "2026-09-12T17:13:35.473848+00:00"
-        }
-      ]
-    },
-    {
-      "name": "James J. Fox Provost Mixture 50g tin – Year 2009",
-      "price": "$45.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/james-j-fox-provost-mixture-50g-tin-year-2009/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$45.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Ashton Type 1 in 50g tins – 1980s era & Made in England by Robert McConnell",
-      "price": "$80.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/ashton-type-1-in-50g-tins-1980s-era-made-in-england-by-robert-mcconnell/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$80.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Peterson’s University Flake 50g tins – Year 2010",
-      "price": "$40.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/petersons-university-flake-50g-tins-year-2010/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$40.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Orlik Golden Sliced 50g tin – Years 2010 & 2011",
-      "price": "$50.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/orlik-golden-sliced-50g-tin-years-2010-2011/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$50.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Vauen No. 14 Virginia Flake 50g tin – Year 2012",
-      "price": "$45.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/vauen-no-14-virginia-flake-50g-tin-year-2012/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$45.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Peter Stokkebye PS Luxury Twist Flake 1.5 Pound Factory Sealed Box – Year 2013",
-      "price": "$275.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/peter-stokkebye-ps-luxury-twist-flake-1-5-pound-factory-sealed-box-year-2013/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$275.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
+          "date": "2026-11-14T18:13:30.731190+00:00"
         }
       ]
     },
@@ -22030,30 +22163,16 @@
       ]
     },
     {
-      "name": "McClelland’s Frog Morton Cellar 100g tins – Years 2013, 2015 & 2016",
-      "price": "$135.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-frog-morton-cellar-100g-tins-years-2013-2015-2016/",
+      "name": "McClelland’s Syr. Latakia Full Balkan 50g tins – Year 2004",
+      "price": "$90.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-syr-latakia-full-balkan-50g-tins-year-2004/",
       "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
       "price_history": [
         {
-          "price": "$135.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "McClelland’s Original Frog Morton 100g tins – Year 2012",
-      "price": "$130.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-original-frog-morton-100g-tins-year-2012/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$130.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
+          "price": "$90.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
         }
       ]
     },
@@ -22080,121 +22199,829 @@
       ]
     },
     {
-      "name": "Germain’s Eighteen Twenty Smoking Mixture 50g tin – Year 2009",
+      "name": "McClelland’s Syr. Latakia Full Balkan 50g tins – Years 2013, 2015 & 2016",
       "price": "$80.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/germains-eighteen-twenty-smoking-mixture-50g-tin-year-2009/",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-syr-latakia-full-balkan-50g-tins-years-2013-2015-2016/",
       "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
       "price_history": [
         {
           "price": "$80.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
+          "date": "2026-11-14T18:13:30.731190+00:00"
         }
       ]
     },
     {
-      "name": "McClelland’s Syr. Latakia Full Balkan 50g tins – Year 2013",
-      "price": "$85.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-syr-latakia-full-balkan-50g-tins-year-2013/",
+      "name": "Mac Baren Limited Edition Latakia Rolls 3-1/2oz tins – Year 2020",
+      "price": "$75.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mac-baren-limited-edition-latakia-rolls-3-1-2oz-tins-year-2020-3/",
       "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
+      "first_seen": "2026-07-18T17:13:38.985666+00:00",
+      "last_updated": "2026-09-26T17:13:39.192166+00:00",
       "price_history": [
         {
           "price": "$85.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Mac Baren HH Vintage Syr. Latakia 3-1/2oz tins – Year 2014",
-      "price": "$115.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/mac-baren-hh-vintage-syr-latakia-3-1-2oz-tins-year-2014/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
+          "date": "2026-07-18T17:13:38.985666+00:00"
+        },
         {
-          "price": "$115.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Golden Oldie Alert! Middleton’s Sugar Barrel 12oz tub – Year 2010",
-      "price": "$175.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/golden-oldie-alert-middletons-sugar-barrel-12oz-tub-year-2010/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
+          "price": "$65.00",
+          "date": "2026-07-25T17:13:37.916898+00:00"
+        },
         {
-          "price": "$175.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
+          "price": "$75.00",
+          "date": "2026-09-26T17:13:39.192166+00:00"
         }
       ]
     },
     {
-      "name": "Cornell & Diehl’s Briar Fox 16oz Brick – Year 2011",
-      "price": "$225.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/cornell-diehls-briar-fox-16oz-brick-year-2011/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$225.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "McClelland’s No. 27 Matured Virginia 4oz tin – Year 1978 – Made in McClelland’s 2nd Year of Existence!",
+      "name": "Mac Baren’s HH Vintage Syr. Latakia One-Pound Vacuum Sealed Bags – Year 2015",
       "price": "$275.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-no-27-matured-virginia-4oz-tin-year-1978-made-in-mcclellands-2nd-year-of-existence/",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mac-barens-hh-vintage-syr-latakia-one-pound-vacuum-sealed-bags-year-2015/",
       "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
       "price_history": [
         {
           "price": "$275.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
+          "date": "2026-11-14T18:13:30.731190+00:00"
         }
       ]
     },
     {
-      "name": "Gallaher’s era John Cotton’s No. 1 Mild 50g tin – 1980’s Production era",
-      "price": "$225.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/gallahers-era-john-cottons-no-1-mild-50g-tin-1980s-production-era/",
+      "name": "Hearth & Home’s Bengal Slices 50g tins – Year 2020",
+      "price": "$40.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/hearth-homes-bengal-slices-50g-tins-year-2020/",
       "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
       "price_history": [
         {
-          "price": "$225.00",
+          "price": "$40.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Orlik Golden Sliced 100g tins – Year 2009",
+      "price": "$85.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/orlik-golden-sliced-100g-tins-year-2009/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$85.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Orlik’s Award Winning LEO 50g tins – Year 2012",
+      "price": "$45.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/orliks-award-winning-leo-50g-tins-year-2012-2/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$45.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Dan Tobacco’s Hamborger Veermaster Virginia Flake 50g tins – Year 2010",
+      "price": "$50.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/dan-tobaccos-hamborger-veermaster-virginia-flake-50g-tins-year-2010/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$50.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Mac Baren’s Navy Flake 100g tins – Year 2007",
+      "price": "$70.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mac-barens-navy-flake-100g-tins-year-2007/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$70.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Mac Baren HH Vintage Syr. Latakia 3-1/2oz tins – First Year 2006 Production",
+      "price": "$125.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mac-baren-hh-vintage-syr-latakia-3-1-2oz-tins-first-year-2006-production/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$125.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Samuel Gawith Best Brown Flake 50g tins – Year 2007",
+      "price": "$50.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/samuel-gawith-best-brown-flake-50g-tins-year-2007/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$50.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Samuel Gawith 1792 Flake 50g tins – Year 2007",
+      "price": "$50.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/samuel-gawith-1792-flake-50g-tins-year-2007/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$50.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Frog Morton On the Town 100g tins – Year 2003",
+      "price": "$135.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-frog-morton-on-the-town-100g-tins-year-2003-2/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$135.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Frog Morton On the Town 50g tins – Year 2003",
+      "price": "$70.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-frog-morton-on-the-town-50g-tins-year-2003/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$70.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Original Frog Morton 100g tin – Year 2005",
+      "price": "$135.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-original-frog-morton-100g-tin-year-2005/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$135.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s No. 24 Matured Virginia 100g tins – Year 2005",
+      "price": "$135.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-no-24-matured-virginia-100g-tins-year-2005-2/",
+      "source": "pipestud.com",
+      "first_seen": "2026-10-31T17:13:39.398675+00:00",
+      "last_updated": "2026-10-31T17:13:39.398675+00:00",
+      "price_history": [
+        {
+          "price": "$135.00",
+          "date": "2026-10-31T17:13:39.398675+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Personal Reserve Series Blackwoods Flake 100g tin – Year 2005",
+      "price": "$145.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-personal-reserve-series-blackwoods-flake-100g-tin-year-2005-2/",
+      "source": "pipestud.com",
+      "first_seen": "2026-10-17T17:13:45.373780+00:00",
+      "last_updated": "2026-10-17T17:13:45.373780+00:00",
+      "price_history": [
+        {
+          "price": "$145.00",
+          "date": "2026-10-17T17:13:45.373780+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Personal Reserve Series Dark Star 100g tin – Year 2005",
+      "price": "$150.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-personal-reserve-series-dark-star-100g-tin-year-2005/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$150.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Rattray’s Marlin Flake 50g tins – Year 2010",
+      "price": "$50.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/rattrays-marlin-flake-50g-tins-year-2010/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$50.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Dunhill Nightcap 50g tins – First Year 2005 Orlik Production",
+      "price": "$65.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/dunhill-nightcap-50g-tins-first-year-2005-orlik-production/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$65.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Rattray’s Old Gowrie 100g tin – Year 2007",
+      "price": "$75.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/rattrays-old-gowrie-100g-tin-year-2007/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$75.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "G.L. Pease Variety 5-Pack of 2oz tins – Between 17 & 20 Years Old – Lot #2",
+      "price": "$125.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-variety-5-pack-of-2oz-tins-between-17-20-years-old-lot-2/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$125.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Rattray’s Hal O’ The Wynd 100g tin – Year 2010",
+      "price": "$75.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/rattrays-hal-o-the-wynd-100g-tin-year-2010/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$75.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "G.L. Pease Variety 5-Pack of 2oz tins – Between 17 & 20 Years Old – Lot #1",
+      "price": "$125.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-variety-5-pack-of-2oz-tins-between-17-20-years-old-lot-1/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$125.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Friedman & Pease Fez 2oz tins- Year 1999",
+      "price": "$125.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/friedman-pease-fez-2oz-tins-year-1999/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$125.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Friedman & Pease Syr. Latakia Inverness 2oz tin- Year 1999",
+      "price": "$140.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/friedman-pease-syr-latakia-inverness-2oz-tin-year-1999/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$140.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Ashton Original Oldchurch 50g tins – Year 2000",
+      "price": "$50.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-ashton-original-oldchurch-50g-tins-year-2000/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-07T18:13:33.441945+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$60.00",
           "date": "2026-11-07T18:13:33.441945+00:00"
+        },
+        {
+          "price": "$50.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "G.L. Pease Barbary Coast 2oz tin – Year 2002",
+      "price": "$60.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-barbary-coast-2oz-tin-year-2002-2/",
+      "source": "pipestud.com",
+      "first_seen": "2026-10-10T17:13:34.526548+00:00",
+      "last_updated": "2026-10-10T17:13:34.526548+00:00",
+      "price_history": [
+        {
+          "price": "$60.00",
+          "date": "2026-10-10T17:13:34.526548+00:00"
+        }
+      ]
+    },
+    {
+      "name": "G.L. Pease Cairo 2oz tins – First year 2000 Production",
+      "price": "$65.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-cairo-2oz-tins-first-year-2000-production/",
+      "source": "pipestud.com",
+      "first_seen": "2026-10-10T17:13:34.526548+00:00",
+      "last_updated": "2026-10-10T17:13:34.526548+00:00",
+      "price_history": [
+        {
+          "price": "$65.00",
+          "date": "2026-10-10T17:13:34.526548+00:00"
+        }
+      ]
+    },
+    {
+      "name": "G.L. Pease Original Cumberland W/ The 20-year old Kentucky 2oz tins – Years 2002 & 2003",
+      "price": "$60.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-original-cumberland-w-the-20-year-old-kentucky-2oz-tins-years-2002-2003/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$60.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s No. 25 Matured Virginia Series 50g tin – Year 1999",
+      "price": "$75.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-no-25-matured-virginia-series-50g-tin-year-1999/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$75.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s 40th Anniversary 100g tins – Year 2017",
+      "price": "$125.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-40th-anniversary-100g-tins-year-2017-2/",
+      "source": "pipestud.com",
+      "first_seen": "2026-08-01T17:13:47.061174+00:00",
+      "last_updated": "2026-10-10T17:13:34.526548+00:00",
+      "price_history": [
+        {
+          "price": "$120.00",
+          "date": "2026-08-01T17:13:47.061174+00:00"
+        },
+        {
+          "price": "$125.00",
+          "date": "2026-10-10T17:13:34.526548+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s No. 25 Matured Virginia 100g tin – Year 2017",
+      "price": "$130.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-no-25-matured-virginia-100g-tin-year-2017/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$130.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s No. 27 Matured Virginia 100g tins – Years 2016 & 2017",
+      "price": "$130.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-no-27-matured-virginia-100g-tins-years-2016-2017/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$130.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Personal Reserve Series Blackwoods Flake 100g tin – Year 2017",
+      "price": "$130.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-personal-reserve-series-blackwoods-flake-100g-tin-year-2017-2/",
+      "source": "pipestud.com",
+      "first_seen": "2026-09-12T17:13:35.473848+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$125.00",
+          "date": "2026-09-12T17:13:35.473848+00:00"
+        },
+        {
+          "price": "$130.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McCranie’s 2008 Crop Red Flake 50g tins – Year 2012 Production & Made by McClelland’s",
+      "price": "$80.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mccranies-2008-crop-red-flake-50g-tins-year-2012-production-made-by-mcclellands/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$80.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Epitome Virginia Flake 50g tin – Year 2017",
+      "price": "$65.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-epitome-virginia-flake-50g-tin-year-2017/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$65.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Ashton Revival Series Black Parrot 50g tins – Year 2015",
+      "price": "$65.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-ashton-revival-series-black-parrot-50g-tins-year-2015/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$65.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Blakeney’s Best Acadian Ribbon 50g tins- Year 2017",
+      "price": "$60.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-blakeneys-best-acadian-ribbon-50g-tins-year-2017/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$60.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Blakeney’s Best Tawny Flake 50g tin – Year 2006",
+      "price": "$70.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-blakeneys-best-tawny-flake-50g-tin-year-2006-2/",
+      "source": "pipestud.com",
+      "first_seen": "2026-07-11T17:13:37.793839+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$80.00",
+          "date": "2026-07-11T17:13:37.793839+00:00"
+        },
+        {
+          "price": "$70.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Ashton Revival Series Brindle Flake 50g tin – Year 2012",
+      "price": "$65.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-ashton-revival-series-brindle-flake-50g-tin-year-2012-2/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$65.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "McClelland’s Butera’s Royal Vintage Blended Flake 50g tin – Year 2010",
+      "price": "$65.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-buteras-royal-vintage-blended-flake-50g-tin-year-2010/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$65.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "G.L Pease Limited Edition Stonehenge Flake 2oz tins – Year 2017",
+      "price": "$60.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-limited-edition-stonehenge-flake-2oz-tins-year-2017-2/",
+      "source": "pipestud.com",
+      "first_seen": "2026-08-01T17:13:47.061174+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$50.00",
+          "date": "2026-08-01T17:13:47.061174+00:00"
+        },
+        {
+          "price": "$60.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Davidoff Flake Medallions 50g tin – Year 2012",
+      "price": "$45.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/davidoff-flake-medallions-50g-tin-year-2012/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$45.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Dunhill Aperitif 50g tins – Year 2015",
+      "price": "$45.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/dunhill-aperitif-50g-tins-year-2015/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$45.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Mac Baren’s HH Pure Virginia 50g tins – Year 2015",
+      "price": "$40.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mac-barens-hh-pure-virginia-50g-tins-year-2015/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$40.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Mac Baren’s HH Burley Flake 100g tins – Year 2018",
+      "price": "$55.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mac-barens-hh-burley-flake-100g-tins-year-2018/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$55.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Fribourg & Treyer Cut Virginia Plug 50g tin – Year 2002",
+      "price": "$50.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/fribourg-treyer-cut-virginia-plug-50g-tin-year-2002/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$50.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Samuel Gawith Full Virginia Flake 50g tin – Year 2015",
+      "price": "$65.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/samuel-gawith-full-virginia-flake-50g-tin-year-2015-2/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$65.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Murray’s Erinmore Flake 50g tins – Year 2010",
+      "price": "$50.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/murrays-erinmore-flake-50g-tins-year-2010/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$50.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Solani Aged Burley Flake 50g tin – Year 2013",
+      "price": "$40.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/solani-aged-burley-flake-50g-tin-year-2013/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$40.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Hearth & Home Award Winning BlackHouse 50g tins – Year 2017",
+      "price": "$35.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/hearth-home-award-winning-blackhouse-50g-tins-year-2017/",
+      "source": "pipestud.com",
+      "first_seen": "2026-10-31T17:13:39.398675+00:00",
+      "last_updated": "2026-10-31T17:13:39.398675+00:00",
+      "price_history": [
+        {
+          "price": "$35.00",
+          "date": "2026-10-31T17:13:39.398675+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Wessex Red Virginia Flake 50g tin – Year 2015",
+      "price": "$45.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/wessex-red-virginia-flake-50g-tin-year-2015/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$45.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Dunhill De Luxe Navy Rolls 50g tins – Year 2017",
+      "price": "$60.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/dunhill-de-luxe-navy-rolls-50g-tins-year-2017/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$60.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Davidoff Royalty 50g tins – Years 2013 & 2014",
+      "price": "$40.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/davidoff-royalty-50g-tins-years-2013-2014/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-07T18:13:33.441945+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$50.00",
+          "date": "2026-11-07T18:13:33.441945+00:00"
+        },
+        {
+          "price": "$40.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Mac Baren Golden Extra Ready Rubbed 3-1/2oz tins – Year 2008",
+      "price": "$50.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/mac-baren-golden-extra-ready-rubbed-3-1-2oz-tins-year-2008/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-07T18:13:33.441945+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$60.00",
+          "date": "2026-11-07T18:13:33.441945+00:00"
+        },
+        {
+          "price": "$50.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Escudo Navy De Luxe 3-Pack of 50g tins – Year 2014",
+      "price": "$125.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/escudo-navy-de-luxe-3-pack-of-50g-tins-year-2014/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-14T18:13:30.731190+00:00",
+      "last_updated": "2026-11-14T18:13:30.731190+00:00",
+      "price_history": [
+        {
+          "price": "$125.00",
+          "date": "2026-11-14T18:13:30.731190+00:00"
         }
       ]
     },
     {
       "name": "A&C Petersen Caledonian Milange No. 421 in a 50g tin – Mid to Late 1990’s era",
       "price": "$125.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/ac-petersen-caledonian-milange-no-421-in-a-50g-tin-mid-to-late-1990s-era/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$125.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "A&C Petersen Caledonian Original Navy Cut No. 499 in a 50g tin – Early to Mid 1990’s era",
-      "price": "$125.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/ac-petersen-caledonian-original-navy-cut-no-499-in-a-50g-tin-early-to-mid-1990s-era/",
+      "url": "https://www.pipestud.com/product/tobacco-tins/ac-petersen-caledonian-milange-no-421-in-a-50g-tin-mid-to-late-1990s-era-2/",
       "source": "pipestud.com",
       "first_seen": "2026-11-07T18:13:33.441945+00:00",
       "last_updated": "2026-11-07T18:13:33.441945+00:00",
@@ -22208,7 +23035,7 @@
     {
       "name": "A&C Petersen Caledonian Milange No. 466 Grand Reserve 50g tin – Mid to Late 1990’s era",
       "price": "$125.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/ac-petersen-caledonian-milange-no-466-grand-reserve-50g-tin-mid-to-late-1990s-era/",
+      "url": "https://www.pipestud.com/product/tobacco-tins/ac-petersen-caledonian-milange-no-466-grand-reserve-50g-tin-mid-to-late-1990s-era-2/",
       "source": "pipestud.com",
       "first_seen": "2026-11-07T18:13:33.441945+00:00",
       "last_updated": "2026-11-07T18:13:33.441945+00:00",
@@ -22220,29 +23047,43 @@
       ]
     },
     {
-      "name": "Barneys Punchbowle 50g tin – 1970’s era – Made by John Sinclair in England",
-      "price": "$125.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/barneys-punchbowle-50g-tin-1970s-era-made-by-john-sinclair-in-england/",
+      "name": "Sutliff Villiger 1888 Late Night 50g tins – Year 2011",
+      "price": "$40.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/sutliff-villiger-1888-late-night-50g-tins-year-2011/",
       "source": "pipestud.com",
       "first_seen": "2026-11-07T18:13:33.441945+00:00",
       "last_updated": "2026-11-07T18:13:33.441945+00:00",
       "price_history": [
         {
-          "price": "$125.00",
+          "price": "$40.00",
           "date": "2026-11-07T18:13:33.441945+00:00"
         }
       ]
     },
     {
-      "name": "House of Craven Murray’s era Craven Mixture 50g tins – Year 1988",
-      "price": "$145.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/house-of-craven-murrays-era-craven-mixture-50g-tins-year-1988/",
+      "name": "Sutliff Villiger 1888 After Dinner Virginia/Perique 50g tins – Year 2011",
+      "price": "$40.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/sutliff-villiger-1888-after-dinner-virginia-perique-50g-tins-year-2011/",
       "source": "pipestud.com",
       "first_seen": "2026-11-07T18:13:33.441945+00:00",
       "last_updated": "2026-11-07T18:13:33.441945+00:00",
       "price_history": [
         {
-          "price": "$145.00",
+          "price": "$40.00",
+          "date": "2026-11-07T18:13:33.441945+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Samuel Gawith Skiff Mixture 8oz box – Year 2018",
+      "price": "$150.00",
+      "url": "https://www.pipestud.com/product/tobacco-tins/samuel-gawith-skiff-mixture-8oz-box-year-2018/",
+      "source": "pipestud.com",
+      "first_seen": "2026-11-07T18:13:33.441945+00:00",
+      "last_updated": "2026-11-07T18:13:33.441945+00:00",
+      "price_history": [
+        {
+          "price": "$150.00",
           "date": "2026-11-07T18:13:33.441945+00:00"
         }
       ]
@@ -22262,104 +23103,6 @@
         {
           "price": "$65.00",
           "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Rattray’s Original Scotland Made Jock’s Mixture 4oz tin – Made in the 1970’s",
-      "price": "$175.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/rattrays-original-scotland-made-jocks-mixture-4oz-tin-made-in-the-1970s/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$175.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Robert McConnell’s The Peddler’s Pipe 2oz tin – Made in the 1960’s to the Mid 1970’S",
-      "price": "$175.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/robert-mcconnells-the-peddlers-pipe-2oz-tin-made-in-the-1960s-to-the-mid-1970s/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$175.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Niemeyer’s Dutch Heerenbaai-Tobak 2oz tin – Made in the 1950’s to the Mid 1970’s",
-      "price": "$95.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/niemeyers-dutch-heerenbaai-tobak-2oz-tin-made-in-the-1950s-to-the-mid-1970s/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$95.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Harlech Castle Mixture W/ Syr. Latakia 4oz tin – Made in the 1950’s to 1968",
-      "price": "$150.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/harlech-castle-mixture-w-syr-latakia-4oz-tin-made-in-the-1950s-to-1968/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$150.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Pipestud’s Limited Edition Five Yachts 50g tins – Year 2026",
-      "price": "$25.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/pipestuds-limited-edition-five-yachts-50g-tins-year-2026/",
-      "source": "pipestud.com",
-      "first_seen": "2026-10-31T17:13:39.398675+00:00",
-      "last_updated": "2026-10-31T17:13:39.398675+00:00",
-      "price_history": [
-        {
-          "price": "$25.00",
-          "date": "2026-10-31T17:13:39.398675+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Original Drucquer & Sons Vintage Dog 4oz tin – Late 1980’s era",
-      "price": "$175.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/original-drucquer-sons-vintage-dog-4oz-tin-late-1980s-era/",
-      "source": "pipestud.com",
-      "first_seen": "2026-11-07T18:13:33.441945+00:00",
-      "last_updated": "2026-11-07T18:13:33.441945+00:00",
-      "price_history": [
-        {
-          "price": "$175.00",
-          "date": "2026-11-07T18:13:33.441945+00:00"
-        }
-      ]
-    },
-    {
-      "name": "McClelland’s Butera’s Royal Vintage Sweet Cavendish 50g tins – Year 2005",
-      "price": "$55.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-buteras-royal-vintage-sweet-cavendish-50g-tins-year-2005/",
-      "source": "pipestud.com",
-      "first_seen": "2026-10-31T17:13:39.398675+00:00",
-      "last_updated": "2026-10-31T17:13:39.398675+00:00",
-      "price_history": [
-        {
-          "price": "$55.00",
-          "date": "2026-10-31T17:13:39.398675+00:00"
         }
       ]
     },
@@ -22410,48 +23153,6 @@
       ]
     },
     {
-      "name": "G.L. Pease Maltese Falcon 2oz tins – Year 2018",
-      "price": "$35.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-maltese-falcon-2oz-tins-year-2018/",
-      "source": "pipestud.com",
-      "first_seen": "2026-10-31T17:13:39.398675+00:00",
-      "last_updated": "2026-10-31T17:13:39.398675+00:00",
-      "price_history": [
-        {
-          "price": "$35.00",
-          "date": "2026-10-31T17:13:39.398675+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Robert McConnell’s Original Scottish Blend 50g tins – 1980s era & Made by Robert McConnell’s in England",
-      "price": "$85.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/robert-mcconnells-original-scottish-blend-50g-tins-1980s-era-made-by-robert-mcconnells-in-england-2/",
-      "source": "pipestud.com",
-      "first_seen": "2026-10-17T17:13:45.373780+00:00",
-      "last_updated": "2026-10-17T17:13:45.373780+00:00",
-      "price_history": [
-        {
-          "price": "$85.00",
-          "date": "2026-10-17T17:13:45.373780+00:00"
-        }
-      ]
-    },
-    {
-      "name": "W.O. Larsen Special Blend 100g tin- 1960’s or 1970’s era",
-      "price": "$125.00",
-      "url": "https://www.pipestud.com/product/tobacco-tins/w-o-larsen-special-blend-100g-tin-1960s-or-1970s-era-2/",
-      "source": "pipestud.com",
-      "first_seen": "2026-10-17T17:13:45.373780+00:00",
-      "last_updated": "2026-10-17T17:13:45.373780+00:00",
-      "price_history": [
-        {
-          "price": "$125.00",
-          "date": "2026-10-17T17:13:45.373780+00:00"
-        }
-      ]
-    },
-    {
       "name": "Ashton Guilty Pleasure 50g tins – Year 2010",
       "price": "$35.00",
       "url": "https://www.pipestud.com/product/tobacco-tins/ashton-guilty-pleasure-50g-tins-year-2010/",
@@ -22462,20 +23163,6 @@
         {
           "price": "$35.00",
           "date": "2026-09-19T17:13:30.056012+00:00"
-        }
-      ]
-    },
-    {
-      "name": "La Hoja Selecta Cosiac Factory Sealed Box of 25 Cigars – Year 2000",
-      "price": "$185.00",
-      "url": "https://www.pipestud.com/product/cigars/la-hoja-selecta-cosiac-factory-sealed-box-of-25-cigars-year-2000/",
-      "source": "pipestud.com",
-      "first_seen": "2026-10-17T17:13:45.373780+00:00",
-      "last_updated": "2026-10-17T17:13:45.373780+00:00",
-      "price_history": [
-        {
-          "price": "$185.00",
-          "date": "2026-10-17T17:13:45.373780+00:00"
         }
       ]
     }
@@ -22634,6 +23321,13 @@
       "added": 53,
       "price_changed": 5,
       "total": 1483
+    },
+    {
+      "date": "2026-11-14T18:13:30.731190+00:00",
+      "found": 74,
+      "added": 49,
+      "price_changed": 6,
+      "total": 1532
     }
   ]
 }
