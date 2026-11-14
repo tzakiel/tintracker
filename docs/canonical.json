@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-13T20:16:26.647835+00:00",
+  "generated": "2026-11-14T05:06:40.209611+00:00",
   "stats": {
-    "total_listings": 10236,
-    "excluded_multipacks": 2632,
+    "total_listings": 10280,
+    "excluded_multipacks": 2635,
     "total_tins": 1315,
     "multi_member_tins": 672,
     "listings_in_groups": 3570,
@@ -85095,7 +85095,7 @@
             {
               "name": "Metropolitan Tabac No 509 Blend for Nat Sherman, Sealed 2 oz tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/218986/",
+              "url": "https://tinbids.com/auction/249028/",
               "price": "$22.00",
               "last_updated": "2026-08-22T16:00:22.648758+00:00",
               "first_seen": "2026-08-22T15:59:36+00:00",
@@ -86804,9 +86804,9 @@
             {
               "name": "McClelland, Syrian Full Balkan Reserve PCCA (2000). 50 gr sealed tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/239730/",
-              "price": "$103.00",
-              "last_updated": "2026-10-18T16:00:24.505832+00:00",
+              "url": "https://tinbids.com/auction/249035/",
+              "price": "$202.00",
+              "last_updated": "2026-11-14T05:00:28.537506+00:00",
               "first_seen": "2026-07-26T22:01:18+00:00",
               "year": "2000",
               "price_history": [
@@ -86817,6 +86817,10 @@
                 {
                   "price": "$103.00",
                   "date": "2026-10-18T16:00:24.505832+00:00"
+                },
+                {
+                  "price": "$202.00",
+                  "date": "2026-11-14T05:00:28.537506+00:00"
                 }
               ]
             }
@@ -119550,6 +119554,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "McClelland, Syrian Full Balkan Reserve PCCA (2000). 50 gr sealed tin": "pcca|fullbalkanreserve",
     "Sutliff 1849": "sutliff|1849",
     "Bengal Slices": "sutliff|bengalslices",
     "Birds of a Feather Anomalous": "sutliff|birdsofafeatheranomalous",
@@ -119586,7 +119591,6 @@
     "Esoterica Dorchester": "esoterica|dorchester",
     "Esoterica Margate - 1 Tin NR BIN $100": "esoterica|margate",
     "2017 Mac Baren HH Vintage Syrian - 1 Tin NR BIN $125": "macbaren|hhvintagesyrian",
-    "McClelland, Syrian Full Balkan Reserve PCCA (2000). 50 gr sealed tin": "pcca|fullbalkanreserve",
     "Balkan Sobranie": "jfgermain|balkansobranie",
     "Germain's Plum Cake Mixture - 50g": "jfgermain|plumcake",
     "CAO Flavours 4-Cherrybomb": "cao|cherrybomb",
