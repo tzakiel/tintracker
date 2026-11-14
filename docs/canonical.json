@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-14T17:06:33.776197+00:00",
+  "generated": "2026-11-14T18:14:15.959222+00:00",
   "stats": {
-    "total_listings": 10293,
-    "excluded_multipacks": 2636,
+    "total_listings": 10342,
+    "excluded_multipacks": 2639,
     "total_tins": 1315,
     "multi_member_tins": 672,
     "listings_in_groups": 3570,
@@ -45073,6 +45073,25 @@
           "quantity": "2oz",
           "members": [
             {
+              "name": "G.L Pease Limited Edition Stonehenge Flake 2oz tins – Year 2017",
+              "source": "pipestud.com",
+              "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-limited-edition-stonehenge-flake-2oz-tins-year-2017-2/",
+              "price": "$60.00",
+              "last_updated": "2026-11-14T18:13:30.731190+00:00",
+              "first_seen": "2026-08-01T17:13:47.061174+00:00",
+              "year": "2017",
+              "price_history": [
+                {
+                  "price": "$50.00",
+                  "date": "2026-08-01T17:13:47.061174+00:00"
+                },
+                {
+                  "price": "$60.00",
+                  "date": "2026-11-14T18:13:30.731190+00:00"
+                }
+              ]
+            },
+            {
               "name": "G.L Pease Limited Edition Stonehenge Flake 2oz tin – Year 2017",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-limited-edition-stonehenge-flake-2oz-tin-year-2017/",
@@ -45088,21 +45107,6 @@
                 {
                   "price": "$65.00",
                   "date": "2026-09-26T17:13:39.192166+00:00"
-                }
-              ]
-            },
-            {
-              "name": "G.L Pease Limited Edition Stonehenge Flake 2oz tins – Year 2017",
-              "source": "pipestud.com",
-              "url": "https://www.pipestud.com/product/tobacco-tins/g-l-pease-limited-edition-stonehenge-flake-2oz-tins-year-2017-2/",
-              "price": "$50.00",
-              "last_updated": "2026-08-01T17:13:47.061174+00:00",
-              "first_seen": "2026-08-01T17:13:47.061174+00:00",
-              "year": "2017",
-              "price_history": [
-                {
-                  "price": "$50.00",
-                  "date": "2026-08-01T17:13:47.061174+00:00"
                 }
               ]
             },
@@ -73350,14 +73354,18 @@
               "name": "McClelland’s Blakeney’s Best Tawny Flake 50g tin – Year 2006",
               "source": "pipestud.com",
               "url": "https://www.pipestud.com/product/tobacco-tins/mcclellands-blakeneys-best-tawny-flake-50g-tin-year-2006-2/",
-              "price": "$80.00",
-              "last_updated": "2026-07-11T17:13:37.793839+00:00",
+              "price": "$70.00",
+              "last_updated": "2026-11-14T18:13:30.731190+00:00",
               "first_seen": "2026-07-11T17:13:37.793839+00:00",
               "year": "2006",
               "price_history": [
                 {
                   "price": "$80.00",
                   "date": "2026-07-11T17:13:37.793839+00:00"
+                },
+                {
+                  "price": "$70.00",
+                  "date": "2026-11-14T18:13:30.731190+00:00"
                 }
               ]
             }
@@ -119079,6 +119087,8 @@
     }
   ],
   "name_to_id": {
+    "G.L Pease Limited Edition Stonehenge Flake 2oz tins – Year 2017": "glpease|stonehengeflake",
+    "McClelland’s Blakeney’s Best Tawny Flake 50g tin – Year 2006": "mcclelland|blakeneysbesttawnyflake",
     "G.L. Pease Classic Collection Stratford 2oz tin – First Year 2003 Production": "glpease|stratford",
     "Von Eicken’s Black & Gold English Blend 2oz tins – 1990’s era": "voneicken|blackgoldmixture",
     "McClelland’s 3 Oaks Syr. Latakia 50g tins – Year 2016": "mcclelland|3oakssyrian",
@@ -119298,7 +119308,6 @@
     "G.L. Pease NASPC Show Limited Invasion 2oz tins – Year 2016": "glpease|invasion",
     "G.L. Pease NASPC Show Limited Edition Childhood’s End 2oz tin – Year 2012": "glpease|childhoodsend",
     "G.L. Pease NASPC Show Limited Edition Area 51 Abduction Blend 2oz tin – Year 2010": "glpease|abduction",
-    "G.L Pease Limited Edition Stonehenge Flake 2oz tins – Year 2017": "glpease|stonehengeflake",
     "Gallaher’s Rich Dark Honeydew 50g tin – 1970’s era": "gallahers|richdarkhoneydew",
     "McClelland’s Christmas Cheer 100g tin – Year 2012": "mcclelland|christmascheer",
     "Wessex Golden Virginia Flake 50g tin – Year 2007": "wessex|goldenvirginiaflake",
@@ -119491,7 +119500,6 @@
     "Ashton Brindle Flake 50g tin – Year 2000 & Made by McClelland’s": "ashton|brindleflake",
     "Ashton Syr. Latakia Celebrated Sovereign 50g tin – Year 2004 & Made by McClelland’s": "ashton|celebratedsovereign",
     "McClelland’s Blakeney’s Best Acadian Ribbon 50g tin- Year 2006": "mcclelland|blakeneysbestacadianribbon",
-    "McClelland’s Blakeney’s Best Tawny Flake 50g tin – Year 2006": "mcclelland|blakeneysbesttawnyflake",
     "Savinelli Mr. G Black Cavendish 50g tins – 1980’s era and Made by Mac Baren": "savinelli|mrgblackcavendish",
     "Robert McConnell’s Original Oriental 50g tins – Year 1992": "robertmcconnell|oriental",
     "Samuel Gawith Black XX 50g tins – Year 2017": "samuelgawith|blackxx",
