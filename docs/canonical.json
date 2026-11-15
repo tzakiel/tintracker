@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-14T20:16:16.468481+00:00",
+  "generated": "2026-11-15T05:06:38.352464+00:00",
   "stats": {
-    "total_listings": 10342,
-    "excluded_multipacks": 2639,
+    "total_listings": 10388,
+    "excluded_multipacks": 2644,
     "total_tins": 1315,
     "multi_member_tins": 672,
     "listings_in_groups": 3570,
@@ -22420,9 +22420,9 @@
             {
               "name": "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/249000/",
-              "price": "$67.00",
-              "last_updated": "2026-11-09T05:00:23.942517+00:00",
+              "url": "https://tinbids.com/auction/251290/",
+              "price": "$51.00",
+              "last_updated": "2026-11-15T05:00:26.609719+00:00",
               "first_seen": "2026-06-22T13:53:20.063064+00:00",
               "year": "2018",
               "price_history": [
@@ -22461,6 +22461,10 @@
                 {
                   "price": "$67.00",
                   "date": "2026-11-09T05:00:23.942517+00:00"
+                },
+                {
+                  "price": "$51.00",
+                  "date": "2026-11-15T05:00:26.609719+00:00"
                 }
               ]
             },
@@ -116426,15 +116430,19 @@
             {
               "name": "Excellent Sealed 2024 Watch City Cigars Old Dominion 25th Anniversary Flake 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/215064/",
-              "price": "$20.49",
-              "last_updated": "2026-08-11T16:00:32.058211+00:00",
+              "url": "https://tinbids.com/auction/251274/",
+              "price": "$29.00",
+              "last_updated": "2026-11-15T05:00:26.609719+00:00",
               "first_seen": "2026-08-11T15:39:18+00:00",
               "year": "2024",
               "price_history": [
                 {
                   "price": "$20.49",
                   "date": "2026-08-11T15:39:18+00:00"
+                },
+                {
+                  "price": "$29.00",
+                  "date": "2026-11-15T05:00:26.609719+00:00"
                 }
               ]
             }
@@ -119690,12 +119698,13 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
+    "Excellent Sealed 2024 Watch City Cigars Old Dominion 25th Anniversary Flake 50g. Tin": "watchcity|olddominion",
     "McClelland Balkan Blue": "mcclelland|balkanblue",
     "McClelland, Syrian Full Balkan Reserve PCCA (2000). 50 gr sealed tin": "pcca|fullbalkanreserve",
     "Sutliff 1849": "sutliff|1849",
     "Bengal Slices": "sutliff|bengalslices",
     "Birds of a Feather Anomalous": "sutliff|birdsofafeatheranomalous",
-    "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
     "Very Nice Sealed 2012 Hearth & Home International Pipe Smoking Day 2012 50g. Tin": "hearthhome|internationalpipesmokingday",
     "Vintage HICKORY Pipe Tobacco (1998) John Middleton's - 12oz Sealed Can": "johnmiddleton|hickory",
     "McClelland Christmas Cheer": "mcclelland|christmascheer",
@@ -120180,7 +120189,6 @@
     "2016 Esoterica Penzance: 8oz Sealed Bag": "esoterica|penzance",
     "Hearth and Home Cerberus (Discontinued)": "hearthhome|cerberus",
     "Excellent Sealed 2022 Gawith Hoggarth Bob's Chocolate Flake 50g. Tin": "gawithhoggarthco|bobschocolateflake",
-    "Excellent Sealed 2024 Watch City Cigars Old Dominion 25th Anniversary Flake 50g. Tin": "watchcity|olddominion",
     "Very Nice Sealed Samuel Gawith Brown Sugar Flake 50g. Tin": "samuelgawith|brownsugarflake",
     "Dunhill Durbar Mixture 2017 NR": "dunhill|durbar",
     "Dunhill The “Royal Yacht” Mixture 2016 NR": "dunhill|royalyacht",
