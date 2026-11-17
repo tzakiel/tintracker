@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-16T20:16:19.759862+00:00",
+  "generated": "2026-11-17T05:06:22.538431+00:00",
   "stats": {
-    "total_listings": 10451,
-    "excluded_multipacks": 2650,
+    "total_listings": 10487,
+    "excluded_multipacks": 2661,
     "total_tins": 1315,
     "multi_member_tins": 672,
     "listings_in_groups": 3571,
@@ -29720,9 +29720,9 @@
             {
               "name": "Esoterica Dorchester 2oz Tin Released 2025",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/220667/",
-              "price": "$82.00",
-              "last_updated": "2026-08-27T16:00:23.200436+00:00",
+              "url": "https://tinbids.com/auction/251097/",
+              "price": "$92.00",
+              "last_updated": "2026-11-17T05:00:30.182475+00:00",
               "first_seen": "2026-06-29T13:17:53+00:00",
               "year": "2025",
               "price_history": [
@@ -29733,6 +29733,10 @@
                 {
                   "price": "$82.00",
                   "date": "2026-08-27T16:00:23.200436+00:00"
+                },
+                {
+                  "price": "$92.00",
+                  "date": "2026-11-17T05:00:30.182475+00:00"
                 }
               ]
             }
@@ -66335,7 +66339,7 @@
             {
               "name": "2012 Mac Baren Old Dark Fired 3.5oz - 1 Tin NR $120",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/251891/",
+              "url": "https://tinbids.com/auction/252242/",
               "price": "$120.00",
               "last_updated": "2026-08-02T16:01:24.133763+00:00",
               "first_seen": "2026-08-02T14:21:43+00:00",
@@ -119949,6 +119953,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Esoterica Dorchester 2oz Tin Released 2025": "esoterica|dorchester",
     "(2020) Rattray’s Old Gowrie 100g Tin": "rattrays|oldgowrie",
     "(2020) Cornell & Diehl Carolina Red Flake (Small Batch)": "cornelldiehl|smallbatchcarolinaredflake",
     "Esoterica Penzance": "esoterica|penzance",
@@ -120096,7 +120101,6 @@
     "MacBaren Virginia No. 1 2017 NR": "macbaren|virginiano1",
     "Gawith Best Brown Flake 2016 NR": "samuelgawith|bestbrownflake",
     "Gawith Westmorland Mixture Pre-2009 NR": "samuelgawith|westmorlandmixture",
-    "Esoterica Dorchester 2oz Tin Released 2025": "esoterica|dorchester",
     "Peterson’s Dunhill My Mixture 965 1.76 oz’s Pipe Tobacco Tin Made in England (United Kingdon)": "dunhill|mymixtureno965",
     "2016 Orlik Dark Strong Kentucky - 1 Tin NR BIN $70": "orlik|darkstrongkentucky",
     "HH Vintage Syrian": "macbaren|hhvintagesyrian",
