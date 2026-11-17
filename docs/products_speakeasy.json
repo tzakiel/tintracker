@@ -55597,7 +55597,7 @@
       "tag": "WTS"
     }
   ],
-  "last_scraped": "2026-11-16T07:38:22.347933+00:00",
+  "last_scraped": "2026-11-17T07:38:17.674051+00:00",
   "latest_scrape": [
     {
       "name": "Length",
@@ -56061,21 +56061,6 @@
         }
       ],
       "tag": "WTS"
-    },
-    {
-      "name": "This is handmade by Joe Hinkle.  It's a beautifully blasted long-shank Dublin with about the best stem/bit work you will find on a pipe.  Stunning blasted grain.  Includes the classic Joe Hinkle pipe bag",
-      "price": "$9",
-      "url": "https://speak-easy.club/threads/joe-hinkle-long-shank-blasted-dublin.45460/unread",
-      "source": "Speak-Easy.Club",
-      "first_seen": "2026-10-30T10:43:51-04:00",
-      "last_updated": "2026-11-16T07:38:22.347933+00:00",
-      "price_history": [
-        {
-          "price": "$9",
-          "date": "2026-10-30T10:43:51-04:00"
-        }
-      ],
-      "tag": "CLOSED"
     },
     {
       "name": "Free shipping for",
@@ -57399,6 +57384,13 @@
       "added": 1,
       "price_changed": 0,
       "total": 2873
+    },
+    {
+      "date": "2026-11-17T07:38:17.674051+00:00",
+      "found": 20,
+      "added": 0,
+      "price_changed": 0,
+      "total": 2873
     }
   ],
   "thread_recheck": {
@@ -57415,7 +57407,8 @@
     "https://speak-easy.club/threads/f-s-refreshed-dupont-lighter-includes-12-month-seal-guarantee-optional-tin-of-mcclelland-40th-anniversay-sidecar-available.45519/unread": "2026-11-27T07:38:13.462351+00:00",
     "https://speak-easy.club/threads/1999-mcclelland-27-for-your-mcclelland-darkstar-info-inside.45522/unread": "2026-11-30T07:38:22.347933+00:00",
     "https://speak-easy.club/threads/a-nice-lemony-2007-radice-twin-bore-oil-cured-retro-fish-bonker.45528/unread": "2026-11-30T07:38:22.347933+00:00",
-    "https://speak-easy.club/threads/joe-hinkle-long-shank-blasted-dublin.45460/unread": "2026-11-30T07:38:22.347933+00:00"
+    "https://speak-easy.club/threads/joe-hinkle-long-shank-blasted-dublin.45460/unread": "2026-11-30T07:38:22.347933+00:00",
+    "https://speak-easy.club/threads/altinay-pencil-bullet-shank-billiard.45455/unread": "2026-12-01T07:38:17.674051+00:00"
   },
   "thread_recheck_tags": {
     "https://speak-easy.club/threads/brigham-and-peterson.44723/unread": "WTS",
