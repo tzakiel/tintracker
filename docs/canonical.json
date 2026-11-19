@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-18T20:16:16.037242+00:00",
+  "generated": "2026-11-19T05:09:08.748947+00:00",
   "stats": {
-    "total_listings": 10510,
-    "excluded_multipacks": 2665,
+    "total_listings": 10536,
+    "excluded_multipacks": 2673,
     "total_tins": 1315,
     "multi_member_tins": 672,
     "listings_in_groups": 3571,
@@ -75320,9 +75320,9 @@
             {
               "name": "McClelland Christmas Cheer",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/249015/",
-              "price": "$201.00",
-              "last_updated": "2026-11-07T05:00:24.455605+00:00",
+              "url": "https://tinbids.com/auction/253113/",
+              "price": "$202.00",
+              "last_updated": "2026-11-19T05:00:29.539808+00:00",
               "first_seen": "2026-08-21T22:02:50+00:00",
               "year": "",
               "price_history": [
@@ -75333,6 +75333,10 @@
                 {
                   "price": "$201.00",
                   "date": "2026-11-07T05:00:24.455605+00:00"
+                },
+                {
+                  "price": "$202.00",
+                  "date": "2026-11-19T05:00:29.539808+00:00"
                 }
               ]
             },
@@ -120157,6 +120161,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "McClelland Christmas Cheer": "mcclelland|christmascheer",
     "Esoterica Dorchester 2oz Tin Released 2025": "esoterica|dorchester",
     "(2020) Rattray’s Old Gowrie 100g Tin": "rattrays|oldgowrie",
     "(2020) Cornell & Diehl Carolina Red Flake (Small Batch)": "cornelldiehl|smallbatchcarolinaredflake",
@@ -120174,7 +120179,6 @@
     "Birds of a Feather Anomalous": "sutliff|birdsofafeatheranomalous",
     "Very Nice Sealed 2012 Hearth & Home International Pipe Smoking Day 2012 50g. Tin": "hearthhome|internationalpipesmokingday",
     "Vintage HICKORY Pipe Tobacco (1998) John Middleton's - 12oz Sealed Can": "johnmiddleton|hickory",
-    "McClelland Christmas Cheer": "mcclelland|christmascheer",
     "Esoterica Pembroke - 1 Tin NR BIN $100": "esoterica|pembroke",
     "Midnight Orchard": "cornelldiehl|midnightorchard",
     "Carolina Red Flake": "cornelldiehl|carolinaredflake",
