@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-19T16:14:16.162975+00:00",
+  "generated": "2026-11-19T17:07:18.266907+00:00",
   "stats": {
-    "total_listings": 10540,
+    "total_listings": 10541,
     "excluded_multipacks": 2673,
     "total_tins": 1315,
     "multi_member_tins": 672,
@@ -110267,6 +110267,25 @@
           "quantity": "",
           "members": [
             {
+              "name": "Sutliff-Eastfarthing (Discontinued) Similar to Frog Morton Cellar-No longer in production.",
+              "source": "Tinbids Auction (Sold)",
+              "url": "https://tinbids.com/auction/251934/",
+              "price": "$69.96",
+              "last_updated": "2026-11-19T17:00:42.099530+00:00",
+              "first_seen": "2026-06-30T17:43:45+00:00",
+              "year": "",
+              "price_history": [
+                {
+                  "price": "$69.91",
+                  "date": "2026-06-30T17:43:45+00:00"
+                },
+                {
+                  "price": "$69.96",
+                  "date": "2026-11-19T17:00:42.099530+00:00"
+                }
+              ]
+            },
+            {
               "name": "Sutliff - Eastfarthing",
               "source": "Tinbids Auction (Sold)",
               "url": "https://tinbids.com/auction/206306/",
@@ -110293,21 +110312,6 @@
                 {
                   "price": "$34.00",
                   "date": "2026-07-18T20:20:59+00:00"
-                }
-              ]
-            },
-            {
-              "name": "Sutliff-Eastfarthing (Discontinued) Similar to Frog Morton Cellar-No longer in production.",
-              "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/198285/",
-              "price": "$69.91",
-              "last_updated": "2026-07-01T04:00:37.972075+00:00",
-              "first_seen": "2026-06-30T17:43:45+00:00",
-              "year": "",
-              "price_history": [
-                {
-                  "price": "$69.91",
-                  "date": "2026-06-30T17:43:45+00:00"
                 }
               ]
             }
@@ -120237,6 +120241,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Sutliff-Eastfarthing (Discontinued) Similar to Frog Morton Cellar-No longer in production.": "sutliff|eastfarthing",
     "McClelland Christmas Cheer": "mcclelland|christmascheer",
     "Esoterica Dorchester 2oz Tin Released 2025": "esoterica|dorchester",
     "(2020) Rattray’s Old Gowrie 100g Tin": "rattrays|oldgowrie",
@@ -121872,7 +121877,6 @@
     "C&D Firebird Flake ( Latest Release ) (BIN 25)": "cornelldiehl|firebirdflake",
     "C&D: Steamworks (26) BIN 30": "cornelldiehl|steamworks",
     "*Vintage* Gallaher Limited Dublin. Condor Bar/Plug 25g": "condor|bar",
-    "Sutliff-Eastfarthing (Discontinued) Similar to Frog Morton Cellar-No longer in production.": "sutliff|eastfarthing",
     "McClelland Virginia No. 24 Ribbon 2007": "mcclelland|no24ribbon",
     "Escudo Navy De Luxe. A/C Peterson painted top Tin, Vintage 2000!": "stg|escudonavydeluxe",
     "2009 McCLELLAND DOMINICAN GLORY MADURO approx. 2.8 ounces": "mcclelland|dominicanglory",
