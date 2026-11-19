@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-19T05:09:08.748947+00:00",
+  "generated": "2026-11-19T07:39:00.355370+00:00",
   "stats": {
-    "total_listings": 10536,
+    "total_listings": 10539,
     "excluded_multipacks": 2673,
     "total_tins": 1315,
     "multi_member_tins": 672,
@@ -56549,14 +56549,18 @@
               "name": "Germain's King Charles",
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/sunday-cellar-clean-out-sale.45358/unread",
-              "price": "$40.00",
-              "last_updated": "2026-10-12T06:38:13.563555+00:00",
+              "price": "$35.00",
+              "last_updated": "2026-11-19T07:38:30.367136+00:00",
               "first_seen": "2026-10-11T22:31:05+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$40.00",
                   "date": "2026-10-11T22:31:05+00:00"
+                },
+                {
+                  "price": "$35.00",
+                  "date": "2026-11-19T07:38:30.367136+00:00"
                 }
               ]
             },
@@ -90515,8 +90519,8 @@
               "name": "Peterson University Flake",
               "source": "Speak-Easy.Club",
               "url": "https://speak-easy.club/threads/sunday-cellar-clean-out-sale.45358/unread",
-              "price": "$15.00",
-              "last_updated": "2026-10-12T06:38:13.563555+00:00",
+              "price": "$13.00",
+              "last_updated": "2026-11-19T07:38:30.367136+00:00",
               "first_seen": "2026-06-13T00:39:45+00:00",
               "year": "",
               "price_history": [
@@ -90527,6 +90531,10 @@
                 {
                   "price": "$15.00",
                   "date": "2026-10-12T06:38:13.563555+00:00"
+                },
+                {
+                  "price": "$13.00",
+                  "date": "2026-11-19T07:38:30.367136+00:00"
                 }
               ]
             },
@@ -122416,12 +122424,12 @@
     "Wessex: BURLEY SLICE 50g 2014 - C": "wessex|burleyslice",
     "Wessex: GOLD SLICE 1.5oz 2017 - C": "wessex|goldslice",
     "William Taylor Ashton:  OLD LONDON PEBBLE CUT 100g 1985- C": "ashton|oldlondonpebblecut",
+    "Peterson University Flake": "peterson|universityflake",
+    "Germain's King Charles": "jfgermain|kingcharlesmixture",
     "Christmas Cheer 2016": "mcclelland|christmascheer",
     "Wessex Campaign": "wessex|brigadecampaigndarkflake",
     "Mac Baren Golden Extra": "macbaren|goldenextra",
     "Mac Baren HH Latakia Flake": "macbaren|hhlatakiaflake",
-    "Peterson University Flake": "peterson|universityflake",
-    "Germain's King Charles": "jfgermain|kingcharlesmixture",
     "Dark Plug 500g": "gawithhoggarthco|darkplug",
     "Bosun Cut Plug – 5 oz.": "gawithhoggarthco|bosuncutplug",
     "Galloping Gertie": "sutliff|spcgallopinggertie",
