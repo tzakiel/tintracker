@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-21T16:14:15.971840+00:00",
+  "generated": "2026-11-21T17:08:12.667593+00:00",
   "stats": {
-    "total_listings": 10598,
-    "excluded_multipacks": 2684,
+    "total_listings": 10627,
+    "excluded_multipacks": 2693,
     "total_tins": 1315,
     "multi_member_tins": 672,
     "listings_in_groups": 3571,
@@ -87619,9 +87619,9 @@
             {
               "name": "McClelland, Syrian Full Balkan Reserve PCCA (2000). 50 gr sealed tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/249035/",
-              "price": "$202.00",
-              "last_updated": "2026-11-14T05:00:28.537506+00:00",
+              "url": "https://tinbids.com/auction/252552/",
+              "price": "$125.00",
+              "last_updated": "2026-11-21T17:00:30.568748+00:00",
               "first_seen": "2026-07-26T22:01:18+00:00",
               "year": "2000",
               "price_history": [
@@ -87636,6 +87636,10 @@
                 {
                   "price": "$202.00",
                   "date": "2026-11-14T05:00:28.537506+00:00"
+                },
+                {
+                  "price": "$125.00",
+                  "date": "2026-11-21T17:00:30.568748+00:00"
                 }
               ]
             }
@@ -120397,6 +120401,7 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "McClelland, Syrian Full Balkan Reserve PCCA (2000). 50 gr sealed tin": "pcca|fullbalkanreserve",
     "Esoterica Penzance": "esoterica|penzance",
     "Sutliff-Eastfarthing (Discontinued) Similar to Frog Morton Cellar-No longer in production.": "sutliff|eastfarthing",
     "McClelland Christmas Cheer": "mcclelland|christmascheer",
@@ -120410,7 +120415,6 @@
     "Very Nice Sealed 2018 Dunhill De Luxe Navy Rolls 50g. Tin": "dunhill|deluxenavyrolls",
     "Excellent Sealed 2024 Watch City Cigars Old Dominion 25th Anniversary Flake 50g. Tin": "watchcity|olddominion",
     "McClelland Balkan Blue": "mcclelland|balkanblue",
-    "McClelland, Syrian Full Balkan Reserve PCCA (2000). 50 gr sealed tin": "pcca|fullbalkanreserve",
     "Sutliff 1849": "sutliff|1849",
     "Bengal Slices": "sutliff|bengalslices",
     "Birds of a Feather Anomalous": "sutliff|birdsofafeatheranomalous",
