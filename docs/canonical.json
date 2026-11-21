@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-20T20:16:16.565408+00:00",
+  "generated": "2026-11-21T05:07:38.116051+00:00",
   "stats": {
-    "total_listings": 10562,
-    "excluded_multipacks": 2681,
+    "total_listings": 10592,
+    "excluded_multipacks": 2684,
     "total_tins": 1315,
     "multi_member_tins": 672,
     "listings_in_groups": 3571,
@@ -34731,9 +34731,9 @@
             {
               "name": "Esoterica Penzance",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/250787/",
-              "price": "$308.00",
-              "last_updated": "2026-11-16T05:00:40.860583+00:00",
+              "url": "https://tinbids.com/auction/252258/",
+              "price": "$1263.00",
+              "last_updated": "2026-11-21T05:00:25.396620+00:00",
               "first_seen": "2026-07-21T20:02:34+00:00",
               "year": "",
               "price_history": [
@@ -34748,6 +34748,10 @@
                 {
                   "price": "$308.00",
                   "date": "2026-11-16T05:00:40.860583+00:00"
+                },
+                {
+                  "price": "$1263.00",
+                  "date": "2026-11-21T05:00:25.396620+00:00"
                 }
               ]
             },
@@ -120337,12 +120341,12 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Esoterica Penzance": "esoterica|penzance",
     "Sutliff-Eastfarthing (Discontinued) Similar to Frog Morton Cellar-No longer in production.": "sutliff|eastfarthing",
     "McClelland Christmas Cheer": "mcclelland|christmascheer",
     "Esoterica Dorchester 2oz Tin Released 2025": "esoterica|dorchester",
     "(2020) Rattray’s Old Gowrie 100g Tin": "rattrays|oldgowrie",
     "(2020) Cornell & Diehl Carolina Red Flake (Small Batch)": "cornelldiehl|smallbatchcarolinaredflake",
-    "Esoterica Penzance": "esoterica|penzance",
     "'23 Esoterica Pembroke": "esoterica|pembroke",
     "Germain's Original Latakia Mixture": "jfgermain|originallatakiamixture",
     "(2020) Robert McConnell Scottish Flake": "robertmcconnell|scottishflake",
