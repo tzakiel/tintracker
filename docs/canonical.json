@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-21T20:16:17.639919+00:00",
+  "generated": "2026-11-22T05:06:46.492665+00:00",
   "stats": {
-    "total_listings": 10630,
-    "excluded_multipacks": 2696,
+    "total_listings": 10682,
+    "excluded_multipacks": 2701,
     "total_tins": 1315,
     "multi_member_tins": 672,
     "listings_in_groups": 3571,
@@ -51466,9 +51466,9 @@
             {
               "name": "Very Nice Sealed 2021 Hearth & Home Black House 10 Year Anniversary 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/238756/",
-              "price": "$36.00",
-              "last_updated": "2026-10-11T04:00:26.157125+00:00",
+              "url": "https://tinbids.com/auction/253508/",
+              "price": "$37.49",
+              "last_updated": "2026-11-22T05:00:24.171383+00:00",
               "first_seen": "2026-08-17T21:29:13+00:00",
               "year": "2021",
               "price_history": [
@@ -51487,6 +51487,10 @@
                 {
                   "price": "$36.00",
                   "date": "2026-10-11T04:00:26.157125+00:00"
+                },
+                {
+                  "price": "$37.49",
+                  "date": "2026-11-22T05:00:24.171383+00:00"
                 }
               ]
             },
@@ -52216,15 +52220,19 @@
             {
               "name": "Very Nice Sealed 2011 Hearth & Home Magnum Opus Marquee Series 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/209817/",
-              "price": "$41.00",
-              "last_updated": "2026-07-29T04:00:29.707112+00:00",
+              "url": "https://tinbids.com/auction/253495/",
+              "price": "$51.99",
+              "last_updated": "2026-11-22T05:00:24.171383+00:00",
               "first_seen": "2026-07-28T23:46:02+00:00",
               "year": "2011",
               "price_history": [
                 {
                   "price": "$41.00",
                   "date": "2026-07-28T23:46:02+00:00"
+                },
+                {
+                  "price": "$51.99",
+                  "date": "2026-11-22T05:00:24.171383+00:00"
                 }
               ]
             }
@@ -120417,6 +120425,8 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Very Nice Sealed 2021 Hearth & Home Black House 10 Year Anniversary 50g. Tin": "hearthhome|blackhouse10thanniversary",
+    "Very Nice Sealed 2011 Hearth & Home Magnum Opus Marquee Series 50g. Tin": "hearthhome|magnumopus",
     "McClelland, Syrian Full Balkan Reserve PCCA (2000). 50 gr sealed tin": "pcca|fullbalkanreserve",
     "Esoterica Penzance": "esoterica|penzance",
     "Sutliff-Eastfarthing (Discontinued) Similar to Frog Morton Cellar-No longer in production.": "sutliff|eastfarthing",
@@ -120477,7 +120487,6 @@
     "Excellent Sealed Sutliff Cringle Flake Holiday Edition 2022 Tobacco Tin": "sutliff|cringleflake",
     "Dunhill Ye Olde Signe": "dunhill|yeoldesigne",
     "Excellent Sealed 2020 Reiner Golden Flake Gold Blend 71 100g. Tin": "reiner|longgoldenflake",
-    "Very Nice Sealed 2021 Hearth & Home Black House 10 Year Anniversary 50g. Tin": "hearthhome|blackhouse10thanniversary",
     "Excellent Sealed 2019 Wellauer & Co. Latakia 100g. Tin": "wellauerco|latakiamixture",
     "Dunhill Standard Mixture": "dunhill|standardmixture",
     "MIXTURE No. 79 CHERRY BOURBON FLAVOR Smoking Tobacco (1970s?) 1.5 OZ. Sealed Box": "sutliff|mixtureno79",
@@ -121290,7 +121299,6 @@
     "Esoterica Tobacciana Margate 8 oz": "esoterica|margate",
     "Excellent Sealed 2020 Ashton Artisan's Blend 50g. Tin": "ashton|artisansblend",
     "Excellent Sealed 2021 G. L. Pease Windjammer 2oz. Tin": "glpease|windjammer",
-    "Very Nice Sealed 2011 Hearth & Home Magnum Opus Marquee Series 50g. Tin": "hearthhome|magnumopus",
     "Excellent Sealed 2021 G.L. Pease Abingdon 2oz. Tin": "glpease|abingdon",
     "Very Nice Ravenwood Cross of Coronado 50g. Tin": "ravenwood|crossofcoronado",
     "Excellent Sealed 2020 Mac Baren's Stockton Spun Cut Limited Edition No. 1475 100g. Tin": "macbaren|stocktonspuncut",
