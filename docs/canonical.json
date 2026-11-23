@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-22T20:16:23.652818+00:00",
+  "generated": "2026-11-23T05:06:44.663686+00:00",
   "stats": {
-    "total_listings": 10697,
-    "excluded_multipacks": 2702,
+    "total_listings": 10782,
+    "excluded_multipacks": 2715,
     "total_tins": 1315,
     "multi_member_tins": 672,
     "listings_in_groups": 3571,
@@ -22075,15 +22075,19 @@
             {
               "name": "DUNHILL   THE APERITIF",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/211558/",
-              "price": "$50.00",
-              "last_updated": "2026-08-03T04:00:33.191532+00:00",
+              "url": "https://tinbids.com/auction/253778/",
+              "price": "$78.00",
+              "last_updated": "2026-11-23T05:00:24.189300+00:00",
               "first_seen": "2026-08-02T18:43:09+00:00",
               "year": "",
               "price_history": [
                 {
                   "price": "$50.00",
                   "date": "2026-08-02T18:43:09+00:00"
+                },
+                {
+                  "price": "$78.00",
+                  "date": "2026-11-23T05:00:24.189300+00:00"
                 }
               ]
             },
@@ -25169,9 +25173,9 @@
             {
               "name": "Excellent Sealed 2018 Dunhill Nightcap 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/246929/",
-              "price": "$79.00",
-              "last_updated": "2026-11-03T05:00:37.350494+00:00",
+              "url": "https://tinbids.com/auction/253691/",
+              "price": "$52.00",
+              "last_updated": "2026-11-23T05:00:24.189300+00:00",
               "first_seen": "2026-06-21T05:37:17.147469+00:00",
               "year": "2018",
               "price_history": [
@@ -25194,6 +25198,10 @@
                 {
                   "price": "$79.00",
                   "date": "2026-11-03T05:00:37.350494+00:00"
+                },
+                {
+                  "price": "$52.00",
+                  "date": "2026-11-23T05:00:24.189300+00:00"
                 }
               ]
             },
@@ -104199,9 +104207,9 @@
             {
               "name": "Very Nice Sealed 2019 Schurch Onyx 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/219867/",
-              "price": "$19.99",
-              "last_updated": "2026-08-23T04:00:21.633690+00:00",
+              "url": "https://tinbids.com/auction/253694/",
+              "price": "$20.99",
+              "last_updated": "2026-11-23T05:00:24.189300+00:00",
               "first_seen": "2026-08-03T22:38:34+00:00",
               "year": "2019",
               "price_history": [
@@ -104212,6 +104220,10 @@
                 {
                   "price": "$19.99",
                   "date": "2026-08-23T04:00:21.633690+00:00"
+                },
+                {
+                  "price": "$20.99",
+                  "date": "2026-11-23T05:00:24.189300+00:00"
                 }
               ]
             },
@@ -117799,9 +117811,9 @@
             {
               "name": "Excellent Sealed 2019 Wellauer & Co. Latakia Mixture 50g. Tin",
               "source": "Tinbids Auction (Sold)",
-              "url": "https://tinbids.com/auction/246890/",
-              "price": "$20.49",
-              "last_updated": "2026-11-03T05:00:37.350494+00:00",
+              "url": "https://tinbids.com/auction/253704/",
+              "price": "$26.00",
+              "last_updated": "2026-11-23T05:00:24.189300+00:00",
               "first_seen": "2026-07-11T22:08:54+00:00",
               "year": "2019",
               "price_history": [
@@ -117832,6 +117844,10 @@
                 {
                   "price": "$20.49",
                   "date": "2026-11-03T05:00:37.350494+00:00"
+                },
+                {
+                  "price": "$26.00",
+                  "date": "2026-11-23T05:00:24.189300+00:00"
                 }
               ]
             }
@@ -120441,6 +120457,10 @@
     "Wessex Dark Flake 50g tins – Year 2012": "wessex|brigadecampaigndarkflake",
     "Lane Limited’s Original Crown Achievement 2oz tins – 1980’s era": "lanelimited|crownachievement",
     "Robert Lewis Tree Mixture 50g tins – Year 2005": "robertlewis|treemixture",
+    "Excellent Sealed 2019 Wellauer & Co. Latakia Mixture 50g. Tin": "wellauerco|latakiamixture",
+    "Excellent Sealed 2018 Dunhill Nightcap 50g. Tin": "dunhill|nightcap",
+    "Very Nice Sealed 2019 Schurch Onyx 50g. Tin": "schrch|onyx128",
+    "DUNHILL   THE APERITIF": "dunhill|aperitif",
     "Very Nice Sealed 2021 Hearth & Home Black House 10 Year Anniversary 50g. Tin": "hearthhome|blackhouse10thanniversary",
     "Very Nice Sealed 2011 Hearth & Home Magnum Opus Marquee Series 50g. Tin": "hearthhome|magnumopus",
     "McClelland, Syrian Full Balkan Reserve PCCA (2000). 50 gr sealed tin": "pcca|fullbalkanreserve",
@@ -120466,8 +120486,6 @@
     "Midnight Orchard": "cornelldiehl|midnightorchard",
     "Carolina Red Flake": "cornelldiehl|carolinaredflake",
     "Excellent Sealed 2005 RARE Balkan Sobranie Original Smoking Mixture 50g. Pack": "jfgermain|balkansobranie",
-    "Excellent Sealed 2019 Wellauer & Co. Latakia Mixture 50g. Tin": "wellauerco|latakiamixture",
-    "Excellent Sealed 2018 Dunhill Nightcap 50g. Tin": "dunhill|nightcap",
     "McCLELLAND BALKAN BLUE": "mcclelland|balkanblue",
     "Sun Bear": "cornelldiehl|sunbear",
     "Escudo Navy De Luxe 50g Tin (2011)": "stg|escudonavydeluxe",
@@ -120611,7 +120629,6 @@
     "(2020) Rattray’s Marlin Flake 100g Tin": "rattrays|marlinflake",
     "ORLIK GOLDEN SLICED from 2011 - AGED FOR 15 YEARS": "orlik|goldensliced",
     "Maestro Puccini - Limited Edition - Kentucky Fire Cured": "toscano|maestropuccini",
-    "Very Nice Sealed 2019 Schurch Onyx 50g. Tin": "schrch|onyx128",
     "Very Nice Sealed 2016 Orlik Racing Green 50g. Tin": "orlik|racinggreen",
     "VINTAGE and RARE sealed Lambert & Butler's Waverley Mixture 2oz - NR": "lambertbutler|waverleymixture",
     "VINTAGE and RARE sealed 14oz can of Half and Half": "halfandhalf|halfandhalf",
@@ -121160,7 +121177,6 @@
     "Mac Baren's Latakia Rolls Limited Edition - 2020": "macbaren|latakiarolls",
     "Mac Baren Plum Cake Navy Blend - 2020": "macbaren|plumcake",
     "Bat With a Hat 2024": "fk|batwithahat",
-    "DUNHILL   THE APERITIF": "dunhill|aperitif",
     "Samuel Gawith Lakeland Dark Flake From 2016": "samuelgawith|lakelanddark",
     "50g Samuel Gawith Bothy Flake Frrom 2016": "samuelgawith|bothyflake",
     "50g Cornell & Diehl Red Carpet From 2016": "cornelldiehl|redcarpet",
